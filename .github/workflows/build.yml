@@ -1,0 +1,60 @@
+name: Build Documents
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'docs/**'
+      - 'scripts/**'
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install system deps
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc python3-pip
+          pip install weasyprint pypdf
+
+      - name: Build FULL.docx from FULL.md
+        run: pandoc docs/FULL.md -o docs/FULL.docx
+
+      - name: Build FULL.pdf
+        run: |
+          pandoc docs/FULL.md -o docs/FULL.html --standalone --metadata title="SalesEngine V26.1 FULL"
+          python3 -c "
+          from weasyprint import HTML, CSS
+          css = CSS(string='@page{size:A4;margin:18mm}body{font-family:sans-serif;font-size:10.5pt;line-height:1.45}h1{color:#0a2540;border-bottom:3px solid #0a2540;padding-bottom:4px;page-break-before:always}h1:first-child{page-break-before:avoid}h2{color:#1a4a7c}table{border-collapse:collapse}th,td{border:1px solid #ccc;padding:4px 8px;font-size:9.5pt}th{background:#f0f5fa}')
+          HTML('docs/FULL.html').write_pdf('docs/FULL.pdf', stylesheets=[css])
+          "
+
+      - name: Build Operator Cheat Sheet PDF
+        run: |
+          python3 -c "
+          from weasyprint import HTML
+          HTML('docs/02_OPERATOR_CHEAT_SHEET.html').write_pdf('docs/02_OPERATOR_CHEAT_SHEET.pdf')
+          "
+
+      - name: Verify 1-page cheat sheet
+        run: |
+          python3 -c "
+          from pypdf import PdfReader
+          n = len(PdfReader('docs/02_OPERATOR_CHEAT_SHEET.pdf').pages)
+          assert n == 1, f'Cheat sheet must be 1 page, got {n}'
+          print('Cheat sheet: 1 page OK')
+          "
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: salesengine-v26.1-docs
+          path: |
+            docs/FULL.pdf
+            docs/FULL.docx
+            docs/02_OPERATOR_CHEAT_SHEET.pdf

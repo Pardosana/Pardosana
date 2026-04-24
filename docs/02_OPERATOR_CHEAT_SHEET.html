@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="lv">
+<head>
+<meta charset="UTF-8">
+<title>SalesEngine V26.1 · Operator Cheat Sheet</title>
+<style>
+@page { size: A4 portrait; margin: 8mm; }
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html, body { font-family: "Helvetica Neue", Arial, sans-serif; font-size: 7.3pt; line-height: 1.22; color: #0a0a0a; }
+body { padding: 0; }
+.page { width: 100%; }
+h1 { font-size: 11pt; font-weight: 900; letter-spacing: 0.5px; margin-bottom: 1mm; border-bottom: 1.5pt solid #000; padding-bottom: 0.6mm; }
+h1 small { font-weight: 400; font-size: 6.5pt; color: #666; float: right; letter-spacing: 0; }
+h2 { font-size: 7.3pt; font-weight: 900; background: #111; color: #fff; padding: 0.6mm 1.5mm; margin-bottom: 0.8mm; letter-spacing: 0.4px; text-transform: uppercase; }
+h3 { font-size: 6.8pt; font-weight: 700; text-transform: uppercase; letter-spacing: 0.3px; color: #222; margin: 1mm 0 0.3mm; }
+.grid { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 2mm; margin-bottom: 1mm; }
+.grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 2mm; margin-bottom: 1mm; }
+.block { border: 0.5pt solid #bbb; padding: 1.5mm 2mm; background: #fafafa; page-break-inside: avoid; }
+.block.dark { background: #111; color: #fff; }
+.block.dark h3 { color: #ffd700; }
+.block ul { list-style: none; }
+.block li { margin: 0.2mm 0; padding-left: 2mm; position: relative; }
+.block li::before { content: "▸"; position: absolute; left: 0; color: #888; }
+.dark li::before { color: #ffd700; }
+.inline { display: flex; flex-wrap: wrap; gap: 1mm 2mm; }
+.inline span { font-weight: 600; }
+.mnode { font-weight: 900; color: #c00; font-size: 6.8pt; }
+.dark .mnode { color: #ffd700; }
+.quote { font-style: italic; color: #444; }
+.dark .quote { color: #ddd; }
+table { width: 100%; border-collapse: collapse; font-size: 6.8pt; }
+th, td { border: 0.3pt solid #bbb; padding: 0.6mm 1mm; text-align: left; vertical-align: top; }
+th { background: #222; color: #fff; font-size: 6.6pt; font-weight: 700; text-transform: uppercase; letter-spacing: 0.3px; }
+.flow { text-align: center; font-weight: 700; font-size: 7pt; padding: 1.2mm 0; background: linear-gradient(90deg, #111, #555); color: #fff; margin-bottom: 1.2mm; letter-spacing: 0.5px; }
+.kill { background: #3a0000; color: #ffdede; }
+.kill h2 { background: #c00; }
+.foot { text-align: center; margin-top: 1.5mm; font-size: 6pt; color: #666; letter-spacing: 0.5px; border-top: 0.5pt solid #ccc; padding-top: 1mm; }
+.banner { display: flex; justify-content: space-between; align-items: center; margin-bottom: 1mm; font-size: 6pt; color: #666; }
+.tight li { line-height: 1.15; }
+.m-row { display: flex; gap: 1.5mm; font-size: 6.9pt; margin: 0.2mm 0; align-items: baseline; }
+.m-row .lbl { font-weight: 900; color: #c00; min-width: 9mm; }
+</style>
+</head>
+<body>
+<div class="page">
+
+<h1>SALESENGINE V26.1 · OPERATOR CHEAT SHEET <small>1-LAPAS DZĪVĀ ZVANA KARTE · PAIN &gt; DELAY = DECISION</small></h1>
+
+<div class="banner">
+<span><b>Client sells himself. You control logic.</b></span>
+<span>40/60 · Klients runā 60% · Tu kontrolē frame 40%</span>
+</div>
+
+<div class="flow">FRAME → REALITY → GAP → COI → INEVITABILITY → IDENTITY → SAFETY → PITCH → PRICE → SILENCE → COLLAPSE → CLOSE</div>
+
+<div class="grid">
+
+<div class="block">
+<h2>I. PIRMS ZVANA (V∞ CHECK)</h2>
+<ul class="tight">
+<li>Box breathing 4-4-4-4 × 3</li>
+<li>Enerģija ≥ 7/10 · Ja &lt;7 — NEZVANI</li>
+<li>Pārpilnība: <i>"Viņa nauda man nav vajadzīga."</i></li>
+<li>Identitāte (skaļi): <i>"Es esmu diagnostiķis. Es atveru telpu."</i></li>
+<li>MICE tips: Money / Ideology / Compromise / Ego</li>
+<li>3 iespējamie iebildumi iepriekš noteikti</li>
+</ul>
+</div>
+
+<div class="block dark">
+<h2>II. 4 META BLOKI · 40 MIN</h2>
+<ul class="tight">
+<li><b>META 1</b> Frame (D1–D3) · 2 min · OPER 70%</li>
+<li><b>META 2</b> Diagnosis + Gap (D4–D8) · 15 min · OPER 30%</li>
+<li><b>META 3</b> Model + Vision (D9–D12) · 10 min · OPER 40%</li>
+<li><b>META 4</b> Price + Close (D13–D14.5) · 8 min · OPER 50%</li>
+</ul>
+<h3 style="margin-top:1.5mm">5 VĀRTI PIRMS PITCH</h3>
+<ul class="tight">
+<li>1. Problēma reāla <i>(M6)</i></li>
+<li>2. Sekas apzinātas <i>(M9)</i></li>
+<li>3. COI aprēķināts KLIENTA paša <i>(M8)</i></li>
+<li>4. Prioritāte TAGAD <i>(M4+M12)</i></li>
+<li>5. Mini-jā + drošība <i>(D10)</i></li>
+</ul>
+</div>
+
+<div class="block">
+<h2>III. RADAR · 4 RĀDĪTĀJI 1–10</h2>
+<table>
+<tr><th>Rādītājs</th><th>&lt;5 → STOP</th></tr>
+<tr><td><b>Sāpes</b></td><td>→ M7 (Numbers)</td></tr>
+<tr><td><b>Nauda</b></td><td>→ M8 (COI)</td></tr>
+<tr><td><b>Uzticība</b></td><td>→ META 1 RESET</td></tr>
+<tr><td><b>Steidz.</b></td><td>→ M9 (Consequence)</td></tr>
+</table>
+<p style="margin-top:0.8mm"><b>Formula:</b> (P+M+T+U)/4 · ≥8 Close · 5–7 Build · &lt;5 Stay</p>
+</div>
+
+</div>
+
+<h2>IV. OPERATOR M-KARTE · 20 mezgli · 1-liners dzīvajam zvanam</h2>
+<div class="grid">
+<div class="block tight">
+<div class="m-row"><span class="lbl">M1 PATTERN</span> <span>"Kā tev ar klientiem?" / "Pietiek vai pietrūkst?" / "Atkārtojas?"</span></div>
+<div class="m-row"><span class="lbl">M2 TRIGGER</span> <span>"Kad tas sākas?" / "Kas pirms tam?" / "Tu zini, ko darīt?"</span></div>
+<div class="m-row"><span class="lbl">M3 REACTION</span> <span>"Ko tu dari?" / "Uz brīdi vai stabili?" / "Tad atkal tas pats?"</span></div>
+<div class="m-row"><span class="lbl">M4 COST</span> <span>"Cik ir?" / "Cik varētu būt?" / "Starpība?" / "Cik nepaņem?"</span></div>
+<div class="m-row"><span class="lbl">M5 INEV.</span> <span>"Ja neko nemaini — atkārtosies?" / "Kas mainīsies? Kāpēc?"</span></div>
+<div class="m-row"><span class="lbl">M6 BLOCK</span> <span>"Kas tevi bremzē?" / "Kas pietrūkst?"</span></div>
+<div class="m-row"><span class="lbl">M7 SHIFT</span> <span>"Vēl viens tāds cikls? Vai sakārtojam?"</span></div>
+</div>
+<div class="block tight">
+<div class="m-row"><span class="lbl">M8 TRANS.</span> <span>"Pareizi sapratu? Parādu, kā to salabot?"</span></div>
+<div class="m-row"><span class="lbl">M9 ALIGN</span> <span>"No 1 līdz 10?" / "Kas pietrūkst līdz 10?"</span></div>
+<div class="m-row"><span class="lbl">M10 CLOSE</span> <span>"Darām vai atliekam?"</span></div>
+<div class="m-row"><span class="lbl">M11 REINF.</span> <span>"Kas šeit bija pareizi? Kas palīdzēja izlemt?"</span></div>
+<div class="m-row"><span class="lbl">M12 ID</span> <span>"Ko tu sev pierādīji? Ko tas par tevi pasaka?"</span></div>
+<div class="m-row"><span class="lbl">M13 CTRL</span> <span>"Kas tagad tavā kontrolē? Kas kļūst skaidrs?"</span></div>
+<div class="m-row"><span class="lbl">M14 FUTURE</span> <span>"Ko gribi redzēt pirmo? Kas mainīsies?"</span></div>
+</div>
+<div class="block tight">
+<div class="m-row"><span class="lbl">M15 OWN</span> <span>"Ko tu pats darīsi? Kur tu pieslēgsies?"</span></div>
+<div class="m-row"><span class="lbl">M16 SPEED</span> <span>"Kad sākam? Tagad vai vēlāk?"</span></div>
+<div class="m-row"><span class="lbl">M17 DOUBT</span> <span>"Kas vēl sēž galvā? Kas nav skaidrs?"</span></div>
+<div class="m-row"><span class="lbl">M18 SAFE</span> <span>"Kas tev vajadzīgs, lai justos drošs? Kas pierādīs?"</span></div>
+<div class="m-row"><span class="lbl">M19 EXPAND</span> <span>"Kur pēc 3 mēn? Nākamais līmenis?"</span></div>
+<div class="m-row"><span class="lbl">M20 NEXT</span> <span>"Ko darām tagad? Ko sākam?"</span></div>
+<div class="m-row" style="background:#ffe;padding:0.5mm"><span class="lbl">C1 PRICE</span> <span>"2 opcijas: €2400/2 mēn vai €3000/3 mēn. Kurš ērtāks?" [KLUSUMS]</span></div>
+</div>
+</div>
+
+<div class="grid">
+
+<div class="block">
+<h2>V. 10 UNIVERSAL BREAKERS</h2>
+<ul class="tight">
+<li>1. <b>Universālais</b> <i>"Kas maksā šo neatrisināt? Cik ilgi gatavs maksāt?"</i></li>
+<li>2. <b>Double Reality</b> <i>"Sliktākais ja rīkojies vs ja nē? Kurš smagāks?"</i></li>
+<li>3. <b>Think Killer</b> <i>"Ko tieši gribi pārbaudīt?"</i></li>
+<li>4. <b>Price Collapse</b> <i>"Salīdzinot ar ko? Šis vai neatrisināt?"</i></li>
+<li>5. <b>Control Shift</b> <i>"Gribi atrisināt vai padomāt?"</i></li>
+<li>6. <b>Identity Break</b> <i>"Cilvēks, kas gaida vai rīkojas?"</i></li>
+<li>7. <b>Time Collapse</b> <i>"Kas mainīsies pēc mēneša?"</i></li>
+<li>8. <b>No Escape</b> <i>"Sākt vai pieņemt — nav prioritāte. Kurš patiesāks?"</i></li>
+<li>9. <b>Silence Weapon</b> KLUSUMS pēc katra Q</li>
+<li>10. <b>Meta Level</b> <i>"Tu neesi pārliecināts, nevis ka nepareizi. Kur bloks?"</i></li>
+</ul>
+</div>
+
+<div class="block">
+<h2>VI. 6-SOĻU IEBILDUMS</h2>
+<ul class="tight">
+<li>1. <b>CLARIFY</b> <i>"Pastāsti vairāk. Ko tieši ar to domā?"</i></li>
+<li>2. <b>ISOLATE</b> <i>"Vienīgais, kas aptur? Vai vēl kaut kas?"</i></li>
+<li>3. <b>ROOT</b> <i>"Ja atrisinām — ejam tālāk?"</i></li>
+<li>4. <b>REFRAME</b> [Sakne: Pain / Quantif. / Inev. / ID / Safety]</li>
+<li>5. <b>CONFIRM</b> <i>"Tagad skaidrāk?"</i> ← kritiskais</li>
+<li>6. <b>CLOSE</b> <i>"Lieliski. Sūtam rēķinu?"</i></li>
+</ul>
+<h3>CARE (ja emocionāls klients)</h3>
+<p><b>C</b>larify · <b>A</b>cknowledge · <b>R</b>eframe · <b>E</b>xplore</p>
+</div>
+
+<div class="block dark">
+<h2>VII. CENAS PROTOKOLS 7 SOĻI</h2>
+<ul class="tight">
+<li>1. <b>ENKURS</b> "Mūsu klienti maksā €8–12k gadā. Ieejas pakete…"</li>
+<li>2. <b>IZVĒLE</b> "€2400/2 mēn vai €3000/3 mēn. Kurš ērtāks?"</li>
+<li>3. <b>KLUSUMS</b> 5–10 sek · Pirmais runā = zaudē</li>
+<li>4. <b>JUSTIF. Q</b> "Kā tas izklausās?"</li>
+<li>5. <b>PRICE COLLAPSE</b> "Salīdzinot ar €[COI]/gadā?"</li>
+<li>6. <b>ASSUMPTIVE</b> "Karti vai pārskaitījumu?"</li>
+<li>7. <b>INVOICE</b> "Rekvizīti uz šo e-pastu. Sūtu tagad."</li>
+</ul>
+</div>
+
+</div>
+
+<div class="grid-2">
+
+<div class="block">
+<h2>VIII. CLOSING MATRICA</h2>
+<table>
+<tr><th>Klients saka</th><th>Tu dari</th></tr>
+<tr><td>"Jā, darām!"</td><td><b>C12</b> Sūti rēķinu</td></tr>
+<tr><td>"Jā, bet ne tagad"</td><td><b>C10</b> Time Collapse · "Katru dienu €[X/30]"</td></tr>
+<tr><td>"Jāpadomā"</td><td><b>C4–C5</b> Think Killer + Collision</td></tr>
+<tr><td>"Par dārgu"</td><td><b>C2</b> Price Collapse</td></tr>
+<tr><td>"Jārunā ar sievu"</td><td>Sievas kits + datums</td></tr>
+<tr><td>"Nē"</td><td><b>C9 FE</b> + nākamais datums</td></tr>
+<tr><td>KLUSUMS</td><td><b>C3</b> Silence Weapon · GAIDI</td></tr>
+</table>
+</div>
+
+<div class="block kill">
+<h2>IX. KILL LIST — AIZLIEGTAS FRĀZES</h2>
+<ul class="tight">
+<li>❌ "Mūsu produkts piedāvā…"</li>
+<li>❌ "Mēs esam labākie tirgū…"</li>
+<li>❌ "Vai jums ir jautājumi?"</li>
+<li>❌ "Mēs varētu jums palīdzēt…"</li>
+<li>❌ "Tas ir laba cena…"</li>
+<li>❌ "Es saprotu jūsu bažas…"</li>
+<li>❌ "Vai aktīvi meklē vai izvērtē?"</li>
+<li>❌ "Vai tev ir budžets?"</li>
+<li>❌ Runāšana &gt; 20 sek bez Q</li>
+<li>❌ Paskaidrojums pēc cenas</li>
+<li>❌ Zvana beigas bez datuma</li>
+<li>❌ COI aprēķins TU, klients klusē</li>
+</ul>
+</div>
+
+</div>
+
+<div class="grid">
+
+<div class="block">
+<h2>X. D9.5 BAILĪGAIS</h2>
+<ul class="tight">
+<li><b>a)</b> "Ja šodien jā — 1. doma?" [KLUSUMS]</li>
+<li><b>b)</b> "Cik bīstami atstāt kā ir? 1–10"</li>
+<li><b>c)</b> "Pirms 6 mēn sakārtots — kur būtu šodien?"</li>
+<li><b>d)</b> "Niks tevi mentorēs nedēļu. Pirmais solis. Šonedēļ?"</li>
+</ul>
+</div>
+
+<div class="block">
+<h2>XI. 12 OPERATORA LIKUMI</h2>
+<ol class="tight" style="padding-left:3mm">
+<li>Ja klients netei — viņš tam netic</li>
+<li>Ja TU runā vairāk — TU zaudē</li>
+<li>Nav cipara — nav dīla</li>
+<li>Klusums = spēks</li>
+<li>Nekad neaizstāvi cenu — parādi matemātiku</li>
+<li>Iebildums = simptoms</li>
+<li>Lock pirms move</li>
+<li>Pain &gt; Delay = Decision</li>
+<li>Collision, nevis spiešana</li>
+<li>Vienmēr noslēdz ar laiku</li>
+<li>Pure Domino — katrs mezgls pieprasīts</li>
+<li>System 1 valoda — brutalitāte + patiesība</li>
+</ol>
+</div>
+
+<div class="block dark">
+<h2>XII. PĒC ZVANA (30 MIN)</h2>
+<ul class="tight">
+<li>✓ Rēķins nosūtīts</li>
+<li>✓ WhatsApp bridge uzsākts</li>
+<li>✓ Onboarding datums fiksēts</li>
+<li>✓ €X cipars pierakstīts</li>
+<li>✓ ID tips (Fixer/Waiter) pierakstīts</li>
+<li>✓ MICE dzinējs pierakstīts</li>
+<li>✓ 14 pašaudita punkti pārbaudīti</li>
+<li style="color:#ffd700"><b>Nav dīla? MĪTIŅŠ — vienmēr noslēdz ar laiku</b></li>
+</ul>
+</div>
+
+</div>
+
+<div class="foot">
+SALESENGINE V26.1 · KONFIDENCIĀLS · 89 dzīvu zvanu analīze · 2900+ klienti · €3.9M+ ģenerēti
+</div>
+
+</div>
+</body>
+</html>

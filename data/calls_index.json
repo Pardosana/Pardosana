@@ -1,0 +1,714 @@
+[
+  {
+    "idx": 1,
+    "title": "Kristaps - ?? Sharpify.io | Klientu Piesaistes Tikšanās - March 27",
+    "duration": 49,
+    "total_words": 6088,
+    "operator_pct": 78.1,
+    "client_pct": 21.9
+  },
+  {
+    "idx": 2,
+    "title": "SS 2 Aras - ?? Sharpify.io | Klientu Piesaistes Tikšanās - March 27",
+    "duration": 59,
+    "total_words": 6882,
+    "operator_pct": 36.3,
+    "client_pct": 63.7
+  },
+  {
+    "idx": 3,
+    "title": "Impromptu Google Meet Meeting - March 27",
+    "duration": 92,
+    "total_words": 11886,
+    "operator_pct": 39.8,
+    "client_pct": 60.2
+  },
+  {
+    "idx": 4,
+    "title": "SS 2 konstantīns - ?? Sharpify.io | Klientu Piesaistes Tikšanās - March 26",
+    "duration": 55,
+    "total_words": 6557,
+    "operator_pct": 72.0,
+    "client_pct": 28.0
+  },
+  {
+    "idx": 5,
+    "title": "Aleksandrs - ?? Sharpify.io | Klientu Piesaistes Tikšanās - March 25",
+    "duration": 45,
+    "total_words": 5780,
+    "operator_pct": 72.4,
+    "client_pct": 27.6
+  },
+  {
+    "idx": 6,
+    "title": "Impromptu Google Meet Meeting - March 25",
+    "duration": 18,
+    "total_words": 2071,
+    "operator_pct": 60.5,
+    "client_pct": 39.5
+  },
+  {
+    "idx": 7,
+    "title": "Krišs - ?? Sharpify.io | Klientu Piesaistes Tikšanās - March 24",
+    "duration": 90,
+    "total_words": 10681,
+    "operator_pct": 67.7,
+    "client_pct": 32.3
+  },
+  {
+    "idx": 8,
+    "title": "Romāns - ?? Sharpify.io | Klientu Piesaistes Tikšanās - March 23",
+    "duration": 64,
+    "total_words": 7709,
+    "operator_pct": 77.7,
+    "client_pct": 22.3
+  },
+  {
+    "idx": 9,
+    "title": "Impromptu Google Meet Meeting - March 23",
+    "duration": 46,
+    "total_words": 5751,
+    "operator_pct": 68.2,
+    "client_pct": 31.8
+  },
+  {
+    "idx": 10,
+    "title": "Marina - ?? Sharpify.io | Klientu Piesaistes Tikšanās - March 23",
+    "duration": 42,
+    "total_words": 4639,
+    "operator_pct": 83.2,
+    "client_pct": 16.8
+  },
+  {
+    "idx": 11,
+    "title": "Gunta - ?? Sharpify.io | Klientu Piesaistes Tikšanās - March 23",
+    "duration": 64,
+    "total_words": 7987,
+    "operator_pct": 50.8,
+    "client_pct": 49.2
+  },
+  {
+    "idx": 12,
+    "title": "Līga - ?? Sharpify.io | Klientu Piesaistes Tikšanās - March 20",
+    "duration": 22,
+    "total_words": 2729,
+    "operator_pct": 71.4,
+    "client_pct": 28.6
+  },
+  {
+    "idx": 13,
+    "title": "Jureijs - ?? Sharpify.io | Klientu Piesaistes Tikšanās - March 20",
+    "duration": 11,
+    "total_words": 1273,
+    "operator_pct": 38.0,
+    "client_pct": 62.0
+  },
+  {
+    "idx": 14,
+    "title": "Jānis - ?? Sharpify.io | Klientu Piesaistes Tikšanās - March 20",
+    "duration": 58,
+    "total_words": 7297,
+    "operator_pct": 77.2,
+    "client_pct": 22.8
+  },
+  {
+    "idx": 15,
+    "title": "Impromptu Google Meet Meeting - March 20",
+    "duration": 57,
+    "total_words": 4632,
+    "operator_pct": 100.0,
+    "client_pct": 0.0
+  },
+  {
+    "idx": 16,
+    "title": "Ausma - ?? Sharpify.io | Klientu Piesaistes Tikšanās - March 19",
+    "duration": 95,
+    "total_words": 9364,
+    "operator_pct": 85.2,
+    "client_pct": 14.8
+  },
+  {
+    "idx": 17,
+    "title": "Ralfs - ?? Sharpify.io | Klientu Piesaistes Tikšanās - March 19",
+    "duration": 52,
+    "total_words": 6517,
+    "operator_pct": 62.4,
+    "client_pct": 37.6
+  },
+  {
+    "idx": 18,
+    "title": "Raitis - ?? Sharpify.io | Klientu Piesaistes Tikšanās - March 19",
+    "duration": 50,
+    "total_words": 6390,
+    "operator_pct": 68.2,
+    "client_pct": 31.8
+  },
+  {
+    "idx": 19,
+    "title": "Elvis - ?? Sharpify.io | Klientu Piesaistes Tikšanās - March 19",
+    "duration": 49,
+    "total_words": 5799,
+    "operator_pct": 83.5,
+    "client_pct": 16.5
+  },
+  {
+    "idx": 20,
+    "title": "Aras - ?? Sharpify.io | Klientu Piesaistes Tikšanās - March 19",
+    "duration": 50,
+    "total_words": 5520,
+    "operator_pct": 49.4,
+    "client_pct": 50.6
+  },
+  {
+    "idx": 21,
+    "title": "Miks | Meeting - March 19",
+    "duration": 44,
+    "total_words": 5434,
+    "operator_pct": 68.9,
+    "client_pct": 31.1
+  },
+  {
+    "idx": 22,
+    "title": "Zintis | Sales call - March 19",
+    "duration": 34,
+    "total_words": 3695,
+    "operator_pct": 73.5,
+    "client_pct": 26.5
+  },
+  {
+    "idx": 23,
+    "title": "Edgars - ?? Sharpify.io | Klientu Piesaistes Tikšanās - March 18",
+    "duration": 33,
+    "total_words": 4093,
+    "operator_pct": 61.4,
+    "client_pct": 38.6
+  },
+  {
+    "idx": 24,
+    "title": "Raitis - ?? Sharpify.io | Klientu Piesaistes Tikšanās - March 18",
+    "duration": 59,
+    "total_words": 7080,
+    "operator_pct": 63.1,
+    "client_pct": 36.9
+  },
+  {
+    "idx": 25,
+    "title": "Gunārs - ?? Sharpify.io | Klientu Piesaistes Tikšanās - March 16",
+    "duration": 66,
+    "total_words": 8772,
+    "operator_pct": 56.5,
+    "client_pct": 43.5
+  },
+  {
+    "idx": 26,
+    "title": "Jānis - ?? Sharpify.io | Klientu Piesaistes Tikšanās - March 13",
+    "duration": 54,
+    "total_words": 6202,
+    "operator_pct": 60.2,
+    "client_pct": 39.8
+  },
+  {
+    "idx": 27,
+    "title": "Iluta - ?? Sharpify.io | Klientu Piesaistes Tikšanās - March 13",
+    "duration": 39,
+    "total_words": 4331,
+    "operator_pct": 78.9,
+    "client_pct": 21.1
+  },
+  {
+    "idx": 28,
+    "title": "Impromptu Google Meet Meeting - March 13",
+    "duration": 59,
+    "total_words": 7432,
+    "operator_pct": 57.6,
+    "client_pct": 42.4
+  },
+  {
+    "idx": 29,
+    "title": "Impromptu Google Meet Meeting - March 13",
+    "duration": 47,
+    "total_words": 6611,
+    "operator_pct": 48.6,
+    "client_pct": 51.4
+  },
+  {
+    "idx": 30,
+    "title": "Impromptu Google Meet Meeting - March 13",
+    "duration": 30,
+    "total_words": 3550,
+    "operator_pct": 12.5,
+    "client_pct": 87.5
+  },
+  {
+    "idx": 31,
+    "title": "Impromptu Google Meet Meeting - March 12",
+    "duration": 68,
+    "total_words": 7423,
+    "operator_pct": 46.3,
+    "client_pct": 53.7
+  },
+  {
+    "idx": 32,
+    "title": "Ivars - ?? Sharpify.io | Klientu Piesaistes Tikšanās - March 12",
+    "duration": 6,
+    "total_words": 689,
+    "operator_pct": 42.8,
+    "client_pct": 57.2
+  },
+  {
+    "idx": 33,
+    "title": "Impromptu Google Meet Meeting - March 11",
+    "duration": 34,
+    "total_words": 32,
+    "operator_pct": 100.0,
+    "client_pct": 0.0
+  },
+  {
+    "idx": 34,
+    "title": "Daiga - ?? Sharpify.io | Klientu Piesaistes Tikšanās - March 09",
+    "duration": 42,
+    "total_words": 5947,
+    "operator_pct": 56.8,
+    "client_pct": 43.2
+  },
+  {
+    "idx": 35,
+    "title": "Elīna - ?? Sharpify.io | Klientu Piesaistes Tikšanās - March 09",
+    "duration": 78,
+    "total_words": 10651,
+    "operator_pct": 66.3,
+    "client_pct": 33.7
+  },
+  {
+    "idx": 36,
+    "title": "Impromptu Google Meet Meeting - March 09",
+    "duration": 27,
+    "total_words": 2829,
+    "operator_pct": 58.3,
+    "client_pct": 41.7
+  },
+  {
+    "idx": 37,
+    "title": "Agita - ?? Sharpify.io | Klientu Piesaistes Tikšanās - March 06",
+    "duration": 54,
+    "total_words": 6525,
+    "operator_pct": 64.1,
+    "client_pct": 35.9
+  },
+  {
+    "idx": 38,
+    "title": "Impromptu Google Meet Meeting - March 04",
+    "duration": 58,
+    "total_words": 7214,
+    "operator_pct": 68.6,
+    "client_pct": 31.4
+  },
+  {
+    "idx": 39,
+    "title": "Pēteris - ?? Sharpify.io | Klientu Piesaistes Tikšanās - March 05",
+    "duration": 98,
+    "total_words": 10945,
+    "operator_pct": 70.0,
+    "client_pct": 30.0
+  },
+  {
+    "idx": 40,
+    "title": "Kaspars - ?? Sharpify.io | Klientu Piesaistes Tikšanās - March 04",
+    "duration": 60,
+    "total_words": 6997,
+    "operator_pct": 61.1,
+    "client_pct": 38.9
+  },
+  {
+    "idx": 41,
+    "title": "Aleksandrs Klavins - ?? Sharpify.io | Klientu Piesaistes Tikšanās - March 04",
+    "duration": 70,
+    "total_words": 8331,
+    "operator_pct": 74.9,
+    "client_pct": 25.1
+  },
+  {
+    "idx": 42,
+    "title": "Uvis Skrebels - ?? Sharpify.io | Klientu Piesaistes Tikšanās - March 04",
+    "duration": 78,
+    "total_words": 9094,
+    "operator_pct": 68.9,
+    "client_pct": 31.1
+  },
+  {
+    "idx": 43,
+    "title": "Sandris Strazdins - ?? Sharpify.io | Klientu Piesaistes Tikšanās - March 03",
+    "duration": 57,
+    "total_words": 7946,
+    "operator_pct": 2.7,
+    "client_pct": 97.3
+  },
+  {
+    "idx": 44,
+    "title": "Aleksandrs Klavins - ?? Sharpify.io | Klientu Piesaistes Tikšanās - March 03",
+    "duration": 28,
+    "total_words": 3288,
+    "operator_pct": 36.4,
+    "client_pct": 63.6
+  },
+  {
+    "idx": 45,
+    "title": "Liene - Klientu piesaiste - Attālināti - March 03",
+    "duration": 45,
+    "total_words": 5406,
+    "operator_pct": 56.4,
+    "client_pct": 43.6
+  },
+  {
+    "idx": 46,
+    "title": "Impromptu Google Meet Meeting - March 03",
+    "duration": 19,
+    "total_words": 2433,
+    "operator_pct": 75.6,
+    "client_pct": 24.4
+  },
+  {
+    "idx": 47,
+    "title": "Romans - Saunas/ Klientu piesaiste - Attālināti - March 02",
+    "duration": 58,
+    "total_words": 7173,
+    "operator_pct": 73.6,
+    "client_pct": 26.4
+  },
+  {
+    "idx": 48,
+    "title": "Impromptu Google Meet Meeting - March 02",
+    "duration": 95,
+    "total_words": 11334,
+    "operator_pct": 71.9,
+    "client_pct": 28.1
+  },
+  {
+    "idx": 49,
+    "title": "Impromptu Google Meet Meeting - February 27",
+    "duration": 38,
+    "total_words": 4278,
+    "operator_pct": 31.5,
+    "client_pct": 68.5
+  },
+  {
+    "idx": 50,
+    "title": "Jegors Ļebedevs - ?? Sharpify.io | Klientu Piesaistes Tikšanās - February 26",
+    "duration": 93,
+    "total_words": 8714,
+    "operator_pct": 71.5,
+    "client_pct": 28.5
+  },
+  {
+    "idx": 51,
+    "title": "Impromptu Google Meet Meeting - February 26",
+    "duration": 18,
+    "total_words": 2222,
+    "operator_pct": 55.0,
+    "client_pct": 45.0
+  },
+  {
+    "idx": 52,
+    "title": "Monika - ?? Sharpify.io | Klientu Piesaistes Tikšanās - February 26",
+    "duration": 41,
+    "total_words": 863,
+    "operator_pct": 91.3,
+    "client_pct": 8.7
+  },
+  {
+    "idx": 53,
+    "title": "Estere - ?? Sharpify.io | Klientu Piesaistes Tikšanās - February 17",
+    "duration": 61,
+    "total_words": 4253,
+    "operator_pct": 100.0,
+    "client_pct": 0.0
+  },
+  {
+    "idx": 54,
+    "title": "Matīss - ?? Sharpify.io | Klientu Piesaistes Tikšanās - February 17",
+    "duration": 39,
+    "total_words": 4611,
+    "operator_pct": 66.9,
+    "client_pct": 33.1
+  },
+  {
+    "idx": 55,
+    "title": "Jana Krutova - ?? Sharpify.io | Klientu Piesaistes Tikšanās - February 16",
+    "duration": 44,
+    "total_words": 4205,
+    "operator_pct": 75.1,
+    "client_pct": 24.9
+  },
+  {
+    "idx": 56,
+    "title": "Māris Šmits - ?? Sharpify.io | Klientu Piesaistes Tikšanās - February 16",
+    "duration": 58,
+    "total_words": 5648,
+    "operator_pct": 81.4,
+    "client_pct": 18.6
+  },
+  {
+    "idx": 57,
+    "title": "Impromptu Google Meet Meeting - February 13",
+    "duration": 104,
+    "total_words": 10981,
+    "operator_pct": 66.6,
+    "client_pct": 33.4
+  },
+  {
+    "idx": 58,
+    "title": "Arturs - ?? Sharpify.io | Klientu Piesaistes Tikšanās - February 13",
+    "duration": 68,
+    "total_words": 9211,
+    "operator_pct": 48.4,
+    "client_pct": 51.6
+  },
+  {
+    "idx": 59,
+    "title": "Rolands un Elvīra - Klientu piesaiste - Attālināti - February 13",
+    "duration": 48,
+    "total_words": 6273,
+    "operator_pct": 69.2,
+    "client_pct": 30.8
+  },
+  {
+    "idx": 60,
+    "title": "Inese - Klientu piesaiste - February 13",
+    "duration": 60,
+    "total_words": 6397,
+    "operator_pct": 73.7,
+    "client_pct": 26.3
+  },
+  {
+    "idx": 61,
+    "title": "Impromptu Google Meet Meeting - February 12",
+    "duration": 59,
+    "total_words": 6211,
+    "operator_pct": 62.3,
+    "client_pct": 37.7
+  },
+  {
+    "idx": 62,
+    "title": "Laila - ?? Sharpify.io | Klientu Piesaistes Tikšanās - February 11",
+    "duration": 22,
+    "total_words": 2913,
+    "operator_pct": 59.0,
+    "client_pct": 41.0
+  },
+  {
+    "idx": 63,
+    "title": "Alda - ?? Sharpify.io | Klientu Piesaistes Tikšanās - February 11",
+    "duration": 55,
+    "total_words": 6033,
+    "operator_pct": 73.8,
+    "client_pct": 26.2
+  },
+  {
+    "idx": 64,
+    "title": "Matīss - ?? Sharpify.io | Klientu Piesaistes Tikšanās - February 11",
+    "duration": 61,
+    "total_words": 7868,
+    "operator_pct": 57.4,
+    "client_pct": 42.6
+  },
+  {
+    "idx": 65,
+    "title": "Patrīcija - ?? Sharpify.io | Klientu Piesaistes Tikšanās - February 11",
+    "duration": 72,
+    "total_words": 8956,
+    "operator_pct": 63.2,
+    "client_pct": 36.8
+  },
+  {
+    "idx": 66,
+    "title": "Kaspars - ?? Sharpify.io | Klientu Piesaistes Tikšanās - February 10",
+    "duration": 26,
+    "total_words": 3656,
+    "operator_pct": 46.5,
+    "client_pct": 53.5
+  },
+  {
+    "idx": 67,
+    "title": "Jevgēnija - ?? Sharpify.io | Klientu Piesaistes Tikšanās - February 10",
+    "duration": 117,
+    "total_words": 15934,
+    "operator_pct": 73.2,
+    "client_pct": 26.8
+  },
+  {
+    "idx": 68,
+    "title": "Diāna Krastiņa - February 10",
+    "duration": 73,
+    "total_words": 8878,
+    "operator_pct": 63.1,
+    "client_pct": 36.9
+  },
+  {
+    "idx": 69,
+    "title": "Inta Sharpify Risinājums - February 10",
+    "duration": 63,
+    "total_words": 8436,
+    "operator_pct": 62.2,
+    "client_pct": 37.8
+  },
+  {
+    "idx": 70,
+    "title": "Raivis - ?? Sharpify.io | Klientu Piesaistes Tikšanās - February 09",
+    "duration": 53,
+    "total_words": 7212,
+    "operator_pct": 64.7,
+    "client_pct": 35.3
+  },
+  {
+    "idx": 71,
+    "title": "Nikola Katrīna Briede - ?? Sharpify.io | Klientu Piesaistes Tikšanās - February ",
+    "duration": 48,
+    "total_words": 5886,
+    "operator_pct": 63.5,
+    "client_pct": 36.5
+  },
+  {
+    "idx": 72,
+    "title": "Abhaya - ?? Sharpify.io | Klientu Piesaistes Tikšanās - February 09",
+    "duration": 60,
+    "total_words": 7540,
+    "operator_pct": 53.6,
+    "client_pct": 46.4
+  },
+  {
+    "idx": 73,
+    "title": "Jevgēnija - ?? Sharpify.io | Klientu Piesaistes Tikšanās - February 09",
+    "duration": 65,
+    "total_words": 8879,
+    "operator_pct": 61.5,
+    "client_pct": 38.5
+  },
+  {
+    "idx": 74,
+    "title": "Gints - ?? Sharpify.io | Klientu Piesaistes Tikšanās - February 06",
+    "duration": 36,
+    "total_words": 4553,
+    "operator_pct": 59.1,
+    "client_pct": 40.9
+  },
+  {
+    "idx": 75,
+    "title": "Jānis - ?? Sharpify.io | Klientu Piesaistes Tikšanās - February 06",
+    "duration": 79,
+    "total_words": 9540,
+    "operator_pct": 61.1,
+    "client_pct": 38.9
+  },
+  {
+    "idx": 76,
+    "title": "Rolands - ?? Sharpify.io | Klientu Piesaistes Tikšanās - February 05",
+    "duration": 23,
+    "total_words": 2990,
+    "operator_pct": 50.9,
+    "client_pct": 49.1
+  },
+  {
+    "idx": 77,
+    "title": "Impromptu Google Meet Meeting - February 04",
+    "duration": 54,
+    "total_words": 6499,
+    "operator_pct": 57.2,
+    "client_pct": 42.8
+  },
+  {
+    "idx": 78,
+    "title": "Lauris + Diāna ( otrā tikšanās) - February 04",
+    "duration": 60,
+    "total_words": 7768,
+    "operator_pct": 64.1,
+    "client_pct": 35.9
+  },
+  {
+    "idx": 79,
+    "title": "Impromptu Google Meet Meeting - February 04",
+    "duration": 36,
+    "total_words": 3880,
+    "operator_pct": 62.8,
+    "client_pct": 37.2
+  },
+  {
+    "idx": 80,
+    "title": "Zanda( 2tikšanās) - Klientu piesaiste - Attālināti - February 04",
+    "duration": 7,
+    "total_words": 1041,
+    "operator_pct": 57.2,
+    "client_pct": 42.8
+  },
+  {
+    "idx": 81,
+    "title": "Marta - ?? Sharpify.io | Klientu Piesaistes Tikšanās - February 04",
+    "duration": 50,
+    "total_words": 6705,
+    "operator_pct": 60.5,
+    "client_pct": 39.5
+  },
+  {
+    "idx": 82,
+    "title": "Impromptu Google Meet Meeting - February 03",
+    "duration": 7,
+    "total_words": 841,
+    "operator_pct": 54.9,
+    "client_pct": 45.1
+  },
+  {
+    "idx": 83,
+    "title": "Uģis - Krāsošana/špaktelēšana - Klientu piesaiste - February 03",
+    "duration": 4,
+    "total_words": 52,
+    "operator_pct": 0.0,
+    "client_pct": 100.0
+  },
+  {
+    "idx": 84,
+    "title": "Impromptu Google Meet Meeting - February 03",
+    "duration": 52,
+    "total_words": 6725,
+    "operator_pct": 63.7,
+    "client_pct": 36.3
+  },
+  {
+    "idx": 85,
+    "title": "Ralfs Godainis - ?? Sharpify.io | Klientu Piesaistes Tikšanās - January 30",
+    "duration": 73,
+    "total_words": 10185,
+    "operator_pct": 0.0,
+    "client_pct": 100.0
+  },
+  {
+    "idx": 86,
+    "title": "Santa - otrā tikšanās - Attālināti - January 30",
+    "duration": 26,
+    "total_words": 3495,
+    "operator_pct": 53.2,
+    "client_pct": 46.8
+  },
+  {
+    "idx": 87,
+    "title": "Agris - klientu piesaiste - Attālināti - January 30",
+    "duration": 62,
+    "total_words": 6401,
+    "operator_pct": 70.5,
+    "client_pct": 29.5
+  },
+  {
+    "idx": 88,
+    "title": "Antons - Klientu piesaiste - Attālināti - January 29",
+    "duration": 48,
+    "total_words": 5075,
+    "operator_pct": 0.0,
+    "client_pct": 100.0
+  },
+  {
+    "idx": 89,
+    "title": "Mareks - ?? Sharpify.io | Klientu Piesaistes Tikšanās - February 05",
+    "duration": 109,
+    "total_words": 29600,
+    "operator_pct": 77.6,
+    "client_pct": 22.4
+  }
+]

@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.DS_Store
+.env
+venv/
+.venv/
+node_modules/
+*.log
+# Generated artifacts
+docs/FULL.html
+docs/FULL.pdf
+docs/FULL.docx
+# Raw call data (confidential)
+data/Dzivie+zvani.md
+data/raw/
