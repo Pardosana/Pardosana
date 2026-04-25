@@ -1,162 +1,149 @@
-# SalesEngine V26.1 · DOMINO ENGINE
+# SalesEngine V14 LV-COMPLETE
 
-> **Kognitīvi-arhitektoniska B2B pārdošanas zvanu sistēma latviski.** Katrs jautājums ir domino, kas automātiski iedarbina nākamo. Klients pats sev pierāda, ka jārīkojas. Operators nepārdod — **projektē loģisko vidi**.
+> **Latviešu B2B pārdošanas zvana sistēma** — kompilēta no 50+ avotu dokumentiem, 89 dzīviem Fathom zvaniem (78+ stundas) un V8 GOLD MOLECULAR CORE MAP integrācijas.
 
-**Versija:** V26.1 · **Kompilēts:** 2026.04.24 · **Bāze:** V1→V25 (29 avotu faili)
-
----
-
-## ⚡ ĀTRĀ SĀKUMS
-
-1. **Lasi FULL**: [`docs/FULL.md`](docs/FULL.md) — viss vienā failā (91 lpp PDF versija: [`SalesEngine_V26.1_FULL.pdf`](SalesEngine_V26.1_FULL.pdf))
-2. **Izprintē Cheat Sheet**: [`docs/02_OPERATOR_CHEAT_SHEET.pdf`](docs/02_OPERATOR_CHEAT_SHEET.pdf) — 1 A4 lapa dzīvam zvanam
-3. **Iestati AI asistentu**: Kopē [`docs/03_AI_SALES_ARCHITECT_PROMPT.md`](docs/03_AI_SALES_ARCHITECT_PROMPT.md) → ChatGPT Custom GPT
+**Live web app:** https://app-uuhshekq.devinapps.com
 
 ---
 
-## 📁 STRUKTŪRA
+## 📦 Repo struktūra
 
 ```
-salesengine/
-├── README.md                         ← šis fails
-├── SalesEngine_V26.1_FULL.pdf       ← 91 lpp PDF ar VISU
-├── SalesEngine_V26.1_FULL.docx      ← Word versija
-├── docs/
-│   ├── FULL.md                       ← Viens markdown ar visu
-│   ├── 01_MASTER_CORPUS.md           ← V26.1 kanoniskā teorija (29 sadaļas + pielikumi)
-│   ├── 02_OPERATOR_CHEAT_SHEET.html  ← Cheat sheet avots
-│   ├── 02_OPERATOR_CHEAT_SHEET.pdf   ← 1-lapas A4 print-ready
-│   ├── 03_AI_SALES_ARCHITECT_PROMPT.md  ← System prompt LLM-iem
-│   ├── 04_CALL_ANALYSIS_89.md        ← 89 zvanu datu analīze
-│   └── 05_CHANGELOG.md               ← Konsolidācijas žurnāls
-├── scripts/
-│   ├── analyze_calls.py              ← Regex signāla detekcija Fathom transkriptiem
-│   └── build_full.py                 ← FULL.md būve no avotu failiem
-├── data/
-│   ├── calls_index.json              ← 89 zvanu metadata
-│   ├── calls_signals.json            ← Pattern detekcijas rezultāti
-│   └── calls_full.json               ← Kombinētais (metadata + signāli + score)
-└── deploy/                           ← Deploy instrukcijas (nākamajā iterācijā)
+salesengine-repo/
+├── docs/v14/                    # Master dokumenti (4 formāti)
+│   ├── LV_MASTER_SCRIPT_V14.md  # 1805 rindas, kanoniskais avots
+│   ├── LV_MASTER_SCRIPT_V14.pdf # 52 lpp, A4
+│   ├── LV_MASTER_SCRIPT_V14.docx
+│   └── SalesEngine_V14_PREMIUM_BOOK.pdf  # 90 lpp, vāks + TOC + 5 diagrami + indekss
+│
+├── app/                         # Interaktīva web aplikācija (single-page HTML+JS)
+│   ├── index.html               # 9 sadaļas, dark/light mode, mobile-friendly
+│   ├── app.js                   # Q-flow, V8 Molecular, Klientu tipi, Trees, Likumi, Roleplay
+│   ├── data.js                  # Strukturēti V14 dati (40 Q + 14 mezgli + 6 tipi + 8 trees + 12 likumi)
+│   └── data.json                # Plain JSON (build artifact)
+│
+├── coach/
+│   └── V14_AI_SALES_COACH_PROMPT.md  # Custom GPT / Claude Project system prompt + deploy gids
+│
+├── pocket/
+│   ├── V14_POCKET_CARD.pdf      # 1 A4 landscape, 8 sekcijas — printēt un nēsāt zvanam
+│   └── pocket_card.html
+│
+├── diagrams/                    # 5 augstas izšķirtspējas Mermaid → PNG diagrami
+│   ├── 01_q_flow.png            # Q1-Q40 linear flow
+│   ├── 02_v8_molecular.png      # 14 mezgli × 4 META blokos
+│   ├── 03_objection_trees.png   # 5 visbiežāko iebildumu lēmumu koki
+│   ├── 04_client_types.png      # 6 klientu tipu mind map
+│   └── 05_conductor_traffic.png # Traffic Light loop
+│
+├── analysis/
+│   └── CALL_ANALYSIS_89.md      # 89 zvanu pattern analīze ar D-skip statistikām
+│
+├── scripts/                     # Build automation
+│   ├── build_full.py
+│   └── analyze_calls.py
+│
+└── .github/workflows/build.yml  # CI auto-build (PDF + DOCX)
 ```
 
 ---
 
-## 🧠 SISTĒMAS KODOLS
+## 🎯 Ko šī sistēma satur
 
-### Filozofija
-> *"Tu neesi pārdevējs — Tu esi **Kognitīvās vides dizaineris**."*
-> **Formula:** *Rīcības sāpes < Bezdarbības sāpes = Lēmums.*
+### Kanoniskais V14 dokuments (90 lpp premium book)
+- **20 sadaļas:** Filozofija → 4 META Bloki → Q-by-Q Flow (40 jautājumi) → V8 Molecular (14 mezgli × 8 slāņi) → Klientu tipi (6) → Response Trees (9) → Comprehension Ladders (8) → Elite likumi (12) → Conductor Mode → CARE → NLP/Hipnoze/EFT → 89 zvanu analīze → AI Sales Architect → Pielikumi
+- **Verbatim frāzes** no Lauris Fathom zvaniem (Kristaps #1, Aras #20, SS2 #4, Krišs #7, Romāns #8, Imp. Meet #3, #57, Mareks #89) un Kristapa pilnā transkripta — **bez amerikāņu closer žargona**
+- **Integrētas tehnikas** no 50+ avota dokumentiem (V25, V101, Promti, Gold, V13 NLP/Hipnoze, CARE)
 
-### 4 Meta Bloki × 14-20 Domino mezgli
+### Interaktīva web aplikācija
+9 sadaļas, klikšķināmas, meklējamas, dark/light theme, mobile-friendly:
+1. **Q-by-Q Flow** — 40 jautājumi ar fāzu filtru, kritisko Q (⭐⭐⭐) atlasi
+2. **Conductor Mode** — Live Traffic Light, Reset frāzes, ZELTA LIKUMS
+3. **V8 Molecular Map** — 14 mezgli × 8 slāņu tabi
+4. **Klientu tipi** — 6 kartes ar elite ieročiem
+5. **Response Trees** — 8 iebildumu lēmumu koki
+6. **Elite likumi** — 12 augstākā līmeņa noteikumi
+7. **Comprehension Ladders** — 8 sapratnes kāpnes
+8. **AI Roleplay Simulator** — treniņš ar 6 klientu tipiem, V14 mezglu analīze pēc katras atbildes
+9. **Par sistēmu** — statistika
 
-| Meta | Domino | Laiks | Funkcija |
-|---|---|---|---|
-| **1 · Entry & Frame** | D1–D3 | 2 min | Noņem "pārdevēja" masku, iestata autoritāti |
-| **2 · Diagnosis & Gap** | D4–D8 | 15 min | Klients pats verbalizē € zaudējumu |
-| **3 · Model & Vision** | D9–D12 | 10 min | Klients pats vērtē risinājumu 1-10 |
-| **4 · Pressure & Close** | D13–D14.5 | 8 min | Cena kā fakts, close ar datumu |
+### AI Sales Coach (Custom GPT prompt)
+3 režīmi: **Pre-call prep** (klientu tipa hipotēze + flow + paredzamie iebildumi), **Post-call debrief** (score 1-13, kļūdu identifikācija, follow-up frāze), **Training drill** (CARE protokoli, simulēšana). Deploy ChatGPT/Claude/API 5-30 min.
 
-### 4 Neuro-slāņi (V26.1 jaunums)
-- **V∞ Stāvoklis** — operatora iekšējā telpa (tukšums + pārpilnība)
-- **Dual Engine** — VALUE/STATUS + SAFETY/CONTROL
-- **3D Neuro Layer** — Logic + Body + Tribe
-- **Discovery Compression** — 4 jautājumi (Q1-Q4) līdz saknei
+### Pocket card (1 A4 landscape)
+13 sekcijas vienā lapā: Pre-call · Frame · Centrs · Karte · Pitch · 1-10 · Cena · Close · Iebildumu QR · Conductor Mode · Klientu tipi · Aizliegtās frāzes · 12 Elite likumi.
+
+### 89 dzīvu zvanu analīze
+Regex-bāzēta pattern analīze visiem Fathom zvaniem (1.2M vārdi). Top atklājumi: D1 FRAME 83% skip · D9 SELF-SELL 66% skip · Operator talk >60% 64% zvanu · Top iebildums "Jau mēģinājām" 45%.
 
 ---
 
-## 📊 DATU BĀZE
+## 🚀 Quick Start
 
-- **89 Fathom zvani** analizēti pret V26.1 arhitektūru (sk. [`docs/04_CALL_ANALYSIS_89.md`](docs/04_CALL_ANALYSIS_89.md))
-- **78 stundas** kopējā zvana laika · 4 680 min
-- **Atklātās vājās vietas:** D1 Frame 83% skip · D9 Self-sell 66% skip · Operator talk 64% zvanu >60%
-- **Vidējais health score:** 6.8 / 13
+### Lietot live web app (mobilā/desktop):
+```
+https://app-uuhshekq.devinapps.com
+```
 
-### Reproducēt analīzi
+### Atvērt lokāli:
 ```bash
-cd scripts
-python3 analyze_calls.py /path/to/Dzivie+zvani.md
+cd app && python3 -m http.server 8000
+# atver http://localhost:8000
+```
+
+### Setup AI Sales Coach (5 min):
+1. Atver ChatGPT → "Explore GPTs" → "Create"
+2. Configure → Instructions: iekopē `coach/V14_AI_SALES_COACH_PROMPT.md` System Prompt
+3. Knowledge: augšupielādē `docs/v14/LV_MASTER_SCRIPT_V14.pdf` un `pocket/V14_POCKET_CARD.pdf`
+4. Save un sāc lietot 3 režīmos
+
+### Build PDF lokāli:
+```bash
+pip install -r requirements.txt
+make build
 ```
 
 ---
 
-## 🚀 DEPLOY CEĻI
+## 📊 Statistika
 
-### Līmenis 1 — Personīgā lietošana (1 diena)
-- Printē Cheat Sheet PDF
-- Setup ChatGPT Custom GPT ar AI Prompt
-- Pirms katra zvana — V∞ check
-- Pēc katra zvana — 14 pašaudits
-
-### Līmenis 2 — Komanda (2-4 nedēļas)
-- Share `docs/FULL.md` ar operatoriem
-- 2h workshop: V∞ + 4 Meta + Domino
-- Weekly call review ar 0-13 score
-- Obligāti: D1 FRAME + D9 SELF-SELL katrā zvanā
-
-### Līmenis 3 — Sistēma (2-3 mēneši)
-- Automatizēta post-call scoring → Google Sheet
-- Team Slack ar #call-reviews
-- Trend dashboard
-
-### Līmenis 4 — Mērogs (4+ mēneši)
-- Web app ar AI Architect UI
-- Sales simulator ar AI klientu
-- CRM integrācija
-
-Pilns deploy čeklists: [`docs/FULL.md` §6](docs/FULL.md#6-deploy-checklist)
+| Metrika | Vērtība |
+|---|---|
+| Master dokumenta rindas | 1805 |
+| Vārdu skaits V14 | ~22 000 |
+| Q-by-Q jautājumi | 40 |
+| V8 mezgli × slāņi | 14 × 8 = 112 |
+| Response trees | 9 |
+| Elite likumi | 12 |
+| Klientu tipi | 6 |
+| Comprehension ladders | 8 |
+| Reset frāzes | 5 |
+| Avota dokumenti | 50+ |
+| Fathom zvani analizēti | 89 (78+ stundas) |
+| Premium book lpp | 90 |
 
 ---
 
-## 🔧 TECH STACK
+## ⚠️ Konfidencialitāte
 
-**Dokumentu būve:**
-- Markdown → DOCX: `pandoc`
-- Markdown → PDF: `weasyprint` (Python, CSS-bāzēts)
-- HTML → PDF: `weasyprint`
-
-**Datu analīze:**
-- Python 3.10+
-- Regex pattern detekcija
-- JSON output
-
-**AI integrācijas (planned):**
-- OpenAI API / Anthropic Claude
-- ChatGPT Custom GPT
-- n8n / Make workflows
+- `Dzivie+zvani.md` (89 transkripti) **NAV** šajā repo — `.gitignore` izslēdz šos failus
+- `data/` folderī ir tikai abstrahēti, atbrīvoti pattern dati
+- Klienta vārdi piemēros (Modern House, Skandi, Indexo, Citadele, NBS, Foreveres) ir publiskas atsauces
 
 ---
 
-## 📋 KONTRIBUCIJAS
+## 🛠️ Tech
 
-Šis repo ir **proprietary / konfidenciāls**. Lūgums neizplatīt bez autora atļaujas.
-
-**Iteratīvi uzlabojumi:**
-1. Fork → private branch
-2. Eksperimentē ar jauniem mezgliem / frāzēm
-3. Validē pret vismaz 10 dzīviem zvaniem
-4. PR ar score salīdzinājumu pirms/pēc
+- **Web app:** Vanilla HTML/CSS/JS (single page, no build step required)
+- **PDFs:** WeasyPrint (Python)
+- **Diagrami:** Mermaid CLI (PNG @ 2400×1600px)
+- **CI:** GitHub Actions (auto-build PDF/DOCX on push)
+- **Deploy:** Devin Apps (static hosting)
 
 ---
 
-## 🗓️ VERSIJU VĒSTURE
+## 📝 Versija
 
-| Versija | Datums | Galvenās izmaiņas |
-|---|---|---|
-| V1-V24 | 2024-2026 | Iteratīva evolūcija (sk. Master Corpus §XXI) |
-| **V25** | 2026.04.21 | Ultimate Monolith — apvieno V1-V24 |
-| **V26** | 2026.04.23 | Deduplikācija no 24 avotu failiem |
-| **V26.1** | 2026.04.24 | +5 failu batch2 (V∞, Dual Engine, 3D Neuro, CARE, META 7-domino) |
+**V14 LV-COMPLETE** · 2026-04-25 · © Lauris Leitāns / Sharpify.io
 
-Pilns changelog: [`docs/05_CHANGELOG.md`](docs/05_CHANGELOG.md)
-
----
-
-## 📞 KONTAKTS
-
-**Autors:** Lawrence Ap · Lauris Leitāns
-**E-pasts:** lauris.leitaans@gmail.com
-**Produkts:** META Lead Gen + SalesEngine metodoloģija
-
----
-
-**LICENCE:** Proprietary · Visas tiesības aizsargātas © 2026
+Iepriekšējās versijas (V25 → V26 → V26.1-V26.4) saglabātas iekšējā arhīvā kā evolūcijas atsauce.

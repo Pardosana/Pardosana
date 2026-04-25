@@ -1,0 +1,33 @@
+flowchart TD
+    OBJ([❗ Iebildums]) --> CARE{CARE<br/>diagnoze}
+    CARE -->|"Par dārgu"| PRICE[Ticamība?]
+    CARE -->|"Jāpadomā"| THINK[Par ko tieši?]
+    CARE -->|"Sieva/Partneris"| PART[Tu pats redzi pareizu?]
+    CARE -->|"Nav laika"| TIME[Ko tev tas maksā?]
+    CARE -->|"Mēģinājām jau"| TRIED[Tas bija sistēma vai taktika?]
+
+    PRICE -->|"Nav skaidrs ROI"| P1[Atpakaļ uz Q22<br/>COI math]
+    PRICE -->|"Budžets nav"| P2[Q39 Maksāj. plāns]
+    PRICE -->|"Pārliecība trūkst"| P3[Atpakaļ uz Q26<br/>Atsauces]
+
+    THINK -->|"Ticamība zema"| T1[Q26 atsauces<br/>Modern House, Skandi]
+    THINK -->|"Risks pārāk liels"| T2[Q26 Bonuss + skaidri 30 dienu soļi]
+    THINK -->|"Nav īstais brīdis"| T3[Lock follow-up datums<br/>3-5 dienu intervāls]
+
+    PART -->|"Jā, redzu"| L1[Lock follow-up<br/>partnera saruna 5 min]
+    PART -->|"Nē, šaubos"| L2[Atpakaļ uz Q29<br/>1-10 anchor]
+
+    TIME -->|"€/mēnesī ir"| TI1[Q22 Investora rāmis<br/>laiks = nauda]
+    TIME -->|"Nav īsta vērtība"| TI2[Atpakaļ uz Q4<br/>galvenā lieta]
+
+    TRIED -->|"Reklāma bez sistēmas"| TR1[Q24 Spogulis<br/>diferencē mehānismu]
+    TRIED -->|"Vispārējs skepticisms"| TR2[Q26 specifiski piemēri]
+
+    classDef root fill:#ef4444,stroke:#991b1b,color:#fff,font-weight:bold;
+    classDef diag fill:#fbbf24,stroke:#92400e,color:#000;
+    classDef obj fill:#3b82f6,stroke:#1e40af,color:#fff;
+    classDef leaf fill:#10b981,stroke:#047857,color:#fff;
+    class OBJ root;
+    class CARE diag;
+    class PRICE,THINK,PART,TIME,TRIED obj;
+    class P1,P2,P3,T1,T2,T3,L1,L2,TI1,TI2,TR1,TR2 leaf;

@@ -1,0 +1,26 @@
+flowchart TD
+    Start([📞 Zvans sāk]) --> Q1[Q1-Q3<br/>FRAME<br/>Sapratīsim vai derēs]
+    Q1 --> Q4{{Q4 ⭐⭐⭐<br/>GALVENĀ LIETA<br/>Pamats visai sarunai}}
+    Q4 --> Q5[Q5-Q7<br/>Motīvi · Kas lika · Personīgi]
+    Q5 --> Q8[Q8-Q11<br/>SITUĀCIJAS KARTE<br/>Klientu tips · Cik · Šobrīd]
+    Q8 --> Q12[Q12-Q16<br/>VIENĪBU EKONOMIKA<br/>Čeks · Apgrozījums · Kapacitāte]
+    Q12 --> Q17[Q17-Q20<br/>LAIKA DIMENSIJA<br/>Cik ilgi · Ideja · Iepriekš · Personīga]
+    Q17 --> Q21[Q21-Q23<br/>GAP & NĀKOTNE<br/>COI · Investors · Tilts]
+    Q21 --> Q24[Q24-Q28<br/>PITCH 3 PĪLĀRI<br/>Spogulis → Lūzums → Modelis]
+    Q24 --> Q29{{Q29 ⭐⭐⭐<br/>1-10 ANCHOR<br/>Cik skan tas, ko teicu?}}
+    Q29 --> Q30[Q30-Q31<br/>Gatavība · Onboarding ieskats]
+    Q30 --> Q32{{Q32 ⭐⭐⭐<br/>CENA<br/>2 opcijas · KLUSUMS}}
+    Q32 --> OBJ{Iebildumi?}
+    OBJ -->|Jā| Q33[Q33-Q39<br/>Response Trees<br/>Padomāt · Sieva · Cena · Laiks]
+    OBJ -->|Nē| Q40
+    Q33 --> Q40{{Q40 ⭐⭐⭐<br/>RĒĶINS<br/>Karti vai pārskaitījumu?}}
+    Q40 --> End([✅ Close])
+
+    classDef gold fill:#d4a574,stroke:#8b6914,color:#fff,font-weight:bold;
+    classDef phase fill:#1e40af,stroke:#1e3a8a,color:#fff;
+    classDef start fill:#10b981,stroke:#047857,color:#fff;
+    classDef objection fill:#ef4444,stroke:#b91c1c,color:#fff;
+    class Q4,Q29,Q32,Q40 gold;
+    class Q1,Q5,Q8,Q12,Q17,Q21,Q24,Q30,Q33 phase;
+    class Start,End start;
+    class OBJ objection;

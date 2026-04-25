@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+<html lang="lv">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SalesEngine V14 · Live Operator Console</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg: #0a0e1a; --panel: #131826; --panel-2: #1a2030; --border: #2a3548;
+  --text: #e8edf5; --muted: #8b95a8; --accent: #4f8eff; --accent-2: #6dd3ce;
+  --gold: #d4a574; --green: #4ade80; --yellow: #fbbf24; --red: #f87171;
+  --shadow: 0 4px 24px rgba(0,0,0,0.4);
+}
+[data-theme="light"] {
+  --bg: #f7f9fc; --panel: #ffffff; --panel-2: #f0f4fa; --border: #d8e0ed;
+  --text: #1a2030; --muted: #5a6478; --accent: #2563eb; --accent-2: #0d9488;
+  --gold: #b8862f; --shadow: 0 4px 24px rgba(0,0,0,0.08);
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: 'Inter', -apple-system, sans-serif; background: var(--bg); color: var(--text); line-height: 1.5; min-height: 100vh; }
+.app { display: grid; grid-template-columns: 280px 1fr; min-height: 100vh; }
+@media (max-width: 900px) { .app { grid-template-columns: 1fr; } .sidebar { position: fixed; left: -100%; z-index: 1000; transition: left 0.3s; height: 100vh; } .sidebar.open { left: 0; } .menu-toggle { display: block !important; } }
+
+.sidebar { background: var(--panel); border-right: 1px solid var(--border); padding: 20px 16px; overflow-y: auto; height: 100vh; position: sticky; top: 0; }
+.brand { font-size: 18px; font-weight: 800; letter-spacing: -0.5px; margin-bottom: 4px; }
+.brand .v { color: var(--gold); font-weight: 600; }
+.subtitle { font-size: 11px; color: var(--muted); margin-bottom: 20px; text-transform: uppercase; letter-spacing: 1.5px; }
+.search { width: 100%; background: var(--panel-2); border: 1px solid var(--border); color: var(--text); padding: 10px 14px; border-radius: 8px; font-size: 13px; margin-bottom: 16px; font-family: inherit; }
+.search:focus { outline: 2px solid var(--accent); outline-offset: -2px; }
+
+.nav { display: flex; flex-direction: column; gap: 4px; margin-bottom: 24px; }
+.nav-item { display: flex; align-items: center; gap: 10px; padding: 9px 12px; border-radius: 6px; cursor: pointer; font-size: 13px; color: var(--muted); transition: all 0.15s; border: none; background: transparent; text-align: left; font-family: inherit; }
+.nav-item:hover { background: var(--panel-2); color: var(--text); }
+.nav-item.active { background: var(--accent); color: white; font-weight: 500; }
+.nav-icon { width: 16px; text-align: center; opacity: 0.8; }
+
+.theme-toggle { position: absolute; bottom: 16px; left: 16px; right: 16px; padding: 8px; background: var(--panel-2); border: 1px solid var(--border); border-radius: 6px; color: var(--muted); cursor: pointer; font-size: 12px; }
+
+.main { padding: 32px 40px; overflow-y: auto; max-width: 100%; }
+@media (max-width: 600px) { .main { padding: 16px; } }
+.menu-toggle { display: none; background: var(--panel); border: 1px solid var(--border); color: var(--text); padding: 8px 12px; border-radius: 6px; margin-bottom: 16px; cursor: pointer; }
+
+.page-title { font-size: 28px; font-weight: 700; margin-bottom: 4px; letter-spacing: -0.5px; }
+.page-subtitle { font-size: 13px; color: var(--muted); margin-bottom: 24px; }
+
+/* Cards */
+.card { background: var(--panel); border: 1px solid var(--border); border-radius: 12px; padding: 20px; margin-bottom: 14px; transition: all 0.15s; box-shadow: var(--shadow); }
+.card:hover { border-color: var(--accent); }
+.card-header { display: flex; justify-content: space-between; align-items: flex-start; gap: 12px; cursor: pointer; }
+.card-title { font-size: 15px; font-weight: 600; flex: 1; }
+.card-num { font-family: 'JetBrains Mono', monospace; font-size: 11px; color: var(--accent); background: rgba(79, 142, 255, 0.1); padding: 3px 8px; border-radius: 4px; flex-shrink: 0; }
+.card-priority { color: var(--gold); font-size: 14px; }
+.card-meta { display: flex; gap: 12px; flex-wrap: wrap; margin-top: 6px; font-size: 11px; color: var(--muted); }
+.card-meta span { background: var(--panel-2); padding: 2px 8px; border-radius: 4px; font-family: 'JetBrains Mono', monospace; }
+.card-body { padding-top: 14px; border-top: 1px solid var(--border); margin-top: 14px; display: none; }
+.card.open .card-body { display: block; }
+.card.open .card-toggle { transform: rotate(180deg); }
+.card-toggle { font-size: 14px; color: var(--muted); transition: transform 0.2s; }
+
+.phrase { background: var(--panel-2); border-left: 3px solid var(--accent); padding: 12px 16px; margin: 10px 0; border-radius: 0 6px 6px 0; font-size: 14px; line-height: 1.6; }
+.phrase::before { content: "💬 "; opacity: 0.6; }
+.phrase-quiet { font-size: 12px; color: var(--muted); margin-top: 6px; font-style: italic; }
+
+/* Mezgls (V8 layer) panel */
+.mezgls-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 14px; }
+.mezgls-card { background: var(--panel); border: 1px solid var(--border); border-radius: 10px; padding: 18px; }
+.mezgls-name { font-size: 16px; font-weight: 700; color: var(--accent); margin-bottom: 4px; }
+.mezgls-range { font-size: 11px; color: var(--muted); font-family: 'JetBrains Mono', monospace; margin-bottom: 12px; }
+.layer-tabs { display: flex; flex-wrap: wrap; gap: 4px; margin-bottom: 12px; }
+.layer-tab { padding: 4px 10px; background: var(--panel-2); border: 1px solid var(--border); border-radius: 4px; font-size: 11px; cursor: pointer; color: var(--muted); }
+.layer-tab.active { background: var(--accent); color: white; border-color: var(--accent); }
+.layer-content { font-size: 13px; line-height: 1.6; min-height: 60px; padding: 10px; background: var(--panel-2); border-radius: 6px; }
+
+/* Client type cards */
+.types-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 14px; }
+.type-card { background: var(--panel); border: 1px solid var(--border); border-radius: 10px; padding: 18px; cursor: pointer; transition: all 0.15s; }
+.type-card:hover { border-color: var(--accent-2); transform: translateY(-1px); }
+.type-card.active { border-color: var(--accent); background: var(--panel-2); }
+.type-name { font-size: 14px; font-weight: 700; color: var(--accent-2); margin-bottom: 8px; letter-spacing: 0.5px; }
+
+/* Response tree cards */
+.tree-card { background: var(--panel); border: 1px solid var(--border); border-radius: 10px; padding: 18px; margin-bottom: 12px; }
+.tree-trigger { font-size: 16px; font-weight: 700; color: var(--red); margin-bottom: 8px; }
+.tree-trigger::before { content: "⚠️ "; }
+.tree-step { padding: 10px 14px; background: var(--panel-2); border-radius: 6px; margin: 6px 0; font-size: 13px; }
+.tree-step b { color: var(--accent); margin-right: 8px; }
+
+/* Elite rules */
+.rules-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(380px, 1fr)); gap: 12px; }
+.rule-card { background: linear-gradient(135deg, var(--panel) 0%, var(--panel-2) 100%); border: 1px solid var(--border); border-left: 4px solid var(--gold); border-radius: 8px; padding: 16px; }
+.rule-num { font-family: 'JetBrains Mono', monospace; font-size: 24px; font-weight: 700; color: var(--gold); float: right; opacity: 0.5; line-height: 1; }
+.rule-name { font-size: 14px; font-weight: 700; margin-bottom: 6px; }
+.rule-desc { font-size: 12px; color: var(--muted); line-height: 1.5; }
+
+/* Conductor */
+.conductor { background: var(--panel); border: 1px solid var(--border); border-radius: 12px; padding: 20px; margin-bottom: 16px; }
+.traffic-light { display: flex; gap: 12px; margin-bottom: 16px; }
+.tl-btn { flex: 1; padding: 14px; border-radius: 8px; border: 2px solid var(--border); background: var(--panel-2); cursor: pointer; text-align: center; font-weight: 600; font-size: 13px; transition: all 0.15s; color: var(--text); }
+.tl-btn[data-color="green"]:hover, .tl-btn[data-color="green"].active { border-color: var(--green); background: rgba(74, 222, 128, 0.1); color: var(--green); }
+.tl-btn[data-color="yellow"]:hover, .tl-btn[data-color="yellow"].active { border-color: var(--yellow); background: rgba(251, 191, 36, 0.1); color: var(--yellow); }
+.tl-btn[data-color="red"]:hover, .tl-btn[data-color="red"].active { border-color: var(--red); background: rgba(248, 113, 113, 0.1); color: var(--red); }
+.tl-status { padding: 14px 18px; background: var(--panel-2); border-radius: 8px; font-size: 13px; line-height: 1.6; min-height: 80px; }
+
+.reset-phrases { display: flex; flex-direction: column; gap: 8px; margin-top: 12px; }
+.reset-pill { padding: 10px 14px; background: var(--panel-2); border: 1px solid var(--border); border-radius: 6px; font-size: 13px; cursor: pointer; transition: all 0.15s; }
+.reset-pill:hover { border-color: var(--accent); background: var(--panel); }
+.reset-pill::before { content: "🔄 "; opacity: 0.7; }
+
+/* Filters bar */
+.filter-bar { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 20px; padding: 12px; background: var(--panel); border-radius: 10px; border: 1px solid var(--border); }
+.filter-chip { padding: 6px 12px; background: var(--panel-2); border: 1px solid var(--border); border-radius: 6px; font-size: 12px; cursor: pointer; color: var(--muted); }
+.filter-chip:hover { color: var(--text); }
+.filter-chip.active { background: var(--accent); color: white; border-color: var(--accent); }
+
+.section { display: none; }
+.section.active { display: block; animation: fadeIn 0.2s; }
+@keyframes fadeIn { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: translateY(0); } }
+
+.callout { background: linear-gradient(135deg, rgba(79, 142, 255, 0.08), rgba(109, 211, 206, 0.08)); border: 1px solid rgba(79, 142, 255, 0.2); border-left: 4px solid var(--accent); border-radius: 8px; padding: 14px 18px; margin-bottom: 16px; font-size: 13px; line-height: 1.6; }
+.callout b { color: var(--accent); }
+
+/* Phase divider */
+.phase-divider { display: flex; align-items: center; gap: 12px; margin: 24px 0 14px; }
+.phase-divider span { font-size: 11px; color: var(--muted); text-transform: uppercase; letter-spacing: 2px; font-weight: 600; }
+.phase-divider hr { flex: 1; border: none; border-top: 1px solid var(--border); }
+
+.tag-d { background: rgba(79, 142, 255, 0.15); color: var(--accent); padding: 2px 8px; border-radius: 4px; font-size: 10px; font-family: 'JetBrains Mono', monospace; margin-right: 4px; }
+.tag-priority { color: var(--gold); margin-left: 4px; }
+
+.simulator-frame { background: var(--panel); border: 1px solid var(--border); border-radius: 12px; padding: 0; margin-bottom: 16px; min-height: 500px; display: flex; flex-direction: column; }
+.sim-header { padding: 16px 20px; border-bottom: 1px solid var(--border); display: flex; justify-content: space-between; align-items: center; }
+.sim-msgs { flex: 1; padding: 16px 20px; overflow-y: auto; max-height: 480px; }
+.sim-msg { padding: 12px 16px; border-radius: 12px; margin-bottom: 10px; max-width: 80%; font-size: 13px; line-height: 1.5; }
+.sim-msg.client { background: var(--panel-2); margin-right: auto; }
+.sim-msg.client::before { content: "👤 Klients · "; font-size: 10px; color: var(--muted); display: block; margin-bottom: 4px; }
+.sim-msg.you { background: var(--accent); color: white; margin-left: auto; }
+.sim-msg.you::before { content: "🎯 Tu · "; font-size: 10px; opacity: 0.8; display: block; margin-bottom: 4px; }
+.sim-input { padding: 16px 20px; border-top: 1px solid var(--border); display: flex; gap: 8px; }
+.sim-input input { flex: 1; background: var(--panel-2); border: 1px solid var(--border); color: var(--text); padding: 10px 14px; border-radius: 8px; font-size: 13px; font-family: inherit; }
+.sim-input button { background: var(--accent); color: white; border: none; padding: 10px 18px; border-radius: 8px; cursor: pointer; font-weight: 600; font-size: 13px; }
+.sim-feedback { margin-top: 12px; padding: 12px 14px; background: rgba(212, 165, 116, 0.1); border-left: 3px solid var(--gold); border-radius: 6px; font-size: 12px; line-height: 1.5; }
+
+footer { text-align: center; padding: 32px 0 16px; color: var(--muted); font-size: 11px; }
+</style>
+</head>
+<body data-theme="dark">
+<div class="app">
+  <aside class="sidebar" id="sidebar">
+    <div class="brand">SalesEngine <span class="v">V14</span></div>
+    <div class="subtitle">Live Operator Console</div>
+    <input class="search" id="search" placeholder="🔍 Meklē jautājumu, frāzi, mezglu...">
+    <div class="nav">
+      <button class="nav-item active" data-section="flow"><span class="nav-icon">📋</span> Q-by-Q Flow (Q1-Q40)</button>
+      <button class="nav-item" data-section="conductor"><span class="nav-icon">🎼</span> Conductor Mode</button>
+      <button class="nav-item" data-section="mezgli"><span class="nav-icon">🧬</span> V8 Molecular Map</button>
+      <button class="nav-item" data-section="types"><span class="nav-icon">👥</span> Klientu tipi</button>
+      <button class="nav-item" data-section="trees"><span class="nav-icon">🌳</span> Response Trees</button>
+      <button class="nav-item" data-section="rules"><span class="nav-icon">⚜️</span> Elite likumi</button>
+      <button class="nav-item" data-section="ladders"><span class="nav-icon">🪜</span> Comprehension</button>
+      <button class="nav-item" data-section="simulator"><span class="nav-icon">🎮</span> AI Roleplay</button>
+      <button class="nav-item" data-section="about"><span class="nav-icon">ℹ️</span> Par sistēmu</button>
+    </div>
+    <button class="theme-toggle" onclick="toggleTheme()">🌙 Dark / Light</button>
+  </aside>
+
+  <main class="main">
+    <button class="menu-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">☰ Menu</button>
+
+    <section class="section active" id="section-flow">
+      <h1 class="page-title">Q-by-Q Flow · 40 jautājumi, 8 fāzes</h1>
+      <p class="page-subtitle">Verbatim frāzes no Lauris Fathom zvaniem + Kristapa transkripta + 50+ failu integrācijas</p>
+      <div class="filter-bar">
+        <span style="font-size:11px;color:var(--muted);align-self:center;margin-right:4px;">Filtrs:</span>
+        <button class="filter-chip active" data-filter="all">Visi</button>
+        <button class="filter-chip" data-filter="critical">⭐⭐⭐ Kritiskie</button>
+        <button class="filter-chip" data-filter="phase1">Fāze 1: Frame</button>
+        <button class="filter-chip" data-filter="phase2">Fāze 2: Centrs</button>
+        <button class="filter-chip" data-filter="phase3">Fāze 3: Karte</button>
+        <button class="filter-chip" data-filter="phase6">Fāze 6: Pitch</button>
+        <button class="filter-chip" data-filter="phase7">Fāze 7: Cena</button>
+        <button class="filter-chip" data-filter="phase8">Fāze 8: Close</button>
+      </div>
+      <div id="questions-list"></div>
+    </section>
+
+    <section class="section" id="section-conductor">
+      <h1 class="page-title">🎼 Live Call Conductor</h1>
+      <p class="page-subtitle">Reāllaika diriģēšanas slānis — kur tu esi, kur klients iestrēga, kur tālāk</p>
+
+      <div class="callout">
+        <b>ZELTA LIKUMS:</b> Nedomā <i>"kāds ir nākamais jautājums?"</i> — Domā <i>"kurš ir nākamais mezgls?"</i>
+      </div>
+
+      <div class="conductor">
+        <h3 style="margin-bottom:12px;font-size:14px;">🚦 Traffic Light · Kā šobrīd jūtas saruna?</h3>
+        <div class="traffic-light">
+          <button class="tl-btn" data-color="green" onclick="setTL('green')"><div style="font-size:18px;margin-bottom:2px;">🟢</div>GREEN<br><span style="font-size:10px;font-weight:400;opacity:0.7;">Skaidrība · svars · iesaiste</span></button>
+          <button class="tl-btn" data-color="yellow" onclick="setTL('yellow')"><div style="font-size:18px;margin-bottom:2px;">🟡</div>YELLOW<br><span style="font-size:10px;font-weight:400;opacity:0.7;">Daļēja skaidrība · vēl migla</span></button>
+          <button class="tl-btn" data-color="red" onclick="setTL('red')"><div style="font-size:18px;margin-bottom:2px;">🔴</div>RED<br><span style="font-size:10px;font-weight:400;opacity:0.7;">Fasāde · nav saknes · STOP</span></button>
+        </div>
+        <div class="tl-status" id="tl-status">Klikšķini krāsu, lai redzētu, ko darīt nākamo →</div>
+      </div>
+
+      <div class="conductor">
+        <h3 style="margin-bottom:12px;font-size:14px;">🔍 5 reāllaika jautājumi sev</h3>
+        <ol style="padding-left: 20px; line-height: 2; font-size: 13px;">
+          <li><b>Kurā mezglā mēs esam?</b></li>
+          <li><b>Vai šis mezgls jau ir aizvērts?</b></li>
+          <li>Ko klients rāda — loģiku, bailes, miglu, pretestību vai gatavību?</li>
+          <li>Vai man vajag <b>iet dziļāk</b> vai <b>iet tālāk</b>?</li>
+          <li>Kas ir <b>mazākais precīzais nākamais solis</b>?</li>
+        </ol>
+      </div>
+
+      <div class="conductor">
+        <h3 style="margin-bottom:12px;font-size:14px;">🔄 Reset frāzes (kad saruna sāk jukt)</h3>
+        <div class="reset-phrases" id="reset-phrases"></div>
+      </div>
+
+      <div class="conductor">
+        <h3 style="margin-bottom:12px;font-size:14px;">🗺️ Konduktora ātrā karte · Ja mezgls vājš → kur iet</h3>
+        <table style="width:100%;border-collapse:collapse;font-size:13px;">
+          <tr style="border-bottom:1px solid var(--border);"><th style="padding:8px;text-align:left;color:var(--muted);font-weight:600;">Ja...</th><th style="padding:8px;text-align:left;color:var(--muted);font-weight:600;">Tad...</th></tr>
+          <tr><td style="padding:8px;border-bottom:1px solid var(--border);"><b>Situācija miglaina</b></td><td style="padding:8px;border-bottom:1px solid var(--border);">Neej uz pitch → sašaurini → dod piemēru jautājumu</td></tr>
+          <tr><td style="padding:8px;border-bottom:1px solid var(--border);"><b>Sāpe plakana</b></td><td style="padding:8px;border-bottom:1px solid var(--border);">Neej uz COI → body / emotional labeling</td></tr>
+          <tr><td style="padding:8px;border-bottom:1px solid var(--border);"><b>COI nav ciparu</b></td><td style="padding:8px;border-bottom:1px solid var(--border);">Neej uz cenu → monetizē vismaz aptuveni</td></tr>
+          <tr><td style="padding:8px;border-bottom:1px solid var(--border);"><b>Bullseye nenosaukts</b></td><td style="padding:8px;border-bottom:1px solid var(--border);">Neej pitch → dabū buying instruction</td></tr>
+          <tr><td style="padding:8px;border-bottom:1px solid var(--border);"><b>Belief vājš</b></td><td style="padding:8px;border-bottom:1px solid var(--border);">Neej price → atpakaļ uz proof / mehānismu</td></tr>
+          <tr><td style="padding:8px;border-bottom:1px solid var(--border);"><b>Price sabrūk</b></td><td style="padding:8px;border-bottom:1px solid var(--border);">Neej close → compare-to-what / sum-vs-belief</td></tr>
+          <tr><td style="padding:8px;"><b>Close miglains</b></td><td style="padding:8px;">Binary close · datums · maksājuma forma</td></tr>
+        </table>
+      </div>
+
+      <div class="conductor">
+        <h3 style="margin-bottom:12px;font-size:14px;">🧭 Default sliedēs (ja apjuksi)</h3>
+        <div style="font-family:'JetBrains Mono',monospace;font-size:12px;padding:12px;background:var(--panel-2);border-radius:8px;line-height:2;">
+          Realitāte → Sāpe → COI → Neizbēgamība → Identitāte → <br>
+          Bullseye → Belief → Pitch → Price → Root → <b style="color:var(--green);">Close</b>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="section-mezgli">
+      <h1 class="page-title">🧬 V8 Molecular Core Map</h1>
+      <p class="page-subtitle">14 mezgli × 8 slāņi (core / elite / psychology / therapeutic / signals / delivery / if-stuck / risks)</p>
+      <div class="callout"><b>Kā lietot:</b> Q-flow ir kanva. Šī sadaļa ir <b>krāsu palete</b>. Atkarībā no klienta tipa un brīža izvēlies pareizo slāni.</div>
+      <div class="mezgli-grid" id="mezgli-grid"></div>
+    </section>
+
+    <section class="section" id="section-types">
+      <h1 class="page-title">👥 Klientu tipi (6 stāvokļi)</h1>
+      <p class="page-subtitle">Flow paliek tas pats — maini tikai tempu, svaru, elite ieročus, delivery un dziļumu</p>
+      <div class="callout"><b>Ātrais detektors:</b> Prasa loģiku → Analītiskais · Testē tevi → Skeptiskais · Atliek → Bailīgais · Kontrolē tempu → Dominantais · Domā par līmeni → Status-driven · Runā no sajūtas → Emocionālais</div>
+      <div class="types-grid" id="types-grid"></div>
+    </section>
+
+    <section class="section" id="section-trees">
+      <h1 class="page-title">🌳 Response Trees · 8 objection lēmumu koki</h1>
+      <p class="page-subtitle">Necīnies ar pirmo frāzi — atrodi ēnas sakni</p>
+      <div id="trees-list"></div>
+    </section>
+
+    <section class="section" id="section-rules">
+      <h1 class="page-title">⚜️ 12 Premium / Elite likumi</h1>
+      <p class="page-subtitle">Augstākā līmeņa disciplīna — premium operatoros tas ir neapzināti</p>
+      <div class="rules-grid" id="rules-grid"></div>
+    </section>
+
+    <section class="section" id="section-ladders">
+      <h1 class="page-title">🪜 Comprehension Ladders</h1>
+      <p class="page-subtitle">Kad klients nesaprot jautājumu — nevis pretestība, bet neizveidota izpratne</p>
+      <div class="callout"><b>Galvenais princips:</b> Nedrīkst prasīt <i>"vēlreiz to pašu"</i>. Jābūvē sapratne pa pakāpēm.</div>
+      <div id="ladders-list"></div>
+    </section>
+
+    <section class="section" id="section-simulator">
+      <h1 class="page-title">🎮 AI Roleplay Simulator</h1>
+      <p class="page-subtitle">Treniņš ar 6 klientu tipiem · AI spēlē prospect, tu praktizē</p>
+      <div class="callout">
+        <b>Kā tas strādā:</b> Izvēlies klienta tipu zemāk. AI ieņems šo lomu un atbildēs latviski. Tu vari uzdot jebkuru jautājumu no V14 flow. Pēc katras tavas atbildes AI norādīs, kuru mezglu (no V8) tu tikko nostrādāji un kāds ir nākamais ieteicamais solis.
+        <br><br><b>⚙️ Tehniska piezīme:</b> Reāllaika AI prasa OpenAI/Anthropic API atslēgu. Šeit ir <b>demonstrācijas versija</b> ar pre-built scripted reakcijām, kuras var aizvietot ar reālu LLM API izsaukumu (skat. <code>simulator.js</code> komentāru). AI Sales Coach Custom GPT (skat. zemāk pieejamo prompt) ir uzreiz lietojams ChatGPT/Claude vidē.
+      </div>
+      <div class="filter-bar" id="sim-types"></div>
+      <div class="simulator-frame">
+        <div class="sim-header">
+          <span style="font-size:13px;color:var(--muted);">Klients: <b id="sim-current-type" style="color:var(--accent-2);">Izvēlies tipu →</b></span>
+          <button onclick="resetSim()" style="background:var(--panel-2);border:1px solid var(--border);color:var(--text);padding:6px 12px;border-radius:6px;cursor:pointer;font-size:12px;">🔄 Reset</button>
+        </div>
+        <div class="sim-msgs" id="sim-msgs"></div>
+        <div class="sim-input">
+          <input id="sim-input" placeholder='Saki kaut ko klientam... piem. "Kas ir tā galvenā lieta, ko gribētos atrisināt?"' onkeydown="if(event.key==='Enter') simSend()">
+          <button onclick="simSend()">Sūtīt</button>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="section-about">
+      <h1 class="page-title">ℹ️ Par SalesEngine V14</h1>
+      <div class="card open">
+        <div class="card-body" style="border:none;padding:0;">
+          <h3 style="margin-bottom:8px;">Kas tas ir</h3>
+          <p style="font-size:13px;line-height:1.7;color:var(--muted);">SalesEngine V14 LV-COMPLETE ir <b style="color:var(--text);">latviskais B2B pārdošanas zvana operētājsistēma</b>, kuras pamatā:</p>
+          <ul style="padding-left:24px;line-height:1.9;font-size:13px;color:var(--muted);">
+            <li>89 dzīvi Fathom zvani (78+ stundas) — verbatim frāzes</li>
+            <li>50+ avota dokumentu konsolidācija (V25 Monolith, V101, V13 NLP/Hipnoze, CARE, Promti, Gold)</li>
+            <li>Kristapa pilnais transkripts (16783 rindas) — €70k/€280k/€560k matemātika, 3 Pīlāri, 1-10 ankurs</li>
+            <li>V8 Molecular Core Map (jaunais GOLD PDF) — 14 mezgli × 8 slāņi</li>
+            <li>6 klientu tipu adaptācija + 8 response trees + 13 conductor sub-tehnikas + 8 comprehension ladders + 12 elite rules</li>
+          </ul>
+          <h3 style="margin:20px 0 8px;">Statistika</h3>
+          <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:12px;margin-bottom:20px;">
+            <div style="padding:14px;background:var(--panel-2);border-radius:8px;text-align:center;"><div style="font-size:24px;font-weight:700;color:var(--accent);">40</div><div style="font-size:11px;color:var(--muted);">Q-flow jautājumi</div></div>
+            <div style="padding:14px;background:var(--panel-2);border-radius:8px;text-align:center;"><div style="font-size:24px;font-weight:700;color:var(--accent);">14</div><div style="font-size:11px;color:var(--muted);">V8 mezgli</div></div>
+            <div style="padding:14px;background:var(--panel-2);border-radius:8px;text-align:center;"><div style="font-size:24px;font-weight:700;color:var(--accent);">8</div><div style="font-size:11px;color:var(--muted);">slāņi/mezglā</div></div>
+            <div style="padding:14px;background:var(--panel-2);border-radius:8px;text-align:center;"><div style="font-size:24px;font-weight:700;color:var(--accent);">6</div><div style="font-size:11px;color:var(--muted);">klientu tipi</div></div>
+            <div style="padding:14px;background:var(--panel-2);border-radius:8px;text-align:center;"><div style="font-size:24px;font-weight:700;color:var(--accent);">8</div><div style="font-size:11px;color:var(--muted);">response trees</div></div>
+            <div style="padding:14px;background:var(--panel-2);border-radius:8px;text-align:center;"><div style="font-size:24px;font-weight:700;color:var(--accent);">12</div><div style="font-size:11px;color:var(--muted);">elite likumi</div></div>
+          </div>
+          <h3 style="margin:20px 0 8px;">Lietošana</h3>
+          <p style="font-size:13px;line-height:1.7;color:var(--muted);">
+            <b style="color:var(--text);">Pirms zvana:</b> Atver "Q-by-Q Flow", izlasi Q1-Q5 + Q24-Q28 (pitch) + Q32 (cena). 5 min sagatavošanās.<br>
+            <b style="color:var(--text);">Zvana laikā:</b> "Conductor Mode" + "Klientu tipi" + "Response Trees" — telefons turī blakus.<br>
+            <b style="color:var(--text);">Pēc zvana:</b> "V8 Molecular Map" → atver mezglu, kurā jūti, ka iesprūdāji. "Comprehension Ladders" treniņam.
+          </p>
+          <h3 style="margin:20px 0 8px;">Versija</h3>
+          <p style="font-size:13px;color:var(--muted);">V14 LV-COMPLETE · 2026-04-25 · <b style="color:var(--text);">Lauris Leitāns</b> · <a href="https://github.com" style="color:var(--accent);text-decoration:none;">github.com/salesengine</a></p>
+        </div>
+      </div>
+    </section>
+
+    <footer>
+      SalesEngine V14 · Kompilēts no 50+ avotiem · 89 zvani · 78+ h · GOLD V8 Molecular Map<br>
+      © 2026 Lauris Leitāns / Sharpify.io
+    </footer>
+  </main>
+</div>
+
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

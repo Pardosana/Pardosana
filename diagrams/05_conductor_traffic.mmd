@@ -1,0 +1,28 @@
+flowchart TD
+    Q[Tu uzdod jautājumu] --> R[Klients atbild]
+    R --> CHECK{🚦 Traffic Light}
+
+    CHECK -->|🟢 GREEN| G[Skaidrība plus svars<br/>klients iesaistīts]
+    CHECK -->|🟡 YELLOW| Y[Daļēja skaidrība<br/>migla zem virsmas]
+    CHECK -->|🔴 RED| RD[Fasāde<br/>nav saknes nav ciparu]
+
+    G --> NEXT[➡️ Tālāk uz nākamo mezglu]
+    Y --> DEEP[🔍 1-2 precizējoši jautājumi<br/>Kas te ir galvenais<br/>Dod konkrētu piemēru]
+    RD --> STOP[⛔ STOP<br/>Atgriezies uz iepriekšējo mezglu]
+
+    DEEP --> CHECK2{Atkārto Traffic Light}
+    CHECK2 -->|Iet caur| NEXT
+    CHECK2 -->|Vēl migla| LADDER[🪜 Comprehension Ladders<br/>Vai tas par X Y vai Z]
+
+    STOP --> RESET[💧 Reset frāze<br/>Paga saīsinām<br/>Ļausi pasaukt]
+    RESET --> Q
+    LADDER --> Q
+
+    classDef green fill:#10b981,stroke:#047857,color:#fff;
+    classDef yellow fill:#fbbf24,stroke:#92400e,color:#000;
+    classDef red fill:#ef4444,stroke:#991b1b,color:#fff;
+    classDef action fill:#3b82f6,stroke:#1e40af,color:#fff;
+    class G,NEXT green;
+    class Y,DEEP yellow;
+    class RD,STOP,RESET red;
+    class CHECK,CHECK2,LADDER,Q,R action;

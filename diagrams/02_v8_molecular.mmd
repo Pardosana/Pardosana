@@ -1,0 +1,34 @@
+flowchart LR
+    subgraph META1[META 1 · Frame & Diskovery]
+        FRAME[FRAME<br/>Q1-Q3]
+        SIT[SITUĀCIJA<br/>Q8-Q11]
+        MERK[MĒRĶIS<br/>Q9, Q12-Q13]
+    end
+    subgraph META2[META 2 · Sāpe & Realitāte]
+        GAP[GAP<br/>Q11, Q19]
+        SAPE[SĀPE<br/>Q5, Q16]
+        COI[COI<br/>Q21]
+    end
+    subgraph META3[META 3 · Vīzija & Pārliecība]
+        NEIZ[NEIZBĒGAMĪBA<br/>Q17-Q18]
+        IDEN[IDENTITĀTE<br/>Q20]
+        BULL[BULLSEYE<br/>Q19, Q26]
+        BEL[BELIEF<br/>Q29]
+    end
+    subgraph META4[META 4 · Risinājums & Close]
+        PITCH[PITCH<br/>Q24-Q26]
+        PRICE[PRICE<br/>Q32]
+        OBJ[OBJECTION<br/>Q33-Q39]
+        CLOSE[CLOSE<br/>Q40]
+    end
+
+    FRAME --> SIT --> MERK --> GAP --> SAPE --> COI --> NEIZ --> IDEN --> BULL --> BEL --> PITCH --> PRICE --> OBJ --> CLOSE
+
+    classDef m1 fill:#3b82f6,stroke:#1e40af,color:#fff;
+    classDef m2 fill:#ef4444,stroke:#991b1b,color:#fff;
+    classDef m3 fill:#10b981,stroke:#047857,color:#fff;
+    classDef m4 fill:#d4a574,stroke:#8b6914,color:#fff,font-weight:bold;
+    class FRAME,SIT,MERK m1;
+    class GAP,SAPE,COI m2;
+    class NEIZ,IDEN,BULL,BEL m3;
+    class PITCH,PRICE,OBJ,CLOSE m4;

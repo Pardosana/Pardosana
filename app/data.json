@@ -1,0 +1,836 @@
+{
+  "version": "V14 LV-COMPLETE",
+  "date": "2026-04-25",
+  "questions": [
+    {
+      "num": 1,
+      "title": "SVEICIENS + RAPORTS",
+      "priority": 0,
+      "dkods": "D1 · M1 · THE OPENER",
+      "merkis": "Cilvēciska sasaiste. Ne-sales telpa.",
+      "phrases": [
+        "Sveiks, [Vārds]! Man liels prieks, ka tu esi šodien ieradies. Paldies, ka esi atradis laiku šeit sarunai. Kā tava diena?",
+        "Kā iet, veiks? Sveiks, sveiks! Super."
+      ],
+      "raw": "**D-kods:** D1 · M1 · THE OPENER\n**Mērķis:** Cilvēciska sasaiste. Ne-sales telpa.\n\n**SAKI VERBATIM (no Kristapa real transkripta):**\n> *\"Sveiks, [Vārds]! Man liels prieks, ka tu esi šodien ieradies. Paldies, ka esi atradis laiku šeit sarunai. Kā tava diena?\"*\n\n**Alternatīva (no Lauris Fathom zvaniem, neformālāks):**\n> *\"Kā iet, veiks? Sveiks, sveiks! Super.\"*\n\n*[30 sek small talk — tehnika, kamera, \"ka redz Google?\". Cilvēcīgi, bez steigas.]*\n\n⏸ **GAIDI klienta atbildi.**\n\n---"
+    },
+    {
+      "num": 2,
+      "title": "AGENDA (SOFT FRAME)",
+      "priority": 1,
+      "dkods": "D2 · M2 · FRAME SET",
+      "merkis": "Noņemt \"pārdevēja\" smaku. Klients saprot — šis ir filtrs, ne pitch.",
+      "phrases": [
+        "Zini, kā pie mums notiek šāda tipa sarunas — lai labāk saprastu tavu situāciju, es uzdošu pāris jautājumus, iedziļināšos tajā visā. Mums arī ierakstās saruna — pierakstīšu tavu esošo situāciju, vēlmo situāciju. Ja jūtu, ka varam tev būt noderīgi — pastāstīšu konkrētu plānu. Ja jūtu, ka nevaram — teikšu uzreiz, būs īsāka saruna. Skan labi?"
+      ],
+      "raw": "**D-kods:** D2 · M2 · FRAME SET\n**Mērķis:** Noņemt \"pārdevēja\" smaku. Klients saprot — šis ir filtrs, ne pitch.\n\n**SAKI VERBATIM (no Kristapa + Lauris kombinācija):**\n> *\"Zini, kā pie mums notiek šāda tipa sarunas — lai labāk saprastu tavu situāciju, es uzdošu pāris jautājumus, iedziļināšos tajā visā. Mums arī ierakstās saruna — pierakstīšu tavu esošo situāciju, vēlmo situāciju. Ja jūtu, ka varam tev būt noderīgi — pastāstīšu konkrētu plānu. Ja jūtu, ka nevaram — teikšu uzreiz, būs īsāka saruna. Skan labi?\"*\n\n⏸ **GAIDI LOCK:** *\"Jā / Skan labi / Labi.\"*\n\n🎯 **NOTEIKUMS (no V26.1):** Vienmēr saņem *\"jā\"* uz agendu. Tas ir pirmais micro-commitment ar procesu. Ja klients saka *\"paga, kas par ierakstu?\"* — mierīgi paskaidro: *\"Tikai iekšējai lietošanai, lai varu tev atsūtīt pārskatu, kad mēs beigsim.\"*\n\n---"
+    },
+    {
+      "num": 3,
+      "title": "LĒMUMU PIEŅĒMĒJS",
+      "priority": 0,
+      "dkods": "D2 · M3b · DECISION MAKER CHECK",
+      "merkis": "Agrāk noskaidrot, vai klients var tagad lemt. Pretējā gadījumā zvans būs \"jārunā ar sievu\" bumba.",
+      "phrases": [
+        "Vai šajā sarunā ir jābūt vēl kādam cilvēkam, kas iegūtu kaut ko no šīs sarunas — vai kas lemj par šādām lietām?"
+      ],
+      "raw": "**D-kods:** D2 · M3b · DECISION MAKER CHECK\n**Mērķis:** Agrāk noskaidrot, vai klients var tagad lemt. Pretējā gadījumā zvans būs \"jārunā ar sievu\" bumba.\n\n**SAKI VERBATIM (no Kristapa transkripta):**\n> *\"Vai šajā sarunā ir jābūt vēl kādam cilvēkam, kas iegūtu kaut ko no šīs sarunas — vai kas lemj par šādām lietām?\"*\n\n⏸ **GAIDI.**\n\n↩ **Ja \"nē, es lemju\":** 🎯 LOCK. Tālāk uz #4.\n\n↩ **Ja \"jāapspriežas ar sievu/partneri\":** *\"Ok, saprotams. Ņemot vērā, ka šis ir svarīgs lēmums — varbūt labāk mēs pārplānojam uz citu laiku, kad jūs abi varat būt klāt? Lai vienā reizē izrunātu visu?\"*\n\n**🚨 NOTEIKUMS (no V26.1):** Ja abi lēmumu pieņēmēji nav klāt — risks, ka *\"jārunā ar partneri\"* aizkavēs close. Ideāli = abi klāt.\n\n---"
+    },
+    {
+      "num": 4,
+      "title": "GALVENĀ LIETA",
+      "priority": 3,
+      "dkods": "D3 · M4 · REALITY PROBE",
+      "merkis": "TAVS signature jautājums. No visiem Fathom zvaniem viscaur atkārtojas vairāk nekā 90% reižu.",
+      "phrases": [
+        "Varbūt arī tu pats zini, kas ir tā galvenā lieta, kas tevi atvedusi uz šo sarunu — kas ir tā galvenā lieta, ko gribētos atrisināt, ko gribētos sasniegt? Tas būs par pamatu visai mūsu sarunai."
+      ],
+      "raw": "**D-kods:** D3 · M4 · REALITY PROBE\n**Mērķis:** TAVS signature jautājums. No visiem Fathom zvaniem viscaur atkārtojas vairāk nekā 90% reižu.\n\n**SAKI VERBATIM (no Lauris Fathom zvaniem):**\n> *\"Varbūt arī tu pats zini, kas ir tā galvenā lieta, kas tevi atvedusi uz šo sarunu — kas ir tā galvenā lieta, ko gribētos atrisināt, ko gribētos sasniegt? Tas būs par pamatu visai mūsu sarunai.\"*\n\n⏸ **GAIDI 30–90 sek. Ļauj klientam runāt. Pieraksti VĀRDUS, ko viņš lieto.**\n\n**PIEZĪME:** Klientam tā būs pirmā \"īstā\" atbilde. Pieraksti to **burtiski**, jo vēlāk šos vārdus lietosi pitch fāzē (Q#24–Q#27) un close (Q#32).\n\n---"
+    },
+    {
+      "num": 5,
+      "title": "KAS LIKA REĀLI IERASTIES",
+      "priority": 0,
+      "dkods": "D3 · M4b · URGENCY TRIGGER",
+      "merkis": "Atrast laika faktoru — *kāpēc tagad, ne pirms 6 mēnešiem*.",
+      "phrases": [
+        "Cik es saprotu, tev piezvanīja mans kolēģis [vai tu pats pieteicies]. Pareizi? Kas tev lika pieņemt lēmumu reāli ierasties uz šo sarunu šodien? Kas notika vakar, pagājušajā nedēļā, kas padarīja šo par prioritāti?"
+      ],
+      "raw": "**D-kods:** D3 · M4b · URGENCY TRIGGER\n**Mērķis:** Atrast laika faktoru — *kāpēc tagad, ne pirms 6 mēnešiem*.\n\n**SAKI VERBATIM (no Kristapa + Lauris hibrids):**\n> *\"Cik es saprotu, tev piezvanīja mans kolēģis [vai tu pats pieteicies]. Pareizi? Kas tev lika pieņemt lēmumu reāli ierasties uz šo sarunu šodien? Kas notika vakar, pagājušajā nedēļā, kas padarīja šo par prioritāti?\"*\n\n⏸ **GAIDI.**\n\n**MICE SIGNĀLI (klausies):**\n- *\"Konkurents mūs aizsteidza priekšā...\"* → **EGO**\n- *\"Zaudēju 3 darījumus pēc kārtas...\"* → **MONEY**\n- *\"Gribēju kļūt par lielāko...\"* → **IDEOLOGY**\n- *\"Sieva saka, ka jādara kaut kas...\"* → **COMPROMISE**\n\n**Pieraksti, kurš dzinējs dominē — šis būs tavs svira Q#32 cenas pasniegšanā.**\n\n---"
+    },
+    {
+      "num": 6,
+      "title": "DZIĻĀ MOTIVĀCIJA  (ZELTA JAUTĀJUMS)",
+      "priority": 1,
+      "dkods": "D3 · M4c · DEEP MOTIVATION",
+      "merkis": "Aiz \"gribu klientus\" meklē **īsto emocionālo mērķi**. Nauda vienmēr ir cipars — mēs meklējam, kas aiz tās.",
+      "phrases": [
+        "Ko tev dos, ja tu pelnīsi vairāk?",
+        "Protams, bet nauda vienmēr ir tāds cipars. Ir kaut kāds iemesls, kāpēc tieši tu tagad to gribi darīt. Kas tev nozīmē paplašināšanās?"
+      ],
+      "raw": "**D-kods:** D3 · M4c · DEEP MOTIVATION\n**Mērķis:** Aiz \"gribu klientus\" meklē **īsto emocionālo mērķi**. Nauda vienmēr ir cipars — mēs meklējam, kas aiz tās.\n\n**SAKI VERBATIM (no Kristapa transkripta):**\n> *\"Ko tev dos, ja tu pelnīsi vairāk?\"*\n\n↩ **Klients:** *\"Nu, kurš negrib vairāk naudas.\"*\n\n**ATBILDI ATPAKAĻ:**\n> *\"Protams, bet nauda vienmēr ir tāds cipars. Ir kaut kāds iemesls, kāpēc tieši tu tagad to gribi darīt. Kas tev nozīmē paplašināšanās?\"*\n\n⏸ **GAIDI. TAS IR ZELTA ATBILDE.**\n\n**Piemērs (Kristapa real transkripta):**\n- Klients: *\"Gribu kļūt par lielāko moduļu māju kompāniju Latvijā.\"*\n- Tu piefiksē šo kā **emocionālo dzinēju** un lieto visā tālākajā sarunā:\n  - *\"Lai tu kļūtu par to līderi...\"*\n  - *\"Lai tu sasniedzi to vīziju par lielāko...\"*\n  - *\"Par tā kompānijas vadītāju, par kuru tu runā...\"*\n\n---"
+    },
+    {
+      "num": 7,
+      "title": "ĪPAŠNIEKA POZĪCIJA",
+      "priority": 0,
+      "dkods": "D2 · M3c",
+      "merkis": "Noskaidrot, vai klients tiešām vada biznesu.",
+      "phrases": [
+        "Diena, sanāk tā, ka tas ir tavs uzņēmums, vai arī tu esi kā vadītājs tur?"
+      ],
+      "raw": "**D-kods:** D2 · M3c\n**Mērķis:** Noskaidrot, vai klients tiešām vada biznesu.\n\n**SAKI:**\n> *\"Diena, sanāk tā, ka tas ir tavs uzņēmums, vai arī tu esi kā vadītājs tur?\"*\n\n*[Ja īpašnieks:]* → #8\n*[Ja vadītājs, nav īpašnieks:]* → Fiksē, kurš ir īpašnieks. Ja viņš nav zvanā — pārvērtē, vai SS2 ar īpašnieku nav labāks solis.\n\n---"
+    },
+    {
+      "num": 8,
+      "title": "KLIENTU TIPS",
+      "priority": 0,
+      "dkods": "D4 · M6 · SITUATION MAP",
+      "merkis": "Saprast, par kādu tipu klientiem mēs ejam — privātie vai uzņēmēji.",
+      "phrases": [
+        "Ok, bet par kādu tipu klientiem mēs šeit runājam un cik daudz?",
+        "Klienta tipi ir — privāts patērētājs, vai uzņēmējs, vai tu gribi iet uz industriāliem, šiem te objektiem, vai tu gribētu partnerus?"
+      ],
+      "raw": "**D-kods:** D4 · M6 · SITUATION MAP\n**Mērķis:** Saprast, par kādu tipu klientiem mēs ejam — privātie vai uzņēmēji.\n\n**SAKI VERBATIM (no Lauris Fathom):**\n> *\"Ok, bet par kādu tipu klientiem mēs šeit runājam un cik daudz?\"*\n\n*[Ja klients mulst — palīdzi:]*\n> *\"Klienta tipi ir — privāts patērētājs, vai uzņēmējs, vai tu gribi iet uz industriāliem, šiem te objektiem, vai tu gribētu partnerus?\"*\n\n⏸ **GAIDI.**\n\n---"
+    },
+    {
+      "num": 9,
+      "title": "CIK GRIB (MĒNESĪ)",
+      "priority": 0,
+      "dkods": "D5 · M7 · NUMBERS HAMMER",
+      "merkis": "Dabūt **PRECĪZU mēneša mērķa ciparu**.",
+      "phrases": [
+        "Cik daudz tu šādus privātos varētu uzņemt mēnesī? Nogrieznī?"
+      ],
+      "raw": "**D-kods:** D5 · M7 · NUMBERS HAMMER\n**Mērķis:** Dabūt **PRECĪZU mēneša mērķa ciparu**.\n\n**SAKI VERBATIM:**\n> *\"Cik daudz tu šādus privātos varētu uzņemt mēnesī? Nogrieznī?\"*\n\n⏸ **GAIDI ciparu.**\n\n**Piemērs:** Kristaps: *\"Četri.\"*\n\n---"
+    },
+    {
+      "num": 10,
+      "title": "CIK IR ŠOBRĪD",
+      "priority": 0,
+      "dkods": "D5 · M7b",
+      "merkis": "Reālais starta punkts.",
+      "phrases": [
+        "Šobrīd ir reāli tev kāds?"
+      ],
+      "raw": "**D-kods:** D5 · M7b\n**Mērķis:** Reālais starta punkts.\n\n**SAKI:**\n> *\"Šobrīd ir reāli tev kāds?\"*\n\n⏸ **GAIDI.**\n\n**Piemērs:** Kristaps: *\"Puspotra.\"*\n\n---"
+    },
+    {
+      "num": 11,
+      "title": "GAP PIEZĪME (PĀRFRĀZE)",
+      "priority": 0,
+      "dkods": "D8 · M12 · GAP ANCHOR",
+      "merkis": "Savienot #9 un #10 — klients **pats** dzird caurumu.",
+      "phrases": [
+        "Tātad tu šobrīd gribētu četrus jaunus, bet šobrīd ir pusotras… Ok, tad ņemsim to kā divus, jā. Tad tev vēl vajadzētu tagad divus atrast? Pus to tev brīvi?"
+      ],
+      "raw": "**D-kods:** D8 · M12 · GAP ANCHOR\n**Mērķis:** Savienot #9 un #10 — klients **pats** dzird caurumu.\n\n**SAKI VERBATIM (no Lauris):**\n> *\"Tātad tu šobrīd gribētu četrus jaunus, bet šobrīd ir pusotras… Ok, tad ņemsim to kā divus, jā. Tad tev vēl vajadzētu tagad divus atrast? Pus to tev brīvi?\"*\n\n**Kāpēc šis strādā:** Tu nesaki *\"tev ir problēma\"*. Tu saki pašu klienta ciparus atpakaļ, viņš dzird caurumu.\n\n---"
+    },
+    {
+      "num": 12,
+      "title": "VIDĒJAIS ČEKS",
+      "priority": 1,
+      "dkods": "D5 · M8 · UNIT ECONOMICS",
+      "merkis": "Aprēķināt, cik vērts viens klients = cik vērts ir €2400 investīcijas.",
+      "phrases": [
+        "Cik vispār izdevīgs tev viens klients vērtīgs? No—līdz, vidējais čeks, cik sanāk?",
+        "Okei, €70 000. Tas sanāk, ja tavs apgrozījums ir kaut kur €280 000 — tad mērķis būtu €560 000. Tas ir pareizi?"
+      ],
+      "raw": "**D-kods:** D5 · M8 · UNIT ECONOMICS\n**Mērķis:** Aprēķināt, cik vērts viens klients = cik vērts ir €2400 investīcijas.\n\n**SAKI VERBATIM:**\n> *\"Cik vispār izdevīgs tev viens klients vērtīgs? No—līdz, vidējais čeks, cik sanāk?\"*\n\n⏸ **GAIDI € ciparu.**\n\n**Piemērs:** Kristaps: *\"Moduļu mājas kaut kur €70 000.\"*\n\n**MATH UZREIZ (zvana laikā):**\n> *\"Okei, €70 000. Tas sanāk, ja tavs apgrozījums ir kaut kur €280 000 — tad mērķis būtu €560 000. Tas ir pareizi?\"*\n\n🎯 **Šeit radi €Y ciparu (vēlmes apgrozījums). Tas būs Gap enkurs Q#23.**\n\n---"
+    },
+    {
+      "num": 13,
+      "title": "APGROZĪJUMS GADĀ",
+      "priority": 0,
+      "dkods": "D5 · M8b",
+      "merkis": "Dubult-apstiprinājums — klients apstiprina savu pašu matemātiku.",
+      "phrases": [
+        "Cik, tevprāt, ir tas potenciāls, tev sasniegt gadā? Ne tik, cik šobrīd, bet cik gribētos, iet pretī?"
+      ],
+      "raw": "**D-kods:** D5 · M8b\n**Mērķis:** Dubult-apstiprinājums — klients apstiprina savu pašu matemātiku.\n\n**SAKI:**\n> *\"Cik, tevprāt, ir tas potenciāls, tev sasniegt gadā? Ne tik, cik šobrīd, bet cik gribētos, iet pretī?\"*\n\n**Piemērs:** Klients: *\"250 tūkstoši.\"* → Tu: *\"Ok, un šobrīd kur?\"* → *\"100 tūkstoši.\"*\n\n**Gap = 150 tūkstoši** (tavs €X zaudējums visā tālākajā sarunā).\n\n---"
+    },
+    {
+      "num": 14,
+      "title": "UZSĀKŠANAS GATAVĪBA",
+      "priority": 0,
+      "dkods": "D4 · M6b",
+      "merkis": "Cik drīz klients faktiski var sākt.",
+      "phrases": [
+        "Kā tu vari, teiksim, uzņemt? Ko tev nozīmē tagad? Rīt jau esi gatavs jaunu objektu vienu paņemt? Aprīlī? Aprīļa sākumā?"
+      ],
+      "raw": "**D-kods:** D4 · M6b\n**Mērķis:** Cik drīz klients faktiski var sākt.\n\n**SAKI VERBATIM (no Lauris):**\n> *\"Kā tu vari, teiksim, uzņemt? Ko tev nozīmē tagad? Rīt jau esi gatavs jaunu objektu vienu paņemt? Aprīlī? Aprīļa sākumā?\"*\n\n⏸ **GAIDI datumu.**\n\n---"
+    },
+    {
+      "num": 15,
+      "title": "TERITORIJA",
+      "priority": 0,
+      "dkods": "D4 · M6c",
+      "merkis": "Ģeogrāfisks kvalifikators.",
+      "phrases": [
+        "Super. Un kāda citās teritorijas? Tu strādā pa visu Latviju? Gribi ārpus Latvijas — uz Zviedriju, Igauniju? Vai tikai Rīga?"
+      ],
+      "raw": "**D-kods:** D4 · M6c\n**Mērķis:** Ģeogrāfisks kvalifikators.\n\n**SAKI:**\n> *\"Super. Un kāda citās teritorijas? Tu strādā pa visu Latviju? Gribi ārpus Latvijas — uz Zviedriju, Igauniju? Vai tikai Rīga?\"*\n\n---"
+    },
+    {
+      "num": 16,
+      "title": "REĀLĀ KAPACITĀTE",
+      "priority": 1,
+      "dkods": "D4 · M6d · CAPACITY CHECK",
+      "merkis": "Ja nav kapacitātes, nav jēgas pārdot. Tu netaisīsi viņam \"zaudējušos zvanus\".",
+      "phrases": [
+        "Šobrīd sanāk tā, ka tu jau ar esošajiem darbiniekiem, cik viņi tev ir šobrīd — tu vari vēl objektu uzņemt vai tu nevari?"
+      ],
+      "raw": "**D-kods:** D4 · M6d · CAPACITY CHECK\n**Mērķis:** Ja nav kapacitātes, nav jēgas pārdot. Tu netaisīsi viņam \"zaudējušos zvanus\".\n\n**SAKI VERBATIM (no Lauris 89 zvanu analīzes — obligāts jautājums):**\n> *\"Šobrīd sanāk tā, ka tu jau ar esošajiem darbiniekiem, cik viņi tev ir šobrīd — tu vari vēl objektu uzņemt vai tu nevari?\"*\n\n⏸ **GAIDI.**\n\n↩ **Ja \"nevaru\":** Klients nav kvalificēts uz klientu piesaistes pakalpojumu. *\"Ok, tad mēs varam runāt par darbinieku piesaisti vispirms — vai gribi, lai es izstāstu arī to?\"*\n\n↩ **Ja \"varu\":** → #17\n\n---"
+    },
+    {
+      "num": 17,
+      "title": "CIK ILGI ŠĀDA SITUĀCIJA",
+      "priority": 0,
+      "dkods": "D6 · M9 · CONSEQUENCE CHAIN",
+      "merkis": "Laika dimensija — cik ilgi stagnācija?",
+      "phrases": [
+        "Cik ilgi tu esi šajā līmenī — vienkārši, lai saprastu?",
+        "Gads. Kāpēc ir šāda situācija, ka gadu visu laiku ar tiem četriem klientiem strādā?",
+        "Kāpēc neesi pievērsies?"
+      ],
+      "raw": "**D-kods:** D6 · M9 · CONSEQUENCE CHAIN\n**Mērķis:** Laika dimensija — cik ilgi stagnācija?\n\n**SAKI VERBATIM (no Kristapa):**\n> *\"Cik ilgi tu esi šajā līmenī — vienkārši, lai saprastu?\"*\n\n*[Klients: \"Nu, gadu.\"]*\n\n> *\"Gads. Kāpēc ir šāda situācija, ka gadu visu laiku ar tiem četriem klientiem strādā?\"*\n\n*[Klients: \"Itin neesmu tam pievērsies.\"]*\n\n> *\"Kāpēc neesi pievērsies?\"*\n\n*[Klients: \"Nav laika.\"]*\n\n⚡ **SVARĪGI:** *\"Nav laika\"* = nav prioritizēts. **Pieraksti šo atbildi** — tu atgriezīsies pie tās Q#34 (iebildumu apstrādē pret \"nav laika\").\n\n---"
+    },
+    {
+      "num": 18,
+      "title": "ZELTA JAUTĀJUMS — IDEJA GALVĀ",
+      "priority": 2,
+      "dkods": "D7 · M10 · DECISION MOMENT",
+      "merkis": "**ŠIS IR TAVS NO. 1 CLOSE INSTRUMENTS.**",
+      "phrases": [
+        "Cik ilgi tev šī ideja sēž galvā — [kļūt par līderi / dabūt vairāk klientus / paplašināties]?",
+        "Tu jau lēmumu esi pieņēmis pirms 6 gadiem, ka gribi kļūt par līderi. Šodien nav jāpieņem jauns lēmums — šodien ir vienkārši jārīkojas. Tas ir viss."
+      ],
+      "raw": "**D-kods:** D7 · M10 · DECISION MOMENT\n**Mērķis:** **ŠIS IR TAVS NO. 1 CLOSE INSTRUMENTS.**\n\n**SAKI VERBATIM (no Kristapa):**\n> *\"Cik ilgi tev šī ideja sēž galvā — [kļūt par līderi / dabūt vairāk klientus / paplašināties]?\"*\n\n*[Klients: \"Kopš uzsāku — sešus gadus atpakaļ.\"]*\n\n**KĀPĒC JAUTĀJUMS?** Atbilde *\"X gadi galvā\"* tiek izmantota closeā:\n\n> *\"Tu jau lēmumu esi pieņēmis pirms 6 gadiem, ka gribi kļūt par līderi. Šodien nav jāpieņem jauns lēmums — šodien ir vienkārši jārīkojas. Tas ir viss.\"*\n\n**Pieraksti ciparu — tas ir tavs **\"lēmums jau pieņemts\"** arguments Q#35.**\n\n---"
+    },
+    {
+      "num": 19,
+      "title": "VAI MEKLĒTS RISINĀJUMS IEPRIEKŠ",
+      "priority": 0,
+      "dkods": "D7 · M11 · BELIEF CHECK",
+      "merkis": "Saprast, vai klients mēģināja pats (un kāpēc neizdevās).",
+      "phrases": [
+        "Vai tu esi kādreiz kaut ko meklējis, lai atrisinātu šo problēmu?"
+      ],
+      "raw": "**D-kods:** D7 · M11 · BELIEF CHECK\n**Mērķis:** Saprast, vai klients mēģināja pats (un kāpēc neizdevās).\n\n**SAKI VERBATIM (no Kristapa):**\n> *\"Vai tu esi kādreiz kaut ko meklējis, lai atrisinātu šo problēmu?\"*\n\n↩ **Ja \"nē\":** *\"Saprotu. Nu kā ir šobrīd — vai vēlies šo problēmu risināt?\"*\n\n↩ **Ja \"jā, mēģinājām Facebook reklāmas\":** → Aktivē **CARE Ietvars** (skat. Sadaļa IV):\n- Precizē: *\"Kad tu saki 'nestrādāja' — vai nebija līdu, bija nekvalificēti, vai konversija zema?\"*\n- Atzīsti: *\"Tas ir ļoti bieži. Es saprotu, kāpēc tev ir negatīva pieredze.\"*\n- Pārkadro: *\"Vairums, kas 'pamēģināja Facebook reklāmas', lietoja Boost pogu vai Traffic kampaņu — kas piegādā klikšķus, ne līdus. Mēs būvējam SISTĒMU.\"*\n- Izpēti: *\"Vai tev būtu vērtīgi redzēt, kā izskatās pareizi uzbūvēta sistēma tavā nozarē?\"*\n\n---"
+    },
+    {
+      "num": 20,
+      "title": "PERSONĪGĀ VĒLME",
+      "priority": 0,
+      "dkods": "D10 · M14 · PERSONAL WANT",
+      "merkis": "Mīkstais \"collision\" — liec klientam pateikt pašam, ka grib.",
+      "phrases": [
+        "Kā tu domā, ja mēs tikko vienkārši noliekam sekundīti malā visu — kā tu pati/pats personīgi? Tu gribi to darīt?"
+      ],
+      "raw": "**D-kods:** D10 · M14 · PERSONAL WANT\n**Mērķis:** Mīkstais \"collision\" — liec klientam pateikt pašam, ka grib.\n\n**SAKI VERBATIM (no Lauris Fathom):**\n> *\"Kā tu domā, ja mēs tikko vienkārši noliekam sekundīti malā visu — kā tu pati/pats personīgi? Tu gribi to darīt?\"*\n\n⏸ **GAIDI. Klausies TONI, ne tikai vārdus.**\n\n**Kāpēc šis strādā:** Mīksti liec klientam pašam pateikt **\"jā, gribu\"**. Bez 10/10 skalas, bez \"Gold\", tikai personīga vēlme.\n\n---"
+    },
+    {
+      "num": 21,
+      "title": "BEZDARBĪBAS CENA (COI)",
+      "priority": 0,
+      "dkods": "D7 · M8 · COST OF INACTION",
+      "merkis": "Padarīt nekustēšanos DĀRGĀKU par investīciju.",
+      "phrases": [],
+      "raw": "**D-kods:** D7 · M8 · COST OF INACTION\n**Mērķis:** Padarīt nekustēšanos DĀRGĀKU par investīciju.\n\n**SAKI (ar €X zaudējumu no #13):**\n> *\"Tātad, ja mēs runājam godīgi — tu šobrīd esi pie €100k gadā, bet gribi €250k. Tas nozīmē, ka katru mēnesi, ko mēs neko nemainam, tu \"izdod\" tirgum €12,5k. Ja mēs šodien nestartējam un sākam pēc 3 mēnešiem — tas ir €37k. Pareizi?\"*\n\n⏸ **GAIDI apstiprinājumu.**\n\n---"
+    },
+    {
+      "num": 22,
+      "title": "INVESTORA RĀMIS",
+      "priority": 1,
+      "dkods": "D6 · M9b · INVESTOR FRAME",
+      "merkis": "Klients pats sevi redz no malas. Elite jautājums.",
+      "phrases": [
+        "Iedomājies, ka tu esi investors no malas — redzi uzņēmumu, kas zaudē €12,5k mēnesī šīs problēmas dēļ. Kādi 3 jautājumi tev rastos? Ko tu ieteiktu šī uzņēmuma vadītājam darīt?"
+      ],
+      "raw": "**D-kods:** D6 · M9b · INVESTOR FRAME\n**Mērķis:** Klients pats sevi redz no malas. Elite jautājums.\n\n**SAKI:**\n> *\"Iedomājies, ka tu esi investors no malas — redzi uzņēmumu, kas zaudē €12,5k mēnesī šīs problēmas dēļ. Kādi 3 jautājumi tev rastos? Ko tu ieteiktu šī uzņēmuma vadītājam darīt?\"*\n\n⏸ **GAIDI. Klients pats izteic secinājumu. Tu esi tikai kalkulators.**\n\n---"
+    },
+    {
+      "num": 23,
+      "title": "NĀKOTNES VĪZIJA (BRIDGE)",
+      "priority": 0,
+      "dkods": "D9 · M13 · THE BRIDGE",
+      "merkis": "Vizualizēt nākotni BEZ problēmas.",
+      "phrases": [
+        "Ja rīt mēs noņemam šo slogu un aizveram šo €150k caurumu — kā izskatās tava jaunā realitāte? Ne tikai cipari, bet kā tu jūties kā cilvēks, kurš beidzot kļūst par to līderi, par ko tu runāji?",
+        "Iedomājies... pēc 12 mēnešiem tu mosties un jūti to mieru ķermenī... kā tas ir?"
+      ],
+      "raw": "**D-kods:** D9 · M13 · THE BRIDGE\n**Mērķis:** Vizualizēt nākotni BEZ problēmas.\n\n**SAKI:**\n> *\"Ja rīt mēs noņemam šo slogu un aizveram šo €150k caurumu — kā izskatās tava jaunā realitāte? Ne tikai cipari, bet kā tu jūties kā cilvēks, kurš beidzot kļūst par to līderi, par ko tu runāji?\"*\n\n⏸ **GAIDI. Ļauj stāstīt.**\n\n**NLP Future Pacing (ja klients atver):**\n> *\"Iedomājies... pēc 12 mēnešiem tu mosties un jūti to mieru ķermenī... kā tas ir?\"*\n\n---"
+    },
+    {
+      "num": 24,
+      "title": "PĀREJA UZ PITCH (SPOGULIS)",
+      "priority": 0,
+      "dkods": "D9 · M13b · MIRROR",
+      "merkis": "Atspoguļot klienta situāciju, parādot, ka tu saprati.",
+      "phrases": [
+        "Nu davai. Redz, tu man tikko pastāstīji, ka esi pusotras objektos, gribi četrus, vidējais čeks €70k, un tava vīzija ir kļūt par lielāko moduļu māju kompāniju Latvijā. Un šobrīd tavs modelis ir — tu pats darbojies, nav laika, klienti nāk no mute uz muti. Pareizi?"
+      ],
+      "raw": "**D-kods:** D9 · M13b · MIRROR\n**Mērķis:** Atspoguļot klienta situāciju, parādot, ka tu saprati.\n\n**SAKI VERBATIM (no Lauris + Kristaps):**\n> *\"Nu davai. Redz, tu man tikko pastāstīji, ka esi pusotras objektos, gribi četrus, vidējais čeks €70k, un tava vīzija ir kļūt par lielāko moduļu māju kompāniju Latvijā. Un šobrīd tavs modelis ir — tu pats darbojies, nav laika, klienti nāk no mute uz muti. Pareizi?\"*\n\n🎯 **LOCK:** Klients apstiprina: *\"Jā.\"*\n\n---"
+    },
+    {
+      "num": 25,
+      "title": "LŪZUMA PUNKTS",
+      "priority": 0,
+      "dkods": "D9 · M13c · RUPTURE",
+      "merkis": "Nosaukt, ka vecais modelis nestrādā.",
+      "phrases": [
+        "Problēma nav, ka tev ir slikts produkts. Produkts ir super. Problēma ir plūsmas modelī — tu esi atkarīgs no mute uz mutes un nejaušības. Bez sistēmas tas paliks haoss — arī 12 mēnešus no šodienas tu būsi turpat."
+      ],
+      "raw": "**D-kods:** D9 · M13c · RUPTURE\n**Mērķis:** Nosaukt, ka vecais modelis nestrādā.\n\n**SAKI (no Promti.md):**\n> *\"Problēma nav, ka tev ir slikts produkts. Produkts ir super. Problēma ir plūsmas modelī — tu esi atkarīgs no mute uz mutes un nejaušības. Bez sistēmas tas paliks haoss — arī 12 mēnešus no šodienas tu būsi turpat.\"*\n\n---"
+    },
+    {
+      "num": 26,
+      "title": "JAUNAIS MODELIS (3 PĪLĀRI)",
+      "priority": 3,
+      "dkods": "D11 · M15 · THE OFFER",
+      "merkis": "Pasniegt META sistēmu kā **3 savstarpēji saistītas kolonnas**.",
+      "phrases": [
+        "Okei, tad ejam tālāk. Es tev ieskicēšu precīzi soli pa solim, ko mēs darām kā uzņēmums. Ja ir kādi jautājumi — droši vaicā. Labi?",
+        "Pirmā lieta: iedomājies, tev ir 10–20 uzņēmumi, kas šobrīd ar tevi konkurē. Mēs gribam, lai tu esi pievilcīgāks un unikālāks. Tāpēc izstrādājam pievilcīgu piedāvājumu ar mūsu 'Vilka metodi' — lai uzrunātu precīzi to cilvēku, kas no tevis grib pirkt. Tālu, vai tev šitas ir skaidrs?",
+        "Kā tev liekas — vai šis varētu palīdzēt piesaistīt vairāk klientu?",
+        "Otrā lieta: tā kā piedāvājums ir gatavs, ieviešam automatizāciju — ko mēs saucam par sistematizāciju. Tas, kas tevi šeit atnesa: tu redzēji reklāmu, pieteicies, aizpildīji, tev piezvanīju. Ļoti elementārs process — un šo mēs ieviešam tavā biznesā. Visi vizuāļi, teksti, video reklāmas, automatizācijas. Mērķis: katru dienu 1–10 potenciālie klienti, kas grib runāt ar tevi par [tavu produktu]. Kā tev izskatās?",
+        "Piemēram, Modern House — septiņās dienās palaidām kampaņu, viņi ielika 244 eiro, tas ir 30 eiro dienā. Dabūja 87 cilvēkus, kas grib būvēt mājas. Katrs cilvēks izmaksāja ap 3 eiro.",
+        "Ieteikums ir €20/dienā. Pie mums klients izmaksā ~€4. Par €20/dienā ≈ 5 pieteikumi/dienā. Pie tevis var būt līdzīgi, atkarībā no tirgus.",
+        "Trešā lieta — CRM, ko mēs esam izveidojuši. Ideja: tu sekosi klienta pārdošanas ciklam. Tu nepalaidīsi garām nevienu pieteikumu — viņš saņems automātisku e-pastu, tu varēsi atstāt piezīmes, nosūtīt e-pastu, Telegram. Tu lieto Telegram?",
+        "Ideāli. Tavs uzdevums: ar šo klientu sazināties, sarunāt tikšanos, noslēgt darījumu. Par pārējo mēs parūpēsimies."
+      ],
+      "raw": "**D-kods:** D11 · M15 · THE OFFER\n**Mērķis:** Pasniegt META sistēmu kā **3 savstarpēji saistītas kolonnas**.\n\n**SAKI VERBATIM (no Kristapa transkripta):**\n\n> *\"Okei, tad ejam tālāk. Es tev ieskicēšu precīzi soli pa solim, ko mēs darām kā uzņēmums. Ja ir kādi jautājumi — droši vaicā. Labi?\"*\n\n### **1. Pīlārs — VILKA METODE (Pievilcīgs piedāvājums)**\n\n> *\"Pirmā lieta: iedomājies, tev ir 10–20 uzņēmumi, kas šobrīd ar tevi konkurē. Mēs gribam, lai tu esi pievilcīgāks un unikālāks. Tāpēc izstrādājam pievilcīgu piedāvājumu ar mūsu 'Vilka metodi' — lai uzrunātu precīzi to cilvēku, kas no tevis grib pirkt. Tālu, vai tev šitas ir skaidrs?\"*\n\n⏸ **GAIDI.** *[Klients: \"Jap.\"]*\n\n> *\"Kā tev liekas — vai šis varētu palīdzēt piesaistīt vairāk klientu?\"*\n\n🎯 **Mini-LOCK:** Klients saka *\"kādēļ ne\"* vai *\"jā\"*.\n\n### **2. Pīlārs — SISTEMATIZĀCIJA (Automatizēta lead plūsma)**\n\n> *\"Otrā lieta: tā kā piedāvājums ir gatavs, ieviešam automatizāciju — ko mēs saucam par sistematizāciju. Tas, kas tevi šeit atnesa: tu redzēji reklāmu, pieteicies, aizpildīji, tev piezvanīju. Ļoti elementārs process — un šo mēs ieviešam tavā biznesā. Visi vizuāļi, teksti, video reklāmas, automatizācijas. Mērķis: katru dienu 1–10 potenciālie klienti, kas grib runāt ar tevi par [tavu produktu]. Kā tev izskatās?\"*\n\n**ROI PIEMĒRS (ielikt reālu):**\n> *\"Piemēram, Modern House — septiņās dienās palaidām kampaņu, viņi ielika 244 eiro, tas ir 30 eiro dienā. Dabūja 87 cilvēkus, kas grib būvēt mājas. Katrs cilvēks izmaksāja ap 3 eiro.\"*\n\n*[vai cits tavs reālais keiss — Skandi, IndeXo, Citadele]*\n\n**BUDŽETS:**\n> *\"Ieteikums ir €20/dienā. Pie mums klients izmaksā ~€4. Par €20/dienā ≈ 5 pieteikumi/dienā. Pie tevis var būt līdzīgi, atkarībā no tirgus.\"*\n\n### **3. Pīlārs — CRM + AUTOMATIZĀCIJA (Neviens netiek pazaudēts)**\n\n> *\"Trešā lieta — CRM, ko mēs esam izveidojuši. Ideja: tu sekosi klienta pārdošanas ciklam. Tu nepalaidīsi garām nevienu pieteikumu — viņš saņems automātisku e-pastu, tu varēsi atstāt piezīmes, nosūtīt e-pastu, Telegram. Tu lieto Telegram?\"*\n\n*[Klients: \"Jā.\"]*\n\n> *\"Ideāli. Tavs uzdevums: ar šo klientu sazināties, sarunāt tikšanos, noslēgt darījumu. Par pārējo mēs parūpēsimies.\"*\n\n---"
+    },
+    {
+      "num": 27,
+      "title": "PIESAISTE KLIENTAM + GATAVĪBAS PĀRBAUDE",
+      "priority": 0,
+      "dkods": "D12 · M18 · VALUE VERBALIZATION",
+      "merkis": "Pārbaudīt, vai klients jūtas gatavs — pirms cenas.",
+      "phrases": [
+        "Tāl, kā tu jūties? Vai esi pārliecināts, ka šī lieta tev varētu palīdzēt?"
+      ],
+      "raw": "**D-kods:** D12 · M18 · VALUE VERBALIZATION\n**Mērķis:** Pārbaudīt, vai klients jūtas gatavs — pirms cenas.\n\n**SAKI VERBATIM (no Kristapa):**\n> *\"Tāl, kā tu jūties? Vai esi pārliecināts, ka šī lieta tev varētu palīdzēt?\"*\n\n↩ **Ja \"izskatās labi, bet neesmu pārliecināts, ka es varētu pārdot\":** → Q#28 (Bonuss)\n\n↩ **Ja \"jā\":** → Q#29\n\n---"
+    },
+    {
+      "num": 28,
+      "title": "BONUSS — PĀRDOŠANAS APMĀCĪBA (ja vajag)",
+      "priority": 0,
+      "dkods": "D12 · M18b",
+      "merkis": "Noņemt \"es nemācu pārdot\" bailes.",
+      "phrases": [
+        "Pilnīgi saprotu. 95% cilvēku, kas pie mums atnāk, ir tā pati problēma. Tāpēc ir bonuss — pilna pārdošanas apmācība: visi video, visi skripti, kā sarunāt tikšanos, kā noslēgt darījumu. Plus iknedēļas konsultācijas par to, kā ar klientu runāt. Mēs garantējam, ka klienti nāks — mēs gribam, lai tu arī spēj tos noslēgt. Tagad jūties drošāk?"
+      ],
+      "raw": "**D-kods:** D12 · M18b\n**Mērķis:** Noņemt \"es nemācu pārdot\" bailes.\n\n**SAKI VERBATIM (no Kristapa):**\n> *\"Pilnīgi saprotu. 95% cilvēku, kas pie mums atnāk, ir tā pati problēma. Tāpēc ir bonuss — pilna pārdošanas apmācība: visi video, visi skripti, kā sarunāt tikšanos, kā noslēgt darījumu. Plus iknedēļas konsultācijas par to, kā ar klientu runāt. Mēs garantējam, ka klienti nāks — mēs gribam, lai tu arī spēj tos noslēgt. Tagad jūties drošāk?\"*\n\n---"
+    },
+    {
+      "num": 29,
+      "title": "1–10 VĒRTĒJUMS",
+      "priority": 3,
+      "dkods": "D11 · M15 · 1-10 ANCHOR",
+      "merkis": "**OBLIGĀTI PIRMS CENAS.** Klients nosaka, cik ļoti pārliecina — skaidra bāze, no kuras iet uz cenu.",
+      "phrases": [
+        "Tāl, ja tev būtu jānovērtē no 1 līdz 10 — 1 ir 'neredzētu pat par velti', 10 ir 'tas tieši tas, kas man vajadzīgs, lai kļūtu par to līderi un pelnītu €560k' — kā tu novērtētu?",
+        "Sapratu, tas ir godīgi. Kas trūkst līdz 10? Ko es neesmu pamanījis? Jo es neiešu tālāk pie cenas, kamēr neesam pārliecināti, ka šis ir 10/10 risinājums tieši tev."
+      ],
+      "raw": "**D-kods:** D11 · M15 · 1-10 ANCHOR\n**Mērķis:** **OBLIGĀTI PIRMS CENAS.** Klients nosaka, cik ļoti pārliecina — skaidra bāze, no kuras iet uz cenu.\n\n**SAKI VERBATIM (no Kristapa — precīza formulācija):**\n> *\"Tāl, ja tev būtu jānovērtē no 1 līdz 10 — 1 ir 'neredzētu pat par velti', 10 ir 'tas tieši tas, kas man vajadzīgs, lai kļūtu par to līderi un pelnītu €560k' — kā tu novērtētu?\"*\n\n⏸ **GAIDI ciparu.**\n\n↩ **Ja 9–10:** → Q#30 (GATAVĪBAS APSTIPRINĀJUMS)\n↩ **Ja 7–8:** → Q#29.5 (KAS TRŪKST)\n↩ **Ja <7:** Atgriezies pie Q#26 — pārej cauri pīlāriem vēlreiz\n\n### Q#29.5 · <9 CATCH (ja nepietiekams)\n\n**SAKI:**\n> *\"Sapratu, tas ir godīgi. Kas trūkst līdz 10? Ko es neesmu pamanījis? Jo es neiešu tālāk pie cenas, kamēr neesam pārliecināti, ka šis ir 10/10 risinājums tieši tev.\"*\n\n⏸ **GAIDI. Pieraksti trūkumu. Aizver to. Atgriezies uz Q#29.**\n\n---"
+    },
+    {
+      "num": 30,
+      "title": "GATAVĪBAS APSTIPRINĀJUMS (PIRMS CENAS)",
+      "priority": 0,
+      "dkods": "D13 · M19 · READINESS LOCK",
+      "merkis": "Pārliecināties, ka klients spēj pildīt savu daļu.",
+      "phrases": [
+        "Paldies par šo jautājumu. Pirms runājam par cenu — gribu pārliecināties: kad mēs to ieviešam, vai tu esi gatavs uzņemt klientus, kas nāks, sazvanīt tos un virzīt uz darījumu?"
+      ],
+      "raw": "**D-kods:** D13 · M19 · READINESS LOCK\n**Mērķis:** Pārliecināties, ka klients spēj pildīt savu daļu.\n\n**SAKI VERBATIM (no Kristapa):**\n> *\"Paldies par šo jautājumu. Pirms runājam par cenu — gribu pārliecināties: kad mēs to ieviešam, vai tu esi gatavs uzņemt klientus, kas nāks, sazvanīt tos un virzīt uz darījumu?\"*\n\n⏸ **GAIDI \"jā\".**\n\n---"
+    },
+    {
+      "num": 31,
+      "title": "ONBOARDING IESKATS (PIRMS CENAS)",
+      "priority": 0,
+      "dkods": "D13 · M19b · PROCESS CLARITY",
+      "merkis": "Klientam skaidri, KAS notiks pēc maksājuma. Noņem nedrošību.",
+      "phrases": [
+        "Forši. Pirms pateicu investīciju, ieskicēšu pievienošanās procesu, lai tev ir skaidrs un ērti."
+      ],
+      "raw": "**D-kods:** D13 · M19b · PROCESS CLARITY\n**Mērķis:** Klientam skaidri, KAS notiks pēc maksājuma. Noņem nedrošību.\n\n**SAKI VERBATIM (no Kristapa):**\n> *\"Forši. Pirms pateicu investīciju, ieskicēšu pievienošanās procesu, lai tev ir skaidrs un ērti.\"*\n\n**Soļi (ieteic vai parādi prezentācijā):**\n- Vienojamies par investīciju\n- Uzreiz taisām WhatsApp grupu — daily komunikācija, ātrais fīdbeks\n- Nosūtu anketu ar 10–12 jautājumiem — jo precīzāk, jo labāk komanda sagatavojas\n- Zoom tikšanās ar projektu menedžeri (tev ir vesela komanda, ne tikai viens cilvēks)\n- Izstrādes process: 4–10 dienas — automatizācija, vizuāļi, teksti, tirgus izpēte, stratēģija\n- Kampaņas palaišana — drīz sāk nākt pieteikumi\n\n⏸ **GAIDI klienta reakciju (parasti \"ok\" vai \"skaidrs\").**\n\n---"
+    },
+    {
+      "num": 32,
+      "title": "CENA (2 OPCIJAS)",
+      "priority": 3,
+      "dkods": "D13 · C1 · PRICE STRIKE",
+      "merkis": "Cenu pasniegt kā **faktu + izvēli starp 2 opcijām**, nekad kā \"jā/nē\".",
+      "phrases": [
+        "Pirmā investīcija ir reklāmas budžets — degviela. Ieteikums: €20/dienā. Pie mums €20/dienā = ~5 pieteikumi. Vai šitas skaidrs?",
+        "Divi cenojumi, jo ir divi varianti. Mēs esam sapratuši 7–8 gadu laikā, kad ir jāstrādā divus līdz trīs mēnešus ar uzņēmēju, lai mēs viņam dabūtu to, ka kampaņa strādā uz ūsiņu. Tāpēc investīcija ir šāda: ja divi mēneši — €2400. Ja trīs mēneši — €3000. Kurš no šiem abiem variantiem tavā situācijā būtu ērtāks?",
+        "Budžetu tu maksā Facebook'am, ne mums. Mēs tev iekasējam tikai par sistēmas uzbūvi."
+      ],
+      "raw": "**D-kods:** D13 · C1 · PRICE STRIKE\n**Mērķis:** Cenu pasniegt kā **faktu + izvēli starp 2 opcijām**, nekad kā \"jā/nē\".\n\n**SAKI VERBATIM (no Kristapa + Lauris Fathom hibrids):**\n> *\"Pirmā investīcija ir reklāmas budžets — degviela. Ieteikums: €20/dienā. Pie mums €20/dienā = ~5 pieteikumi. Vai šitas skaidrs?\"*\n\n*[Klients: \"Jā.\"]*\n\n> *\"Divi cenojumi, jo ir divi varianti. Mēs esam sapratuši 7–8 gadu laikā, kad ir jāstrādā divus līdz trīs mēnešus ar uzņēmēju, lai mēs viņam dabūtu to, ka kampaņa strādā uz ūsiņu. Tāpēc investīcija ir šāda: ja divi mēneši — €2400. Ja trīs mēneši — €3000. Kurš no šiem abiem variantiem tavā situācijā būtu ērtāks?\"*\n\n⏸ **5–7 SEKUNDES KLUSUMS. NERUNĀ.** Kurš pirmais ierunājas, zaudē.\n\n**Piezīme:** *\"Tas ir viens maksājums. Kopā. Praktiski sistēma tev ir uzbūvēta, jo vairs nekad nākotnē nevajag mums pateicībā maksāt.\"*\n\n**ATCERIES:**\n> *\"Budžetu tu maksā Facebook'am, ne mums. Mēs tev iekasējam tikai par sistēmas uzbūvi.\"*\n\n---"
+    },
+    {
+      "num": 33,
+      "title": "VAI IR GATAVS?",
+      "priority": 0,
+      "dkods": "D14 · C3 · SILENCE THEN PULSE",
+      "merkis": "Pēc klusuma pārvērtēt, ko klients domā.",
+      "phrases": [
+        "Ko tu tikko pārdomāji?"
+      ],
+      "raw": "**D-kods:** D14 · C3 · SILENCE THEN PULSE\n**Mērķis:** Pēc klusuma pārvērtēt, ko klients domā.\n\n**SAKI (ja klients klusē pēc #32):**\n> *\"Ko tu tikko pārdomāji?\"*\n\n⏸ **GAIDI.**\n\nKlients var atklāt:\n- *\"Nu, laba cena\"* → #40 (INVOICE)\n- *\"Vēl jāpadomā\"* → #34 (PADOMĀT)\n- *\"Jārunā ar sievu\"* → #35 (PARTNERIS)\n- *\"Nav budžeta\"* → #36 (BUDŽETS)\n- *\"Nav laika\"* → #37 (LAIKS)\n- *\"Sieva jau taisa reklāmas\"* → #38 (IEKŠĒJS KONKURENTS)\n\n---"
+    },
+    {
+      "num": 34,
+      "title": "\"VĒL JĀPADOMĀ\" (SOFT)",
+      "priority": 0,
+      "dkods": "D14 · C4 · THINKER HANDLE (soft, ne kill)",
+      "merkis": "Atrast KO tieši padomāt — atbildēt konkrēti.",
+      "phrases": [
+        "Protams, saprotams. Par ko tieši tev gribētos padomāt? Kas tev vēl nav skaidrs, lai mēs to tagad varētu izrunāt kopā?",
+        "Tu jau lēmumu esi pieņēmis pirms [X gadiem — no Q#18], ka gribi kļūt par līderi. Šodien nav jāpieņem jauns lēmums — šodien ir vienkārši jārīkojas. Kas tevi tagad satur?",
+        "Ir divi cilvēki: viens, kurš pelna €280k un gaida. Otrs, kurš jau pelna €560k — viņš jau ir pieņēmis lēmumu un rīkojas. Kurš no šiem tu gribi būt?"
+      ],
+      "raw": "**D-kods:** D14 · C4 · THINKER HANDLE (soft, ne kill)\n**Mērķis:** Atrast KO tieši padomāt — atbildēt konkrēti.\n\n**SAKI VERBATIM (mīkstā latviskā versija):**\n> *\"Protams, saprotams. Par ko tieši tev gribētos padomāt? Kas tev vēl nav skaidrs, lai mēs to tagad varētu izrunāt kopā?\"*\n\n⏸ **GAIDI.** Klients izsakās.\n\n**Ja klients saka \"nezinu\":**\n> *\"Tu jau lēmumu esi pieņēmis pirms [X gadiem — no Q#18], ka gribi kļūt par līderi. Šodien nav jāpieņem jauns lēmums — šodien ir vienkārši jārīkojas. Kas tevi tagad satur?\"*\n\n**Tilts (no Gold.md):**\n> *\"Ir divi cilvēki: viens, kurš pelna €280k un gaida. Otrs, kurš jau pelna €560k — viņš jau ir pieņēmis lēmumu un rīkojas. Kurš no šiem tu gribi būt?\"*\n\n---"
+    },
+    {
+      "num": 35,
+      "title": "\"JĀRUNĀ AR SIEVU/PARTNERI\"",
+      "priority": 0,
+      "dkods": "D14 · C4b · PARTNER HANDLE",
+      "merkis": "Noskaidrot, vai tas ir reāls iebildums vai piegrieznis \"neesmu pārliecināts\".",
+      "phrases": [
+        "Saprotams. Bet iedomājies — ja mēs tagad mainām datumu un tu aizej stāsti sievai no atmiņas, viņa nedzirdēs 5% no tā, ko mēs tikko izrunājām. Cieņu sievai — bet kad jūs abi varat būt uz līnijas? Rīt, parīt? Cikos? Es nosūtu aicinājumu un īsu 10-min pārskatu, lai viņa saprot tieši tāpat kā tu."
+      ],
+      "raw": "**D-kods:** D14 · C4b · PARTNER HANDLE\n**Mērķis:** Noskaidrot, vai tas ir reāls iebildums vai piegrieznis \"neesmu pārliecināts\".\n\n**SAKI VERBATIM (no Kristapa + V26.1 hibrids):**\n> *\"Saprotams. Bet iedomājies — ja mēs tagad mainām datumu un tu aizej stāsti sievai no atmiņas, viņa nedzirdēs 5% no tā, ko mēs tikko izrunājām. Cieņu sievai — bet kad jūs abi varat būt uz līnijas? Rīt, parīt? Cikos? Es nosūtu aicinājumu un īsu 10-min pārskatu, lai viņa saprot tieši tāpat kā tu.\"*\n\n🎯 **Fiksē datumu TŪLĪT.** Ja klients izvairās — tad tas nav sievas jautājums, tas ir viņa paša.\n\n**Ja klients pamet:** *\"Vai sieva zina par katru lēmumu, ko tu pieņem biznesā?\"* → *\"Šis ir tavs bizness un tavs lēmums.\"*\n\n---"
+    },
+    {
+      "num": 36,
+      "title": "\"NAV BUDŽETA / PAR DĀRGU\"",
+      "priority": 0,
+      "dkods": "D14 · C4c · BUDGET HANDLE",
+      "merkis": "Noskaidrot, vai tiešām budžets vai arī kas cits.",
+      "phrases": [
+        "Sapratu. Bet tikko tu minēji, ka gribētu sasniegt €560k gadā. Vai tu redzi, ka neko nemainot, tu tur nonāksi? Vai tā būtu pati investīcija, bet labākā ceļā?",
+        "Jā, skaties. Ja mēs cenu noliktu malā — tu to darītu? Sarunas laikā startētu mani?",
+        "Palikt, kur esi? Tev šobrīd ir €100k gadā. Vai nu šī investīcija 2400, lai tu sasniegti iet pretī €250k gadā — nu, kas ir, teiksim, riskantāk? Investēt vai neieguldīt?"
+      ],
+      "raw": "**D-kods:** D14 · C4c · BUDGET HANDLE\n**Mērķis:** Noskaidrot, vai tiešām budžets vai arī kas cits.\n\n**SAKI VERBATIM (no Lauris Fathom):**\n> *\"Sapratu. Bet tikko tu minēji, ka gribētu sasniegt €560k gadā. Vai tu redzi, ka neko nemainot, tu tur nonāksi? Vai tā būtu pati investīcija, bet labākā ceļā?\"*\n\n**\"CENU NOLIKT MALĀ\" TESTS ⭐ (tava signature):**\n> *\"Jā, skaties. Ja mēs cenu noliktu malā — tu to darītu? Sarunas laikā startētu mani?\"*\n\n↩ **Ja \"jā\":** Tikai cena → piedāvā sadalīt 3 maksājumos (Q#39)\n↩ **Ja \"nē\":** Kas cits — *\"Tad kas ir tas, kas tevi vēl domāt liek?\"*\n\n**Tilts A→B:**\n> *\"Palikt, kur esi? Tev šobrīd ir €100k gadā. Vai nu šī investīcija 2400, lai tu sasniegti iet pretī €250k gadā — nu, kas ir, teiksim, riskantāk? Investēt vai neieguldīt?\"*\n\n---"
+    },
+    {
+      "num": 37,
+      "title": "\"NAV LAIKA\"",
+      "priority": 0,
+      "dkods": "D14 · C4d · TIME HANDLE",
+      "merkis": "Klients discovery fāzē jau teica *\"nav laika\"* (Q#17). Tagad atgriezies.",
+      "phrases": [
+        "Tu jau Q#17 teici, ka nav laika. Tas ir prioritizācijas jautājums. Ilons Masks — 7 kompānijas, 16 bērni — viņam tāpat ir laiks. Tas nav par laiku, tas ir par to, cik tas tev svarīgi.",
+        "Mēs izdarīsim visu mārketingā — tev tikai jānoslēdz darījumi. Un ja tev nav laika slēgt — mēs mācām arī to (3. pīlārs, bonuss). Tev tikai jāatsaucas uz zvaniem — 10 min dienā."
+      ],
+      "raw": "**D-kods:** D14 · C4d · TIME HANDLE\n**Mērķis:** Klients discovery fāzē jau teica *\"nav laika\"* (Q#17). Tagad atgriezies.\n\n**SAKI VERBATIM (no Kristapa):**\n> *\"Tu jau Q#17 teici, ka nav laika. Tas ir prioritizācijas jautājums. Ilons Masks — 7 kompānijas, 16 bērni — viņam tāpat ir laiks. Tas nav par laiku, tas ir par to, cik tas tev svarīgi.\"*\n\n**Papildu:**\n> *\"Mēs izdarīsim visu mārketingā — tev tikai jānoslēdz darījumi. Un ja tev nav laika slēgt — mēs mācām arī to (3. pīlārs, bonuss). Tev tikai jāatsaucas uz zvaniem — 10 min dienā.\"*\n\n---"
+    },
+    {
+      "num": 38,
+      "title": "\"SIEVA JAU TAISA REKLĀMAS\"",
+      "priority": 0,
+      "dkods": "D14 · C4e · INTERNAL COMPETITOR",
+      "merkis": "Konfrontē ar loģiku, cieņpilni.",
+      "phrases": [
+        "Cik ilgi viņa to dara un kādi ir rezultāti? Ja viņai sanāk — super, tad mēs neesam vajadzīgi. Bet tu esi šeit, jo kaut kas nestrādā. Starp mums — vai tu aizejot pie sievas teiktu: tu vairs neesi vajadzīga? Nē. Tad kāpēc tur ir jautājums? Mēs neaizvietojam viņu — mēs ieviešam SISTĒMU, ko viņa var vadīt tālāk. Vai labāk — mēs atbrīvojam viņu kaut kam citam."
+      ],
+      "raw": "**D-kods:** D14 · C4e · INTERNAL COMPETITOR\n**Mērķis:** Konfrontē ar loģiku, cieņpilni.\n\n**SAKI VERBATIM (no Kristapa):**\n> *\"Cik ilgi viņa to dara un kādi ir rezultāti? Ja viņai sanāk — super, tad mēs neesam vajadzīgi. Bet tu esi šeit, jo kaut kas nestrādā. Starp mums — vai tu aizejot pie sievas teiktu: tu vairs neesi vajadzīga? Nē. Tad kāpēc tur ir jautājums? Mēs neaizvietojam viņu — mēs ieviešam SISTĒMU, ko viņa var vadīt tālāk. Vai labāk — mēs atbrīvojam viņu kaut kam citam.\"*\n\n---"
+    },
+    {
+      "num": 39,
+      "title": "FINANŠU PIELĀGOŠANA (ja tikai cena)",
+      "priority": 0,
+      "dkods": "D14 · C11 · PAYMENT PLAN",
+      "merkis": "Noņem pēdējo šķērsli, ja klients grib un tas ir cashflow.",
+      "phrases": [
+        "Skaties, ja mēs tev sadalām viņu trīs maksājumos, tad tas palīdzēs? Jo tu minēji, ka esi gatavi darīt, investēt, vienkārši iet pēc mērķa — dabūt trīs objektus."
+      ],
+      "raw": "**D-kods:** D14 · C11 · PAYMENT PLAN\n**Mērķis:** Noņem pēdējo šķērsli, ja klients grib un tas ir cashflow.\n\n**SAKI VERBATIM (no Lauris Fathom #3):**\n> *\"Skaties, ja mēs tev sadalām viņu trīs maksājumos, tad tas palīdzēs? Jo tu minēji, ka esi gatavi darīt, investēt, vienkārši iet pēc mērķa — dabūt trīs objektus.\"*\n\n---"
+    },
+    {
+      "num": 40,
+      "title": "RĒĶINS (TEHNISKAIS CLOSE)",
+      "priority": 3,
+      "dkods": "D14.5 · C12 · THE INVOICE",
+      "merkis": "Rēķins aiziet **zvana laikā**. Ne rīt, ne pēcpusdienā — TAGAD.",
+      "phrases": [
+        "Lieliski. Kā sauc kompāniju, lai uztaisu rēķinu?",
+        "Tad uz tiem [divi/trīs] mēnešiem. Iedod man rekvizītus — es uzreiz uztaisu rēķinu, nosūtu anketu, un sākam strādāt. Tu varēsi maksāt ar pārskaitījumu — nav komisijas. Nosūtīšu arī anketu un pievienošu WhatsApp grupā.",
+        "Okei, es tevi pilnīgi saprotu. Varbūt mums vajadzētu saplānot nākamo tikšanos — kad jūs abi [ar partneri] varat? Tad varētu visu detalizēti izrunāt kopā."
+      ],
+      "raw": "**D-kods:** D14.5 · C12 · THE INVOICE\n**Mērķis:** Rēķins aiziet **zvana laikā**. Ne rīt, ne pēcpusdienā — TAGAD.\n\n**SAKI VERBATIM (no Kristapa):**\n> *\"Lieliski. Kā sauc kompāniju, lai uztaisu rēķinu?\"*\n\n*[Klients nosauc.]*\n\n> *\"Tad uz tiem [divi/trīs] mēnešiem. Iedod man rekvizītus — es uzreiz uztaisu rēķinu, nosūtu anketu, un sākam strādāt. Tu varēsi maksāt ar pārskaitījumu — nav komisijas. Nosūtīšu arī anketu un pievienošu WhatsApp grupā.\"*\n\n🎯 **EXECUTION:** Rēķins nosūtīts zvana laikā.\n\n**⚡ KĀPĒC UZREIZ:** Katrs minūtes kavējums palielina atteikuma risku. Rekvizīti → rēķins → pašā mītingā.\n\n---\n\n## Q#NAV-DĪLA · JA NAV CLOSE — NĀKAMAIS SOLIS OBLIGĀTI\n\n**SAKI VERBATIM:**\n> *\"Okei, es tevi pilnīgi saprotu. Varbūt mums vajadzētu saplānot nākamo tikšanos — kad jūs abi [ar partneri] varat? Tad varētu visu detalizēti izrunāt kopā.\"*\n\n⚡ **NOTEIKUMS:** Katru mītingu VIENMĒR noslēdz ar konkrētu nākamā mītinga laiku. Nav dīla — nav aizbraukšanas bez laika.\n\n---"
+    }
+  ],
+  "mezgli": [
+    {
+      "name": "FRAME",
+      "q_range": "Atbilst Q1–Q3",
+      "layers": {
+        "core": "*\"Ja redzu, ka varam palīdzēt — pateikšu. Ja nē — arī pateikšu.\"* / *\"Vai ir vēl kāds, kam vajadzētu būt klāt?\"*",
+        "elite": "*\"Tu negribi pieņemt nepareizu lēmumu, pareizi?\"* / *\"Tev svarīgi ne tikai 'kaut ko darīt', bet saprast, vai tas ir pareizais virziens, ja?\"*",
+        "psychology": "expectancy effect · trust priming · reverse pressure",
+        "therapeutic": "*\"Tu negribi pieņemt nepareizu lēmumu, pareizi?\"*",
+        "signals": "taisnošanās jau openingā · bailes no spiediena · pārāk daudz runāšanas pirms 1. jautājuma · izvairīšanās no lēmēja tēmas",
+        "delivery": "mierīgs · stabils · bez salesy smakas · ne steidzīgs",
+        "if_stuck": "*\"Vai būtu ok, ja es īsi nofiksēju, kā es to redzu no malas?\"* / *\"Es tevi negribu stumt. Es gribu saprast, vai tas tev vispār ir pareizais.\"*",
+        "risks": "pārāk ass opening = aizsardzība · pārāk mīksts opening = pazaudēts rāmis"
+      }
+    },
+    {
+      "name": "SITUĀCIJA",
+      "q_range": "Atbilst Q8–Q11",
+      "layers": {
+        "core": "*\"Kā tev šobrīd ar klientiem?\"* / *\"Pietiek vai pietrūkst?\"* / *\"Stabili vai pa viļņiem?\"* / *\"No kurienes viņi pārsvarā nāk?\"* / *\"Tu to vari prognozēt vai vairāk minēt?\"*",
+        "elite": "*\"Kur tev šobrīd visvairāk zūd kontrole?\"* / *\"Dod vienu pēdējā laika piemēru.\"* / *\"Kas te ir galvenais?\"*",
+        "psychology": "reality pacing · pattern detection · specificity trap · attentional narrowing",
+        "therapeutic": "*\"Un kad tas sāk svārstīties, ko tas tevī ieslēdz pirmais?\"* / *\"Kā tas tev izpaužas ikdienā?\"*",
+        "signals": "*\"kaut kā nāk\"* · *\"redzēs\"* · nav pattern valodas · nav ciparu / ritma sajūtas",
+        "delivery": "ziņkārīgs · lēns · konkretizējošs",
+        "if_stuck": "*\"No visa, ko tu pateici, kas te ir galvenais?\"* / *\"Vienā teikumā?\"*",
+        "risks": "pārāk ātri lekt uz risinājumu · pieņemt miglu kā atbildi"
+      }
+    },
+    {
+      "name": "MĒRĶIS",
+      "q_range": "Atbilst Q9, Q12–Q13",
+      "layers": {
+        "core": "*\"Kādam tam būtu jāizskatās ideāli?\"* / *\"Cik tev būtu labi mēnesī?\"* / *\"Cik klienti tas ir?\"*",
+        "elite": "*\"Kā tu saprastu, ka tas beidzot ir sakārtots?\"* / *\"Kas tavā ikdienā kļūtu vieglāks pirmais?\"*",
+        "psychology": "future orientation · hope framing · status projection · desired-state encoding",
+        "therapeutic": "*\"Ja tas būtu zem kontroles, kas tevī atslābtu pirmais?\"* / *\"Ko tas tev dotu ne tikai biznesā, bet tev pašam?\"*",
+        "signals": "miglains mērķis · nav skaitļu · runā tikai vispārīgi",
+        "delivery": "gaišāks tonis · vairāk telpas klienta bildei",
+        "if_stuck": "*\"Kas tev būtu 'pietiekami labs', nevis ideāls?\"* / *\"Cik tev būtu mierīgs mēnesis?\"*",
+        "risks": "pārāk liela fantāzija bez sasaistes ar realitāti"
+      }
+    },
+    {
+      "name": "GAP",
+      "q_range": "Atbilst Q11, Q19",
+      "layers": {
+        "core": "*\"Kas tev šobrīd traucē tur tikt?\"* / *\"Ko esi jau mēģinājis?\"* / *\"Kas līdz galam nenostrādāja?\"*",
+        "elite": "*\"Ja tu varētu to sakārtot pats, kāpēc tas vēl nav noticis?\"* / *\"Tas vairāk ir par offeru, sistēmu vai izpildi?\"*",
+        "psychology": "friction mapping · bottleneck split · failed-attempts diagnosis · prediction error",
+        "therapeutic": "*\"Kas tev tur vairāk stāv priekšā — tehniska lieta, cilvēki, bailes vai atlikšana?\"* / *\"Kas tevi patiesībā bremzē?\"*",
+        "signals": "vaino ārējos · *\"it kā viss ir\"* · nav skaidra bremze",
+        "delivery": "strukturējošs · sašaurinošs",
+        "if_stuck": "*\"Vairāk pietrūkst sistēmas vai konsekvences?\"* / *\"Kas te nav salikts kopā?\"*",
+        "risks": "pārāk agri uzbrukt ego"
+      }
+    },
+    {
+      "name": "SĀPE",
+      "q_range": "",
+      "layers": {
+        "core": "*\"Kas tur besī visvairāk?\"* / *\"Nauda, laiks vai nervi?\"* / *\"Ko tu dari, kad jūti, ka klientu būs par maz?\"* / *\"Tas risina vai tikai aizlāpa?\"*",
+        "elite": "*\"Kas notiek galvā tajos brīžos?\"* / *\"Kam tas vēl sit bez tevis?\"* / *\"Kas te vairāk ir — stress, nogurums vai smagums?\"*",
+        "psychology": "emotional labeling · interoceptive shift · affect deepening · somatic marker activation",
+        "therapeutic": "*\"Kur tu to jūti visvairāk?\"* / *\"Tas tevī vairāk sēž kā spriedze, nogurums vai smagums?\"* / *\"Ko tas tev atņem ikdienā?\"*",
+        "signals": "balss smagums · noguruma tonis · aizkaitinājums · plakana loģika bez sajūtas",
+        "delivery": "lēnāk · mazāk vārdu · vairāk klusuma",
+        "if_stuck": "*\"Kas no tā tevi sit visvairāk — neparedzamība, nauda vai spriedze?\"*",
+        "risks": "ieiet par dziļu par agru · glābt klientu no diskomforta"
+      }
+    },
+    {
+      "name": "COI",
+      "q_range": "Atbilst Q21",
+      "layers": {
+        "core": "*\"Ko tas tev maksā mēnesī?\"* / *\"Cik ienes viens klients?\"* / *\"Tad cik tu atstāj uz galda?\"*",
+        "elite": "*\"Kurš cipars ir lielāks?\"* / *\"Ja tu būtu investors šajā biznesā, kādu lēmumu tu ieteiktu pieņemt?\"* / *\"Ko tev izmaksā gaidīšana salīdzinot ar lēmumu?\"*",
+        "psychology": "quantification · loss framing · regret activation · investor dissociation",
+        "therapeutic": "*\"Un, ja tu paskaties godīgi, ko tas tev jau ir paņēmis tikai tāpēc, ka tas tika nests garumā?\"* / *\"Ko tas no tevis katru mēnesi paņem, ne tikai naudā?\"*",
+        "signals": "izvairās no cipariem · minimizē izmaksas · nespēj nosaukt viena klienta vērtību",
+        "delivery": "sauss · faktisks · pēc tam klusums",
+        "if_stuck": "*\"Dod aptuvenu skalu, ne perfektu ciparu.\"* / *\"Ja jāmin — vairāk 500, 2000 vai 5000 mēnesī?\"*",
+        "risks": "rēķināt klienta vietā pārāk daudz · aiziet debatē par precizitāti, ne svaru"
+      }
+    },
+    {
+      "name": "NEIZBĒGAMĪBA",
+      "q_range": "Atbilst Q17–Q18",
+      "layers": {
+        "core": "*\"Ja neko nemaini, kas notiek tālāk?\"* / *\"Tas pats atrisināsies vai atkārtosies?\"* / *\"Kur tas tevi aizved tuvākajos 6 mēnešos?\"*",
+        "elite": "*\"Kad tu saki 'vēlāk' — tas ir plāns vai cerība?\"* / *\"Kur šos 6 mēnešus tu pieņēmi lēmumus?\"* / *\"Tātad šo vilkt 6 mēnešus arī bija biznesa stratēģisks lēmums, ja?\"* / *\"Cik bīstami tas tev ir no 1 līdz 10?\"* / *\"Tu gribi rīkoties pie 6 vai gaidīsi 10?\"*",
+        "psychology": "time collapse · danger scaling · future pain · delay reframing",
+        "therapeutic": "*\"Ja tu šo neatrisini tagad, kas tevī nogurst pirmais?\"* / *\"Cik ilgi tu jau dzīvo ar šo fonā?\"*",
+        "signals": "*\"vēl nav īstais brīdis\"* · nenosauc datumus · cerības valoda bez plāna",
+        "delivery": "smagāks · ne dramatisks · lēns",
+        "if_stuck": "*\"Kas tieši nākamajā mēnesī būs citādi?\"* / *\"Ko tev dod tas, ka atliek?\"*",
+        "risks": "pārspīlēt bailes un izklausīties manipulatīvi"
+      }
+    },
+    {
+      "name": "IDENTITĀTE",
+      "q_range": "",
+      "layers": {
+        "core": "*\"Tu gribi prognozējamu rezultātu, bet paļaujies uz neprognozējamu modeli, pareizi?\"* / *\"Tu esi cilvēks, kurš gaida, vai kurš sakārto?\"*",
+        "elite": "*\"Tas sakrīt ar to, kā tu sevi redzi?\"* / *\"Kā šeit rīkotos uzņēmējs tavā nākamajā līmenī?\"* / *\"Tev vairāk piestāv sakārtot, nevis gaidīt.\"*",
+        "psychology": "identity contrast · self-consistency pressure · status trigger · parts framing",
+        "therapeutic": "*\"Viena daļa no tevis grib kustēties, otra vēl bremzē, ja?\"* / *\"Kura no tām šobrīd ir skaļāka?\"*",
+        "signals": "aizsargājas · taisno pagātni · kļūst cietāks tonī",
+        "delivery": "īsāks · asāks · mierīgs, ne moralizējošs",
+        "if_stuck": "*\"Tas nav pārmetums. Es gribu saprast, kur tev šobrīd zūd kontrole.\"*",
+        "risks": "identitātes uzbrukums par agru = aizvēršanās"
+      }
+    },
+    {
+      "name": "BULLSEYE",
+      "q_range": "",
+      "layers": {
+        "core": "*\"Kas tev būtu jāredz vai jāsaprot, lai tu spētu teikt jā šodien?\"*",
+        "elite": "*\"Kas tev būtu jāredz, lai justos droši?\"* / *\"Ko tev vajag no manas puses, lai tas tev būtu loģiski?\"*",
+        "psychology": "buying instruction · safety clarification · decision criteria extraction",
+        "therapeutic": "*\"Kas tev būtu jāredz, lai tava nervu sistēma vispār atslābtu?\"* / *\"Kas tev dotu iekšēju mieru pie šī lēmuma?\"*",
+        "signals": "saka *\"neesmu drošs\"*, bet nevar pateikt kāpēc · gaida, ka tu minēsi viņa vietā",
+        "delivery": "mierīgs · ļoti skaidrs",
+        "if_stuck": "*\"Vairāk tev vajag skaidrību par mehānismu, risku vai rezultātu?\"*",
+        "risks": "neuzdot un iet pitch akli"
+      }
+    },
+    {
+      "name": "BELIEF",
+      "q_range": "Atbilst Q29",
+      "layers": {
+        "core": "*\"Cik ļoti tu tici, ka šo var sakārtot?\"* / *\"Kas pietrūkst līdz 9?\"*",
+        "elite": "*\"Kas tev te vēl nav ticams?\"* / *\"Tas vairāk ir par mehānismu, rezultātu, laiku vai tevi pašu?\"*",
+        "psychology": "certainty scaling · missing-piece extraction · proof gap detection",
+        "therapeutic": "*\"Kas tev pietrūkst līdz vietai, kur tas tev būtu ne tikai loģiski, bet arī iekšēji mierīgi?\"*",
+        "signals": "piekrīt, bet nav dzīvuma · loģiski saprot, bet nekustas",
+        "delivery": "maigs · ļoti precizējošs",
+        "if_stuck": "*\"Ok, neejam tālāk. Kas tieši tev vēl neturas kopā?\"*",
+        "risks": "ignorēt belief un pāriet uz pitch/cenu"
+      }
+    },
+    {
+      "name": "PITCH",
+      "q_range": "Atbilst Q24–Q26",
+      "layers": {
+        "core": "*\"Es pareizi sapratu?\"* / *\"Parādu, kā to salabot?\"* / *\"Mēs uzbūvējam Meta lead ģenerēšanas sistēmu.\"* / *\"Reklāma → pieteikumi → zvani → klienti.\"* / *\"Tas nav uz veiksmi — tas ir kontrolējami.\"*",
+        "elite": "1 example law · tie-back pēc katra bloka · micro-yes check",
+        "psychology": "relief framing · mechanism compression · future pacing · predictability installation",
+        "therapeutic": "*\"Ja mēs tev iedodam tieši to paredzamību, par kuru tu tikko runāji, visa šī daļa beidz dzīvot tev fonā.\"* / *\"Kad tas ir sakārtots, kas tev ikdienā kļūst vieglāks pirmais?\"*",
+        "signals": "*\"ā, ok\"* moments · balss atslābst · sāk jautāt precīzākus jautājumus",
+        "delivery": "pārliecināts · īss · 1 piemērs · ne monologs",
+        "if_stuck": "Saīsini · Dod 1 konkrētu piemēru · Piesien atpakaļ viņa paša problēmai",
+        "risks": "pārstāstīt pārāk daudz · zaudēt dzīvo saikni ar klienta realitāti"
+      }
+    },
+    {
+      "name": "PRICE",
+      "q_range": "Atbilst Q32",
+      "layers": {
+        "core": "*\"Ir 2 investīcijas — reklāma un mūsu darbs.\"* / *\"No mūsu puses ~7 dienas, lai visu uzbūvētu.\"* / *\"Reklāma parasti sākas ap 15–20 € dienā.\"* / *\"60 vai 90 dienu sadarbība.\"* / *\"Uz kuru pusi tu šobrīd vairāk sliecies?\"*",
+        "elite": "*\"Salīdzinot ar ko tieši?\"* / *\"Tas ir par summu vai par pārliecību?\"* / *\"Kurš cipars ir lielāks?\"*",
+        "psychology": "value contrast · compare-to-what · sum-vs-belief split · silence discipline",
+        "therapeutic": "*\"Ja summa nebūtu tēma, kas tev vēl paliktu nepabeigts šajā lēmumā?\"*",
+        "signals": "tieši pie cenas valoda kļūst miglaina · sākas *\"jāpadomā / jāsalīdzina / jāparunā\"*",
+        "delivery": "neitrāls · stabils · pēc cenas klusums",
+        "if_stuck": "*\"Kas te nav skaidrs — cena, risks vai ticamība?\"*",
+        "risks": "sākt taisnoties vai pārdot cenu"
+      }
+    },
+    {
+      "name": "OBJECTION",
+      "q_range": "",
+      "layers": {
+        "core": "*\"Ko tieši tu ar to domā?\"* / *\"Kas ir īstais iemesls?\"* / *\"Tas ir par summu vai par pārliecību?\"* / *\"Par ko tieši tu gribi padomāt?\"* / *\"Kas tev būtu jāredz, lai justos droši?\"*",
+        "elite": "shadow objection map · clarify → isolate → root · *\"Vai ir vēl kaut kas, kas tevi personīgi attur?\"*",
+        "psychology": "objection as symptom · emotional naming · parts work · no-escape clarification",
+        "therapeutic": "*\"Viena tava daļa jau sen zina atbildi. Ko vēl otra daļa gaida?\"* / *\"Ko tu te mēģini pasargāt?\"*",
+        "signals": "ārējais objection nesakrīt ar toni · pieklājīgs *\"jāpadomā\"* · partneris kā aizsegs",
+        "delivery": "ziņkārīgs · ne aizsargājošs · root first",
+        "if_stuck": "*\"Ok, ja noliekam malā pirmo atbildi — kas te patiesībā bremzē?\"*",
+        "risks": "cīnīties ar simptomu · mēģināt uzreiz atspēkot"
+      }
+    },
+    {
+      "name": "CLOSE",
+      "q_range": "Atbilst Q40",
+      "layers": {
+        "core": "*\"Darām vai atliekam?\"* / *\"Sākam vai pieņemam, ka šobrīd tā nav prioritāte?\"* / *\"Kad sākam?\"* / *\"Karti vai pārskaitījumu?\"* / *\"Kāds uzņēmuma nosaukums?\"*",
+        "elite": "no-escape close · same-day bridge · partner date lock · *\"Kas tev būtu godīgāk pret sevi?\"*",
+        "psychology": "decision lock · identity completion · momentum · relief-based close",
+        "therapeutic": "*\"Ja esi godīgs pret sevi — tu šeit vairāk meklē skaidru lēmumu vai vēl kādu iemeslu vilkt garumā?\"* / *\"Kas tev šobrīd justos godīgāk — atkal atlikt vai nofiksēt skaidru virzienu?\"*",
+        "signals": "piekrīt, bet neiet loģistikā · grib atgriezties teorijā · nav īsta nākamā soļa",
+        "delivery": "silts · mierīgs · pārliecināts · tad klusums",
+        "if_stuck": "*\"Kas te vēl reāli paliek neatbildēts?\"* / *\"Kas tev vēl traucē pieņemt tīru lēmumu?\"*",
+        "risks": "sajaukt interesi ar lēmumu · ne-lockot nākamo soli"
+      }
+    }
+  ],
+  "client_types": [
+    {
+      "name": "ANALĪTISKAIS",
+      "raw": "**Parasti rāda:** daudz jautājumu · grib precizitāti · nepatīk migla · var slēpties aiz detaļām\n**Kas viņam svarīgi:** loģika · struktūra · mehānisms · salīdzināšana · ticamība\n\n**Kas jāuzsver pa mezgliem:**\n- **Situācija:** pattern, dati, prognozējamība\n- **Gap:** kur tieši plīst sistēma\n- **COI:** cipari, diapazoni, salīdzinājums\n- **Belief:** mehānisms, piemērs, process\n- **Price:** compare-to-what, summa vs pārliecība\n\n**Elite ieroči:**\n- *\"Ko saka loģika?\"*\n- *\"Kurš cipars ir lielāks?\"*\n- *\"Salīdzinot ar ko tieši?\"*\n- *\"Tas ir par summu vai par pārliecību?\"*\n- *\"Ja tu būtu investors šajā biznesā, kādu lēmumu tu ieteiktu?\"*\n\n**Delivery:** mierīgs · skaidrs · strukturēts · bez pārliekas emocionalitātes sākumā\n**Risks:** pārāk ilgi palikt prātā · neieiet pietiekami dziļi sāpē\n\n---"
+    },
+    {
+      "name": "SKEPTISKAIS",
+      "raw": "**Parasti rāda:** distanci · piesardzību · netic lieliem solījumiem · testē tevi\n**Kas viņam svarīgi:** drošība · godīgums · pārbaudāmība · vai tu nepārdod par katru cenu\n\n**Kas jāuzsver pa mezgliem:**\n- **Frame:** reverse pressure, godīgums\n- **Bullseye:** ko viņam vajag redzēt\n- **Belief:** kas vēl neturas kopā\n- **Pitch:** īss, konkrēts, bez hype\n- **Objection:** root first, bez aizsardzības\n\n**Elite ieroči:**\n- *\"Ja redzu, ka nav fit, es to pateikšu.\"*\n- *\"Kas tev būtu jāredz, lai tas tev būtu loģiski?\"*\n- *\"Ko tieši tu ar to domā?\"*\n- *\"Kas te vēl nav ticams?\"*\n\n**Delivery:** mierīgs · nesasteigts · ne-salesy · mazāk solījumu, vairāk skaidrības\n**Risks:** pārlieku liels pitch = aizvēršanās · pārāk agra identitātes konfrontācija\n\n---"
+    },
+    {
+      "name": "BAILĪGAIS / AVOIDANT",
+      "raw": "**Parasti rāda:** *\"vēlāk\"* · *\"jāpadomā\"* · negrib sajust svaru · grib drošību pirms kustības\n**Kas viņam svarīgi:** drošība · pakāpeniskums · atļauja · preventīvais rāmis\n\n**Kas jāuzsver pa mezgliem:**\n- **Frame:** drošība, atļauja\n- **Sāpe:** mierīga padziļināšana, ne brutāla\n- **Bullseye:** drošības definīcija\n- **Belief:** kas pietrūkst līdz 9\n- **Close:** soft decision locks, ne brutāls push\n\n**Elite ieroči:**\n- *\"Kas tev būtu jāredz, lai justos droši?\"*\n- *\"Ko tu te mēģini pasargāt?\"*\n- *\"Viena daļa no tevis grib kustēties, otra bremzē, ja?\"*\n- *\"Kas tai bremzējošajai daļai vajag?\"*\n\n**Delivery:** siltāks · lēnāks · vairāk pacing · vairāk normalizēšanas\n**Risks:** pārāk liels spiediens = slēgšanās · pārāk asa identity sadursme\n\n---"
+    },
+    {
+      "name": "DOMINANTAIS",
+      "raw": "**Parasti rāda:** grib kontrolēt tempu · negrib justies vadīts · ātri grib uz rezultātu · nepatīk vājuma sajūta\n**Kas viņam svarīgi:** kontrole · efektivitāte · skaidrība · statuss · lēmuma jauda\n\n**Kas jāuzsver pa mezgliem:**\n- **Frame:** īss, spēcīgs rāmis\n- **Situācija:** kur zūd kontrole\n- **COI:** cik tas maksā\n- **Identity:** gaidi vai sakārto\n- **Close:** skaidrs binārs rāmis\n\n**Elite ieroči:**\n- *\"Kur tev zūd kontrole?\"*\n- *\"Ko tas tev maksā?\"*\n- *\"Gaidi vai sakārto?\"*\n- *\"Kas te ir galvenais?\"*\n- *\"Darām vai atliekam?\"*\n\n**Delivery:** īsāks · asāks · mazāk apļa · vairāk skaidrības\n**Risks:** pārāk daudz skaidrošanas = zaudē cieņu · pārāk mīksts tonis = pārbrauks pāri sarunai\n\n---"
+    },
+    {
+      "name": "STATUS-DRIVEN",
+      "raw": "**Parasti rāda:** domā par līmeni, tēlu, reputāciju · grib augt, bet negrib izskatīties vājš · jutīgs uz identitātes sadursmi\n**Kas viņam svarīgi:** līmenis · statuss · sakritība ar paštēlu · kontroles sajūta\n\n**Kas jāuzsver pa mezgliem:**\n- **Mērķis:** nākamais līmenis\n- **Identitāte:** tas sakrīt ar tevi?\n- **Neizbēgamība:** ko šis maksā līmeņa ziņā\n- **Close:** godīgums pret sevi\n\n**Elite ieroči:**\n- *\"Tā rīkotos tavs nākamais līmenis?\"*\n- *\"Tas tev piestāv?\"*\n- *\"Tas sakrīt ar to, kā tu sevi redzi?\"*\n- *\"Tu gribi kontroli vai minēšanu?\"*\n\n**Delivery:** cieņpilns · ass, bet ne pazemojošs · vairāk līmeņa valodas\n**Risks:** ja sadursme pārāk asa, ieslēdzas ego aizsardzība\n\n---"
+    },
+    {
+      "name": "EMOCIONĀLAIS",
+      "raw": "**Parasti rāda:** jūt daudz · ātri aiziet sajūtās · var būt impulsīvs vai pārplūdis · grib just savienojumu un atvieglojumu\n**Kas viņam svarīgi:** sajūta · drošība · attiecību kvalitāte · atvieglojums\n\n**Kas jāuzsver pa mezgliem:**\n- **Sāpe:** body, emocijas, ikdienas ietekme\n- **Future:** kā tas justos, ja sakārtots\n- **Bullseye:** kas dotu mieru\n- **Pitch:** relief frame\n- **Close:** kas būtu godīgāk pret sevi\n\n**Elite ieroči:**\n- *\"Kur tu to jūti?\"*\n- *\"Ko tas tev atņem ikdienā?\"*\n- *\"Kas tevī atslābtu, ja tas būtu sakārtots?\"*\n- *\"Kas tev būtu godīgāk pret sevi?\"*\n\n**Delivery:** siltāks · atspoguļojošs · vairāk klusuma pēc emociju jautājuma\n**Risks:** pārāk daudz emociju bez struktūras = saruna izplūst\n\n---"
+    }
+  ],
+  "client_weapons": {
+    "ANALĪTISKAIS": [
+      "Ko saka loģika?",
+      "Kurš cipars ir lielāks?",
+      "Salīdzinot ar ko tieši?",
+      "Tas ir par summu vai par pārliecību?",
+      "Ja tu būtu investors šajā biznesā, kādu lēmumu tu ieteiktu?"
+    ],
+    "SKEPTISKAIS": [
+      "Ja redzu, ka nav fit, es to pateikšu.",
+      "Kas tev būtu jāredz, lai tas tev būtu loģiski?",
+      "Ko tieši tu ar to domā?",
+      "Kas te vēl nav ticams?"
+    ],
+    "BAILĪGAIS / AVOIDANT": [
+      "Kas tev būtu jāredz, lai justos droši?",
+      "Ko tu te mēģini pasargāt?",
+      "Viena daļa no tevis grib kustēties, otra bremzē, ja?",
+      "Kas tai bremzējošajai daļai vajag?"
+    ],
+    "DOMINANTAIS": [
+      "Kur tev zūd kontrole?",
+      "Ko tas tev maksā?",
+      "Gaidi vai sakārto?",
+      "Kas te ir galvenais?",
+      "Darām vai atliekam?"
+    ],
+    "STATUS-DRIVEN": [
+      "Tā rīkotos tavs nākamais līmenis?",
+      "Tas tev piestāv?",
+      "Tas sakrīt ar to, kā tu sevi redzi?",
+      "Tu gribi kontroli vai minēšanu?"
+    ],
+    "EMOCIONĀLAIS": [
+      "Kur tu to jūti?",
+      "Ko tas tev atņem ikdienā?",
+      "Kas tevī atslābtu, ja tas būtu sakārtots?",
+      "Kas tev būtu godīgāk pret sevi?"
+    ]
+  },
+  "response_trees": [
+    {
+      "trigger": "PAR DĀRGU",
+      "raw": "**Ko klausīties:**\n- Vai objections parādās tieši pie cenas\n- Vai pirms tam nebija pietiekami COI / belief / bullseye\n- Vai tonis ir īsts vai automātisks\n\n**Biežā ēnas sakne:**\n- Netic rezultātam\n- Nav skaidras salīdzināšanas ass\n- Nav pietiekami uzcelta bezdarbības cena\n\n**1. jautājums:** *\"Salīdzinot ar ko tieši tas ir dārgi?\"*\n\n**2. jautājums:** *\"Tas ir par summu vai par pārliecību?\"*\n\n**Ja atveras:** ej uz **belief / bullseye / compare-to-what**\n\n**Ja neatveras:** *\"Ko tev vajadzētu redzēt, lai tas tev šķistu nevis lēts, bet loģisks?\"*\n\n**Lēmuma izeja:**\n- Sakne = **ticamība** → atpakaļ uz proof / pitch tie-back\n- Sakne = **reāla budžeta robeža** → strukturē nākamo soli godīgi (sadalīts maksājums, mazāks variants, vai partner-date-lock)\n\n---"
+    },
+    {
+      "trigger": "JĀPADOMĀ",
+      "raw": "**Ko klausīties:** Pieklājīgs tonis · migla, nevis konkrēts mezgls · nav nosaukta īstā bailes forma\n**Biežā ēnas sakne:** Riska sajūta · nav lēmuma iekšējās atļaujas · nevar nosaukt īsto iemeslu\n\n**1. jautājums:** *\"Par ko tieši tu gribi padomāt?\"*\n**2. jautājums:** *\"Kas vēl nav līdz galam skaidrs?\"*\n**3. jautājums (ja vajag):** *\"Ja mēs noliekam malā pieklājīgo atbildi, kas tevi patiesībā bremzē?\"*\n\n**Ja atveras:** ej uz **root / risk / belief / drošību**\n**Ja neatveras:** *\"Tas ir par informāciju, risku vai gatavību?\"*\n\n**Lēmuma izeja:**\n- Sakne nosaukta → strādā ar to\n- Ja nevar nosaukt → **neatļauj palikt miglā**, bet dod skaidru nākamo soli vai skaidru \"nē\"\n\n---"
+    },
+    {
+      "trigger": "VĒLĀK / NAV ĪSTAIS BRĪDIS",
+      "raw": "**Ko klausīties:** Nav datuma · nav konkrēta iemesla, kas mainīsies · daudz cerības valodas\n**Biežā ēnas sakne:** Delay demon · bailes no saistībām · neizbēgamība nav pietiekami uzcelta\n\n**1. jautājums:** *\"Kad tu saki 'vēlāk' — tas ir plāns vai cerība?\"*\n**2. jautājums:** *\"Kas tieši nākamajā mēnesī būs citādi?\"*\n**3. jautājums (ja vajag):** *\"Ko tev dod tas, ka tu to atliec?\"*\n\n**Ja atveras:** ej uz **inevitability / cost of wait / danger scale**\n**Ja neatveras:** *\"Kur šos 6 mēnešus tu pieņēmi lēmumus?\"*\n\n**Lēmuma izeja:**\n- Vai nu parādās reāls plāns ar datumu\n- Vai kļūst skaidrs, ka \"vēlāk\" ir izvairīšanās\n\n---"
+    },
+    {
+      "trigger": "JĀRUNĀ AR PARTNERI / KOMANDU",
+      "raw": "**Ko klausīties:** Vai viņš pats ir izlēmis · vai partneris ir reāls lēmējs vai aizsegs · vai tiek minēts konkrēts nākamais solis\n**Biežā ēnas sakne:** Pats vēl nav pieņēmis lēmumu · grib pārlikt atbildību · nav skaidrs, ko otrai pusei vajag dzirdēt\n\n**1. jautājums:** *\"Ja noliekam viņus malā uz brīdi — tu pats šo redzi kā pareizo virzienu vai nē?\"*\n**2. jautājums:** *\"Kas viņiem būs svarīgākais?\"*\n**3. jautājums:** *\"Kad tieši atgriežamies ar atbildi?\"*\n\n**Ja atveras:** sagatavo partner pitch / lock date\n**Ja neatveras:** tad tas nav partnera objection, tā ir paša migla\n\n**Lēmuma izeja:**\n- Vai nu pats ir \"jā\" + lock date\n- Vai atgriežamies uz sakni viņā pašā\n\n---"
+    },
+    {
+      "trigger": "NAV GATAVS",
+      "raw": "**Ko klausīties:** Abstrakts vārds bez konkrētības · vairāk sajūta nekā fakts · runa par \"vēl neesmu tur\"\n**Biežā ēnas sakne:** Bailes · nav drošības · nav self-permission\n\n**1. jautājums:** *\"Kas tieši tevī vēl nav gatavs?\"*\n**2. jautājums:** *\"Ko tev vajadzētu redzēt, lai justos gatavs?\"*\n**3. jautājums:** *\"Vai tas ir par mehānismu, risku vai pašatļauju?\"*\n\n**Ja atveras:** ej uz **drošību / bullseye / belief**\n**Ja neatveras:** *\"Ko tu te mēģini pasargāt?\"*\n\n**Lēmuma izeja:**\n- Nosaukta trūkstošā drošība → strādā ar to\n- Ja nav gatavs bez konkrētības → neatstāj miglu kā respektablu atbildi\n\n---"
+    },
+    {
+      "trigger": "VARU PATS",
+      "raw": "**Ko klausīties:** Identitātes aizsardzība · vajadzība saglabāt kontroli · pretestība pret palīdzības pieņemšanu\n**Biežā ēnas sakne:** Negrib atzīt, ka pats nav ticis galā · ego aizsardzība · grib saglabāt autonomiju\n\n**1. jautājums:** *\"Ja tu varētu to sakārtot pats, kāpēc tas vēl nav noticis?\"*\n**2. jautājums:** *\"Kas tieši līdz šim nav ļāvis to izdarīt?\"*\n**3. jautājums:** *\"Kur tev te visvairāk pietrūkst — sistēma, konsekvence vai skaidrība?\"*\n\n**Ja atveras:** ej uz īsto bremzi\n**Ja neatveras:** *\"Ko tev dotu tas, ka tev tas nav jānes vienam?\"*\n\n**Lēmuma izeja:**\n- Vai nu atzīst bremzi\n- Vai paliek aiz ego sienas → tad nevajag cīnīties, tikai nofiksēt realitāti\n\n---"
+    },
+    {
+      "trigger": "JĀSALĪDZINA",
+      "raw": "**Ko klausīties:** Migla bez ass · īsti nav skaidrs, ko viņš salīdzina\n**Biežā ēnas sakne:** Nav skaidrs lēmuma kritērijs · nav pietiekami stiprs bullseye · nav skaidrs, kam jākalpo salīdzinājumam\n\n**1. jautājums:** *\"Ko tu gribi salīdzināt — cenu, procesu vai ticamību?\"*\n**2. jautājums:** *\"Pēc kāda kritērija tu sev pateiksi, ka variants ir pareizais?\"*\n\n**Ja atveras:** ej uz **bullseye / decision criteria**\n**Ja neatveras:** *\"Tad sanāk, ka tev vēl nav skaidrs, kas tev vispār ir svarīgākais šajā lēmumā, pareizi?\"*\n\n**Lēmuma izeja:**\n- Vai nu parādās salīdzināšanas ass\n- Vai kļūst redzams, ka salīdzināšana ir miglas forma\n\n---"
+    },
+    {
+      "trigger": "NAV LAIKA",
+      "raw": "**Ko klausīties:** Vai tas ir resurss vai prioritāte · vai \"laiks\" ir aizsargfrāze\n**Biežā ēnas sakne:** Nav prioritātes · nav pietiekama sāpju svara · negrib ielaist vēl vienu atbildību\n\n**1. jautājums:** *\"Kas tev šobrīd ir prioritārāks par šo?\"*\n**2. jautājums:** *\"Ko tev maksā tas, ka šim nav laika?\"*\n**3. jautājums:** *\"Kad šim beidzot būs laiks?\"*\n\n**Ja atveras:** ej uz **prioritāti / cost of wait**\n**Ja neatveras:** *\"Tad 'nav laika' ir veids, kā pateikt, ka tas šobrīd nav pietiekami svarīgi, pareizi?\"*\n\n**Lēmuma izeja:**\n- Vai nu nofiksē prioritāti un rīcību\n- Vai godīgi atzīst, ka tas nav prioritāte\n\n---"
+    }
+  ],
+  "elite_rules": [
+    {
+      "num": 1,
+      "rule": "Diagnose before direction",
+      "explain": "Ja vēl nav skaidrs mezgls — neej uz risinājumu."
+    },
+    {
+      "num": 2,
+      "rule": "Precision before persuasion",
+      "explain": "Skaidrība ir spēcīgāka par pārliecināšanu."
+    },
+    {
+      "num": 3,
+      "rule": "No vague objection left alive",
+      "explain": "Migls objection ir nāves spriedums tālākam darījumam. Vienmēr dabū saknes precizitāti."
+    },
+    {
+      "num": 4,
+      "rule": "No price without weight",
+      "explain": "Cena bez COI = atteikums."
+    },
+    {
+      "num": 5,
+      "rule": "No pitch without bullseye",
+      "explain": "Pitch bez buying instruction = monologs."
+    },
+    {
+      "num": 6,
+      "rule": "No close without logistics",
+      "explain": "Lēmuma \"jā\" bez datuma + maksājuma formas = nekas."
+    },
+    {
+      "num": 7,
+      "rule": "Control the structure, not the person",
+      "explain": "Tu vadi struktūru. Klients pats vada savu lēmumu."
+    },
+    {
+      "num": 8,
+      "rule": "Shorten drift immediately",
+      "explain": "Tiklīdz saruna sāk plūst sānis — *\"Paga, kas te galvenais?\"*"
+    },
+    {
+      "num": 9,
+      "rule": "Tension is not the enemy",
+      "explain": "Diskomforts ir spēcīgākais lēmuma katalizators. Neglābj klientu no tā."
+    },
+    {
+      "num": 10,
+      "rule": "Respect the no, reject the fog",
+      "explain": "Skaidrs \"nē\" ir cienīts. Migla — nē."
+    },
+    {
+      "num": 11,
+      "rule": "One strong question beats five clever ones",
+      "explain": "Viens precīzs jautājums > 5 izveicīgi."
+    },
+    {
+      "num": 12,
+      "rule": "If the answer is weak, change the access point",
+      "explain": "Vājš atbilžu signāls = nepareiza piekļuve, ne klienta vaina. Maini metodi (sk. Comprehension Ladders)."
+    }
+  ],
+  "reset_phrases": [
+    "Paga, saīsinām. Kas te ir galvenais?",
+    "Ļauj man noķert vienu lietu.",
+    "Te man nesakrīt 2 lietas.",
+    "Pirms ejam tālāk, man vajag saprast šo vienu punktu.",
+    "No visa, ko tu pateici, kur te ir īstais mezgls?"
+  ]
+}
