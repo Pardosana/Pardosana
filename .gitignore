@@ -19,3 +19,4 @@ automation/crm_outbox.jsonl
 .env
 .env.*
 !.env.example
+app/v15/V15.1_GRANATA_PILNA.zip
