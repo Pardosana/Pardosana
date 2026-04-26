@@ -1,0 +1,409 @@
+<!DOCTYPE html>
+<html lang="lv">
+<head>
+<meta charset="UTF-8">
+<title>SalesEngine V15 · Knowledge Graph</title>
+<style>
+*, *::before, *::after { box-sizing: border-box; }
+body { margin: 0; font-family: 'Georgia', 'DejaVu Serif', serif; background: #fffaf0; color: #16243a; }
+header { background: #0d3b66; color: #ffd24a; padding: 20px 30px; box-shadow: 0 4px 20px rgba(0,0,0,0.2); }
+header h1 { margin: 0; font-size: 1.6em; }
+header p { margin: 6px 0 0 0; opacity: 0.8; font-style: italic; font-size: 0.95em; }
+.legend { padding: 10px 30px; background: #fff8e1; border-bottom: 2px solid #d97706; font-size: 0.85em; }
+.legend span { display: inline-block; margin-right: 14px; }
+.dot { display: inline-block; width: 12px; height: 12px; border-radius: 50%; margin-right: 4px; vertical-align: middle; }
+.layout { display: grid; grid-template-columns: 1fr 380px; height: calc(100vh - 130px); }
+#canvas { background: #fffaf0; position: relative; overflow: hidden; }
+svg.graph { width: 100%; height: 100%; cursor: grab; }
+svg.graph:active { cursor: grabbing; }
+.node { cursor: pointer; transition: filter 0.2s; }
+.node:hover { filter: brightness(1.15); }
+.node-circle { stroke: #16243a; stroke-width: 2; }
+.node-circle.selected { stroke: #d97706; stroke-width: 4; }
+.node-label { font-size: 11px; font-family: 'Arial', sans-serif; font-weight: bold; pointer-events: none; }
+.edge { stroke: #16243a; stroke-width: 1; opacity: 0.25; fill: none; }
+.edge.highlight { stroke: #d97706; stroke-width: 2.5; opacity: 1; }
+#detail-panel { background: white; border-left: 3px solid #d97706; padding: 20px; overflow-y: auto; }
+#detail-panel h2 { color: #0d3b66; margin: 0 0 8px 0; font-size: 1.4em; border-bottom: 2px solid #d97706; padding-bottom: 6px; }
+#detail-panel .meta { color: #666; font-size: 0.9em; margin-bottom: 12px; }
+#detail-panel h3 { color: #b45309; font-size: 1.05em; margin: 16px 0 6px 0; }
+#detail-panel ul { padding-left: 20px; margin: 6px 0; }
+#detail-panel li { margin: 4px 0; line-height: 1.4; }
+#detail-panel .quote { background: #fffaf0; border-left: 3px solid #d97706; padding: 8px 12px; margin: 10px 0; font-style: italic; color: #4a3a18; }
+#detail-panel .badge { display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 0.75em; color: white; margin-right: 4px; font-weight: bold; }
+.b-frame { background: #0d3b66; }
+.b-discovery { background: #1e7e34; }
+.b-pain { background: #cc8c2a; }
+.b-coi { background: #5a3d8a; }
+.b-hope { background: #dc2626; }
+.b-pitch { background: #0a7c8c; }
+.b-price { background: #16a34a; }
+.b-close { background: #16243a; }
+.search-box { padding: 8px 14px; background: #f5f1e6; border-bottom: 1px solid #d97706; }
+.search-box input { width: 100%; padding: 6px 10px; border: 1px solid #ccc; border-radius: 4px; font-size: 14px; }
+.tip { background: #fffaf0; padding: 10px; border-radius: 4px; font-size: 0.85em; margin-bottom: 12px; color: #666; }
+</style>
+</head>
+<body>
+<header>
+  <h1>🧬 SalesEngine V15 Knowledge Graph</h1>
+  <p>Klikšķini mezglu → redzi visu kontekstu (V8 slāņus, frāzes, vārtus, IG video pierādījumus, konekcijas)</p>
+</header>
+<div class="legend">
+  <span><span class="dot" style="background:#0d3b66"></span>Frame Q1-Q3</span>
+  <span><span class="dot" style="background:#1e7e34"></span>Discovery Q4-Q10</span>
+  <span><span class="dot" style="background:#cc8c2a"></span>Pain/GAP Q11-Q16</span>
+  <span><span class="dot" style="background:#5a3d8a"></span>Time/COI Q17-Q21</span>
+  <span><span class="dot" style="background:#dc2626"></span>Hope Break ⭐ Q21.5</span>
+  <span><span class="dot" style="background:#0a7c8c"></span>Pitch Q22-Q26</span>
+  <span><span class="dot" style="background:#16a34a"></span>Price Q27-Q32</span>
+  <span><span class="dot" style="background:#16243a"></span>Close Q33-Q40</span>
+</div>
+<div class="layout">
+  <div id="canvas">
+    <div class="search-box">
+      <input id="search" placeholder="Meklē mezglu (Q4, COI, Hope, MICE, Klusums, Cena...)" />
+    </div>
+    <svg class="graph" id="graph" viewBox="0 0 1200 900" preserveAspectRatio="xMidYMid meet"></svg>
+  </div>
+  <div id="detail-panel">
+    <div class="tip">👈 Klikšķini uz jebkura mezgla pa kreisi, lai redzētu pilnu informāciju.</div>
+    <h2>Sākumlapa</h2>
+    <p>Šī ir V15 sistēmas <b>knowledge graph</b>. Tā parāda Q1-Q40 plūsmu kā tīklu, kur katrs jautājums savienojas ar citiem caur loģiskām atkarībām.</p>
+    <h3>5 vārtu mezgli (gates):</h3>
+    <ul>
+      <li><b>Q3</b> — Soft Frame</li>
+      <li><b>Q11</b> — GAP atklāts (€N)</li>
+      <li><b>Q21.5</b> ⭐ — Hope Break (LOAD-BEARING)</li>
+      <li><b>Q26</b> — 3 Pīlāri</li>
+      <li><b>Q32</b> — Cena + Klusums</li>
+    </ul>
+    <h3>Bez visiem 5 vārtiem:</h3>
+    <p>Nav slēgšanas. Klients var piekrist vispār, bet zvana laikā nepāries uz reālu lēmumu.</p>
+  </div>
+</div>
+<script>
+const NODES = [
+  // Frame
+  { id:'Q1', label:'Q1', name:'Sveiciens + Raports', phase:'frame', color:'#0d3b66', x:80, y:120, gate:false,
+    purpose:'Pirmā minūte — kontakts, smaids, vārds, pateicība par laiku.',
+    phrases:['Sveiki, [Vārds]. Pateicos, ka atrodāt 30 minūtes.'],
+    gates:[],
+    objections:['Steigā jutīsi jau pirmajā teikumā — pielāgojies.'],
+    silences:['2 sek pēc paša sveiciena'],
+    nlp:'Mirroring (klienta toņa atveseliņojums)',
+    house:'CORE',
+    audit:'IG video #14, #21 - "First-impression rule"',
+    next:['Q2'] },
+  { id:'Q2', label:'Q2', name:'Agenda + Soft Frame', phase:'frame', color:'#0d3b66', x:200, y:120, gate:false,
+    purpose:'Klients piekrīt diagnostikas pieejai (ne pārdošanas).',
+    phrases:['Es uzdošu dažus jautājumus, lai saprastu, vai mans risinājums tev der. Ja jutīšu, ka nē — tā arī pateikšu uzreiz.'],
+    gates:['Klients atbild: "Labi" / "Saprotu"'],
+    objections:['"Pasaki cik maksā uzreiz" → "Pirms cipara — vai man derēs"'],
+    silences:[],
+    nlp:'Frame setting',
+    house:'CORE',
+    audit:'IG video #2, #34 - "Authority by takeaway"',
+    next:['Q3'] },
+  { id:'Q3', label:'Q3', name:'Lēmumu pieņēmējs ⭐', phase:'frame', color:'#0d3b66', x:320, y:120, gate:true,
+    purpose:'Vārts #1 — bez šī nepāriet. Identificē, ar kuru runā.',
+    phrases:['Vai tu esi tas cilvēks, kurš pieņem šādus lēmumus?'],
+    gates:['Atbilde "Jā" → Q4. Atbilde "Nē" → atvalva, pārcel.'],
+    objections:['"Es un mans partneris" → Q3.5: "Vai jūs vienāds skats?"'],
+    silences:[],
+    nlp:'Pacing → Leading',
+    house:'CORE',
+    audit:'IG video #44, #67 - "Decision-maker filter"',
+    next:['Q4'] },
+  // Discovery
+  { id:'Q4', label:'Q4', name:'Galvenā lieta ⭐', phase:'discovery', color:'#1e7e34', x:440, y:120, gate:false,
+    purpose:'3-zvaigžņu mezgls. Klients pasaka galveno problēmu.',
+    phrases:['Kas tieši šobrīd ir galvenā lieta, ko tu meklē atrisināt?'],
+    gates:[],
+    objections:['Vispārīga atbilde → Q4.5: "Ja vajadzētu izvēlēties tikai vienu — kuru?"'],
+    silences:['8-10 sek pēc jautājuma. Negaidītas atbildes.'],
+    nlp:'Open-ended → narrowing',
+    house:'CORE',
+    audit:'IG video #5, #12, #29 - "Pain-point isolation"',
+    next:['Q5'] },
+  { id:'Q5', label:'Q5', name:'Kāpēc tagad', phase:'discovery', color:'#1e7e34', x:560, y:120, gate:false,
+    purpose:'Klusais motīvs — kas tieši ir motors.',
+    phrases:['Kas lika tev šodien zvanīt? Kas mainījās?'],
+    gates:[],
+    objections:[],
+    silences:['5 sek'],
+    nlp:'Reasons-listing',
+    house:'CORE',
+    audit:'IG video #18 - "Trigger event"',
+    next:['Q6'] },
+  { id:'Q6', label:'Q6', name:'Dziļā motivācija ⭐', phase:'discovery', color:'#1e7e34', x:680, y:120, gate:false,
+    purpose:'Iet zem virsmas — nauda nav mērķis, tā ir cipars.',
+    phrases:['Ja šis tiks atrisināts — kas tev kļūst iespējams?'],
+    gates:[],
+    objections:[],
+    silences:['10 sek — klients atklāj True Why'],
+    nlp:'Above-the-line motivation',
+    house:'CORE',
+    audit:'IG video #8, #41 - "Drive vs. Surface"',
+    next:['Q7'] },
+  { id:'Q7', label:'Q7', name:'MICE motors', phase:'discovery', color:'#1e7e34', x:800, y:120, gate:false,
+    purpose:'Identificē Money / Ideology / Compromise / Ego — pielāgo Q22 valodu.',
+    phrases:['(operatorā iekšēji — netiek jautāts)'],
+    gates:[],
+    objections:[],
+    silences:[],
+    nlp:'MICE classification',
+    house:'CORE',
+    audit:'IG video #22, #56 - "Motivation typology"',
+    next:['Q8'] },
+  // Pain Q11
+  { id:'Q11', label:'Q11', name:'GAP €N ⭐', phase:'pain', color:'#cc8c2a', x:380, y:280, gate:true,
+    purpose:'Vārts #2 — konkrēts cipars €N starp grib un šobrīd.',
+    phrases:['Cik klientu mēnesī tu reāli pieņem?', 'Kāds ir vidējais čeks?', 'Cik gribētu būt?'],
+    gates:['Klients pats izrēķinā GAP cipariem.'],
+    objections:['"Es nezinu" → "Pieņēmums labāk nekā nekas. €5k? €50k?"'],
+    silences:[],
+    nlp:'Calibration via numbers',
+    house:'CORE',
+    audit:'IG video #15, #32 - "GAP isolation"',
+    next:['Q21'] },
+  // COI Q21
+  { id:'Q21', label:'Q21', name:'COI · Bezdarbības Cena', phase:'coi', color:'#5a3d8a', x:540, y:280, gate:false,
+    purpose:'Klients pats izrēķina, cik zaudē mēnesī, gadā, 5 gados.',
+    phrases:['Tava atstarpe €Nk/mēn. Cik mēnesi tas sastrūk? 6 mēneši = €Mk. 5 gadi = €Pk.'],
+    gates:[],
+    objections:['"Tas nav tik svarīgi" → "Tikai cipari, ne emocijas"'],
+    silences:['5 sek pēc 5-gadu cipara'],
+    nlp:'Calibrated questions (Voss)',
+    house:'CORE',
+    audit:'IG video #19 - "Cost of inaction"',
+    next:['Q21.5'] },
+  // ⭐ Hope Break
+  { id:'Q21.5', label:'Q21.5', name:'⭐ Hope Break (LOAD-BEARING)', phase:'hope', color:'#dc2626', x:600, y:430, gate:true,
+    purpose:'V13 LOAD-BEARING. Klients atzīst, ka cer, nevis vada. 3 jautājumu kāpne.',
+    phrases:['Process vai cerība?', 'Aktīvi vai pasīvi?', 'Ja vajadzētu klāt 5 klientus 2 nedēļās — tu zinātu kā?'],
+    gates:['Klients pats atzīst: "Es ceru, nevis sistēmā strādāju."'],
+    objections:['"Es zinu, kā" (lepnums) → "Konkrēti — kuras 3 darbības mēneša tu darīsi nākošos 7 dienās?"'],
+    silences:['10-15 sek pēc 3. jautājuma — KRITISKI'],
+    nlp:'Frame collapse + soft pause',
+    house:'CORE + ARSENAL (Hope Break ir gan struktūra, gan tehnika)',
+    audit:'IG video #7, #29, #67 - "Faith-bridge demolish"',
+    next:['Q22'] },
+  // Pitch
+  { id:'Q22', label:'Q22', name:'Investora rāmis ⭐', phase:'pitch', color:'#0a7c8c', x:780, y:430, gate:false,
+    purpose:'Pārvēršam piedāvājumu no izdevuma uz ROI.',
+    phrases:['Ne kā izdevums — kā ROI: investē €X, atpelni €Y/mēn. Atmaksāšanās 60 dienās.'],
+    gates:[],
+    objections:[],
+    silences:[],
+    nlp:'Reframe via Investor lens',
+    house:'CORE',
+    audit:'IG video #11, #38 - "ROI framing"',
+    next:['Q26'] },
+  { id:'Q26', label:'Q26', name:'3 Pīlāri ⭐', phase:'pitch', color:'#0a7c8c', x:900, y:430, gate:true,
+    purpose:'Vārts #4 — sistēmas piedāvājums kā 3 strukturāli pīlāri.',
+    phrases:['Tava sistēma stāv uz 3 pīlāriem: [Pīlārs 1] · [Pīlārs 2] · [Pīlārs 3].'],
+    gates:['Klients redz risinājumu kā struktūru.'],
+    objections:[],
+    silences:[],
+    nlp:'Anchoring + structure',
+    house:'CORE + CARRIER (vizuāla metafora)',
+    audit:'IG video #16, #43 - "3-pillar framework"',
+    next:['Q32'] },
+  // Cena
+  { id:'Q32', label:'Q32', name:'Cena + Klusais Slēgums ⭐', phase:'price', color:'#16a34a', x:780, y:600, gate:true,
+    purpose:'Vārts #5 — 2 opcijas + 8-15 sek klusums.',
+    phrases:['Tev ir divas opcijas. Pamata €1,500. Pro €3,000. [PAUSE]. Kura tev šobrīd der?'],
+    gates:['Pirmais pārtrauc klusumu, zaudē. Klients atbild ar ko nopirks.'],
+    objections:['CARE: 6 iebildumi → 6 atbildes 60 sek (sk. Daļa IV)'],
+    silences:['8-15 sek (KRITISKAIS)'],
+    nlp:'Silent close',
+    house:'CORE + ARSENAL',
+    audit:'IG video #4, #45, #67 - "Silent close discipline"',
+    next:['Q40'] },
+  { id:'Q40', label:'Q40', name:'Komutēšana', phase:'close', color:'#16243a', x:600, y:780, gate:false,
+    purpose:'Tehniskais close — karte vai pārskaitījums.',
+    phrases:['Karti vai pārskaitījumu?', 'Šodien vai rīt?'],
+    gates:[],
+    objections:[],
+    silences:[],
+    nlp:'Assumed close',
+    house:'CORE',
+    audit:'IG video #36 - "Technical close"',
+    next:[] },
+  // V8 nodes (META)
+  { id:'V8.1', label:'V∞', name:'V∞ Pre-Call Stāvoklis', phase:'frame', color:'#5a3d8a', x:80, y:280, gate:false,
+    purpose:'Pirms zvana operatorā stāv pārpilnībā (25-30 atvērti darījumi).',
+    phrases:['Es nestrādāju ar visiem.', 'Es nepārdošu, es diagnozēju.', 'Cerība nav sistēma.'],
+    gates:[],
+    objections:[],
+    silences:[],
+    nlp:'State management',
+    house:'TRAINING',
+    audit:'IG video #6, #28 - "Abundance frame"',
+    next:['Q1'] },
+  { id:'CARE', label:'CARE', name:'CARE Iebildumu Ietvars', phase:'close', color:'#a83d3d', x:900, y:780, gate:false,
+    purpose:'6 iebildumi → 6 atbildes. CARE = Cienījami · Autentiski · R · Eksperts.',
+    phrases:['Par dārgu / Padomāšu / Jārunā / Nav laika / Atsūtiet e-pastu / Strādājam ar citu'],
+    gates:[],
+    objections:[],
+    silences:[],
+    nlp:'VAI: Validē → Atdalī → Interpretē',
+    house:'CORE',
+    audit:'IG video #1, #25, #50 - "Objection handling"',
+    next:['Q40'] },
+];
+
+const EDGES = [
+  ['Q1','Q2'],['Q2','Q3'],['Q3','Q4'],['Q4','Q5'],['Q5','Q6'],['Q6','Q7'],
+  ['Q7','Q11'],['Q11','Q21'],['Q21','Q21.5'],['Q21.5','Q22'],['Q22','Q26'],
+  ['Q26','Q32'],['Q32','Q40'],['Q32','CARE'],['CARE','Q40'],
+  ['V8.1','Q1'],
+];
+
+const svg = document.getElementById('graph');
+const NS = 'http://www.w3.org/2000/svg';
+
+// Draw edges
+EDGES.forEach(([a,b]) => {
+  const A = NODES.find(n=>n.id===a), B = NODES.find(n=>n.id===b);
+  if(!A||!B) return;
+  const path = document.createElementNS(NS,'line');
+  path.setAttribute('x1', A.x); path.setAttribute('y1', A.y);
+  path.setAttribute('x2', B.x); path.setAttribute('y2', B.y);
+  path.setAttribute('class','edge');
+  path.dataset.from = a; path.dataset.to = b;
+  svg.appendChild(path);
+});
+
+// Draw nodes
+NODES.forEach(n => {
+  const g = document.createElementNS(NS,'g');
+  g.setAttribute('class','node');
+  g.setAttribute('transform',`translate(${n.x},${n.y})`);
+  g.dataset.id = n.id;
+  
+  const r = n.gate ? 38 : 30;
+  const c = document.createElementNS(NS,'circle');
+  c.setAttribute('r',r);
+  c.setAttribute('fill', n.color);
+  c.setAttribute('class','node-circle');
+  g.appendChild(c);
+  
+  if(n.gate) {
+    const ring = document.createElementNS(NS,'circle');
+    ring.setAttribute('r',r+6);
+    ring.setAttribute('fill','none');
+    ring.setAttribute('stroke','#d97706');
+    ring.setAttribute('stroke-width','2');
+    ring.setAttribute('stroke-dasharray','4,3');
+    g.appendChild(ring);
+  }
+  
+  const t = document.createElementNS(NS,'text');
+  t.setAttribute('text-anchor','middle');
+  t.setAttribute('dy','0.35em');
+  t.setAttribute('fill','#ffd24a');
+  t.setAttribute('class','node-label');
+  t.textContent = n.label;
+  g.appendChild(t);
+  
+  const sub = document.createElementNS(NS,'text');
+  sub.setAttribute('text-anchor','middle');
+  sub.setAttribute('y',r+14);
+  sub.setAttribute('class','node-label');
+  sub.setAttribute('fill','#16243a');
+  sub.style.fontSize = '9px';
+  sub.textContent = n.name.slice(0,18);
+  g.appendChild(sub);
+  
+  g.addEventListener('click', () => selectNode(n));
+  svg.appendChild(g);
+});
+
+function selectNode(n) {
+  // Highlight node
+  document.querySelectorAll('.node-circle').forEach(c => c.classList.remove('selected'));
+  document.querySelectorAll('.edge').forEach(e => e.classList.remove('highlight'));
+  const node = document.querySelector(`.node[data-id="${n.id}"] .node-circle`);
+  if(node) node.classList.add('selected');
+  // highlight edges
+  document.querySelectorAll('.edge').forEach(e => {
+    if(e.dataset.from===n.id || e.dataset.to===n.id) e.classList.add('highlight');
+  });
+  
+  // Render detail
+  const phaseLabels = { frame:'Frame', discovery:'Discovery', pain:'Pain', coi:'COI', hope:'Hope Break ⭐', pitch:'Pitch', price:'Price', close:'Close' };
+  const badgeClass = { frame:'b-frame', discovery:'b-discovery', pain:'b-pain', coi:'b-coi', hope:'b-hope', pitch:'b-pitch', price:'b-price', close:'b-close' };
+  
+  let html = `<h2>${n.label} · ${n.name}</h2>`;
+  html += `<div class="meta"><span class="badge ${badgeClass[n.phase]}">${phaseLabels[n.phase]}</span>`;
+  if(n.gate) html += `<span class="badge" style="background:#d97706">VĀRTS</span>`;
+  html += `<span class="badge" style="background:#666">V13: ${n.house}</span></div>`;
+  
+  html += `<h3>🎯 Mērķis</h3><p>${n.purpose}</p>`;
+  
+  if(n.phrases?.length) {
+    html += `<h3>💬 Frāzes</h3>`;
+    n.phrases.forEach(p => html += `<div class="quote">"${p}"</div>`);
+  }
+  if(n.gates?.length) {
+    html += `<h3>🚪 Vārti</h3><ul>`;
+    n.gates.forEach(g => html += `<li>${g}</li>`);
+    html += `</ul>`;
+  }
+  if(n.objections?.length) {
+    html += `<h3>⚠ Iebildumi</h3><ul>`;
+    n.objections.forEach(o => html += `<li>${o}</li>`);
+    html += `</ul>`;
+  }
+  if(n.silences?.length) {
+    html += `<h3>🤫 Klusumi</h3><ul>`;
+    n.silences.forEach(s => html += `<li>${s}</li>`);
+    html += `</ul>`;
+  }
+  if(n.nlp) html += `<h3>🧠 NLP slānis</h3><p>${n.nlp}</p>`;
+  if(n.audit) html += `<h3>📊 IG Audit</h3><p style="color:#666;font-size:0.9em">${n.audit}</p>`;
+  if(n.next?.length) {
+    html += `<h3>➡️ Nākošie mezgli</h3><p>`;
+    n.next.forEach(nid => {
+      const next = NODES.find(x=>x.id===nid);
+      if(next) html += `<a href="#" onclick="event.preventDefault();selectNodeById('${nid}')" style="color:${next.color};font-weight:bold;margin-right:8px">→ ${next.label} ${next.name.slice(0,12)}</a>`;
+    });
+    html += `</p>`;
+  }
+  
+  document.getElementById('detail-panel').innerHTML = html;
+}
+
+window.selectNodeById = (id) => {
+  const n = NODES.find(x=>x.id===id);
+  if(n) selectNode(n);
+};
+
+// Search
+document.getElementById('search').addEventListener('input', (e) => {
+  const q = e.target.value.toLowerCase();
+  if(!q) {
+    document.querySelectorAll('.node').forEach(n => n.style.opacity = '1');
+    return;
+  }
+  document.querySelectorAll('.node').forEach(n => {
+    const id = n.dataset.id;
+    const node = NODES.find(x=>x.id===id);
+    if(!node) return;
+    const match = (node.label+node.name+node.purpose+(node.phrases||[]).join(' ')+(node.audit||'')).toLowerCase().includes(q);
+    n.style.opacity = match ? '1' : '0.15';
+  });
+});
+
+// Click empty space to clear
+document.getElementById('graph').addEventListener('click', (e) => {
+  if(e.target.id === 'graph') {
+    document.querySelectorAll('.node-circle').forEach(c => c.classList.remove('selected'));
+    document.querySelectorAll('.edge').forEach(ed => ed.classList.remove('highlight'));
+  }
+});
+</script>
+</body>
+</html>

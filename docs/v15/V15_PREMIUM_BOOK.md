@@ -1912,180 +1912,180 @@ Ar Q21.5:
 
 # DAĻA X · VIZUĀLAIS BLUEPRINT ATLANTA
 
-> **Kāpēc tas eksistē:** Sales Engine V14.1 satur **40 jautājumus + 14 V8 mezglus + 9 vizuālās metaforas + 6 klientu tipus + 8 Response Trees**. Visu to iegaumēt tikai no teksta nav iespējams. **Klienta zemapziņa redz vizuāli.** Tāpēc V15 pievieno blueprint atlasu — 17 inženierprāta shēmas, kas drukājamas, līmējamas blakus monitoram, vai zīmējamas uz tāfeles klientam.
+> **Kāpēc tas eksistē:** Sales Engine V14.1 satur **40 jautājumus + 14 V8 mezglus + 9 vizuālās metaforas + 6 klientu tipus + 8 Response Trees**. Visu to iegaumēt tikai no teksta nav iespējams. **Klienta zemapziņa redz vizuāli.** Tāpēc V15 pievieno blueprint atlasu — **12 oriģinālas latviskas inženierprāta shēmas**, kas drukājamas, līmējamas blakus monitoram, vai zīmējamas uz tāfeles klientam.
 
-> **Avots:** Google NotebookLM ārējais skats uz V14.1 (outside‑view audits) + Lauris whiteboard prakse Latvijas tirgū.
+> **Avots:** Lauris whiteboard prakse Latvijas tirgū + V14.1 Master Schematic outside‑view audit (NotebookLM) + V15.1 inženierprāta sintēze. **Visi blueprint atlanta zīmējumi ir izveidoti no nulles latviešu valodā** — tie nav importēti EN attēli.
 
----
-
-## 10.1 · BLUEPRINT #1 — SALESENGINE: PĀRDOŠANAS ZVANA SISTĒMA (TITULS)
-
-> Sistēmas pilnais skats vienā lapā: 41 jautājumi · 15 mezgli · 9 vizuālās metaforas · 6 V13 slāņi · 6 klientu tipi · 8 Response Trees. Drukāt kā **A2 plakātu** un likt blakus darba galdam.
-
-![Blueprint #1 — System Boot V14.1](/home/ubuntu/v15-build/blueprints/schematic_page-01.jpg)
+> **Lietošana:**
+> - **Operatorā:** drukāt visus 12 A3 izmērā, līmēt secībā uz sienas.
+> - **Klientam:** atsevišķi 4 šabloni (Whiteboard Templates) ir A3 drukāšanai zvana laikā — sk. atsevišķu PDF.
 
 ---
 
-## 10.2 · BLUEPRINT #2 — V13 STRUKTURĀLĀ DISCIPLĪNA (6 SLĀŅU LIKUMS)
+## 10.1 · BLUEPRINT #1 — SISTĒMAS PĀRSKATS (4 STŪRAKMEŅI)
 
-> Šī shēma rāda, kā 6 V13 slāņi (CORE, CURRENT CORK, ELITE, PSYCHOLOGY, THERAPEUTIC, SIGNALS/DELIVERY/IF STUCK) ir **stingri noškirti** — nav viens monolīts. **Kategoriski nedrīkst:** sajaukt CORE ar ARSENAL, lietot vairāk kā 1 vizuālu metaforu vienā zvanā, pārvērst Current Cork par mini‑monolītu.
-
-![Blueprint #2 — V13 6 layers](/home/ubuntu/v15-build/blueprints/schematic_page-02.jpg)
-
----
-
-## 10.3 · BLUEPRINT #3 — PROMPT CORE LIKUMI (V13.1 FINAL LOCK)
-
-> 5 stiprie likumi, kas tur kopā visu sistēmu. Katra zvana sākumā operatora prātā **šie 5** ir aktīvi, ne saturs.
-
-![Blueprint #3 — Prompt Core Likumi](/home/ubuntu/v15-build/blueprints/schematic_page-03.jpg)
-
----
-
-## 10.4 · BLUEPRINT #4 — MAKRO ARHITEKTŪRA (4 META BLOKI)
-
-> Visa Q1–Q40 ķēde sadalīta **4 META blokos**: (1) Frame & Discovery → (2) Sāpe & Realitāte → (3) Vīzija & Pārliecība → (4) Risinājums & Close. Katrs bloks ir **viens slēgts cikls** ar saviem 5 vārtiem.
-
-![Blueprint #4 — 4 META bloki](/home/ubuntu/v15-build/blueprints/schematic_page-04.jpg)
-
----
-
-## 10.5 · BLUEPRINT #5 — FĀZE 1 & 2 — IEVADS UN MOTĪVU SAKNE (0–6 min)
-
-> Q1 Sveiciens + Raports → Q2 Agenda (Soft Frame) → Q3 Lēmumu pieņēmējs → **Q4 Galvenā lieta** (3‑zvaigžņu mezgls, pamats visai sarunai) → Q5 Kas lika reāli ierasties → **Q6 Dziļā motivācija** (1‑zvaigznes mezgls — nauda ir cipars, kas tev dos izaugsme).
-
-![Blueprint #5 — Fāze 1 & 2](/home/ubuntu/v15-build/blueprints/schematic_page-05.jpg)
-
----
-
-## 10.6 · BLUEPRINT #6 — FĀZE 3 — SITUĀCIJAS KARTE & VIENĪBU EKONOMIKA (6–14 min)
-
-> **Formula: THE GAP = [Q9 Mērķis] − [Q10 Šobrīd]**. Q11 GAP piezīme fiksē €X zaudēšanu kā **sāpes enkurs** visai tālākajai sarunai. Q12 vidējais čeks (1 zvaigzne) un Q16 reālā kapacitāte (1 zvaigzne, kritiskais tests: vai vispār var uzņemt?) ir vienības ekonomikas pamats.
-
-![Blueprint #6 — Fāze 3 GAP formula](/home/ubuntu/v15-build/blueprints/schematic_page-06.jpg)
-
----
-
-## 10.7 · BLUEPRINT #7 — FĀZE 4 & 5 — LAIKA DIMENSIJA UN COI (14–22 min)
-
-> **Q18 Zelta Jautājums** (Ideja Galvā — "Tu lēmumu pieņēmi jau pirms X gadiem") → Q19–Q20 + **Q21 Bezdarbības Cena (COI)** → **Q22 Investora Rāmis** (1 zvaigzne) → Q23 Nākotnes Vīzija (Bridge). **BRĪDINĀJUMS:** Pirms pārejas uz Pitch (Q24+), ir jāiznicina klienta cerība uz nejaušību (Q21.5 Hope Break — sk. Daļa IX).
-
-![Blueprint #7 — Fāze 4 & 5 COI](/home/ubuntu/v15-build/blueprints/schematic_page-07.jpg)
-
----
-
-## 10.8 · BLUEPRINT #8 — V13 LOAD‑BEARING NODE: Q21.5 HOPE BREAK ⚡
-
-> **Vizualizācija:** "Cerība" = saraustīta virves tilta zīmējums starp diviem klintīm. "Sistēma" = stabils dzelzs‑betona tilts apakšā. Klients pirms Hope Break domā, ka starp €100k un €250k var **uzkāpt cerības tiltā**. Operatora uzdevums: nokrāmēt cerības tiltu un atvērt sistēmas tiltu kā **vienīgo arhitektoniski pamatoto ceļu**.
-
-> **Trīs jautājumi (D7.5 D‑kods):**
-> 1. **Process vai Cerība?** — *"Tu to tukšumu apzināti aizpildi, vai gaidi, ka pats aizpildīsies?"*
-> 2. **Aktīvi vai Pasīvi?** — *"Tas, ko tu sauc par 'gan jau' — kā tas iepriekšējos 6 mēnešos strādāja?"*
-> 3. **Konkrēta Zināšana** — *"Ja nākamās 2 nedēļas vajadzētu klāt 5 klientus — tu precīzi zini, kā?"*
-
-![Blueprint #8 — Hope Break](/home/ubuntu/v15-build/blueprints/schematic_page-08.jpg)
-
----
-
-## 10.9 · BLUEPRINT #9 — FĀZE 6 — LŪZUMA PUNKTS & PĀREJA (22–30 min)
-
-> **Q24 The Mirror** (atspoguļo situāciju ar paša klienta vārdiem, lock‑in "Pareizi: Jā") → **Q25 The Rupture** (nosauc faktu, ka **vecais modelis ir miris** — problēma nav produkts, problēma ir plūsmas modelis; bez sistēmas tas paliks haoss).
-
-![Blueprint #9 — Fāze 6 Lūzuma Punkts](/home/ubuntu/v15-build/blueprints/schematic_page-09.jpg)
-
----
-
-## 10.10 · BLUEPRINT #10 — Q26 JAUNAIS MODELIS (3 PĪLĀRI) ⭐⭐⭐
-
-> Sistemas piedāvājuma kompozīcija — **3 pīlāri uz META Lead‑Ģenerēšanas Sistēmas pamatu**:
-> 1. **Vilka Metode** (pievilcīgs piedāvājums, unikāls pret 10–20 konkurentiem)
-> 2. **Sistematizācija** (automatizēta plūsma, ~5 pieteikumi/dienā par €20/dienā)
-> 3. **CRM + Automatizācija** (neviens netiek pazaudēts — automātiski e‑pasti, Telegram integrācija)
-
-> ⚠ Q27–Q28 ir Optional Training piesaiste (ja klients **trūkst pārliecības pārdot**).
-
-![Blueprint #10 — Q26 3 pīlāri](/home/ubuntu/v15-build/blueprints/schematic_page-10.jpg)
-
----
-
-## 10.11 · BLUEPRINT #11 — FĀZE 7 — ANCHOR, GATAVĪBA UN CENA (30–38 min)
-
-> **Q29 1–10 Vērtējums** (3‑zvaigžņu Anchor mezgls, OBLIGĀTI pirms cenas: *"1 ir neredzētu par velti, 10 ir tieši tas. Cik novērtētu?"*) → Q29.5 <9 Catch detour loop → Q30–Q31 Gatavības apstiprinājums + Onboarding ieskats → **Q32 Cena (D13)**: 2 opcijas. Nosauc un **KLUSUMS**. → Q33–Q39 Iebildumu maršrutēšana → **Q40 Rēķins / Close**: *"Karti vai pārskaitījumu?"*
-
-![Blueprint #11 — Fāze 7 Cena](/home/ubuntu/v15-build/blueprints/schematic_page-11.jpg)
-
----
-
-## 10.12 · BLUEPRINT #12 — DOMINO ENGINE: PILNAIS PLŪSMAS DIAGRAMMA
-
-> Visu Q1–Q40 ķēdi vienā lapā, kā elektroniskā shēma. Blokā parādās arī **Response Trees** branch (kad klients iebilst, neiet atpakaļ uz CORE — iet uz CARE Ietvaru).
-
-![Blueprint #12 — Domino Engine](/home/ubuntu/v15-build/blueprints/schematic_page-12.jpg)
-
----
-
-## 10.13 · BLUEPRINT #13 — ARHETIPU MATRICA: 6 KLIENTU TIPI · DIAGNOSTIKA UN IEROČI
-
-> 6 tipi × Detektors × Ierocis (Response):
-> - **Emocionālais** · "Esmu pārgurusi", sajūta > fakti · → Q6 dziļā motivācija, Future pacing
-> - **Status‑Driven** · "Kvalitāti atpazīstu", domā par līmeni · → Q26 atsauces nišai, Q19 specifikācija
-> - **Dominantais** · Tiešums, bez vārdiem, "Cik?" · → Kontrolē tempu, Q32 cena ātri, Identitātes slānis
-> - **Bailīgais** · "Bail kļūdīties", atliek/izvairās · → Q26 Bonuss + drošība, Therapeutic slānis, CARE protokols
-> - **Analītiskais** · Loģika, dati, mehānisms, "Kāda matemātika?" · → Q26 ROI math, Q9 Numbers Hammer
-> - **Skeptiskais** · "Ko jūs solāt?", "Kā tieši tas strādā?" · → Testē, prasa proof, Q24 atšķirības mehānisms
-
-![Blueprint #13 — 6 Arhetipi](/home/ubuntu/v15-build/blueprints/schematic_page-13.jpg)
-
----
-
-## 10.14 · BLUEPRINT #14 — CARE IETVARS: IEBILDUMU MARŠRUTĒŠANA
-
-> Iebildums → **CARE Diagnoze** (kura no 5 cilpu sakumieņu): (1) Ticamība? (2) Par ko tieši? (3) Tu pats redzi pareizu? (4) Ko tev tas maksā? (5) Sistēma vai taktika? → Pareiza Q‑maršrutēšana atbilstoši signālam.
-
-> **Universāla likums:** **Iebildums NETIEK risinats CORE ķēdē. Tas iet caur CARE Ietvaru un atgriežas pie Q22, Q24, Q26 vai Q39 atbilstoši diagnozei.**
-
-![Blueprint #14 — CARE Ietvars](/home/ubuntu/v15-build/blueprints/schematic_page-14.jpg)
-
----
-
-## 10.15 · BLUEPRINT #15 — ADVANCED DIAGNOZE: BUDŽETS vs TICAMĪBA (Q36)
-
-> **The Signature Test** (Lauris signature no Fathom): *"Jā, skaties. Ja mēs cenu noliktu malā — tu to darītu? Sarunas laikā startētu mani?"*
+> **Mērķis:** Vienā skatienā parāda visu V15 sistēmu ar 4 stūrakmeņiem: V13 disciplīna, 40 jautājumi, 14 V8 mezgli, V∞ stāvoklis operatorā. Vidū — sistēmas centrs.
 >
-> - **If Yes (tikai cena/cashflow):** Izmanto Q39 (finanšu pielāgošana), sadalīt 3 maksājumos. *"Šis palīdzēs? Jo tu esi gatavs darīt."*
-> - **If No (īstā problēma = pārliecība):** Nav skaidras salīdzināšanas asis. Netic rezultātam. Nav uzcelta bezdarbības cena (COI). → **Atgriezies uz Belief / Proof.**
-
-![Blueprint #15 — Q36 Signature Test](/home/ubuntu/v15-build/blueprints/schematic_page-15.jpg)
-
----
-
-## 10.16 · BLUEPRINT #16 — ARSENĀLS: NLP & HIPNOZES SLĀNIS (MAX 2–3 PER ZVANAM)
-
-> 4 advanced tehnikas:
-> - **Future Pacing (D9/D10)** — Pārceļ klientu uz vīzijas stāvokli ("Iedomājies… pēc 12 mēnešiem tu mosties un jūti to mieru ķermenī… kā tas ir?")
-> - **Embedded Commands (Close)** — Zemapziņas rīkojumi ("Un kad tu jūti, ka tas ir pareizi… tad mēs vienkārši sakārtojam.")
-> - **Reframing (Iebildumi)** — Maina diskusijas asi ("Tas nav par cenu… tas ir par to, cik tu esi gatavs sevi vadīt.")
-> - **Milton Model** — Miglainas, vispārīgas valodas struktūras, kas apiet loģisko pretestību (System 1).
-
-> ⚠ **BRĪDINĀJUMS:** Ja neesi V∞ stāvoklī, šīs tehnikas skan pēc manipulācijas. Pamata skripts ir pietiekams 95% zvanu.
-
-![Blueprint #16 — NLP/Hipnoze slānis](/home/ubuntu/v15-build/blueprints/schematic_page-16.jpg)
-
----
-
-## 10.17 · BLUEPRINT #17 — SINTĒZE: V8 MOLECULAR CORE MAP
-
-> 14 mezgli × 8 slāņi matrica (X‑axis: Frame, Situācija, Mērķis, Gap, Sāpe, COI, **Hope Break (13.6.5)**, Neizbēgamība, Identitāte, Bullseye, Belief, Pitch, Price, Objection, Close · Y‑axis: Core, Elite, Psychology, Therapeutic, Signals, Delivery, If stuck, Risks).
+> **Kad lieto:** Pirmajā operatora apmācībā · klienta orientācijai pirms zvana · pārdošanas materiāla izklāstā.
 >
-> **V8 CORE EQUATION:** *V26 satura masa + V13 strukturālais likums = V14.1 fināls.*
->
-> *Katra frāze. Katrs slānis. Aprēķināts.*
+> **Foundācijas frāze:** *"Tu neesi pārdevējs. Tu esi sistēmas arhitekts un kolēģis-diagnostiķis."*
 
-![Blueprint #17 — V8 Molecular Core Map](/home/ubuntu/v15-build/blueprints/schematic_page-17.jpg)
+![Blueprint #1 · Sistēmas pārskats](/home/ubuntu/v15-build/blueprints_v15_png/bp01_sistemas_parskats.png)
 
 ---
 
-> **Drukāšanas norādījumi:** Visi 17 blueprints ir noformēti kā A4 ainavas formāts. Katru var drukāt atsevišķi vai apvienot kā A2 plakātu. Lauris zīmē klientiem vidū sarunas tieši šo blueprint #4 (4 META bloki) vai blueprint #8 (Hope Break tilts) — tas ir **visu zvanu liktenis vienā skicē**.
+## 10.2 · BLUEPRINT #2 — V13 STRUKTURĀLĀ DISCIPLĪNA
+
+> **Mērķis:** 6 V13 slāņu vizualizācija ar **kategoriskiem aizliegumiem**. Operatorā nesajauc CORE ar ARSENAL zvanā, NElasi no CORK pa lapām, NElieto SPECIAL ja anomālijas nav.
+>
+> **Kad lieto:** Operatora apmācībā · pēc zvana audita, ja operatorā ir *"izsaucējs"* (off-piste no skripta).
+>
+> **Konsekvences ja sajauc:** Zaudē acu kontaktu (lasi) → zaudē kolēģa-diagnostiķa identitāti → klienta System 2 atver pretestību → klients sāk meklēt iemeslu atteikt.
+
+![Blueprint #2 · V13 disciplīna](/home/ubuntu/v15-build/blueprints_v15_png/bp02_v13_disciplina.png)
+
+---
+
+## 10.3 · BLUEPRINT #3 — Q1-Q40 PLŪSMA + 5 VĀRTI
+
+> **Mērķis:** Pilnais Domino — 8 fāzes (krāsu kodētas), 5 vārtu mezgli (gates), un 9-soļu Domino ķēde (Q5 → Q11 → Q21 → Q21.5 → Q22 → Q26 → Q29 → Q32 → Q40).
+>
+> **Kad lieto:** Galvenais navigācijas dokuments visā operatora karjerā. Drukāt A2, līmēt blakus monitoram.
+>
+> **5 vārti:** Q3 Soft Frame · Q11 GAP · Q21.5 Hope Break ⭐ · Q26 3 Pīlāri · Q32 Cena + Klusums. **Bez visiem 5 vārtiem nav slēgšanas.**
+
+![Blueprint #3 · Q1-Q40 plūsma](/home/ubuntu/v15-build/blueprints_v15_png/bp03_q1_q40_plusma.png)
+
+---
+
+## 10.4 · BLUEPRINT #4 — HOPE FOG SHATTERER (Q21.5) ⭐
+
+> **Mērķis:** Vienīgais V13 LOAD-BEARING mezgls — **3 jautājumu kāpne**, ar kuru klients pats atzīst, ka viņa pašreizējā plūsma ir cerība, nevis sistēma.
+>
+> **Kāpnes:**
+> 1. **PROCESS vai CERĪBA?** — klients atzīst, ka viņam nav uzticamas mašīnas
+> 2. **AKTĪVI vai PASĪVI?** — klients atzīst, ka pasīvi gaida brīnumu
+> 3. **2-NEDĒĻU TESTS** — CHECKMATE, atbilde universāli "nē"
+>
+> **Pēc Hope Break:** Klusums 5-10 sek (NESTEIDZIES) → MICE-adaptīva frāze → soft pāreja uz Q22.
+
+![Blueprint #4 · Hope Fog Shatterer](/home/ubuntu/v15-build/blueprints_v15_png/bp04_hope_fog_shatterer.png)
+
+---
+
+## 10.5 · BLUEPRINT #5 — MICE MOTORI
+
+> **Mērķis:** 4 buyer dzinēju vizualizācija — **Money** (peļņa, ROI), **Ideology** (vīzija, mantojums), **Compromise** (drošība, partneris), **Ego** (prestižs, atriebība). Q4-Q7 atklāj dominanto motoru → Q26 piedāvājums pielāgojas tam.
+>
+> **Kā lieto:** Pirms zvana — pārskata klienta CRM piezīmes, identificē tipu, pielāgo Q22-Q32 valodu. Zvana laikā — operatorā **automātiski** atpazīst signālus.
+
+![Blueprint #5 · MICE motori](/home/ubuntu/v15-build/blueprints_v15_png/bp05_mice_motori.png)
+
+---
+
+## 10.6 · BLUEPRINT #6 — COI BEZDARBĪBAS CENA
+
+> **Mērķis:** Q21 ekonomiskā argumenta ķēde. **Klients pats izrēķina** — nav operatorā stāstīts. GAP × laiks = bezdarbības cena. Salīdzinot ar sistēmas cenu, **patiesais riskants lēmums** kļūst redzams.
+>
+> **Operatora skripts:**
+> 1. *"Tu teici, ka gribi €25k. Šobrīd ir €18k. Atstarpe €7k mēnesī. Pareizi?"*
+> 2. *"Cik mēnesi tev šī atstarpe sastrūk?"* → klients atbild
+> 3. *"Piecos gados tas ir €420,000 zaudētu iespēju. Šī sistēma maksā €3k."*
+
+![Blueprint #6 · COI rēķins](/home/ubuntu/v15-build/blueprints_v15_png/bp06_coi_rekins.png)
+
+---
+
+## 10.7 · BLUEPRINT #7 — LĒMUMU ALGORITMS (7 SOĻI)
+
+> **Mērķis:** Klienta iekšējās lēmuma ķēdes 7-soļu vizualizācija ar V15 Q-mezglu mappingu un System 1 / System 2 (Kahneman) klasifikāciju.
+>
+> **Soļi:** Atpazīšana → Mērīšana → Paredzēšana ⭐ → Salīdzināšana → Iztēlošanās → Validācija → Komutēšana.
+>
+> **Diagnostika:** Ja klients iesprūst soli N, atgriezies pie soļa N-1. Iesprūst Q32 (cena)? Solis 3 nav locked. Atkārto Q21.5 Hope Break.
+
+![Blueprint #7 · Lēmumu algoritms](/home/ubuntu/v15-build/blueprints_v15_png/bp07_lemumu_algoritms.png)
+
+---
+
+## 10.8 · BLUEPRINT #8 — KLUSAIS SLĒGUMS (Q32)
+
+> **Mērķis:** Q32 cenas paziņošanas mehānika. **8-15 sekunžu klusums** pēc 2 opciju paziņošanas. *"Pirmais, kurš pārtrauc klusumu, zaudē."*
+>
+> **Aizliegumi:** atvainoties par cenu · justify cenu pēc tās pateikšanas · pārjautāt *"Kā jūs jūtāties par to?"* · smaidīt vai paskatīties uz papīriem · aizpildīt klusumu ar plīžiem.
+>
+> **Pēc klusuma:** Ja klients saka "jā" → Q40. Ja iebildums → CARE ietvars (Blueprint #9).
+
+![Blueprint #8 · Klusais slēgums](/home/ubuntu/v15-build/blueprints_v15_png/bp08_klusais_slegums.png)
+
+---
+
+## 10.9 · BLUEPRINT #9 — CARE IETVARS (6 IEBILDUMI)
+
+> **Mērķis:** 6 visbiežāko iebildumu sistematizēta atbilde 60 sekundēs. **CARE = Cienījami · Autentiski · Pārliecinoši · Eksperts.**
+>
+> **6 iebildumi:** Par dārgu · Jārunā ar partneri · Nav laika · Atsūtiet e-pastu · Jau strādā ar citu · Padomāšu.
+>
+> **VAI formula:** Validē → Atdalī → Interpretē — pirmais solis pirms atbildes.
+
+![Blueprint #9 · CARE ietvars](/home/ubuntu/v15-build/blueprints_v15_png/bp09_care_ietvars.png)
+
+---
+
+## 10.10 · BLUEPRINT #10 — PRE-CALL RITUĀLS (90 SEK)
+
+> **Mērķis:** 5-soļu rituāls pirms zvana. **Operatorā ir jāstāv V∞ stāvoklī**, lai sistēma strādātu autentiski.
+>
+> **Soļi:**
+> 1. **0-15s POWER POSE** — hormonu pārkārtojums (Cuddy 2012)
+> 2. **15-35s ELPA 4-4-6** — nervu sistēma nomierinās
+> 3. **35-55s PIPELINE** — atveri CRM, redzi 25-30 atvērtus darījumus
+> 4. **55-75s MICE KALIBR.** — pielāgo valodu šim klientam
+> 5. **75-90s MANTRAS** — *"Es nestrādāju ar visiem"*, *"Es nepārdošu, es diagnozēju"*, *"Cerība nav sistēma"*
+
+![Blueprint #10 · Pre-Call rituāls](/home/ubuntu/v15-build/blueprints_v15_png/bp10_precall_rituals.png)
+
+---
+
+## 10.11 · BLUEPRINT #11 — V8 MOLEKULĀRA MAPE
+
+> **Mērķis:** 14 V8 mezgli ar 8 slāņiem katrs (mērķis · frāzes · vārti · iebildumi · klusumi · NLP slānis · V13 māja · audita pēdas) — klienta domāšanas iekšējā arhitektūra zvana laikā.
+>
+> **Kā lieto:** Operatora apmācībā — apgūst pa vienam mezglam dienā 14 dienās. Audit posmā — atgriežas pie konkrēta mezgla, kur klients iesprūst.
+>
+> **Hope Break (M7):** Vienīgais mezgls ar dubulto loku — LOAD-BEARING.
+
+![Blueprint #11 · V8 molekulāra mape](/home/ubuntu/v15-build/blueprints_v15_png/bp11_v8_molekulara_mape.png)
+
+---
+
+## 10.12 · BLUEPRINT #12 — WHITEBOARD ŠABLONS KLIENTAM ⭐
+
+> **Mērķis:** Tas, ko Lauris zīmē tāfelē klientam zvana laikā — **spēļu automāts vs. konveiers** metafora kā Hope Break vizualizācija. **Pulēts un drukājams** A3 šablonā.
+>
+> **Princips:** Tu zīmē 1 līniju → klients aizpilda otru. Tāfele ir **kopēja domāšanas vieta**, ne tava prezentācija.
+>
+> **Frāze:** *"Kuru tu izvēlies — spēļu automātu vai konveieri?"* → klients pats sniedz atbildi → operatorā pāriet uz Q26 trīs pīlāriem.
+
+![Blueprint #12 · Whiteboard šablons](/home/ubuntu/v15-build/blueprints_v15_png/bp12_whiteboard_sablons.png)
+
+---
+
+## 10.13 · KAS NOTIEK NĀKAMAJĀ SOĻĪ — A3 PRINT TEMPLATES
+
+> Atsevišķā PDF (`V15_WHITEBOARD_TEMPLATES_A3.pdf`) ir **4 lielformāta drukājami šabloni**, kas paredzēti **klientam zvanā** — ne operatora apmācībai. Atstāj **tukšumus**, kur klients pats raksta. Tā ir tāfeles princips: tu un klients aizpildat kopā.
+>
+> **4 šabloni:**
+> 1. **WB1 · Hope Fog Diagramma** — klients atzīmē, vai viņa plūsma ir process vai cerība
+> 2. **WB2 · COI Kalkulators** — kopā aizpilda GAP, laiks, bezdarbības cena
+> 3. **WB3 · 3 Pīlāru Šablons** — operatorā ievada 3 izaicinājumus + risinājumus konkrēti šim klientam
+> 4. **WB4 · Lēmumu Algoritma Karte** — klients atzīmē, kur viņš šobrīd atrodas 7 soļos
+>
+> Drukāt A3 ar lāzerprinteri vai pasūtīt no copy shop. Klients tos paturēs **fiziski** — tas pats par sevi ir Q40 zelta gabals.
+
+---
+
+> **Atlanta likums:** Visi 12 blueprint diagrammas ir **vienots vizuāls valodas korpuss**. Krāsas nemainās starp lapām (NAVY = struktūra, GOLD = pāreja, RED = kritiskais punkts, GREEN = risinājums). Tas ir tāpēc, ka klienta zemapziņa **lasi vizuāli ātrāk nekā tekstuāli** — un V15 ir vienota vizuāla sistēma, ne sajaukts atēlu albums.
 
 
 

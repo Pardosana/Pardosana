@@ -1,0 +1,411 @@
+<!DOCTYPE html>
+<html lang="lv">
+<head>
+<meta charset="UTF-8">
+<title>SalesEngine V15 · Roleplay Drill</title>
+<style>
+*, *::before, *::after { box-sizing: border-box; }
+body { margin: 0; font-family: 'Georgia', 'DejaVu Serif', serif; background: #fffaf0; color: #16243a; }
+header { background: #0d3b66; color: #ffd24a; padding: 20px 30px; box-shadow: 0 4px 20px rgba(0,0,0,0.2); }
+header h1 { margin: 0; font-size: 1.6em; }
+header p { margin: 6px 0 0 0; opacity: 0.8; font-style: italic; font-size: 0.95em; }
+.container { max-width: 1100px; margin: 0 auto; padding: 30px; }
+.archetype-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; margin-bottom: 24px; }
+.archetype-card { background: white; border: 2px solid #ddd; border-radius: 10px; padding: 16px; cursor: pointer; transition: all 0.2s; text-align: center; }
+.archetype-card:hover { border-color: #d97706; transform: translateY(-2px); box-shadow: 0 4px 12px rgba(0,0,0,0.1); }
+.archetype-card.selected { border-color: #0d3b66; background: #fffaf0; box-shadow: 0 4px 12px rgba(13,59,102,0.2); }
+.archetype-card h3 { margin: 0 0 6px 0; color: #0d3b66; }
+.archetype-card .icon { font-size: 2em; margin-bottom: 8px; }
+.archetype-card .mice { display: inline-block; padding: 2px 8px; background: #d97706; color: white; border-radius: 4px; font-size: 0.75em; margin-top: 6px; }
+.scenario { background: white; border-radius: 10px; padding: 24px; box-shadow: 0 4px 12px rgba(0,0,0,0.05); margin-top: 16px; }
+.scenario h2 { color: #0d3b66; margin: 0 0 8px 0; border-bottom: 2px solid #d97706; padding-bottom: 6px; }
+.scenario .speaker { font-weight: bold; color: #b45309; display: block; margin-top: 12px; font-size: 0.85em; letter-spacing: 1px; text-transform: uppercase; }
+.scenario .text { background: #fffaf0; padding: 10px 14px; border-left: 3px solid #d97706; margin: 4px 0 10px 0; border-radius: 0 4px 4px 0; }
+.controls { display: flex; gap: 10px; margin-top: 20px; }
+.controls button { flex: 1; padding: 10px 16px; border: none; border-radius: 6px; cursor: pointer; font-size: 14px; font-weight: bold; }
+.btn-primary { background: #0d3b66; color: white; }
+.btn-primary:hover { background: #15528c; }
+.btn-secondary { background: #f5f1e6; color: #0d3b66; border: 1px solid #d97706 !important; }
+.btn-secondary:hover { background: #fffaf0; }
+.feedback { background: #fff8e1; border-left: 4px solid #d97706; padding: 14px; margin-top: 16px; border-radius: 4px; }
+.feedback h3 { margin: 0 0 8px 0; color: #b45309; }
+.score { display: inline-block; padding: 4px 12px; background: #16a34a; color: white; border-radius: 4px; margin-left: 10px; font-weight: bold; }
+.input-area { width: 100%; min-height: 100px; padding: 10px 14px; border: 1px solid #ddd; border-radius: 6px; font-family: inherit; font-size: 14px; }
+.tip { background: #fffaf0; padding: 10px 14px; font-size: 0.9em; color: #666; border-radius: 4px; margin-top: 14px; }
+.q-display { background: #0d3b66; color: white; padding: 16px 20px; border-radius: 8px; margin: 16px 0; }
+.q-display .q-label { color: #ffd24a; font-size: 0.85em; letter-spacing: 1px; }
+.q-display .q-text { font-size: 1.1em; margin-top: 4px; }
+.progress { width: 100%; height: 8px; background: #f5f1e6; border-radius: 4px; margin-top: 8px; overflow: hidden; }
+.progress-bar { height: 100%; background: #d97706; transition: width 0.3s; }
+</style>
+</head>
+<body>
+<header>
+  <h1>🎭 V15 Roleplay Drill</h1>
+  <p>Izvēlies klienta arhetipu → spēlē 3-zvanu drill → saņem AI feedback.</p>
+</header>
+<div class="container">
+  <h2 style="color:#0d3b66">1. solis · Izvēlies klienta arhetipu</h2>
+  <div class="archetype-grid">
+    <div class="archetype-card" data-arch="skeptic" onclick="selectArchetype(this)">
+      <div class="icon">💼</div><h3>Skeptiķis</h3>
+      <div>Money-driven · prasi ROI</div>
+      <div class="mice">M</div>
+    </div>
+    <div class="archetype-card" data-arch="visionary" onclick="selectArchetype(this)">
+      <div class="icon">🌟</div><h3>Vizionārs</h3>
+      <div>Ideology-driven · meklē mantojumu</div>
+      <div class="mice">I</div>
+    </div>
+    <div class="archetype-card" data-arch="pragmatic" onclick="selectArchetype(this)">
+      <div class="icon">🤝</div><h3>Pragmatiķis</h3>
+      <div>Compromise-driven · risks-orientēts</div>
+      <div class="mice">C</div>
+    </div>
+    <div class="archetype-card" data-arch="proud" onclick="selectArchetype(this)">
+      <div class="icon">👑</div><h3>Lepnais</h3>
+      <div>Ego-driven · atgriešanās tronī</div>
+      <div class="mice">E</div>
+    </div>
+    <div class="archetype-card" data-arch="analyst" onclick="selectArchetype(this)">
+      <div class="icon">🔬</div><h3>Analītiķis</h3>
+      <div>Data-driven · prasi case studies</div>
+      <div class="mice">M+I</div>
+    </div>
+    <div class="archetype-card" data-arch="beginner" onclick="selectArchetype(this)">
+      <div class="icon">🌱</div><h3>Pirmsreizējais</h3>
+      <div>Beginner · pirmā sistēma</div>
+      <div class="mice">C+E</div>
+    </div>
+  </div>
+  
+  <div id="scenario-area" style="display:none">
+    <h2 style="color:#0d3b66">2. solis · Atbildi uz klienta jautājumu</h2>
+    <div class="scenario" id="scenario">
+      <!-- populated by JS -->
+    </div>
+  </div>
+</div>
+
+<script>
+const SCENARIOS = {
+  skeptic: {
+    name: 'Skeptiķis (Money-driven)',
+    icon: '💼',
+    rounds: [
+      {
+        client_says: 'Cik tas izmaksā?',
+        q_target: 'Q3 (Soft Frame)',
+        ideal: 'Pirms cipara — vai man šis vispār derēs. Es uzdošu 5-7 jautājumus, lai saprastu. Ja jutīšu, ka neder — pateikšu uzreiz. OK?',
+        criteria: ['Nepasaki cipariem uzreiz', 'Pārvirti uz diagnozi', 'Soft frame "ja neder, atvalva"'],
+        bad_examples: ['Mūsu pakete maksā €3,000', 'Atkarīgs no...', 'Skat mūsu mājas lapā']
+      },
+      {
+        client_says: 'OK, bet pajautāšu — kāda ir ROI?',
+        q_target: 'Q22 Investora rāmis',
+        ideal: 'Vidējais Pro klients pēc 90 dienām palielina close rate par 25%. Ja iepriekš slēdza 4 darījumus mēnesī par €8k, tagad slēdz 5 → +€8k/mēn = +€96k/gadā. Pakete €3k. ROI 3,200% pirmajā gadā.',
+        criteria: ['Konkrēti cipariem', 'Atmaksāšanās laiks', 'Salīdzinājums ar zaudētu peļņu'],
+        bad_examples: ['Mūsu klienti ir ļoti apmierināti', 'Lielisks rezultāts', 'Atkarīgs no tevis']
+      },
+      {
+        client_says: '€3k uzreiz nav maza summa.',
+        q_target: 'Q33 (CARE par dārgu)',
+        ideal: 'Sapratu — €3k uzreiz nav maza summa. Bet — bez sistēmas tu zaudē €7k mēnesī (no Q21). 5 mēnešu laikā nesistēma maksā 12× vairāk nekā šis ieguldījums. Kāds ir patiesais riskants lēmums?',
+        criteria: ['Validē iebildumu (Sapratu)', 'Atgriežas pie GAP/COI', 'Pārvērš par patieso risku'],
+        bad_examples: ['Mēs varam piedāvāt atlaidi', 'Tā ir vērtība', 'Citi maksā vairāk']
+      }
+    ]
+  },
+  visionary: {
+    name: 'Vizionārs (Ideology-driven)',
+    icon: '🌟',
+    rounds: [
+      {
+        client_says: 'Es gribu izmainīt visu nozari ar šo biznesu.',
+        q_target: 'Q5+Q6 (Dziļā motivācija)',
+        ideal: 'Tā ir spēcīga vīzija. Pajautāšu — kā konkrēti tu redzi šo nozari pēc 5 gadiem? Kas šobrīd traucē sasniegt?',
+        criteria: ['Atspoguļo entuziasmu', 'Iet dziļāk vīzijā (kā konkrēti)', 'Nepārtrauc emociju'],
+        bad_examples: ['Cik klientu tev ir?', 'Tas ir interesanti, bet...', 'Pāriesim pie galvenā']
+      },
+      {
+        client_says: 'Vai šī sistēma der vīziju cilvēkiem?',
+        q_target: 'Q22 Investora rāmis (Visionary)',
+        ideal: 'Pirms 2 gadiem [klients X] sēdēja kur tu sēdi tagad. Viņš teica: "Es izmainīšu nozari." Šobrīd viņš [konkrēts rezultāts]. Sistēma ir mašīna, kas ļauj tev īstenot vīziju 3× ātrāk.',
+        criteria: ['Stāsta par citu vizionāru', 'Mērogs un mantojums', 'Konkrēts rezultāts'],
+        bad_examples: ['Mūsu cipari liecina...', 'ROI ir 3,200%', 'Skat mūsu sertifikātus']
+      },
+      {
+        client_says: 'Padomāšu.',
+        q_target: 'Q33 (CARE Padomāšu)',
+        ideal: 'Sapratu — vizionāri pārdomā labāk nekā lielākā daļa. Bet pajautāšu — ja šī sistēma tieši paceltu tavu vīziju, kas konkrēti tev ir jāpadomā: produkts, cena, vai laiks?',
+        criteria: ['Validē', 'Pārtulko "padomāšu" konkrētā', 'Atgriežas pie vīzijas'],
+        bad_examples: ['Cik laika tev vajag?', 'Es tev sūtīšu vairāk informācijas', 'Saskaties uz cenu vēl reizi']
+      }
+    ]
+  },
+  pragmatic: {
+    name: 'Pragmatiķis (Compromise-driven)',
+    icon: '🤝',
+    rounds: [
+      {
+        client_says: 'Man jārunā ar partneri.',
+        q_target: 'Q3 (Lēmumu pieņēmējs)',
+        ideal: 'Saprotu — labi lēmumi kopā ir noturīgāki. Pirms tu runā ar viņu — vai tu PATS šobrīd esi pārliecināts? Ja jā, sagatavosim 3 jautājumus, kurus partneris noteikti uzdos.',
+        criteria: ['Validē', 'Identificē, ka klients pats nav pārliecināts', 'Pārvērš no šķēršļa par sadarbību'],
+        bad_examples: ['Kad varat runāt?', 'Kāda ir partnera atļauja?', 'Pārtraucu zvanu']
+      },
+      {
+        client_says: 'Kas notiks, ja nestrādās?',
+        q_target: 'Q26 Pīlāri (Drošība)',
+        ideal: 'Tieši tāpēc mums ir 30-dienu garantija. Ja nestrādā, atgriežam naudu. Tev nav jāuzņemas pilnu risku vienam.',
+        criteria: ['Konkrēta garantija', 'Risku pārvērš par drošību', 'Nepārliecini ar emociju'],
+        bad_examples: ['Tas vienmēr strādā', 'Citi klienti ir ļoti apmierināti', 'Mums ir pieredze']
+      },
+      {
+        client_says: 'Bet partneris varētu nepiekrist...',
+        q_target: 'Q34 (Sociālais pierādījums)',
+        ideal: 'Pēdējie 12 mēnešos 47 cilvēki tādā pašā situācijā kā tu izvēlējās šo sistēmu. 91% no viņiem joprojām ir klienti pēc gada — augstākais retention nozarē. Sagatavošu tev 3 punktus partnera sarunai.',
+        criteria: ['Konkrēti cipariem', 'Sociālā pierādījuma stāvoklis', 'Praktiska palīdzība partnera sarunai'],
+        bad_examples: ['Pārtrauksim un sazināsimies', 'Sūtīšu pdf', 'Lai partneris zvana mums']
+      }
+    ]
+  },
+  proud: {
+    name: 'Lepnais (Ego-driven)',
+    icon: '👑',
+    rounds: [
+      {
+        client_says: 'Pirms 5 gadiem es biju #1 nozarē.',
+        q_target: 'Q5 (Kāpēc tagad)',
+        ideal: 'Tā ir nopietna pozīcija. Pajautāšu — kāda ir atstarpe starp to, kur tu esi šobrīd, un to, kur tu zini, ka tu varētu būt — ja viss strādātu?',
+        criteria: ['Atzīst sasniegumu', 'Maigi atklāj GAP', 'Nepiebrāzās emociju'],
+        bad_examples: ['Cik tev ir klientu šobrīd?', 'Kā tu zaudēji pozīciju?', 'Tas ir interesanti, pāriesim']
+      },
+      {
+        client_says: 'Es to varu pats.',
+        q_target: 'Q33 (CARE Es to varu)',
+        ideal: 'Pilnīgi piekritu — tu esi spējīgs cilvēks. Bet pajautāšu vienu lietu — ja tu varētu atrisināt to šomēneš ar manu palīdzību, vs. 6 mēneši ar pašmācību, kāda ir 5 mēnešu zaudētā peļņa?',
+        criteria: ['Validē spējas', 'Pievērš laika izmaksas uzmanību', 'Egons paliek neapdraudēts'],
+        bad_examples: ['Citi nevar pats', 'Mūsu sistēma ir labāka', 'Tu nezinasi visu']
+      },
+      {
+        client_says: 'Es vēl skatīšos.',
+        q_target: 'Q33 (Takeaway)',
+        ideal: 'Es nepiedāvāju to katram — tev ir profils, kas atbilst Pro paketei. Bet, ja šobrīd nav īstais brīdis, tas nav uzbāzīgs piedāvājums. [PAUSE]. Vai tu redzi sevi šeit?',
+        criteria: ['Ekskluzivitātes signāls', 'Takeaway tehnika', 'Klusums pēc'],
+        bad_examples: ['Cik laika tev vajag?', 'Es tev sūtīšu materiālus', 'Kad atkārtot zvanu?']
+      }
+    ]
+  },
+  analyst: {
+    name: 'Analītiķis (Data-driven)',
+    icon: '🔬',
+    rounds: [
+      {
+        client_says: 'Vai jums ir case studies?',
+        q_target: 'Q11 (GAP atklāšana caur datiem)',
+        ideal: 'Jā — bet pirms tā, kāds ir TAVS hipotēzes par to, kāpēc tava plūsma šobrīd nestrādā? Tad case study būs tieši attiecīgs.',
+        criteria: ['Atspoguļo "researcher" mindset', 'Pievērš klienta paša diagnozi', 'Padara case study personīgu'],
+        bad_examples: ['Sūtīšu pdf ar 20 case study', 'Visi mūsu klienti ir...', 'Cik tev vajadzīgi gabali?']
+      },
+      {
+        client_says: 'Vai jums ir framework dokumentācija?',
+        q_target: 'Q26 Pīlāri (Mehānisms)',
+        ideal: 'Jā — Daļa VIII Lēmumu Algoritms ir balstīta uz 89 reālu zvanu analīzē + Kahneman System 1/2 framework. Apskatīsim, kur tu šobrīd iesprūst.',
+        criteria: ['Konkrēta dokumentācija', 'Pievienoti reāli dati (89 zvani)', 'Personīgs piemērs (kur tu iesprūst)'],
+        bad_examples: ['Sūtīšu visus dokumentus', 'Mums ir liela bāze', 'Vēlāk to apskatīsim']
+      },
+      {
+        client_says: 'Vēl pētīšu.',
+        q_target: 'Q33 (CARE Vēl pētīšu)',
+        ideal: 'Cienījami — tu esi researcher tipa cilvēks. Pajautāšu — kas ir tas signāls, ko tu vēl meklē, lai pieņemtu lēmumu? Ja tu to varētu pateikt man šobrīd, varbūt es zinu, kur tas atrodas.',
+        criteria: ['Validē', 'Atklāj precīzu hipotēzi', 'Pārvērš research par konkrētu jautājumu'],
+        bad_examples: ['Cik laika tev vajag?', 'Sūtīšu vairāk', 'Cik vairāk informācijas tu meklēja?']
+      }
+    ]
+  },
+  beginner: {
+    name: 'Pirmsreizējais (Beginner)',
+    icon: '🌱',
+    rounds: [
+      {
+        client_says: 'Es esmu sākumā, vēl nav klientu.',
+        q_target: 'Q11 (GAP — 90 dienu mērķis)',
+        ideal: 'Saprotu — tu esi sākumā. Pajautāšu — kāds ir TAVS pirmais mērķis 90 dienās? Cik klientu tu gribi šajā laikā?',
+        criteria: ['Validē sākumposmu', 'Pievērš mazu, sasniedzamu mērķi', 'Neizraisi mērogu'],
+        bad_examples: ['Cik klientu nākošajos 12 mēnešos?', 'Tev jāstrādā ar 100+ klientiem', 'Pamēģini lielāku mērķi']
+      },
+      {
+        client_says: 'Es nezinu, vai mans bizness der šai sistēmai.',
+        q_target: 'Q33 (CARE Nezinu, vai der)',
+        ideal: 'Pilnīgi normāli — kā tu vari zināt, kamēr neesi mēģinājis? Tā ir vai nu naudas atgriešana 30 dienās, vai pirmie 3 klienti. Kuru risku tu izvēlies — investēt €1.5k un pārbaudīt, vai gaidīt vēl 6 mēnešus un nezināt?',
+        criteria: ['Validē nedrošību', 'Pievērš drošu opciju (Basic + garantija)', 'Pretstata bezdarbības risku'],
+        bad_examples: ['Visiem der', 'Pēc 12 mēnešiem...', 'Tev jāizmēģina Pro']
+      },
+      {
+        client_says: 'Pro pakete par €3k ir par dārgu.',
+        q_target: 'Q32 (Cena — Tier downsell)',
+        ideal: 'Tev šobrīd nav vajadzīga Pro pakete ar audit. Tev vajag pamata sistēmu, lai sāktu darboties. Pamata €1,500 + 30-dienu garantija. Ja pēc 30 dienām neiet — atdosim naudu. Pareizi?',
+        criteria: ['Pareizi kvalificē uz Basic', 'Pārvērš "dārgi" par "saprātīgi"', 'Klusums vai close jautājums'],
+        bad_examples: ['Mēs varam atlaides', 'Tā ir vērtība', 'Vēl viens klients tā teica']
+      }
+    ]
+  }
+};
+
+let currentArch = null;
+let currentRound = 0;
+let totalScore = 0;
+
+function selectArchetype(card) {
+  document.querySelectorAll('.archetype-card').forEach(c => c.classList.remove('selected'));
+  card.classList.add('selected');
+  currentArch = card.dataset.arch;
+  currentRound = 0;
+  totalScore = 0;
+  showScenario();
+}
+
+function showScenario() {
+  const arch = SCENARIOS[currentArch];
+  const round = arch.rounds[currentRound];
+  
+  const html = `
+    <h2>${arch.icon} ${arch.name} — ${currentRound+1}/3 zvans</h2>
+    <div class="progress"><div class="progress-bar" style="width:${((currentRound)/3)*100}%"></div></div>
+    <div class="q-display">
+      <div class="q-label">MĒRĶA Q-MEZGLS</div>
+      <div class="q-text">${round.q_target}</div>
+    </div>
+    
+    <div class="speaker">Klients saka:</div>
+    <div class="text" style="font-size:1.1em;font-style:italic">"${round.client_says}"</div>
+    
+    <div class="speaker">Tava atbilde:</div>
+    <textarea class="input-area" id="userAnswer" placeholder="Raksti savu atbildi šeit (kā tu reaģētu reālā zvanā)..."></textarea>
+    
+    <div class="controls">
+      <button class="btn-primary" onclick="evaluateAnswer()">📊 Novērtēt manu atbildi</button>
+      <button class="btn-secondary" onclick="showIdeal()">💡 Rādīt ideālo atbildi</button>
+    </div>
+    
+    <div id="feedback-area"></div>
+    
+    <div class="tip">💡 Tu vari ierakstīt atbildi savā ziņā vai vienkārši padomāt par to. Tad klikšķini "Novērtēt manu atbildi" priekš AI feedback, vai "Rādīt ideālo atbildi" tieši.</div>
+  `;
+  
+  document.getElementById('scenario').innerHTML = html;
+  document.getElementById('scenario-area').style.display = 'block';
+  document.getElementById('scenario-area').scrollIntoView({ behavior: 'smooth' });
+}
+
+function evaluateAnswer() {
+  const arch = SCENARIOS[currentArch];
+  const round = arch.rounds[currentRound];
+  const answer = document.getElementById('userAnswer').value.toLowerCase();
+  
+  let score = 0;
+  let matched = [];
+  let missed = [];
+  
+  round.criteria.forEach(crit => {
+    const keywords = crit.toLowerCase().split(/[\s,]/).filter(w => w.length > 4);
+    const found = keywords.some(kw => answer.includes(kw.replace(/[^a-zāčēģīķļņšūž]/g,'')));
+    if(found) {
+      score += 33;
+      matched.push(crit);
+    } else {
+      missed.push(crit);
+    }
+  });
+  
+  // Penalty for bad patterns
+  const badFound = round.bad_examples.find(b => answer.includes(b.toLowerCase().slice(0, 20)));
+  let penalty = badFound ? -20 : 0;
+  
+  let finalScore = Math.max(0, Math.min(100, score + penalty));
+  totalScore += finalScore;
+  
+  let html = `<div class="feedback">
+    <h3>📊 Novērtējums <span class="score" style="background:${finalScore>70?'#16a34a':finalScore>40?'#cc8c2a':'#dc2626'}">${finalScore}/100</span></h3>`;
+  
+  if(matched.length) {
+    html += `<p><b>✓ Tu izpildīji:</b><ul>`;
+    matched.forEach(m => html += `<li style="color:#16a34a">${m}</li>`);
+    html += `</ul></p>`;
+  }
+  if(missed.length) {
+    html += `<p><b>⚠ Tu nepalīdzēji ar:</b><ul>`;
+    missed.forEach(m => html += `<li style="color:#cc8c2a">${m}</li>`);
+    html += `</ul></p>`;
+  }
+  if(badFound) {
+    html += `<p style="color:#dc2626"><b>✗ Atrasts negatīvs paradigms:</b> "${badFound}"</p>`;
+  }
+  
+  html += `<h3>💎 Ideālā atbilde:</h3>
+    <div class="text" style="background:#fff8e1;border-left-color:#16a34a">"${round.ideal}"</div>
+    <button class="btn-primary" style="margin-top:10px;width:100%" onclick="nextRound()">${currentRound < 2 ? '➡️ Nākamais zvans' : '🏆 Pabeigt drill un redzēt kopējo'}</button>
+  </div>`;
+  
+  document.getElementById('feedback-area').innerHTML = html;
+}
+
+function showIdeal() {
+  const arch = SCENARIOS[currentArch];
+  const round = arch.rounds[currentRound];
+  totalScore += 50; // partial credit
+  
+  let html = `<div class="feedback">
+    <h3>💎 Ideālā atbilde:</h3>
+    <div class="text" style="background:#fff8e1;border-left-color:#16a34a">"${round.ideal}"</div>
+    <h3>🎯 Atbildei ir 3 galvenās komponents:</h3>
+    <ul>`;
+  round.criteria.forEach(c => html += `<li>${c}</li>`);
+  html += `</ul>
+    <h3>❌ NEDARI:</h3><ul>`;
+  round.bad_examples.forEach(b => html += `<li style="color:#dc2626">"${b}"</li>`);
+  html += `</ul>
+    <button class="btn-primary" style="margin-top:10px;width:100%" onclick="nextRound()">${currentRound < 2 ? '➡️ Nākamais zvans' : '🏆 Pabeigt drill'}</button>
+  </div>`;
+  
+  document.getElementById('feedback-area').innerHTML = html;
+}
+
+function nextRound() {
+  currentRound++;
+  if(currentRound >= 3) {
+    showFinalScore();
+  } else {
+    showScenario();
+  }
+}
+
+function showFinalScore() {
+  const arch = SCENARIOS[currentArch];
+  const avgScore = Math.round(totalScore / 3);
+  let grade, message;
+  if(avgScore >= 80) { grade = '🏆 V15 EKSPERTS'; message = 'Tu pareizi piemēroji V15 sistēmu šim arhetipam. Tagad iet zvans!'; }
+  else if(avgScore >= 60) { grade = '🥈 LABS'; message = 'Tu zini sistēmu, bet ir 2-3 vietas, kur var pielāgot valodu šim klienta tipam.'; }
+  else if(avgScore >= 40) { grade = '🥉 PROCESĀ'; message = 'Tu zini pamata principus. Atgriezies pie Daļa VI un Klientu Arhetipu Playbook.'; }
+  else { grade = '🌱 IESĀCĒJS'; message = 'Sāc ar Premium Book Daļu II (Q1-Q40) un Daļu IX (Hope Break). Tad atgriezies šeit.'; }
+  
+  document.getElementById('scenario').innerHTML = `
+    <h2>🏆 Drill Pabeigts!</h2>
+    <div class="q-display">
+      <div class="q-label">KOPĒJAIS REZULTĀTS</div>
+      <div class="q-text">${avgScore}/100 · ${grade}</div>
+    </div>
+    <p>${message}</p>
+    <h3 style="color:#0d3b66">Nākošie soļi:</h3>
+    <ul>
+      <li>📕 Atver <a href="V15_PREMIUM_BOOK.pdf" target="_blank">V15 Premium Book PDF</a></li>
+      <li>🎭 Lasi <a href="V15_CUSTOMER_ARCHETYPES.pdf" target="_blank">Klientu Arhetipu Playbook</a></li>
+      <li>🤖 Lieto <a href="V15_AI_COACH_PROMPT.md" target="_blank">AI Coach prompt</a> ar GPT-4 dziļākam treniņam</li>
+      <li>🔁 <a href="javascript:location.reload()">Sāc citu arhetipu</a></li>
+    </ul>
+  `;
+}
+</script>
+</body>
+</html>
