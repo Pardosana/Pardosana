@@ -1952,6 +1952,137 @@ Pirms grūta jautājuma, dod **īsu kontekstu**, lai cilvēks redz, kur tu ej.
 
 ---
 
+# XX-B. MIKRO-SKRIPTU ROKASGRĀMATA (V14.1 IEBILDUMU INŽENIERIJA)
+
+> Šī sadaļa ir **iebildumu un closing skriptu katalogs**, kas balstīts uz Lawrence editorial materiālu no 300+ IG/FB/YT video bibliotēkas (Jeremy Miner / Ryan Serhant / Jim Rohn / Brian Tracy / Simon Sinek / SalesGirlyAngela / ShareAndres / Johnny Mau / Ava Mistruzzi avoti). Tas tiek glabāts kā **autoretīts editorial saturs**, mapots uz V14.1 V8 mezgliem (D1–D20).
+>
+> Lietošana zvanā: atver mezglu, par kuru klients iebilst, un izlasi atbilstošās atbildes. **V13 disciplīna paliek:** viena metafora uz vienu call, viens jautājums = viens darbs.
+
+## A. PĀRDOŠANAS DOMINO SKRIPTS — 8 FĀZES (Neizbēgamības Ceļš)
+
+### Fāze 1 · Autoritātes rāmis (D1-FRAME)
+**Mērķis:** Noņemt "pārdevēja" smaku un kļūt par ekspertu, kurš izvēlas, ar ko strādāt.
+
+> "Sveiki, [Klienta vārds]. Pirms mēs ienirstam detaļās, es gribu būt pilnīgi atklāts — es nezinu, vai mans risinājums jums vispār derēs. Es strādāju tikai ar tiem, kuriem varu garantēt rezultātu. Tāpēc es uzdošu dažus specifiskus jautājumus, un, ja jutīšu, ka nevaram palīdzēt, es to pateikšu uzreiz. Vai esat mierā ar šādu pieeju?"
+
+(Klients saka *"Jā"* — pirmais domino kauliņš krīt.)
+
+### Fāze 2 · NEPQ izzināšana (D2-REALITY-LOCK + D5-PAIN-REFRAME)
+**Mērķis:** Atvērt brūci un likt klientam sajust zaudējuma sāpes.
+
+- **Pašreizējā situācija:** "Kā jūs šobrīd risināt [problēmu]? Kas jūs pamudināja meklēt risinājumu tieši tagad, nevis pirms 6 mēnešiem?"
+- **Pre-handling:** "Vai esat jau mēģinājis ko citu? Kāpēc tas neizdevās?"
+- **Sāpju padziļināšana:** "Cik ilgi jūs jau pieļaujat šo situāciju? Ko tas jums ir izmaksājis līdz šim — naudā, laikā vai enerģijā?"
+
+### Fāze 3 · Domino trepe (D7-COI + D7.5-HOPE-BREAK + D8-INEVITABILITY)
+**Mērķis:** Savienot punktus, lai klients saprot — neko nedarīšana ir nāvējoša.
+
+> "Ja es pareizi saprotu — ja jūs šodien neko nemaināt, pēc 3 mēnešiem jūs joprojām būsiet punktā A, zaudējot [X] un turpinot justies [emocija]. Tas vairs nav tikai par biznesu, tas sāk ietekmēt arī jūsu brīvo laiku un ģimeni. Vai jūs tiešām esat mierā ar to, ka šī situācija turpinās vēl gadu?"
+
+### Fāze 4 · Galamērķa pitch (D13-PITCH)
+**Mērķis:** Pārdot rezultātu (pludmali), nevis tehnisko darbu (lidmašīnu).
+
+> "Pamatojoties uz to, ko jūs teicāt, šeit ir mūsu plāns. Mēs nekoncentrēsimies uz [tehnisko detaļu], bet gan uz to, lai jūs nonāktu punktā, kur [vēlamais rezultāts]. Iedomājieties — rīts, kad jūs pamostaties un sistēma jau ir paveikusi [X] jūsu vietā. Vai tas ir tas rezultāts, kuru jūs meklējāt?"
+
+### Fāze 5 · Pirms-cenas value anchoring (D14-PRICE priekš)
+> "Pirms mēs runājam par cipariem, atcerēsimies vienu — nepirkt šo risinājumu jums šobrīd maksā [zaudējuma summa] mēnesī. Mana sistēma ir veidota tā, lai tā sevi atpelnītu jau pirmajās [X] dienās. Tāpēc es uz to skatos nevis kā uz izdevumu, bet kā uz naudas mašīnu."
+
+### Fāze 6 · Cenas izteikšana + klusums (D14-PRICE + D18-COLLAPSE)
+> "Kopējā investīcija par pilnu sistēmas izveidi un palaišanu ir [cena]. Lai noņemtu jebkādu spiedienu — ja mēs nesasniedzam [rezultāts] 90 dienu laikā, es atdodu jums katru centu atpakaļ plus piemaksāju [summu] par jūsu laiku. Kādu kredītkarti mēs izmantosim?"
+
+(Klusums. **Pirmais, kurš runā, zaudē.**)
+
+### Fāze 7 · Trap Close pēc cenas (D16-OBJECTIONS)
+**Iebildums:** *"Man ir jāpadomā."*
+> "Saprotu. Bet pasakiet — vai jūs tiešām gribat padomāt par šo, vai arī šis ir tas pats lēmumu modelis, kas jūs ir turējis atpakaļ pēdējos gadus? Ja mēs tagad noliekam klausuli, kas tieši mainīsies rīt no rīta? Nekas. Darām šo lietu līdz galam tagad."
+
+### Fāze 8 · Maksājums + onboarding (D20-POST-CLOSE)
+> "Apsveicu, šis ir pirmais solis uz jūsu brīvību. Maksājums ir saņemts. Tagad — tūlīt pat pārbaudiet savu e-pastu, tur ir pirmie 3 soļi, kas mums jāizdara 24 stundu laikā. Esam procesā."
+
+---
+
+## B. IEBILDUMU MASTER FRAMEWORKS
+
+### B.1 *"Tas ir par dārgu"* → D14-PRICE / D16-OBJECTIONS
+> "Salīdzinot ar ko? Ar zaudējumiem, ko rada nekā nedarīšana, vai ar konkurentu, kurš nepiedāvā šādu atdevi?"
+>
+> *(Reframe variant)* "Cik jums izmaksā tas, ka šī problēma netiek atrisināta nākamos 12 mēnešus?"
+
+### B.2 *"Man jārunā ar partneri/sievu/vīru"* → D9-IDENTITY / D16-OBJECTIONS
+**Quick:** "Protams. Bet vai viņi parasti iebilst pret lēmumiem, kas uzlabo jūsu finanses/dzīvi?"
+
+**Validation vs Permission (Ava Mistruzzi):**
+> "Tas ir ļoti svarīgi. Bet sakiet godīgi — vai jūs meklējat **atļauju** vai **atbalstu**? Jo parasti, kad mēs esam 100% pārliecināti, mēs sakām: 'Es to darīšu, un man būtu svarīgs tavs atbalsts', nevis jautājam, ko darīt. Cik pārliecināts par šo risinājumu šobrīd jūtaties jūs pats skalā no 1 līdz 10?"
+
+### B.3 *"Man tam nav laika"* → D5-PAIN-REFRAME
+> "Tieši tāpēc tev tas ir vajadzīgs — lai atgūtu savu laiku, izmantojot mūsu sistēmu."
+
+### B.4 *"Atsūtiet man e-pastu"* → D16-OBJECTIONS
+> "Es varu to izdarīt, bet e-pasts neatbildēs uz jūsu specifiskajiem jautājumiem. Kuru daļu tieši vēlaties izpētīt sīkāk?"
+
+### B.5 *"Mēs jau strādājam ar kādu citu"* → D2-REALITY-LOCK
+> "Lieliski, tad jūs saprotat šīs jomas vērtību. Kas ir viena lieta, ko viņi varētu darīt labāk?"
+
+### B.6 *"Man jāpadomā"* → D16-OBJECTIONS (Trap Close)
+**Quick:** "Parasti, kad cilvēki saka 'man jāpadomā', tas nozīmē vai nu 'nē', vai arī viņi nav pārliecināti. Kurā pusē esat jūs?"
+
+**Trap Close (SalesGirlyAngela / ShareAndres):**
+> "Pilnīgi saprotu. Bet pirms mēs beidzam — jūs minējāt, ka pašlaik cīnāties ar [problēma]. Jūs teicāt, ka, ja tas netiks atrisināts, sekas būs [sekas]. Un jūsu mērķis ir [rezultāts]. Tāpēc mans jautājums: kas tieši šodien ir jānotiek, lai šis rezultāts kļūtu par realitāti?"
+
+### B.7 *"Mēs varam pagaidīt"* → D7-COI / D7.5-HOPE-BREAK
+> "Pieņemsim, ka mēs tagad neko nedarām. Kas mainīsies jūsu dzīvē pēc 3 mēnešiem? Visticamāk, nekas. Jūs būsiet tajā pašā punktā, tikai par 3 mēnešiem vecāks un ar tām pašām problēmām. Vai jūs tiešām esat mierā ar to, ka jūsu ģimenei jāsadzīvo ar sekām, ko rada jūsu pašreizējais domāšanas veids?"
+
+---
+
+## C. AUTORITĀTES UN POZICIONĒŠANAS PRINCIPI
+
+**Pārdod kā CEO, nevis kā kāds, kuram vajag naudu.**
+
+| Amatieru frāze | Pro frāze |
+|---|---|
+| "Vai tas jums izklausās saprātīgi?" | **"Kā tas saskan ar jūsu pašreizējiem mērķiem?"** |
+| "Es tikai gribēju iečekot..." | **"Es zvanu, lai vienotos par nākamo soli, kā mēs sarunājām."** |
+| "Es gribētu jums pastāstīt par..." | **"Pamatojoties uz to, ko jūs teicāt, šeit ir risinājums..."** |
+| "Lūdzu, nopērciet" | **"Es gribu redzēt, vai mēs vispār varam jums palīdzēt"** |
+| "Es domāju" / "varbūt" | **"Reku, kas darbojas vislabāk"** |
+
+### The Power of NO (Ryan Serhant) → D9-IDENTITY
+> "Ziniet, es jums to nepārdošu. Es zinu, ka jūs to gribat, bet, skatoties uz jūsu budžetu un mērķiem, tas šobrīd nav jūsu interesēs. Es nevēlos vienkārši saņemt komisiju; es vēlos, lai jūs gūtu peļņu. Meklēsim risinājumu, kas tiešām strādā jūsu labā, nevis tikai izskatās labi."
+
+### Klientu lojalitāte (Simon Sinek) → D20-POST-CLOSE
+> "Lielākā daļa uzņēmumu koncentrējas uz to, lai iedotu klientam to, ko viņš prasīja. Bet tā ir tikai transakcija, nevis lojalitāte. Īsta lojalitāte rodas, kad klients jūtas saprasts un aprūpēts."
+
+### Galamērķis nevis Lidmašīna (Jim Rohn / Brian Tracy) → D13-PITCH
+> "Lielākā daļa cilvēku mēģina jums pārdot lidmašīnu — tās dzinējus, sēdekļus un tehniskos datus. Es gribu runāt par galamērķi. Es gribu runāt par to balto smilšu pludmali, palmām un mieru, ko jūs iegūsiet, kad šī sistēma strādās jūsu vietā. Jūs nepērkat programmatūru. Jūs pērkat to nākotnes versiju par sevi, kurā šī problēma vairs neeksistē."
+
+---
+
+## D. 3 NOTEIKUMI KATRAM ZVANAM
+
+1. **Jautā:** *"Kādu rezultātu es gribu?"*, nevis *"Kā es jūtos?"*.
+2. **Aizstāj** "es domāju" / "varbūt" ar **"reku, kas darbojas vislabāk"** — tūlītēja autoritāte.
+3. **Beidz** katru sarunu ar vienu skaidru darbību: *"Tātad, mūsu nākamais solis ir..."*
+
+---
+
+## E. PER-VIDEO TRANSKRIPTU EKSTRAKTS
+
+> Šis ir **ASEPARATS LIVE KATALOG** — atsevišķs `docs/v14.1/MICRO_SCRIPTS.md` dokuments. Pašreiz satur 32 transkriptu rule-based melnrakstus (galvenokārt FB izejas avoti). Atlikušie ~290 IG video gaida IG/YT autentifikāciju, lai atbloķētu yt-dlp anonīmo bloku. Pēc autentifikācijas + LLM ekstrakcijas šie ieraksti tiks pārvērsti par strukturētiem `[Situācija · Iebildums · Atbilde]` ierakstiem un piesaistīti šeit aprakstītajām fāzēm/iebildumiem A–D sadaļās.
+
+**Per-video sadalījums pa V8 mezgliem (32 anonīmie transkripti):**
+
+| Mezgls | Skripti | Avots |
+|---|---|---|
+| D7-COI | 4 | FB editorial |
+| D9-IDENTITY | 8 | FB / IG editorial |
+| D13-PITCH | 6 | FB editorial |
+| D14-PRICE | 1 | FB editorial |
+| D16-OBJECTIONS | 2 | FB editorial |
+| D18-COLLAPSE | 1 | FB editorial |
+| UNCATEGORIZED | 10 | jaucas tematika, prasa LLM kategorizāciju |
+
+---
+
 # XXI. KARTE STARP VERSIJĀM
 
 | Versija | Kas tur ir | Kad lietot |
