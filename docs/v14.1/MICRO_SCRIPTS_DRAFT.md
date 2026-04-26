@@ -4,20 +4,22 @@
 Beigu versija (situation/objection/response/V8 mezgls + LV tulkojums) tiks ģenerēta pēc tam, 
 kad būs pieejams OPENAI_API_KEY un kad atbloķēsim atlikušos 288 video (caur browser login).
 
-**Statuss:** 32 transkripti grupēti pa V8 mezgliem ar atslēgvārdu hipotēzi. 
+**Statuss:** 50 transkripti grupēti pa V8 mezgliem ar atslēgvārdu hipotēzi. 
 Hipotēze ir aptuvena — gala mapping notiks ar LLM ekstrakciju.
 
 ## Sadalījums pa V8 mezgliem
 
 | Mezgls | Skripti |
 |---|---|
-| D10-RISK-REFRAME | 4 |
+| D10-RISK-REFRAME | 6 |
+| D13-PITCH | 3 |
 | D14-PRICE | 2 |
-| D16-OBJECTIONS | 8 |
+| D16-OBJECTIONS | 11 |
+| D18-COLLAPSE | 1 |
 | D20-POST-CLOSE | 1 |
 | D5-PAIN-REFRAME | 1 |
-| D7.5-HOPE-BREAK | 1 |
-| UNCATEGORIZED | 15 |
+| D7.5-HOPE-BREAK | 3 |
+| UNCATEGORIZED | 22 |
 
 ---
 
@@ -47,6 +49,14 @@ Hipotēze ir aptuvena — gala mapping notiks ar LLM ekstrakciju.
 
 > brain fog killing your workflow? Try MedMog. I tried everything. No tropics, coffee, energy drinks,  pharmaceuticals. Nothing seemed to have worked. It was either unhealthy or ineffective and that's  why I created MedMog. This small hexagonal tablet boosts your focus and gives you clean energy.  As a CEO I always say there wouldn't be MedMog in the company without MedMog the product. It is  insanely helpful with managing, being efficient under stress, with brainstorming and just making sure  I keep up with the heavy workflow. And I'm so confident MedMog would work for you that we offer 100%  money back guarantee. No questions asked. So try MedMog and see for yourself.
 
+### `DOt3ZEuCF3x` (en, 53s)
+
+**Avots:** https://www.instagram.com/reel/DOt3ZEuCF3x/
+
+**Transkripts (raw):**
+
+> Making coffee.  Making coffee, boom, you're a barista.  Now, I'm gonna tell you how to get rich as a barista.  So the first thing you need to do  is get very good at making coffees.  Be able to do it in a fancy way.  Then you need to solicit attention.  When you can make coffees in a fancy way,  you can hire a videographer,  you can then begin to make fancy coffees in a fancy way,  if you begin to put them on Instagram,  now you have attention.  How do you then turn that attention into money?  You could, let's say, put together a course  or an academy or write a book  on the magic of coffee.  It would be $9.  It would tell people the secrets how to make coffee.  Then, after people start knowing you as being a barista,  you start to make these $9, you have $20,000, $30,000 in the bank.  Well, you can do this one at your own coffee brand.  Before you know it, you make $10,000, $15,000 a month.  You can start to do tours.  I'm gonna do master classes on how to make coffee.  20 people only, $1,000 each,  at this specialty coffee shop in London.  Coffee shop will allow you to do this free  because they won't get the advertising from you and your brand.  You'll charge $1,000 each.  That's 20 grand per day to teach people how to pour milk in a fucking coffee.
+
 ### `DU9hZ9Tk-8G` (en, 137s)
 
 **Avots:** https://www.instagram.com/reel/DU9hZ9Tk-8G/
@@ -54,6 +64,42 @@ Hipotēze ir aptuvena — gala mapping notiks ar LLM ekstrakciju.
 **Transkripts (raw):**
 
 > You can manifest anything you want, but you must first learn how to feel as though it has already happened.  Now listen carefully. There is a simple phrase, so simple the mind often dismisses it, that contains within it the power to bring your desire into being.  That phrase is, isn't it wonderful? You do not say it hoping something will happen.  You say it from the quiet inward knowing that something has already happened, even though your senses deny it.  When you say isn't it wonderful? You are not naming the thing. You are naming the feeling. And feeling is the secret.  Do not ask yourself what happened. That would engage the reasoning mind and reasoning always delays fulfillment.  Simply rest in the mood. The mood of relief. The mood of gratitude. The mood of quiet satisfaction.  As you fall asleep at night or in a moment of stillness during the day, repeat gently within yourself.  Isn't it wonderful? Isn't it wonderful? Isn't it wonderful? And allow a subtle smile to rise, not forced, not exaggerated, but natural, as though good news has already reached you.  You will find that the body relaxes. The breath deepens. And the mind no longer striving, yields.  This is the state that creates. You are not trying to make anything happen. You are occupying the end.  And when you occupy the end, the means arrange themselves automatically. The outer world has no choice but to follow the inner assumption.  Do this without effort, without strain, without concern for how or when.  Fo
+
+### `DWl60cFjHTS` (en, 41s)
+
+**Avots:** https://www.instagram.com/p/DWl60cFjHTS/
+
+**Transkripts (raw):**
+
+> Stop making presentations manually. I found this AI tool and it's actually crazy.  Watch this. I'll type a rough idea like how AI is changing marketing.  Now I pick how many slides I want, choose a style, and click generate.  And look at this. It just built an entire presentation. Titles, structure, layout,  everything is already organized. But what surprised me is this.  You don't even need an idea. You can upload docs, PDFs, spreadsheets, or notes.  And it reads everything, then turns it into a clean presentation automatically.  You can still edit anything. Change the text, tweak the layout, or flip the entire theme.  So instead of spending hours making presentations, you can build one in seconds.  This tool is called Chatly AI Slides. Comment Chatly and I'll send you the link to try it.
+
+---
+
+## D13-PITCH
+
+### `DON_YcHAiDl` (en, 28s)
+
+**Avots:** https://www.instagram.com/reel/DON_YcHAiDl/
+
+**Transkripts (raw):**
+
+> Nobody wakes up wanting your service. They wake up wanting their problems gone.  So don't talk about selling your service, talk about solving their problems.  Don't sell content, sell personal brand that fuels their business forever.  Don't sell systems, sell less trust and more time.  Don't sell edited videos, sell organic leads from their YouTube channel.  Sell solving their problems instead of features you will use to solve their problems.
+
+### `DTZflHfACCX` (en, 41s)
+
+**Avots:** https://www.instagram.com/p/DTZflHfACCX/
+
+**Transkripts (raw):**
+
+> This new trading method is making ordinary people more money than lawyers earn.  It's not crypto, it's not stocks and it's not some get rich quick scheme.  It's a 90% done for you system that most people have never heard of.  I've helped thousands of people worldwide with this exact system.  I even have over 1800 trust fighter reviews from people just like you.  So click the link below, I recorded a quick video explaining this new method.  It's 100% free. See you on the other side.
+
+### `DW2oTR1jKqG` (en, 98s)
+
+**Avots:** https://www.instagram.com/p/DW2oTR1jKqG/
+
+**Transkripts (raw):**
+
+> You're not behind because you're lazy. You're not behind because your goals aren't clear  You're behind because nobody taught you how to use time  Every planning system you've ever used teaches you what to do and how to do it  But none of them teach you when to do it and  The missing variable here is timing. I mean it is the difference between  Effort that compounds and effort that disappears a  Full calendar is not momentum a  Completed to do list is not a result. I mean you can do the right thing  But at the wrong time and still get nothing and for more than a thousand years  The most effective people and high achievers in Asia have used and practice  the art of date selection and  Maps your most important actions to the days that carry the right type of energy for them  Days to initiate days to negotiate days to launch a campaign  Days to get started days to rest  When you know that your planning changes completely  I'm teaching this over four days  Completely free the full framework of the art of date selection practical easy to flow and start soon  Details are in the description. Come learn how to use time effectively for you
 
 ---
 
@@ -135,6 +181,14 @@ Hipotēze ir aptuvena — gala mapping notiks ar LLM ekstrakciju.
 
 > Manifestation is simple. Let's say that you're vibrating at a red frequency.  You're feeling a red emotion 24-7. This is exactly what the universe can give you.  It's like you're in a room. Now people get mad. People get mad when they're like,  I'm constantly trying new things. Now things are working. Society wants you to be stuck  in the first two rooms where you're trying to force everything to work. You need it to work  in order for you to finally feel happy. To get into this room that has everything that you want,  you have to feel the emotion now. Everybody says, I will feel happy later. No, I will feel joy later.  Oh, I'll feel happy when I have the money. I'll feel love when I have the relationship.  But it's not now. You have to feel the emotion now. The present is a gift. That's why I  If you're the type of person that's willing to do anything to step into that room,  this is the five-step process. The five-step process is available in the link in my bio.  So go ahead and check that out.
 
+### `DULF5QPDKxt` (en, 46s)
+
+**Avots:** https://www.instagram.com/p/DULF5QPDKxt/
+
+**Transkripts (raw):**
+
+> This is the best tool for lazy people who want to be more productive.  This literally remembers everything for you just from a WhatsApp message.  I spent the past six months trying every to-do app calendar and habit tracker out there.  They always took so long to set up it was taking more time than the task itself,  but then a coworker told me about Memoray.  Here's how it works, you just text Memoray.  That's it.  Remind me to call Jake Friday.  Done.  And if you're feeling even lazier, send a voice message.  Remind me that the deadline for my project is on Tuesday.  There's no dashboard, no app to learn, no setting five different alerts that you'll ignore anyway.  The second I started using it, I could feel the mental clarity.  I ran into my coworker to thank them.  Next time something pops up in your head, just send it to Memoray and keep living,  knowing it'll remind you when you need it.  It's like finally having an assistant who never forgets and doesn't ask you to download anything.
+
 ### `DVZC7xzijUn` (en, 178s)
 
 **Avots:** https://www.instagram.com/reel/DVZC7xzijUn/
@@ -142,6 +196,34 @@ Hipotēze ir aptuvena — gala mapping notiks ar LLM ekstrakciju.
 **Transkripts (raw):**
 
 > Bob Dylan knocking on heaven's door, but it's an Irish folk version  I'm excited about this one because I love Irish folk music  So let's get it started and you ready? I'm ready, let's go!  Mommy take this badge from me  I can't use it anymore  It's getting dark, too dark to see  Knocking on heaven's door  Knock, knock, knocking on heaven's door  Knock, knock, knocking on heaven's door  Knock, knock, knocking on heaven's door  Knock, knock, knocking on heaven's door  That long black...
+
+### `DXLLnH6ALiZ` (en, 116s)
+
+**Avots:** https://www.instagram.com/p/DXLLnH6ALiZ/
+
+**Transkripts (raw):**
+
+> Did you know that for only $20 you can have your own online store selling products to people all over the world 24-7  and you don't have to pack or ship anything yourself?  What?  Yeah, I didn't believe it either but I found this company called Ecomsites.design  Okay and what do they do?  So you choose the niche that you want to sell in like cosmetics or pets and they build the whole e-commerce store for you  with products already loaded, supplies connected so that your orders can actually ship everything set up for only $20  Wait, seriously?  Yeah and they deliver it in about 24 hours which honestly didn't make sense to me at first  and I figured it was one of those things that sounds really great but doesn't actually work  Yeah that's most make money online content these days  Yeah but when I looked into their company I realized that they actually partnered with  the largest e-commerce platform in the world Shopify and they've been featured in Business Insider  and the Digital Journal in helping people, regular people, launch stores globally  Okay that makes them sound way more legit  So at that point I figured I'll give it a try so I picked the cosmetics niche  and about a day later I got an email to say that my store was ready so I opened it and here look at this  Damn that actually looks pretty solid to be honest  Yeah it actually looks legit right and then a few days later I checked my analytics  and I had over a hundred visitors to my store  Did you actually sell anyth
+
+### `DXQG0QngHH1` (en, 54s)
+
+**Avots:** https://www.instagram.com/p/DXQG0QngHH1/
+
+**Transkripts (raw):**
+
+> You don't want to get behind. If you're in a business, here's what I tell people. If there's a 36 month countdown, that sounds crazy.  But in the next three to 10 years, there's going to be more change happening in humanity than we've seen in all of our lifetimes and then some.  But in the next 36 months is the most. If you don't have these tools, you're going to fall behind. You may not be out of business,  but you're certainly not going to thrive. And if you're going to more than survive, this is a set of tools you've got to have for yourself.  Especially if you're a small business or a medium sized business, or you're just somebody's thinking,  I want better quality of life. You got to know these tools and we'll show them to you. And there's no charge. It's not partially free.  It's totally free. We're here to over deliver for you as we've always done.  I think people will be blown away about what they're going to learn just three hours, a couple hours a day. That's all it is.
+
+---
+
+## D18-COLLAPSE
+
+### `DOboz7kke4I` (en, 89s)
+
+**Avots:** https://www.instagram.com/reel/DOboz7kke4I/
+
+**Transkripts (raw):**
+
+> Yeah man, I'm just not looking to make a decision right now.  Yeah, that's fine.  Just so we're on the same level though, do you feel like this could actually help you?  Yeah.  Okay, well why is that?  Because it could really help out me as a person and I feel like really getting into this  business could make you a career.  Okay.  And do you know how most people make decisions?  How?  It's like going skydiving, right?  You're sitting on the plane and the longer that you think about jumping,  the harder it becomes.  What could go wrong?  What if the parachute doesn't work?  And you start thinking of all the reasons that you shouldn't do it  because you want to be comfortable when you're presented a scary situation.  So you psych yourself out.  And knowing that's how you made decisions in the past for the last two years  where has that really led you?  And there's nothing wrong with being where you're at.  Like why do you feel that you should make a change though?  Because of procrastination issues.  There you go.  And so that version of you that's already successful, it's making the 30K a month  like you had said and is able to travel when he wants to.  Does he continue to procrastinate and push off these decisions  or does he make a change right here right now?  He would make a change right here right now.  So knowing that that version of you is already out there,  where do you feel that you should go?  I feel like I should do it.  You feel it or you know?  Go ahead, read me
 
 ---
 
@@ -178,6 +260,22 @@ Hipotēze ir aptuvena — gala mapping notiks ar LLM ekstrakciju.
 **Transkripts (raw):**
 
 > Lazy people wait for the right moment.  Focus people use the moment they have.  Lazy people chase shortcuts.  Focus people build systems.  Lazy people want fast results.  Focus people want progress.  Lazy people talk about what they'll do someday.  Focus people repeat what they're doing today.  Comfort makes you comfortable.  Consistency makes you unstoppable.  So stop hoping your life will change.  Start showing up like you wanted to.  And remember, every focused person was once lazy  and just did the right thing.
+
+### `DOQ-JzLkTKW` (en, 98s)
+
+**Avots:** https://www.instagram.com/reel/DOQ-JzLkTKW/
+
+**Transkripts (raw):**
+
+> sup mate?  you alright mate?  um...  how are you?  I'm great man  I'm good to see you  yeah?  you just woke up?  I'm alright  okay  I mean mate  I mean to be honest  I think you need to  put a shower on and  go and sit at a desk or something  cause I mean I hope you wouldn't let your prospects jump on your calls and  and they'll just start their shower at low slate on their sofa  they just woke up  oh yeah yeah mate I get you  okay  put a shower on  and then we'll carry on with the call  are you for real?  yeah I'm dead serious  what makes you think I'm not being for real?  I'm like  okay now I thought you were joking mate it's fine  okay is that okay with you that I'm asking you to put a shower on?  or do you want me to fucking...  I mean it's fine  alright and then go and sit on the sofa  you know like you're not letting in bed  do you wanna go like get on a  sit at a desk?  do you think...  yeah?  yeah is this how you treat your goals?  when I know on your application it said that you are at 3k a month  and you wanna get to 20k a month for you  are you typically  rolling out of bed at  1.34 in the afternoon?  I just didn't think it's that deep honestly  well it's okay yeah  I'll move  what makes you think it's not deep?  man you know like I used to be in an offer where  we don't have a video camera so I took the calls on my bed in the bedroom  I mean that's better but  yeah and this conversation is about  literally changing the trajectory of your life right?  oh I hope so 
+
+### `DUJARWSDFz-` (en, 22s)
+
+**Avots:** https://www.instagram.com/p/DUJARWSDFz-/
+
+**Transkripts (raw):**
+
+> I just found out my girlfriend has a whole secret life online  with this tool clarity check.  It literally shows every app and website  she's ever registered on before  and it shows her complete digital footprint,  no more secrets.  So like if you were suspicious like I was,  you gotta search her number up on this app.  I hope you don't find what I found.
 
 ---
 
@@ -302,5 +400,61 @@ Hipotēze ir aptuvena — gala mapping notiks ar LLM ekstrakciju.
 **Transkripts (raw):**
 
 > Jet GPT!  $20 a month  Perplexity  $0 a month  11 labs  $22 a month  Speechify  $0 a month  Designs AI  $29 a month  Gamma  $0 a month  Mindness  $39 a month  GenSpark  $0 a month  Canva  $13 a month  MS Designer  $0 a month  Opus Clip  $30 a month  TwoShort.ai  $0 a month
+
+### `DMvnFcRMEsd` (en, 49s)
+
+**Avots:** https://www.instagram.com/reel/DMvnFcRMEsd/
+
+**Transkripts (raw):**
+
+> Many salespeople kill the sale by walking and saying hello, I'm Brian Tracy. Let me tell you about my product or service  That's like going into a party and saying oh you're a pretty girl and jumping all over them  It's too soon  It's too soon to pounce most salespeople go in and pounce because they're nervous  Instead what you do is you go slow and what you say is is  I'd like to ask you a couple of questions and see if we can't help you achieve your goals in a cost-effective way  Would that be all right?  People will relax  If you offer to ask them questions and make no effort to sell at all because you don't even know if this is a prospect or a  Suspect yet, so if you start to sell before you are clear and before the customer is clear  That a need exists you'll kill the sale, so just go slow and ask questions
+
+### `DN0IUNeROcg` (en, 43s)
+
+**Avots:** https://www.instagram.com/reel/DN0IUNeROcg/
+
+**Transkripts (raw):**
+
+> People don't buy what they need. People buy what they think they need.  Think about it. No one really needs a $40,000 Rolex, the same with Louis Vuitton bags or even  the newest version of iPhone. So why do so many people buy them? Because the brands behind make  them think they need it in order to reach a certain level of status or ability. This is  the same thing that you can achieve if you build your own brand and narrative the right way.  Because it takes the pressure off of you manually having to convince every single person that they  need your service and it makes them think differently and come to their own conclusion.  And this entire process makes it a hundred times easier to sell people on your service.
+
+### `DOMlAesEpzw` (en, 61s)
+
+**Avots:** https://www.instagram.com/reel/DOMlAesEpzw/
+
+**Transkripts (raw):**
+
+> How do you create urgency without sounding like every other closer?  The easiest way to create urgency without sounding like every other closer is to contextualize your  questions. So the biggest problem that I see in sales right now is that everyone asks the same  questions. How does it make you feel? What if you don't ever get there? They've been played out so  many times that the prospect gets resistant because they know what you're leading them to.  They know you're trying to sell them. So the easiest way here is to give them a reason to  answer the question. Now a super easy way to do this is by what I call villainizing.  Let's take one of the most overused questions in sales, which is how does that make you feel?  And let's put it into a specific scenario. How does it make you feel that you're losing sales?  Well obviously I don't feel good about it. That's the most common response you're going to get every  single time. So instead of that you want to contextualize and villainize. And the way that I  would do that right there is, hey by the way I know a lot of sales guys who they'll lose sales  and it's like they don't really care because they're there for the base. You know it doesn't  really bother them the fact that they're losing sales just their scales. I don't want to assume  for you though like what's it actually been like and how's that been affecting you knowing you're  losing sales just because of the scale. Now I'm going to get a real answer because I've vill
+
+### `DT1-UWDgGkC` (lv, 98s)
+
+**Avots:** https://www.instagram.com/p/DT1-UWDgGkC/
+
+**Transkripts (raw):**
+
+> Jutu vakura, kad arīs netfliks, vai tik toku, tumums nedēr.  Mēs meklēm nevisu iena, bet divas haizības pārdošanā.  Jutu vakura, kad arīs ģodrogena podkāstas, tumums dēr.  Un haizības mēs vajā labi barojam.  25 gadā videjā alga 333 Eurobruto, vai tas ir pietiekoši labi Latvijā dzīvot labi.  Mē?  Piemums nav griestu tā vai algai.  Vēl nu vairāk.  Mēs esmu intergāzu.  Mēs nodarba mēs ir gāz sistēm uz tādīšanu un gāz piegādu visā Latvijā.  Mēs esmu iekļauti topsim piezint uzņemos Latvijā, un mums ir vairāk nekā 26 gadā pieredzi.  Piemums ir open office.  Ietau būs, kad jautājum kolēdjum vienkārši paautā.  Jūr, cik arā grāda 24 vajne?  Nu, jūr, valna, vatglieds nav spāni izseljujam.  Tevarībūs darb mašīna to jautka rola.  Pietēkam laiesbraukti pie klienta, un aizves sīvus randeiņi, kad būs tev darb pienākum.  Nu, auksties vantot toči nebūs jāveic.  Piemums saņem sildz zvanas, tas un mēs to, ka klientas ir atstājas pats pietēkumu un viņš jau zinkaujuši grība.  Ja, piedu, kā jau es videopilmēju, kad tu bija platība.  Tāms gauņai uzdams būs ir god gāz, sapkurs sistēms.  Un jātu neko neiz dzirdeis par gāz, neastroces.  Mēs tev uzsauks mapmātsības.  Rādār, par darbniek labniem, pie mums būs bedelmit kāfī,  veselības apdrošanāšan visi sacālās garantijs un protams arī...  Uzņēm un pasākum.  Youtube ēlēst tradāts stabilā uzņēmā, ar algubies griestiem amatā ar kur var lepoties  un dzert bedelmit kāfī un foršiem kolēģiem droši piebiedrojies.  Kā pietēkties, atrodu mūs sīvi market vai inter
+
+### `DUYSQ0ZjGP_` (en, 58s)
+
+**Avots:** https://www.instagram.com/p/DUYSQ0ZjGP_/
+
+**Transkripts (raw):**
+
+> Two entrepreneurs from Lithuania built an AI tool that can basically replace a full marketing  team.  You paste your website link and Holo instantly studies your brand, the colors, the tone,  the positioning and turns it into ready to use content with no agencies and no freelancers.  Before this, Brand spent 22 hours building content calendars.  With Holo it takes just 22 minutes and some people even generate 3 months of content in  just one go.  And this is the actual output, full carousels, ads, reels, headlines, product explainers,  all clean, professional and completely on-brand.  And brands using it are publishing 10 times more, getting 3 times more engagement and  paying less for reach because everything stays consistent.  If you want to try it yourself, comment Holo and I'll send you the link.
+
+### `DU_OPkoDOf2` (en, 18s)
+
+**Avots:** https://www.instagram.com/p/DU_OPkoDOf2/
+
+**Transkripts (raw):**
+
+> Don't learn technical analysis to trade crypto in 2026. You can't beat a supercomputer with a  trend lines, but you can copy its footprint. I scan the blockchain, find the entry, and send it to  you. I've done the hard work, you just copy. Link below.
+
+### `DUsvcTDAAPP` (en, 36s)
+
+**Avots:** https://www.instagram.com/p/DUsvcTDAAPP/
+
+**Transkripts (raw):**
+
+> I turned two flat product photos into a full professional photo shoot in seconds.  Here's how. First, I just uploaded a basic front and back shot of this hoodie,  selected content kit and hit send. That's literally it.  Dreams AI takes over from here. It handles the model selection,  the posing and even the styling automatically.  And look at this. It generated a high end 360 degree shot of the product in motion,  plus a complete gallery of product shots and clean flat lays ready for your online store.  Go to dream.ai and grab a free account to try it for yourself.
 
 ---
