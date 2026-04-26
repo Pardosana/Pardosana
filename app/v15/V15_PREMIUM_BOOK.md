@@ -1573,46 +1573,338 @@ V14.1 ir **outside‑validated**. Datu kopums (305 atsauces uz mezgliem 93 neatk
 
 # DAĻA VIII · LĒMUMU ALGORITMS · PRECĪZAI LĒMUMU PIEŅEMŠANAI
 
-> *Šī daļa tiek apkopota no audio transkriptu sintēzes. Pilna versija pievienota nākošajā V15 atjauninājumā.*
+> **Avots:** *SalesEngine algoritms precīzai lēmumu pieņemšanai* (Lauris Leitāns audio · 88 min · NotebookLM sintēze) · konsolidēts ar V14.1 Q1–Q40 plūsmu un V8 Molecular Core Map.
+
+> **Pamatlikums:** Klients **nepieņem lēmumu emocionāli vai loģiski izolēti**. Tas ir 7‑soļu iekšējā ķēde, kuru viņš iziet **silenti**. Operatorā esošais V15 algoritms šo ķēdi **atspoguļo ārējos jautājumos**, kas apmieiena ļautājumus tā, lai klients **pats** redz savu lēmumu. Ja kāds solis trūkst — klients **iesprūst**, un pārdevējs domā, ka problēma ir cena. **Patiesībā problēma ir izlaists solis.**
 
 ---
 
-## 8.1 · KĀDS IR LĒMUMU PIEŅEMŠANAS ALGORITMS?
+## 8.1 · KĀPĒC LĒMUMS NAV "EMOCIJA vs LOĢIKA"
 
-Klients **nepieņem lēmumu emocionāli vai loģiski izolēti**. Tas ir 7‑soļu ķēde, ko viņš iziet **iekšēji**, un katru soli **mēs varam atspoguļot ārējā jautājumā**:
+Klasiskā pārdošanas teorija saka: *"Cilvēki pērk emocionāli, pamatojas loģiski."* Tas ir tikai **20% patiesība**. V15 algoritms parāda, ka faktiskais lēmums iziet **abas sistēmas**:
 
-1. **Atpazīšana** — *"Tas ir tas, ko es jūtu"* (Q4 Galvenā lieta)
-2. **Mērīšana** — *"Cik tas izmaksā šobrīd?"* (Q11 GAP, Q21 COI)
-3. **Paredzēšana** — *"Vai tas turpināsies?"* (Q17 cik ilgi, Q21.5 Hope Break)
-4. **Salīdzināšana** — *"Vai ir labāks ceļš?"* (Q18 Zelta jautājums, Q22 Investora rāmis)
-5. **Iztēlošanās** — *"Vai es to varu?"* (Q23 Bridge, Q26 3 pīlāri)
-6. **Validācija** — *"Vai tas pasargā mani?"* (Q29 1‑10, Q30 gatavība, Q31 onboarding)
-7. **Tehniskā komutēšana** — *"Karti vai pārskaitījumu?"* (Q40)
+- **System 2** (analītiskā, lēnā, racionālā) — atbild par **mērīšanu, salīdzināšanu, validāciju**
+- **System 1** (instinktīva, ātrā, emocionālā) — atbild par **atpazīšanu, iztēlošanos, komutēšanu**
 
-> **Operatora pielietojums:** Ja klients **iesprūst**, tu varbūt esi pārleci kādu soli. Atgriezies pie **iepriekšējā** soļa un pārliecinies, ka tas ir locked.
+> **Daniel Kahneman pamatprincips:** Kad operators pārdod, **System 2 automātiski bloķē** — klienta racionālā prāta meklē iemeslu, kāpēc atteikt. Tāpēc pamata pārdošanas tehnikas (System 1 valoda, ne‑pārdevēja identitāte, kolēģis‑diagnostiķis) ir **būtiskas**: tikai tad System 1 ir atvērta, un mēs varam paralēli novest klientu cauri System 2 mērīšanas soļiem **bez pretestības**.
 
-> *Pilna sintēze (no audio) tiks pievienota nākošajā atjauninājumā.*
+---
+
+## 8.2 · 7‑SOĻU LĒMUMU ALGORITMS
+
+| Solis | Iekšējs jautājums | V15 Q‑mezgls(i) | Sistēma |
+|---|---|---|---|
+| **1. Atpazīšana** | *"Tas ir tas, ko es jūtu / piedzīvoju"* | Q4 ⭐⭐⭐ Galvenā lieta · Q5 Kas lika ierasties | System 1 |
+| **2. Mērīšana** | *"Cik tas izmaksā šobrīd?"* | Q11 GAP · Q12 vidējais čeks · Q21 COI | System 2 |
+| **3. Paredzēšana** | *"Vai tas turpināsies bez intervenes?"* | Q17 cik ilgi · ⚡ Q21.5 Hope Break | System 2 |
+| **4. Salīdzināšana** | *"Vai ir labāks ceļš?"* | Q18 Zelta · Q22 Investora rāmis · Q19 vai meklēts iepriekš | System 2 |
+| **5. Iztēlošanās** | *"Vai es to varu izdarīt?"* | Q23 Bridge · Q26 3 pīlāri · Future Pacing | System 1 |
+| **6. Validācija** | *"Vai tas pasargā mani?"* | Q29 1–10 · Q30 gatavība · Q31 onboarding | System 2 |
+| **7. Komutēšana** | *"Es iesāku"* | Q32 cena · Q33–Q40 close · *"Karti vai pārskaitījumu?"* | System 1 |
+
+> **Operatora pielietojums:** Ja klients **iesprūst** kādā fāzē, atgriezies pie **iepriekšējā** soļa un pārliecinies, ka tas ir locked. Visbiežākie iesprūdas:
+> - Iesprūst Q29 (1–10) → 2. Mērīšana nav locked → atgriezies pie Q11 GAP, pārrēķini
+> - Iesprūst Q32 (cena) → 3. Paredzēšana nav locked → izdarī Q21.5 Hope Break vēlreiz
+> - Iesprūst Q40 (close) → 5. Iztēlošanās nav locked → atgriezies pie Q23 Bridge ar konkrētiem 12 mēnešu skaitliem
+
+---
+
+## 8.3 · DETALIZĒTI PA SOĻIEM
+
+### Solis 1 · ATPAZĪŠANA (System 1)
+
+**Klienta iekšējs jautājums:** *"Tas, ko viņš tikko teica, atbilst manai sajūtai?"*
+
+**Operatora uzdevums:** Pārliecināties, ka **Q4 Galvenā lieta** ir **klienta paša vārdiem**, ne mūsu interpretācijā. Ja Q4 ir *"reklāmas izmaksas par augstas"*, mēs **neatbildam** ar *"jā, mēs to atrisinām ar META"*. Mēs atbildām: *"Pareizi, tev šobrīd reklāmas izmaksas izskatās tā, ka tās aug, bet rezultāti nē. Skaidrs, vai mēs to fiksējam pareizi?"*
+
+> **Aizliegumi:** Pārformulēt klienta sāpi mūsu vārdos. Tas atver System 2 ("vai šis cilvēks mani saprata?") un slēdz System 1.
+
+### Solis 2 · MĒRĪŠANA (System 2)
+
+**Klienta iekšējs jautājums:** *"Cik tas man maksā šobrīd?"*
+
+**Operatora uzdevums:** Q11 GAP piezīme ar **konkrētu skaitli** (€5000 mēnesī starp mērķi un realitāti) → Q21 COI rēķins (€60k gadā × 5 gadi = €300k zaudētas iespējas).
+
+> **Triks:** Klients pats jāizskaitļo cipars, ne mēs. *"Tu teici, gribi €25k mēnesī. Šobrīd tev ir €18k. Atstarpe €7k. Cik mēnesi tev šī sastrūk?"* — klients pats saka *"6 mēnesi"* → tu tikai pieliec: *"€42k zaudētu peļņu pēdējā pusgadā. Pareizi?"*
+
+### Solis 3 · PAREDZĒŠANA (System 2 + Q21.5 ⚡)
+
+**Klienta iekšējs jautājums:** *"Vai tas turpināsies, ja es neko nedaru?"*
+
+**Operatora uzdevums:** **Hope Break.** Detalizētāk Daļā IX. Trīs jautājumi:
+1. *"Tu to apzināti aizpildi vai gaidi?"*
+2. *"Tas 'gan jau' — kā tas pēdējos 6 mēnešos strādāja?"*
+3. *"Ja nākamās 2 nedēļas vajadzētu klāt 5 klientus — tu zini, kā?"*
+
+> **Tas ir vienīgais V13 LOAD‑BEARING mezgls.** Ja izlaists, klients **vēl turpina cerēt**, ka pats no sevis kaut kas mainīsies. Bez Hope Break, cena (Q32) izklausās kā vēl viens izdevums, ne kā glābšana.
+
+### Solis 4 · SALĪDZINĀŠANA (System 2)
+
+**Klienta iekšējs jautājums:** *"Vai ir labāks ceļš nekā tas, ko viņš piedāvā?"*
+
+**Operatora uzdevums:** Q18 Zelta jautājums (*"Pirms cik gadiem tu lēmumu pieņēmi galvā?"*) → klients atbild *"3 gadi"* → Q22 Investora rāmis (*"3 gadi × €60k = €180k zaudēta iespēja. Šī sistēma maksā €3000."*).
+
+> **Triks:** Ja klients prasa *"Kāda ir alternatīva?"*, atbildi tieši: *"Alternatīva, kuru tu jau esi izmēģinājis 3 gadus — gaidīšana. Tas tev ir maksājis €180k. Šis ir cits ceļš."*
+
+### Solis 5 · IZTĒLOŠANĀS (System 1)
+
+**Klienta iekšējs jautājums:** *"Vai es spēšu paveikt to, ko viņš piedāvā?"*
+
+**Operatora uzdevums:** Q23 Bridge ar **konkrētu klienta valodu** (*"Iedomājies pēc 12 mēnešiem — tev nāk 5 pieteikumi nedēļā, automātiski. Tu vairs neatbildi katram pa atsevišķi. Tu skaties skaitļus piektdienas vakarā un saproti, ka šī mēnesi pelnīji €40k."*) + Q26 3 pīlāri (Vilka metode + Sistematizācija + CRM).
+
+> **NLP slānis:** Future pacing un Embedded Commands (sk. Daļa V) tieši šeit. *"Un kad tu jūti, ka tas ir pareizi, tad mēs vienkārši sakārtojam."*
+
+### Solis 6 · VALIDĀCIJA (System 2)
+
+**Klienta iekšējs jautājums:** *"Vai šis viss ir reāls? Vai es nesabrukšu, ja sāku?"*
+
+**Operatora uzdevums:** Q29 1–10 anchor pirms cenas (*"1–10. 1 ir nepaņemtu par velti, 10 ir tieši tas. Kā novērtē?"*) → Q30 gatavības apstiprinājums (*"Ja viss tev šķiet pareizi, vai tu šodien gatavs sākt?"*) → Q31 onboarding ieskats (*"Pirmajās 7 dienās tev tikai jāatbildedz uz manu kalendāru, un mēs sakārtojam Facebook lapas, META kontu, Telegram CRM."*).
+
+> **Aizliegumi:** Apsolīt rezultātus. *"Tu pirmajā mēnesī taisīsi €40k"* — nē. Sēdi onboarding mehānismā, ne tirgus rezultātā. Tu kontrolē sistēmu, ne tirgu.
+
+### Solis 7 · KOMUTĒŠANA (System 1)
+
+**Klienta iekšējs jautājums:** *"Esmu gatavs."*
+
+**Operatora uzdevums:** Q32 cena (2 opcijas) + KLUSUMS → ja klients teic *"jā"* → Q40 *"Karti vai pārskaitījumu?"*
+
+> **Tehnika:** **Klusums pēc cenas ir komutēšanas slānis.** Ja tu pārtrauc klusumu, tu pārtrauci klienta lēmumu pieņemšanu. Tev nav steiga.
+
+---
+
+## 8.4 · KAS V14.1 NEBIJA, V15 PIEVIENO
+
+V14.1 Q1–Q40 plūsma ir **horizontāli plakana** — viens jautājums seko otram. V15 algoritms pievieno **vertikālu skatījumu**: katrs jautājums **arī** nosaka **kuru lēmumu pieņemšanas soli klients tagad iziet**. Tas ļauj operatorā:
+
+1. **Diagnoses iesprūdas** ne tikai "klients pretestās", bet "klients iesprūdis 4. solī (Salīdzināšana)"
+2. **Maršrutēt iebildumus** ne tikai pēc CARE, bet pēc soļa, kuru jāatkārto
+3. **Pārtraukt zvanu**, ja klients ir 1. vai 2. solī un nevar pāriet uz 3+ — tas ir nekvalificētss leads, ne pārdošanas kļūda
+
+> **Ekonomiska iebilde:** Šī papildu vertikālā kartes sapratne **nepalielina** Q1–Q40 garumu. Tā tikai dod operatoram **trešo dimensiju** zvana laikā.
+
+---
+
+## 8.5 · LAURIS PERSONĪGAIS PIETIKUMS NO AUDIO
+
+> No NotebookLM analīzes (88 min audio): *"Sales Engine ir buvēta, analizējot 89 reālos dzīvus pārdošanas zvanus. Astoņdesmit deviņus. Kur cilvēki vienkārši mēļu, kur viņi slēpiekas pieklājības, un kur viņi patiesībā pieņem lēmumu. Tā sistēma sanāk tāda kā lielā arhitektūra ar sešiem slāņiem, 40 jautājumiem, un 14 patentētajiem loģikas mezgliem."*
+
+**Iekšējais skats no Lauris:** Sales Engine **nav improvizācija** — nekādas toksiskas pārliecinošas tehnikas, nekādas pārmācīšanas. Tā vietā ir **algoritms**. Operatorā nav vietas haosa.
+
+> **Galvenais princips:** Kad operatos sēž System 2 stāvoklī (analizē, plāno, mēģina pārliecināt), klienta System 2 **automātiski bloķē**. Klients meklē iemeslu, kāpēc atteikt. Operators **var pacelt** klienta System 1 (instinkta, emocionālā) tikai ja **viņš pats** ir System 1 stāvoklī — bez vajadzības, bez bailēm, bez ego. Tas ir V∞ stāvoklis.
+
+---
+
+## 8.6 · ALGORITMS KĀ ANTIDOTS HAOSAM
+
+> *"Tu neesi pārdevējs. Tu esi sistēmas arhitekts. Tu nemēģini pārliecināt. Tu izpildi diagnostikas algoritmu. Klients sevi pārdod pats, mūsu darbs ir tikai turēt struktūru."*
+
+V15 lēmumu algoritms ir mūsu **anti‑haosa instruments**:
+- Bez tā: *"Klients nepērk → es nezinu kāpēc → mēģinu vēl skaļāk pārliecināt → klienta System 2 vēl ciešāk slēdzas"*
+- Ar to: *"Klients nepērk → es zinu, ka iesprūdis 3. solī (Paredzēšana) → atgriežos pie Q21.5 Hope Break, izdaru pareizi → klients pāriet uz 4. soli"*
+
+> **Šī ir Sales Engine V14.1 dziļākā loģika, V15 versijā padarīta eksplicīta.**
 
 ---
 
 
 
-# DAĻA IX · HOPE FOG SHATTERER · Q21.5 DEEP‑DIVE
+# DAĻA IX · HOPE FOG SHATTERER · Q21.5 PADZIĻINĀJUMS
 
-> *Šī daļa tiek apkopota no audio transkriptu sintēzes. Pilna versija pievienota nākošajā V15 atjauninājumā.*
+> **Avots:** *Shattering the high-ticket hope fog* (NotebookLM podkāsts par V14.1 SalesEngine · 36 min · EN → LV adaptācija) · pārtulkots, izgāja 5‑māju filtru, integrēts ar V14.1 Q21.5 Hope Break.
+
+> **Konsolidēta tēze:** Q21.5 *Hope Break* ir vienīgais V13 LOAD‑BEARING mezgls, jo tas ir **vienīgā vieta**, kur klienta defensīvais "gan jau" tiek **mehāniski** sagrauts. Bez šī mezgla, viss V14.1 kanons strādā, bet **gala likme** netiek slēgta. **Šis ir tas, kas atšķir V13/V14.1 no V12.**
 
 ---
 
-## 9.1 · KĀPĒC HOPE FOG IR LOAD‑BEARING
+## 9.1 · KAS IR HOPE FOG
 
-Q21.5 Hope Break ir **vienīgais** mezgls V14.1, ko V13 disciplīna nosauc par "load‑bearing". Bez tā:
-- Q22 Investora rāmis skan kā **prezentācijas slaids** (nav personīgs)
-- Q26 3 pīlāri skan kā **piedāvājums no kataloga** (nav atrisinājums)
-- Q32 Cena skan kā **summa par tehnoloģiju** (nav investīcija pret zaudējumu)
+**Hope fog** ir psiholoģisks aizsardzības mehānisms pret kavalierīgu (binding) lēmumu pieņemšanu.
 
-> Hope Fog Shatterer ir 3 jautājumu komplekts (sk. Daļa II Q21.5), bet šajā daļā mēs to **paplašinam ar 7 sekundārajām adaptācijām** atkarībā no klientu tipa.
+> **Definīcija:** Hope fog ir klienta **iluzorāka pārliecība**, ka, ja viņš tikai pagaidīs vēl mazliet, viņa biznesa problēmas **maģiski atrisināsies pašas no sevis**. *"Tirgus ir mazliet dīvains tagad. Drīz atgriezīsies."* *"Mans vecais kolēģis varbūt atsūtīs lielu rekomendāciju."* *"Nākamā kvartālā mēs pagriezīsim stūri."*
 
-> *Pilna sintēze (no audio) tiks pievienota nākošajā atjauninājumā.*
+**Kāpēc hope fog ir bīstama:**
+- Tā **maskē operacionālo neveiksmi** kā "ārējus apstākļus"
+- Tā **bloķē** lēmumu pieņemšanu, jo nav steigas
+- Tā **nogalina** high‑ticket darījumus, jo €3000 izklausās kā "izdevums", ne "glābšana"
+
+**Kāpēc tieši pirms cenas:**
+> Pirms Q21.5: €3000 izklausās milzīgi, jo klients nesalīdzina ar status quo izmaksām. **Pēc Q21.5:** klients iziet no zvana ar pārliecību, ka **status quo izmaksas ir bezgalīgi lielākas** nekā €3000.
+
+---
+
+## 9.2 · TRĪS JAUTĀJUMU KĀPNES (THE LADDER)
+
+Q21.5 ir **trīs konsekutīvi jautājumi**, kuru kombinācija ir **mehāniska un neaizmaksājama** — klients **fizikāli** nevar atbildēt "jā" uz visiem trim.
+
+### KĀPNE #1 · "Process vai cerība?"
+
+**Frāze:** *"[Vārds], paskatoties uz tavu šī brīža klientu plūsmu — tas ir reāls process, vai cerība?"*
+
+**Mehānisms:** Tu **piespiedi** klientu paskatīties uz savu biznesu un **atzīt**, ka viņam **nav uzticamas mašīnas**. Viņš pull up the lever and hopes for a jackpot.
+
+**Kāpēc tas darbojas:**
+- Klients **pats** atzīst, ka tā ir cerība (ne tu apsūdz)
+- Tas ir System 2 (analītisks) iedarbojas Sistema 1 (instinktīvi godīgs) brīdī
+- Drāmatiska, bet **neapsūdzoša** retorika
+
+**Tipiskās atbildes:**
+- *"Nu, tas ir process..."* → tu klausies KLUSI, klients labojas: *"Nu, faktiski tas ir cerība..."*
+- *"Tas ir dīvains tirgus..."* → tu nepiekrīt: *"Skaidrs, tu ar to teici, ka šobrīd tas ir balstīts uz cerību."*
+- *"Mēs strādājam pie tā..."* → tu pārjautā: *"Strādājat — vai tas darbojas?"*
+
+### KĀPNE #2 · "Aktīvi vai pasīvi?"
+
+**Frāze:** *"Tu šo plaisu apzināti aizpildi, vai gaidi, kad pati aizpildīsies?"*
+
+**Mehānisms:** Tu noņem klienta **iluziju par savu kontroli**. Tu **piespiedi** viņu pateikt skaļi: *"Es neaktīvi vadu savu biznesu. Es pasīvi gaidu brīnumu."*
+
+**Kāpēc tas darbojas:**
+- Bizesa īpašnieki to **slēpiali zina** par sevi, bet **nekad nesaka skaļi**
+- Tas ir dziļā nepārvarama brīdis, bet pēc tā ir **atvieglojums** ("beidzot kāds to izteica")
+- Tu **nemaz neuzbrūki** — tu tikai aprakstīji.
+
+**Tipiskās atbildes:**
+- *"Es kaut ko daru, bet bez sistēmas..."* → perfekti, klients atzina
+- *"Mēs gaidām, kad..."* → tu klausies, ļauj klientam pabeigt, tad: *"Tāpēc šobrīd biznes paliek tur, kur tas ir."*
+- KLUSUMS — visbiežākais. Klients **nevar atbildēt godīgi**, neatzīstot pasivitāti.
+
+> **Šis ir aprūpes kāpne, ne uzbrukums.** Diagnostiķis tīra brūci pirms šuves.
+
+### KĀPNE #3 · "Hipotētiskais 2 nedēļu tests"
+
+**Frāze:** *"Ja TEV šobrīd absolūti vajadzētu klāt 5 jaunus high‑ticket klientus nākamās 2 nedēļās, lai biznes neapstātos — TU PAREIZI ZINI, KĀ TO IZDARĪT?"*
+
+**Mehānisms:** **Mate.** Pārliecīga, laika nosaukta hipotēze, kas piespiedu klientu sevi salīdzināt ar **eksistenciālu ārkārtu**.
+
+**Kāpēc tas darbojas:**
+- Atbilde ir **universāli "nē"**. Vienmēr.
+- Ja klientam **būtu** šī sviru, viņš nesēžētu uz pārdošanas zvanu ar tevi
+- Tu nepiespied klientu apsolīt — tu tikai **piespied viņam pateikt skaļi**, ka viņam **nav lēmuma**
+
+**Tipiskās atbildes:**
+- *"Nē, godīgi sakot, nezinu..."* → **CHECKMATE**. Pāriet pie Q22.
+- *"Nu, mēs varbūt varētu..."* → tu pārjautā: *"Tu zini precīzi? Vai tu cer, ka kaut kā varētu?"*
+- *"Es uzdarbinātu vairāk reklāmas..."* → tu izpat: *"Reklāmas ar kuru CPL? Cik kontaktu jāizdara, lai panāktu 5 klientus? Cik dienas tas paņem?"* — klients sabrūk.
+
+> **Pēc Kāpnes #3 klients ir izgājis cauri psiholoģiskam sabrukumam un atjaunošanai.** Viņa risk parsīt iekārta ir **rekalibrēta**: status quo riskēs maksā vairāk nekā €3000 risinājums.
+
+---
+
+## 9.3 · 7 OPERATORA FRĀZES, KAS TURPINA HOPE BREAK
+
+Pēc trim kāpnēm — pēc tam **klusums** uz 5–10 sekundēm. Tad **viena no šīm 7 frāzēm**, atkarībā no klienta MICE motora:
+
+| MICE | Frāze pēc Hope Break |
+|---|---|
+| **Money** | *"Tas, kas tev šobrīd maksā, nav cipars uz papīra. Tas ir 6 mēnesi neizgājušas peļņas."* |
+| **Ideology** | *"Tu sāki šo biznesu ar konkrētu vīziju. Šobrīd tas ir balstīts uz cerību. Vīzija nav cerība."* |
+| **Compromise** | *"Tu nevari pārliecināt savu padomi par sistēmu, kas pati neeksistē. Vispirms ir jāizveido sistēma, tad pārliecināšana."* |
+| **Ego** | *"Tu trīs gadus pirms tu biji līderis. Tagad tu gaidi. Tas nav par to, kas tu biji — tas ir par to, kas tu būsi nākamos 12 mēnešos."* |
+| **Universāla 1** | *"Cerība nav sistēma. Sistēma ir sistēma."* |
+| **Universāla 2** | *"Šobrīd tu nepieņem lēmumus — tu gaidi, kamēr lēmumi pieņem tevi."* |
+| **Universāla 3** (klusais slēgums) | *[Klusums 10 sekundes, tu tikai paskaties klientā.]* |
+
+> **Aizliegumi:**
+> - Lietot vairāk nekā **vienu** frāzi
+> - Atvainoties pēc Hope Break (*"Es ceru, ka tas neizklausās par skarbu..."*)
+> - Pāriet pie Q22 ātrāk nekā 5 sekundes pēc klienta atbildes
+
+---
+
+## 9.4 · DIVI LĒMUMU KOKI Q21.5 IETVAROS
+
+### Koks A · Klients atver
+
+**Signāls:** Klients atbild godīgi un sāk **pats** raksturot savu sāpi (*"Faktiski, jā, mēs neesam strādājuši pie tā..."*)
+
+**Operatora ceļš:** Klausies. Atspoguļo. Pāriet uz Q22 Investora rāmis.
+
+### Koks B · Klients aizver
+
+**Signāls:** Klients **īsi** atbild un nepauž sāpi (*"Nu, mēs strādājam pie tā."*)
+
+**Operatora ceļš:** **Atkārto** Kāpni #2 ar konkrētāku formulējumu (*"Tu ar 'strādājam' domā, ka tu pats vadi šo procesu, vai gaidi, ka kāds cits to izdarīs?"*).
+
+Ja klients vēl aizver: **pārtrauc Hope Break**, pāriet pie Q22 ar **soft frame** (*"Saprotu. Aplūkosim šo no cita leņķa..."*) un atgriezies pie Hope Break **pēc Q26**, kad klientam ir vairāk konteksta.
+
+> **Aizliegumi:** Hope Break **nemēģini** atkārtot trešo reizi vienā zvanā. Ja koks B parādās 2 reizes, klients **nav gatavs**. Pārtrauc zvanu un pieraksti CRM kā "Hope Fog locked, atgriezties 30 dienās".
+
+---
+
+## 9.5 · "CERĪBA NAV SISTĒMA" — VIZUĀLĀ METAFORA
+
+Daļa V V14.1 ietvarā jau dod 9 metaforas (krasts, lauva, kalns u.c.). **V15** pievieno desmito, kas ir **specifiska Hope Fog mezglam**:
+
+> **Metafora #10 · "Spēļu automāts vs. konveiers"**
+>
+> *"Tava klientu plūsma šobrīd ir spēļu automāts. Tu velc sviru, un cerasi, ka šoreiz nāks lieli. Reizēm nāk. Reizēm nē. Tu nezinu, kāpēc. Manā sistēmā, klientu plūsma ir konveiers. Katrā minūtē tev ienāk konkrēts skaitlis pieteikumi, kas pēc 14 dienām pārvēršas par konkrētu skaitli klientu. Tu zini, kāpēc."*
+
+Šī metafora aizvieto abstraktu argumentu (*"jūsu mārketings ir nesistēmisks"*) ar **vizuālu** kontrastu, kas pāriet System 1 (atpazīšana) un padara to **emocionāli neaizliegtu**.
+
+---
+
+## 9.6 · KO NEDARĪT (BLAKUSEFEKTI)
+
+| Aizliegums | Kāpēc |
+|---|---|
+| Hope Break **pirms** Q11 GAP | Klientam vēl nav GAP konteksta — sāp mehāniski neizdoma |
+| Hope Break **pēc** Q22 | Pāragri — Investora rāmis ir loģisks slānis, Hope Break ir emocionāls |
+| Vairāk nekā 1 atkārtojums | Klients sāk justies uzbrukts, ne diagnozēts |
+| Atvainošanās pēc | Iznīcina autoritāti, atver System 2 |
+| Smaidīt Hope Break laikā | Atver mikro‑signālu *"viņš nav nopietni"* |
+| Lasīt no kabatas slāņa | Iznīcina kolēģa‑diagnostiķa identitāti |
+| Pārjautāt klientu, ja viņš klusē | Klusums **strādā tev** |
+
+---
+
+## 9.7 · SIGURITĀTES TĪKLS · KAS NOTIEK PĒC HOPE BREAK
+
+Pēc veiksmīga Hope Break klients ir psiholoģiskā **post‑sabrukuma** stāvoklī. Tas ir **labvēlīgi**, bet jārīkojas precīzi:
+
+**Pirmā minūte pēc Hope Break:**
+1. **Klusums 5–10 sekundes** — ļauj klientam pārvarēt sabrukumu
+2. **Nesteigties** uz Q22 — pāreja **soft**: *"Skaidrs. Aplūkosim, kā šo šobrīd risina cilvēki, kuri ir tādā pašā situācijā kā tu..."*
+3. **Klienta toņa pārbaude** — vai viņa balss ir **klusāka**? (Labi.) Vai viņš sāk ātri runāt? (Slikti — pārtraukt un atgriezt 5 sek klusumu.)
+
+**5–10 minūtes pēc Hope Break:**
+- Q22 Investora rāmis nāk **viegli** — klients pats sāk skaitīt zaudēto naudu
+- Q23 Bridge metafora ir **īpaši efektīva** — klients ir atvēris System 1
+- Q26 3 pīlāri **iekļaujas** — klients pēta tos kā glābšanas plānu, ne kā produkta funkcijas
+
+> **Ja redzi pretdarbību (klients atgriežas pie cerības):** Atgriezies pie Hope Break Frāzes #6 (*"Šobrīd tu nepieņem lēmumus — tu gaidi, kamēr lēmumi pieņem tevi."*). Vienreiz. Bez atvainošanās.
+
+---
+
+## 9.8 · KOPSAVILKUMS · KĀPĒC ŠIS IR LOAD‑BEARING
+
+Bez Q21.5:
+- ✅ Q1–Q21 strādā (klients iet caur diagnozi)
+- ✅ Q22–Q31 strādā (klients redz risinājumu)
+- ❌ **Q32 (cena) sastāp pretestību**, jo klients **vēl cer**, ka pats no sevis kaut kas atrisināsies
+- ❌ Q40 close **paliek atvērts** (*"Padomāju nedēļu..."* = ghosting)
+
+Ar Q21.5:
+- ✅ Visi iepriekšējie soļi notiek **TĀPAT**
+- ✅ Q32 (cena) izklausās kā **glābšana**, ne **izdevums**
+- ✅ Q40 close **slēdzas** vienā zvanā (60–80% pēc Lauris pieredzes)
+
+> **Tāpēc Q21.5 ir vienīgais V13 LOAD‑BEARING mezgls.** Ja izlaists, sistēma strādā, bet **gala likme tiek pazaudēta**. Ja izpildīts pareizi, Q40 close ir **tikai formalitāte**.
+
+---
+
+## 9.9 · NOSLĒGUMS · CERĪBA NAV SISTĒMA
+
+> *"Hope is not a system. Sistēma ir sistēma. Tu nevari pārdot sistēmu cilvēkam, kurš joprojām cer. Vispirms tu noņem cerību, tad tu pārdod sistēmu."* — V15 pamatprincips
+
+Šī Daļa IX ir **viens no svarīgākajiem V15 jauninājumiem**. V14.1 jau ievieš Q21.5, bet bez detalitātes. V15 padara to par **pilnu mehānismu** ar:
+- 3 konkrētām kāpnēm
+- 7 operatora frāzēm
+- 2 lēmumu kokiem (atver/aizver)
+- 1 vizuālu metaforu (spēļu automāts vs. konveiers)
+- Sigurtības tīkls (5 minūtes pēc)
+
+> **Operators iesācējs:** Apgūsti šo Daļu pirms jebkura cita slāņa V15 ietvarā.
+> **Operators eksperts:** Pārskati šo Daļu **katras nedēļas pirmdienas rītā** kā autodisciplīnas ritualu.
 
 ---
 
