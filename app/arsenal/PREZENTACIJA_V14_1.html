@@ -1,0 +1,595 @@
+<!DOCTYPE html>
+<html lang="lv">
+<head>
+<meta charset="UTF-8">
+<title>Domino Engine V14.1 — Prezentācija</title>
+<style>
+@page { size: A4 landscape; margin: 0; }
+body { font-family: 'Segoe UI', 'DejaVu Sans', Arial, sans-serif; margin: 0; padding: 0; color: #1a1a1a; }
+.slide-page { page-break-after: always; padding: 25px 35px; min-height: 100vh; box-sizing: border-box; }
+.slide-header { display: flex; justify-content: space-between; align-items: baseline; border-bottom: 2px solid #0a3d62; padding-bottom: 8px; margin-bottom: 15px; }
+.slide-num { font-size: 14pt; color: #2980b9; font-weight: 700; }
+.slide-phase { font-size: 11pt; color: #7f8c8d; font-style: italic; }
+.slide-title { font-size: 26pt; font-weight: 800; color: #0a3d62; margin: 8px 0 12px; }
+.layout { display: flex; gap: 20px; height: calc(100vh - 130px); }
+.image-col { flex: 1.6; }
+.image-col img { width: 100%; height: 100%; object-fit: contain; border: 1px solid #cbd5e0; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.08); }
+.meta-col { flex: 1; display: flex; flex-direction: column; gap: 12px; }
+.meta-block { background: #f5f7fa; border-left: 4px solid #0a3d62; padding: 8px 12px; border-radius: 4px; }
+.meta-label { font-size: 9pt; color: #7f8c8d; text-transform: uppercase; letter-spacing: 1px; font-weight: 600; margin-bottom: 4px; }
+.meta-content { font-size: 10pt; line-height: 1.45; color: #2c3e50; }
+.moves-list { list-style: none; padding: 0; margin: 0; }
+.moves-list li { padding: 3px 0 3px 18px; position: relative; font-size: 10pt; }
+.moves-list li::before { content: "▸"; position: absolute; left: 0; color: #f39c12; font-weight: 700; }
+.tags { display: flex; flex-wrap: wrap; gap: 5px; }
+.tag { background: #0a3d62; color: white; padding: 2px 8px; border-radius: 10px; font-size: 8.5pt; font-weight: 600; }
+.cue { background: #fef9e7; border-left: 4px solid #f39c12; padding: 8px 12px; border-radius: 4px; font-style: italic; font-size: 10pt; color: #b9770e; }
+.goal { background: #e8f6f3; border-left: 4px solid #1abc9c; padding: 8px 12px; border-radius: 4px; font-size: 10.5pt; font-weight: 600; color: #117a65; }
+.cover { padding: 80px 60px; background: linear-gradient(135deg, #0a3d62 0%, #1abc9c 100%); color: white; min-height: 100vh; }
+.cover h1 { font-size: 56pt; margin: 0 0 20px; font-weight: 900; line-height: 1.1; }
+.cover .subtitle { font-size: 22pt; font-weight: 300; margin: 0 0 40px; opacity: 0.95; }
+.cover .meta { font-size: 13pt; line-height: 1.8; opacity: 0.9; }
+</style>
+</head>
+<body>
+
+<div class="cover slide-page">
+  <h1>DOMINO ENGINE<br>V14.1</h1>
+  <p class="subtitle">Pārdošanas Operatora Karte · D1–D20 · 20 Slaidu Komplekts</p>
+  <div class="meta">
+    <b>Versija:</b> V14.1 V13-compliant · Hope Break (D7.5) load-bearing<br>
+    <b>Saturs:</b> 4 fāzes · 20 mezgli · Pre-call → Realitāte → Spriedze → Identitāte → Aktivācija<br>
+    <b>Avots:</b> Apvienots ar 100+ pārdošanas video sintēzi (Belfort · Serhant · Sinek · Voss)<br>
+    <b>Live deck:</b> https://app-xufuhcsz.devinapps.com<br>
+    <b>Repo:</b> github.com/laurisleitaans-cyber/Pardosana
+  </div>
+</div>
+
+<div class="slide-page">
+  <div class="slide-header">
+    <div class="slide-num">Slide 01</div>
+    <div class="slide-phase">Mape · pilnā D1–D20 secība</div>
+  </div>
+  <div class="slide-title">Overview</div>
+  <div class="layout">
+    <div class="image-col">
+      <img src="file:///home/ubuntu/salesengine-repo/deck/assets/slide-01-overview.jpeg" alt="Overview">
+    </div>
+    <div class="meta-col">
+      <div class="goal">🎯 Parādīt visu Domino Engine karti vienā skatā.</div>
+      <div class="meta-block">
+        <div class="meta-label">Moves</div>
+        <ul class="moves-list"><li>Pārskrien cauri 4 fāzēm un 20 mezgliem.</li>
+<li>Iedod klientam sajūtu, ka process ir strukturēts.</li>
+<li>Šo izmanto onboardingā vai sākuma orientācijai, nevis katrā live call pilnā garumā.</li></ul>
+      </div>
+      <div class="meta-block">
+        <div class="meta-label">Tags</div>
+        <div class="tags"><span class="tag">Overview</span> <span class="tag">D1–D20</span> <span class="tag">Operator map</span></div>
+      </div>
+      <div class="cue"><b>📌 Cue:</b> Atver ar: “Kad pirmais krīt — pārējie krīt automātiski.”</div>
+    </div>
+  </div>
+</div>
+
+<div class="slide-page">
+  <div class="slide-header">
+    <div class="slide-num">Slide 02</div>
+    <div class="slide-phase">Pre-call</div>
+  </div>
+  <div class="slide-title">Pre-call state</div>
+  <div class="layout">
+    <div class="image-col">
+      <img src="file:///home/ubuntu/salesengine-repo/deck/assets/slide-02-pre-call.jpeg" alt="Pre-call state">
+    </div>
+    <div class="meta-col">
+      <div class="goal">🎯 Ielikt operatoru pārpilnības un diagnostikas režīmā.</div>
+      <div class="meta-block">
+        <div class="meta-label">Moves</div>
+        <ul class="moves-list"><li>Box breathing.</li>
+<li>State check 7/10 minimums.</li>
+<li>Identitāte: diagnostiķis, ne needy closer.</li></ul>
+      </div>
+      <div class="meta-block">
+        <div class="meta-label">Tags</div>
+        <div class="tags"><span class="tag">Pre-call</span> <span class="tag">V∞</span> <span class="tag">State</span></div>
+      </div>
+      <div class="cue"><b>📌 Cue:</b> Šis nav klientam rādāms. Tas ir training / operatora preparation layer.</div>
+    </div>
+  </div>
+</div>
+
+<div class="slide-page">
+  <div class="slide-header">
+    <div class="slide-num">Slide 03</div>
+    <div class="slide-phase">Fāze 1 · Realitāte</div>
+  </div>
+  <div class="slide-title">D1 — Frame</div>
+  <div class="layout">
+    <div class="image-col">
+      <img src="file:///home/ubuntu/salesengine-repo/deck/assets/slide-03-d1-frame.jpeg" alt="D1 — Frame">
+    </div>
+    <div class="meta-col">
+      <div class="goal">🎯 Nomainīt telpu no pārdošanas uz diagnostiku.</div>
+      <div class="meta-block">
+        <div class="meta-label">Moves</div>
+        <ul class="moves-list"><li>Agenda + fit check.</li>
+<li>Godīgs rāmis.</li>
+<li>Trigger uz D2 tikai pēc skaidra “jā”.</li></ul>
+      </div>
+      <div class="meta-block">
+        <div class="meta-label">Tags</div>
+        <div class="tags"><span class="tag">D1</span> <span class="tag">Frame</span> <span class="tag">Authority</span></div>
+      </div>
+      <div class="cue"><b>📌 Cue:</b> Pasaki īsi. Neaizrunājies. D1 nav pitch.</div>
+    </div>
+  </div>
+</div>
+
+<div class="slide-page">
+  <div class="slide-header">
+    <div class="slide-num">Slide 04</div>
+    <div class="slide-phase">Fāze 1 · Realitāte</div>
+  </div>
+  <div class="slide-title">D2 — Reality lock</div>
+  <div class="layout">
+    <div class="image-col">
+      <img src="file:///home/ubuntu/salesengine-repo/deck/assets/slide-04-d2-reality-lock.jpeg" alt="D2 — Reality lock">
+    </div>
+    <div class="meta-col">
+      <div class="goal">🎯 Nofiksēt mērķi, tagadni un plaisu skaitļos.</div>
+      <div class="meta-block">
+        <div class="meta-label">Moves</div>
+        <ul class="moves-list"><li>Mērķis pirmais.</li>
+<li>Tagadne otra.</li>
+<li>Plaisu nosauc klients vai tu pārfrāzē no viņa teiktā.</li></ul>
+      </div>
+      <div class="meta-block">
+        <div class="meta-label">Tags</div>
+        <div class="tags"><span class="tag">D2</span> <span class="tag">Gap</span> <span class="tag">Numbers</span></div>
+      </div>
+      <div class="cue"><b>📌 Cue:</b> Ja nav skaitļu — neej tālāk.</div>
+    </div>
+  </div>
+</div>
+
+<div class="slide-page">
+  <div class="slide-header">
+    <div class="slide-num">Slide 05</div>
+    <div class="slide-phase">Fāze 2 · Spriedze</div>
+  </div>
+  <div class="slide-title">D8 — Neizbēgamība</div>
+  <div class="layout">
+    <div class="image-col">
+      <img src="file:///home/ubuntu/salesengine-repo/deck/assets/slide-05-d8-inevitability.jpeg" alt="D8 — Neizbēgamība">
+    </div>
+    <div class="meta-col">
+      <div class="goal">🎯 Parādīt, ka situācija pati neuzlabosies.</div>
+      <div class="meta-block">
+        <div class="meta-label">Moves</div>
+        <ul class="moves-list"><li>Jautājums: vai pats uzlabosies?</li>
+<li>Klusums 7–10 sekundes.</li>
+<li>Atņem “varbūt vēlāk” izeju.</li></ul>
+      </div>
+      <div class="meta-block">
+        <div class="meta-label">Tags</div>
+        <div class="tags"><span class="tag">D8</span> <span class="tag">Inevitability</span> <span class="tag">Silence</span></div>
+      </div>
+      <div class="cue"><b>📌 Cue:</b> Šis strādā tikai pēc svara. Pirms tam jābūt COI / accountability.</div>
+    </div>
+  </div>
+</div>
+
+<div class="slide-page">
+  <div class="slide-header">
+    <div class="slide-num">Slide 06</div>
+    <div class="slide-phase">Fāze 2 · Spriedze</div>
+  </div>
+  <div class="slide-title">D7 — COI</div>
+  <div class="layout">
+    <div class="image-col">
+      <img src="file:///home/ubuntu/salesengine-repo/deck/assets/slide-06-d7-coi.jpeg" alt="D7 — COI">
+    </div>
+    <div class="meta-col">
+      <div class="goal">🎯 Klients pats aprēķina bezdarbības cenu.</div>
+      <div class="meta-block">
+        <div class="meta-label">Moves</div>
+        <ul class="moves-list"><li>Mērķis − tagadne = plaisa.</li>
+<li>Plaisa × 12 = gada COI.</li>
+<li>Pēc tam cik ilgi vēl gatavs to nest?</li></ul>
+      </div>
+      <div class="meta-block">
+        <div class="meta-label">Tags</div>
+        <div class="tags"><span class="tag">D7</span> <span class="tag">COI</span> <span class="tag">Money</span></div>
+      </div>
+      <div class="cue"><b>📌 Cue:</b> NEKAD nerēķini pats viņa vietā, ja vari panākt, ka viņš to nosauc.</div>
+    </div>
+  </div>
+</div>
+
+<div class="slide-page">
+  <div class="slide-header">
+    <div class="slide-num">Slide 07</div>
+    <div class="slide-phase">Fāze 2 · Spriedze</div>
+  </div>
+  <div class="slide-title">D6 — Accountability</div>
+  <div class="layout">
+    <div class="image-col">
+      <img src="file:///home/ubuntu/salesengine-repo/deck/assets/slide-07-d6-accountability.jpeg" alt="D6 — Accountability">
+    </div>
+    <div class="meta-col">
+      <div class="goal">🎯 Pārslēgt no ārējiem apstākļiem uz lēmuma atbildību.</div>
+      <div class="meta-block">
+        <div class="meta-label">Moves</div>
+        <ul class="moves-list"><li>Pagātne → tagadne → nākotnes projekcija.</li>
+<li>Jautājums par 6 un 12 mēnešiem.</li>
+<li>Atzīt: citi lēmumi arī ir iespējami.</li></ul>
+      </div>
+      <div class="meta-block">
+        <div class="meta-label">Tags</div>
+        <div class="tags"><span class="tag">D6</span> <span class="tag">Accountability</span> <span class="tag">Time</span></div>
+      </div>
+      <div class="cue"><b>📌 Cue:</b> Šis nav vainošana. Šis ir agency activation.</div>
+    </div>
+  </div>
+</div>
+
+<div class="slide-page">
+  <div class="slide-header">
+    <div class="slide-num">Slide 08</div>
+    <div class="slide-phase">Fāze 2 · Spriedze</div>
+  </div>
+  <div class="slide-title">D5 — Pain reframe</div>
+  <div class="layout">
+    <div class="image-col">
+      <img src="file:///home/ubuntu/salesengine-repo/deck/assets/slide-08-d5-pain-reframe.jpeg" alt="D5 — Pain reframe">
+    </div>
+    <div class="meta-col">
+      <div class="goal">🎯 Nolaist sāpi no galvas ķermenī.</div>
+      <div class="meta-block">
+        <div class="meta-label">Moves</div>
+        <ul class="moves-list"><li>Nauda / laiks / nervi / komanda.</li>
+<li>Kur ķermenī tu to jūti?</li>
+<li>Klusums ir obligāts.</li></ul>
+      </div>
+      <div class="meta-block">
+        <div class="meta-label">Tags</div>
+        <div class="tags"><span class="tag">D5</span> <span class="tag">Pain</span> <span class="tag">Somatic</span></div>
+      </div>
+      <div class="cue"><b>📌 Cue:</b> Ja klients tikai domā, nevis jūt, viņš vēl nav pietiekami svarā.</div>
+    </div>
+  </div>
+</div>
+
+<div class="slide-page">
+  <div class="slide-header">
+    <div class="slide-num">Slide 09</div>
+    <div class="slide-phase">Fāze 1 · Realitāte</div>
+  </div>
+  <div class="slide-title">D4 — Model limits</div>
+  <div class="layout">
+    <div class="image-col">
+      <img src="file:///home/ubuntu/salesengine-repo/deck/assets/slide-09-d4-model-limits.jpeg" alt="D4 — Model limits">
+    </div>
+    <div class="meta-col">
+      <div class="goal">🎯 Parādīt, ka modelim ir griesti.</div>
+      <div class="meta-block">
+        <div class="meta-label">Moves</div>
+        <ul class="moves-list"><li>10x pūles tests.</li>
+<li>Vairāk pūļu ≠ vairāk rezultātu.</li>
+<li>Arhitektūras, ne motivācijas problēma.</li></ul>
+      </div>
+      <div class="meta-block">
+        <div class="meta-label">Tags</div>
+        <div class="tags"><span class="tag">D4</span> <span class="tag">Model</span> <span class="tag">Architecture</span></div>
+      </div>
+      <div class="cue"><b>📌 Cue:</b> Vajag klienta paša secinājumu: “tuvāk, bet ne tur”.</div>
+    </div>
+  </div>
+</div>
+
+<div class="slide-page">
+  <div class="slide-header">
+    <div class="slide-num">Slide 10</div>
+    <div class="slide-phase">Fāze 1 · Realitāte</div>
+  </div>
+  <div class="slide-title">D3 — Model ID</div>
+  <div class="layout">
+    <div class="image-col">
+      <img src="file:///home/ubuntu/salesengine-repo/deck/assets/slide-10-d3-model-id.jpeg" alt="D3 — Model ID">
+    </div>
+    <div class="meta-col">
+      <div class="goal">🎯 Dot modelim nosaukumu klienta paša vārdos.</div>
+      <div class="meta-block">
+        <div class="meta-label">Moves</div>
+        <ul class="moves-list"><li>No kurienes nāk klienti?</li>
+<li>Cik prognozējami?</li>
+<li>Kā tu pats to nosauktu?</li></ul>
+      </div>
+      <div class="meta-block">
+        <div class="meta-label">Tags</div>
+        <div class="tags"><span class="tag">D3</span> <span class="tag">Model ID</span> <span class="tag">Naming</span></div>
+      </div>
+      <div class="cue"><b>📌 Cue:</b> Ja klients nevar nosaukt — iedod kontrastus, ne atbildi.</div>
+    </div>
+  </div>
+</div>
+
+<div class="slide-page">
+  <div class="slide-header">
+    <div class="slide-num">Slide 11</div>
+    <div class="slide-phase">Fāze 3 · Identitāte</div>
+  </div>
+  <div class="slide-title">D9 — Identitāte</div>
+  <div class="layout">
+    <div class="image-col">
+      <img src="file:///home/ubuntu/salesengine-repo/deck/assets/slide-11-d9-identitate.jpeg" alt="D9 — Identitāte">
+    </div>
+    <div class="meta-col">
+      <div class="goal">🎯 Pārvērst problēmu par versijas izvēli.</div>
+      <div class="meta-block">
+        <div class="meta-label">Moves</div>
+        <ul class="moves-list"><li>Šī versija vs nākamā versija.</li>
+<li>Cik ilgi vēl gatavs būt šajā versijā?</li>
+<li>Absolūts klusums.</li></ul>
+      </div>
+      <div class="meta-block">
+        <div class="meta-label">Tags</div>
+        <div class="tags"><span class="tag">D9</span> <span class="tag">Identity</span> <span class="tag">Self-image</span></div>
+      </div>
+      <div class="cue"><b>📌 Cue:</b> Šeit nav jāglābj no spriedzes.</div>
+    </div>
+  </div>
+</div>
+
+<div class="slide-page">
+  <div class="slide-header">
+    <div class="slide-num">Slide 12</div>
+    <div class="slide-phase">Fāze 3 · Identitāte</div>
+  </div>
+  <div class="slide-title">D9.5 — Bailes</div>
+  <div class="layout">
+    <div class="image-col">
+      <img src="file:///home/ubuntu/salesengine-repo/deck/assets/slide-12-d9-5-bailes.jpeg" alt="D9.5 — Bailes">
+    </div>
+    <div class="meta-col">
+      <div class="goal">🎯 Izmantot tikai cautious tipiem, kad bailes ir īstā sakne.</div>
+      <div class="meta-block">
+        <div class="meta-label">Moves</div>
+        <ul class="moves-list"><li>Nosauc baili.</li>
+<li>Galva vai vēders?</li>
+<li>Mēri stresu un toleranci.</li></ul>
+      </div>
+      <div class="meta-block">
+        <div class="meta-label">Tags</div>
+        <div class="tags"><span class="tag">D9.5</span> <span class="tag">Fear</span> <span class="tag">Special-case</span></div>
+      </div>
+      <div class="cue"><b>📌 Cue:</b> Ja klients nav C tips — izlaid.</div>
+    </div>
+  </div>
+</div>
+
+<div class="slide-page">
+  <div class="slide-header">
+    <div class="slide-num">Slide 13</div>
+    <div class="slide-phase">Fāze 3 · Identitāte</div>
+  </div>
+  <div class="slide-title">D10 — Risk reframe</div>
+  <div class="layout">
+    <div class="image-col">
+      <img src="file:///home/ubuntu/salesengine-repo/deck/assets/slide-13-d10-risk-reframe.jpeg" alt="D10 — Risk reframe">
+    </div>
+    <div class="meta-col">
+      <div class="goal">🎯 Parādīt, ka neriskēt arī ir risks.</div>
+      <div class="meta-block">
+        <div class="meta-label">Moves</div>
+        <ul class="moves-list"><li>Tu jau spēlē šo spēli.</li>
+<li>Jautājums nav vai, bet ar kādiem noteikumiem.</li>
+<li>Binary choice.</li></ul>
+      </div>
+      <div class="meta-block">
+        <div class="meta-label">Tags</div>
+        <div class="tags"><span class="tag">D10</span> <span class="tag">Risk</span> <span class="tag">Reframe</span></div>
+      </div>
+      <div class="cue"><b>📌 Cue:</b> Labs pēc identitātes konflikta.</div>
+    </div>
+  </div>
+</div>
+
+<div class="slide-page">
+  <div class="slide-header">
+    <div class="slide-num">Slide 14</div>
+    <div class="slide-phase">Fāze 4 · Aktivācija</div>
+  </div>
+  <div class="slide-title">D13 — Micro pitch v1</div>
+  <div class="layout">
+    <div class="image-col">
+      <img src="file:///home/ubuntu/salesengine-repo/deck/assets/slide-14-d13-micro-pitch-v1.jpeg" alt="D13 — Micro pitch v1">
+    </div>
+    <div class="meta-col">
+      <div class="goal">🎯 Pitch zem 90 sekundēm.</div>
+      <div class="meta-block">
+        <div class="meta-label">Moves</div>
+        <ul class="moves-list"><li>Spogulis.</li>
+<li>Mehānisms.</li>
+<li>Piesaiste.</li>
+<li>Belief lock.</li></ul>
+      </div>
+      <div class="meta-block">
+        <div class="meta-label">Tags</div>
+        <div class="tags"><span class="tag">D13</span> <span class="tag">Pitch</span> <span class="tag">Bridge</span></div>
+      </div>
+      <div class="cue"><b>📌 Cue:</b> Neļauj tam pārvērsties monologā.</div>
+    </div>
+  </div>
+</div>
+
+<div class="slide-page">
+  <div class="slide-header">
+    <div class="slide-num">Slide 15</div>
+    <div class="slide-phase">Fāze 4 · Aktivācija</div>
+  </div>
+  <div class="slide-title">D14 — Cena v1</div>
+  <div class="layout">
+    <div class="image-col">
+      <img src="file:///home/ubuntu/salesengine-repo/deck/assets/slide-15-d14-cena-v1.jpeg" alt="D14 — Cena v1">
+    </div>
+    <div class="meta-col">
+      <div class="goal">🎯 6 soļu cenas drops ar klusumu.</div>
+      <div class="meta-block">
+        <div class="meta-label">Moves</div>
+        <ul class="moves-list"><li>Recap.</li>
+<li>Belief lock.</li>
+<li>Transition.</li>
+<li>Cena.</li>
+<li>Stop.</li>
+<li>Gaidi.</li></ul>
+      </div>
+      <div class="meta-block">
+        <div class="meta-label">Tags</div>
+        <div class="tags"><span class="tag">D14</span> <span class="tag">Price</span> <span class="tag">Silence</span></div>
+      </div>
+      <div class="cue"><b>📌 Cue:</b> Kas runā pirmais pēc cenas — zaudē.</div>
+    </div>
+  </div>
+</div>
+
+<div class="slide-page">
+  <div class="slide-header">
+    <div class="slide-num">Slide 16</div>
+    <div class="slide-phase">Fāze 4 · Aktivācija</div>
+  </div>
+  <div class="slide-title">D16 — Objection engine</div>
+  <div class="layout">
+    <div class="image-col">
+      <img src="file:///home/ubuntu/salesengine-repo/deck/assets/slide-16-d16-objection-engine.jpeg" alt="D16 — Objection engine">
+    </div>
+    <div class="meta-col">
+      <div class="goal">🎯 Vienota objection cilpa.</div>
+      <div class="meta-block">
+        <div class="meta-label">Moves</div>
+        <ul class="moves-list"><li>Clarify.</li>
+<li>Isolate.</li>
+<li>Root.</li>
+<li>Reframe.</li>
+<li>Padlock.</li>
+<li>Close.</li></ul>
+      </div>
+      <div class="meta-block">
+        <div class="meta-label">Tags</div>
+        <div class="tags"><span class="tag">D16</span> <span class="tag">Objections</span> <span class="tag">Loop</span></div>
+      </div>
+      <div class="cue"><b>📌 Cue:</b> Neatbildi uz iebildumu, kamēr neesi nosaucis sakni.</div>
+    </div>
+  </div>
+</div>
+
+<div class="slide-page">
+  <div class="slide-header">
+    <div class="slide-num">Slide 17</div>
+    <div class="slide-phase">Fāze 4 · Aktivācija</div>
+  </div>
+  <div class="slide-title">D18 — Final collapse</div>
+  <div class="layout">
+    <div class="image-col">
+      <img src="file:///home/ubuntu/salesengine-repo/deck/assets/slide-17-d18-final-collapse.jpeg" alt="D18 — Final collapse">
+    </div>
+    <div class="meta-col">
+      <div class="goal">🎯 Atstāt tikai divus ceļus.</div>
+      <div class="meta-block">
+        <div class="meta-label">Moves</div>
+        <ul class="moves-list"><li>Nest tālāk.</li>
+<li>Sakārtot šodien.</li>
+<li>Klusums.</li></ul>
+      </div>
+      <div class="meta-block">
+        <div class="meta-label">Tags</div>
+        <div class="tags"><span class="tag">D18</span> <span class="tag">Final collapse</span> <span class="tag">Choice</span></div>
+      </div>
+      <div class="cue"><b>📌 Cue:</b> Divi ceļi. Nav trešā.</div>
+    </div>
+  </div>
+</div>
+
+<div class="slide-page">
+  <div class="slide-header">
+    <div class="slide-num">Slide 18</div>
+    <div class="slide-phase">Fāze 4 · Aktivācija</div>
+  </div>
+  <div class="slide-title">D20 — Post-close</div>
+  <div class="layout">
+    <div class="image-col">
+      <img src="file:///home/ubuntu/salesengine-repo/deck/assets/slide-18-d20-post-close.jpeg" alt="D20 — Post-close">
+    </div>
+    <div class="meta-col">
+      <div class="goal">🎯 Aizvērt aizvēršanu ar logistiku.</div>
+      <div class="meta-block">
+        <div class="meta-label">Moves</div>
+        <ul class="moves-list"><li>Rēķins uzreiz.</li>
+<li>WhatsApp grupa.</li>
+<li>Anketa.</li>
+<li>Zoom.</li></ul>
+      </div>
+      <div class="meta-block">
+        <div class="meta-label">Tags</div>
+        <div class="tags"><span class="tag">D20</span> <span class="tag">Post-close</span> <span class="tag">Ops</span></div>
+      </div>
+      <div class="cue"><b>📌 Cue:</b> Jo ilgāk gaidi ar rēķinu, jo lielāks atbirums.</div>
+    </div>
+  </div>
+</div>
+
+<div class="slide-page">
+  <div class="slide-header">
+    <div class="slide-num">Slide 19</div>
+    <div class="slide-phase">Fāze 4 · Aktivācija</div>
+  </div>
+  <div class="slide-title">D13 — Micro pitch v2</div>
+  <div class="layout">
+    <div class="image-col">
+      <img src="file:///home/ubuntu/salesengine-repo/deck/assets/slide-19-d13-micro-pitch-v2.jpeg" alt="D13 — Micro pitch v2">
+    </div>
+    <div class="meta-col">
+      <div class="goal">🎯 Pitch otra versija ar tīrāku grafiku.</div>
+      <div class="meta-block">
+        <div class="meta-label">Moves</div>
+        <ul class="moves-list"><li>Tas pats 90 sekunžu noteikums.</li>
+<li>Vairāk vietas vizuālajam tiltam.</li>
+<li>Stiprāks trigger bloks.</li></ul>
+      </div>
+      <div class="meta-block">
+        <div class="meta-label">Tags</div>
+        <div class="tags"><span class="tag">D13</span> <span class="tag">Pitch</span> <span class="tag">Variant</span></div>
+      </div>
+      <div class="cue"><b>📌 Cue:</b> Saglabā kā A/B testa deck variantu.</div>
+    </div>
+  </div>
+</div>
+
+<div class="slide-page">
+  <div class="slide-header">
+    <div class="slide-num">Slide 20</div>
+    <div class="slide-phase">Fāze 4 · Aktivācija</div>
+  </div>
+  <div class="slide-title">D14 — Cena v2</div>
+  <div class="layout">
+    <div class="image-col">
+      <img src="file:///home/ubuntu/salesengine-repo/deck/assets/slide-20-d14-cena-v2.jpeg" alt="D14 — Cena v2">
+    </div>
+    <div class="meta-col">
+      <div class="goal">🎯 Tīrāka cenas vizualizācija ar OPEN lock mehānismu.</div>
+      <div class="meta-block">
+        <div class="meta-label">Moves</div>
+        <ul class="moves-list"><li>Tas pats 6 soļu rāmis.</li>
+<li>Labāka klusuma vizualizācija.</li>
+<li>Spēcīgāks “OPEN = klients runā” signāls.</li></ul>
+      </div>
+      <div class="meta-block">
+        <div class="meta-label">Tags</div>
+        <div class="tags"><span class="tag">D14</span> <span class="tag">Price</span> <span class="tag">Variant</span></div>
+      </div>
+      <div class="cue"><b>📌 Cue:</b> Šo vari izmantot kā finālo cenu slide, ja patīk vizuāli labāk par v1.</div>
+    </div>
+  </div>
+</div>
+</body></html>

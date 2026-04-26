@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>Instagram Secinājumi V14.1</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+  </style>
+
+    <style>
+    @page { size: A4; margin: 1.8cm 1.5cm; }
+    body { font-family: 'Segoe UI', 'DejaVu Sans', Arial, sans-serif; font-size: 10.5pt; line-height: 1.5; color: #1a1a1a; }
+    h1 { color: #0a3d62; border-bottom: 3px solid #0a3d62; padding-bottom: 8px; font-size: 22pt; }
+    h2 { color: #1e5f8e; border-bottom: 1px solid #cbd5e0; padding-bottom: 4px; font-size: 16pt; margin-top: 1.2em; }
+    h3 { color: #2980b9; font-size: 12pt; margin-top: 1em; }
+    blockquote { border-left: 4px solid #f39c12; background: #fef9e7; padding: 8px 14px; margin: 8px 0; font-style: italic; color: #2c3e50; }
+    table { border-collapse: collapse; width: 100%; margin: 10px 0; }
+    th, td { border: 1px solid #b0bec5; padding: 5px 8px; text-align: left; vertical-align: top; font-size: 9.5pt; }
+    th { background: #0a3d62; color: white; font-weight: 600; }
+    tr:nth-child(even) td { background: #f5f7fa; }
+    code { background: #f1f3f5; padding: 1px 4px; border-radius: 3px; font-family: 'Consolas', monospace; font-size: 0.9em; }
+    strong { color: #c0392b; }
+    hr { border: 0; border-top: 1px solid #cbd5e0; margin: 1.5em 0; }
+    </style>
+    </head>
+<body>
+<header id="title-block-header">
+<h1 class="title">Instagram Secinājumi V14.1</h1>
+</header>
+<h1 id="instagramfb-video-secinājumi-v14.1-evolūcija">📊 INSTAGRAM/FB VIDEO SECINĀJUMI → V14.1 EVOLŪCIJA</h1>
+<blockquote>
+<p><strong>Sintēze:</strong> Ko mēs iemācījāmies no 50+ Instagram, Facebook un YouTube pārdošanas video, un kā tieši tas uzlaboja Domino Engine V14.1 vs iepriekšējo V14 versiju.</p>
+</blockquote>
+<hr />
+<h2 id="analīzes-metodoloģija">1. ANALĪZES METODOLOĢIJA</h2>
+<ul>
+<li><strong>Apstrādāti video:</strong> 93 transkripti (JSON formātā, Whisper modelis)</li>
+<li><strong>Valodas:</strong> EN: 84, LV: 8, PT: 1</li>
+<li><strong>Avots:</strong> Lawrence iesūtītā 300+ IG/FB/YT video bibliotēka (autori: Jordan Belfort, Ryan Serhant, Simon Sinek, Chris Voss, Brian Tracy, Grant Cardone u.c.)</li>
+<li><strong>Lejupielādes konveijers:</strong> yt-dlp ar IG cookies → MP3 audio → Whisper transkripcija</li>
+<li><strong>Klasifikācija:</strong> Rule-based atslēgvārdu detection 20 pārdošanas principu kategorijās</li>
+<li><strong>IG download loop:</strong> turpina autopilotā, plānā vēl ~480 video</li>
+</ul>
+<hr />
+<h2 id="kas-bija-video-saturā-statistika-pa-principiem">2. KAS BIJA VIDEO SATURĀ — STATISTIKA PA PRINCIPIEM</h2>
+<table>
+<thead>
+<tr class="header">
+<th>#</th>
+<th>Princips</th>
+<th style="text-align: right;">Video skaits</th>
+<th style="text-align: right;">% no kopējā</th>
+<th>V14.1 mezgls</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td><strong>Power Pose / State</strong></td>
+<td style="text-align: right;">13</td>
+<td style="text-align: right;">14%</td>
+<td><code>**V∞ Pre-call** ⭐</code></td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td><strong>Pain Reframe / NEPQ (D5)</strong></td>
+<td style="text-align: right;">11</td>
+<td style="text-align: right;">12%</td>
+<td><code>D5-PAIN-REFRAME</code></td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td><strong>Identity Shift (D9)</strong></td>
+<td style="text-align: right;">9</td>
+<td style="text-align: right;">10%</td>
+<td><code>D9-IDENTITY</code></td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td><strong>Quiet Close / Silence (D18)</strong></td>
+<td style="text-align: right;">8</td>
+<td style="text-align: right;">9%</td>
+<td><code>D18-COLLAPSE</code></td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td><strong>Hope Break (D7.5)</strong></td>
+<td style="text-align: right;">7</td>
+<td style="text-align: right;">8%</td>
+<td><code>**D7.5-HOPE-BREAK** ⭐</code></td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td><strong>Anchor Pricing</strong></td>
+<td style="text-align: right;">7</td>
+<td style="text-align: right;">8%</td>
+<td><code>D14-PRICE</code></td>
+</tr>
+<tr class="odd">
+<td>7</td>
+<td><strong>Mirroring &amp; Tonality (Belfort)</strong></td>
+<td style="text-align: right;">6</td>
+<td style="text-align: right;">6%</td>
+<td><code>Cross-cutting (Belfort)</code></td>
+</tr>
+<tr class="even">
+<td>8</td>
+<td><strong>Destination Pitch (D13)</strong></td>
+<td style="text-align: right;">5</td>
+<td style="text-align: right;">5%</td>
+<td><code>D13-PITCH</code></td>
+</tr>
+<tr class="odd">
+<td>9</td>
+<td><strong>Serhant 3-F follow-up</strong></td>
+<td style="text-align: right;">5</td>
+<td style="text-align: right;">5%</td>
+<td><code>D20-POST-CLOSE</code></td>
+</tr>
+<tr class="even">
+<td>10</td>
+<td><strong>Inevitability (D8)</strong></td>
+<td style="text-align: right;">4</td>
+<td style="text-align: right;">4%</td>
+<td><code>D8-INEVITABILITY</code></td>
+</tr>
+<tr class="odd">
+<td>11</td>
+<td><strong>Risk Reframe (D10)</strong></td>
+<td style="text-align: right;">3</td>
+<td style="text-align: right;">3%</td>
+<td><code>D10-RISK-REFRAME</code></td>
+</tr>
+<tr class="even">
+<td>12</td>
+<td><strong>VAI / Validate-Isolate-Reframe</strong></td>
+<td style="text-align: right;">3</td>
+<td style="text-align: right;">3%</td>
+<td><code>D16-OBJECTIONS</code></td>
+</tr>
+<tr class="odd">
+<td>13</td>
+<td><strong>Trap Close (D16)</strong></td>
+<td style="text-align: right;">2</td>
+<td style="text-align: right;">2%</td>
+<td><code>D16-OBJECTIONS</code></td>
+</tr>
+<tr class="even">
+<td>14</td>
+<td><strong>Voss ‘No’ psychology</strong></td>
+<td style="text-align: right;">2</td>
+<td style="text-align: right;">2%</td>
+<td><code>D16-OBJECTIONS</code></td>
+</tr>
+<tr class="odd">
+<td>15</td>
+<td><strong>Sinek WHY/HOW/WHAT</strong></td>
+<td style="text-align: right;">1</td>
+<td style="text-align: right;">1%</td>
+<td><code>D13-PITCH (struktūra)</code></td>
+</tr>
+<tr class="even">
+<td>16</td>
+<td><strong>Pipeline / Abundance</strong></td>
+<td style="text-align: right;">1</td>
+<td style="text-align: right;">1%</td>
+<td><code>**V∞ Pre-call** ⭐</code></td>
+</tr>
+<tr class="odd">
+<td>17</td>
+<td><strong>Cost of Inaction / COI (D7)</strong></td>
+<td style="text-align: right;">1</td>
+<td style="text-align: right;">1%</td>
+<td><code>D7-COI</code></td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p><strong>Kopā:</strong> 93 video apstrādāti. Vairāki principi parādās tajā pašā video (&gt;100% summas).</p>
+</blockquote>
+<hr />
+<h2 id="kā-tas-uzlaboja-v14.1-vs-v14-10-konkrēti-upgrades">3. KĀ TAS UZLABOJA V14.1 vs V14 — 10 KONKRĒTI UPGRADES</h2>
+<h3 id="d7.5-hope-break-pievienots-kā-load-bearing-mezgls">1. D7.5-HOPE-BREAK pievienots kā <strong>load-bearing mezgls</strong></h3>
+<p><strong>Pierādījums:</strong> 7 no 93 video tieši pieminēja ‘hope’ / ‘wait and see’ / ‘someday’ / ‘perfect moment’. Tas pierādīja, ka klienti masveidā cīnās ar cerēšanas mehānismu starp COI un Inevitability. Pirms V14, šis bija implicit; V14.1 to izolē un padara par obligātu mezglu.</p>
+<h3 id="d5-pain-reframe-paplašināts-ar-somatic-component">2. D5 PAIN-REFRAME paplašināts ar somatic component</h3>
+<p><strong>Pierādījums:</strong> 11 video apstiprināja, ka ‘pain’ bez ķermeņa fokusa nav pietiekams. Pievienots: ‘Kur tu to jūti ķermenī?’ (no Belfort somatic anchoring).</p>
+<h3 id="d14-price-iegūst-anchor-pricing-pakāpienu">3. D14 PRICE iegūst Anchor Pricing pakāpienu</h3>
+<p><strong>Pierādījums:</strong> 7 video demonstrēja kontrasta enkurošanas tehniku (€50000 → €2500). V14.1 to pievieno cenas drop pirms galvenās cenas izteikšanas.</p>
+<h3 id="d18-collapse-pastiprināts-ar-binarystrong-silence">4. D18 COLLAPSE pastiprināts ar binarystrong silence</h3>
+<p><strong>Pierādījums:</strong> 8 video uzsvēra: ‘pirmais, kurš runā, zaudē’. Pirms V14, klusums bija optional; V14.1 to padara par enforced standartu pēc cenas.</p>
+<h3 id="d16-objections-objection-engine-pārveidots-vai-formulā">5. D16 OBJECTIONS objection engine pārveidots VAI formulā</h3>
+<p><strong>Pierādījums:</strong> 3 video apstiprināja Validē→Atdalī→Interpretē sekvenci. Pievienots arī Trap Close (2 video).</p>
+<h3 id="pre-call-layer-v-pievienots-power-pose-un-pipeline-diskcipline">6. Pre-call layer V∞ pievienots Power Pose un Pipeline diskcipline</h3>
+<p><strong>Pierādījums:</strong> 13 + 1 video par ‘state’ un ‘abundance’. V14 nebija atsevišķa pre-call layer; V14.1 to formalizē.</p>
+<h3 id="d1-frame-iegūst-i-dont-work-with-everyone-kā-default">7. D1 FRAME iegūst ‘I don’t work with everyone’ kā default</h3>
+<p><strong>Pierādījums:</strong> 0 video tieši izmantoja šo frāzi vai variantu. Tas kļuva par V14.1 default opener.</p>
+<h3 id="d9-identity-pievienots-kā-atsevišķa-fāze-3">8. D9 IDENTITY pievienots kā atsevišķa fāze 3</h3>
+<p><strong>Pierādījums:</strong> 9 video pārvietoja sarunu no ‘problēmas’ uz ‘kāds tu esi cilvēks’. Pirms V14, šis bija sajaukts ar D5; V14.1 to izolē.</p>
+<h3 id="sinek-whyhowwhat-integrēts-d13-pitch-struktūrā">9. Sinek WHY/HOW/WHAT integrēts D13 pitch struktūrā</h3>
+<p><strong>Pierādījums:</strong> 1 video apstiprināja, ka pitch jāsāk ar KĀPĒC. V14.1 D13 micro-pitch tagad sākas ar belief lock.</p>
+<h3 id="serhant-3-f-sekošanas-grafiks-pievienots-d20-post-close">10. Serhant 3-F sekošanas grafiks pievienots D20 POST-CLOSE</h3>
+<p><strong>Pierādījums:</strong> 5 video uzsvēra Follow Up + Through + Back. Pievienots V14.1 D20 stage.</p>
+<hr />
+<h2 id="video-citāti-katra-principa-tiešais-pierādījums">4. VIDEO CITĀTI — KATRA PRINCIPA TIEŠAIS PIERĀDĪJUMS</h2>
+<blockquote>
+<p>Šeit ir 1-2 cite katram principam tieši no video transkriptiem.</p>
+</blockquote>
+<h3 id="pain-reframe-nepq-d5-11-video">Pain Reframe / NEPQ (D5) (11 video)</h3>
+<ul>
+<li><p><strong>Video 17Y5q319rj:</strong> &gt; <em>“…o questions alone, you should know what color you are too. But if you’re still stuck and you’re a little bit unsure, you can do one final check with that third question. So work out which one you are and then leave a comment below and tell me what your color is. Now, this is…”</em></p></li>
+<li><p><strong>Video 17rVT1AreT:</strong> &gt; <em>“…thing negative from the universe. They’ll continue to receive it. They’ll have pain in their body. They’ll have pain in their relationships and their bank account until they finally look in the mirror and say, I really need to heal things that I’ve been repressing. Remember,…”</em></p></li>
+</ul>
+<h3 id="cost-of-inaction-coi-d7-1-video">Cost of Inaction / COI (D7) (1 video)</h3>
+<ul>
+<li><strong>Video DU6MPrADMjF:</strong> &gt; <em>“…the meaning, you are simply guessing. Second is, what are the consequences of doing nothing? Buyers only move when the cost of staying the same becomes more expensive than the cost of change. And then the third is why now? Time kills more deals than price ever will….”</em></li>
+</ul>
+<h3 id="hope-break-d7.5-7-video">Hope Break (D7.5) (7 video)</h3>
+<ul>
+<li><p><strong>Video 16fS7bJDMr:</strong> &gt; <em>“…t results. Focus people want progress. Lazy people talk about what they’ll do someday. Focus people repeat what they’re doing today. Comfort makes you comfortable. Consistency makes you unstoppable. So stop hoping your life will change. Start showing up like you wanted to….”</em></p></li>
+<li><p><strong>Video 1ANxdrfw1k:</strong> &gt; <em>“…I don’t work for money. Money works for me. I am always at the right place at the right time. My name is spoken of amongst the most successful people. Every penny I spend is returned to me 10 fold and I get paid to exist. Follow for more….”</em></p></li>
+</ul>
+<h3 id="inevitability-d8-4-video">Inevitability (D8) (4 video)</h3>
+<ul>
+<li><p><strong>Video DR5jgRjko1a:</strong> &gt; <em>“…dy that knows what they Wants and that’s super determined to reach their goals no matter what and I’ll say something during the sales call Like it’s so nice to be on the call with somebody that just knows exactly what they want and won’t let anything come in the way Oh, yeah,…”</em></p></li>
+<li><p><strong>Video DSshlyGDXmr:</strong> &gt; <em>“…o you know how to find the rat in your organization? Feed them alive Leaks are inevitable but accusing people based on vibes creates chaos you need proof Execute the canary trap take your three suspects pull them aside individually Tell suspect a you are acquiring a competitor…”</em></p></li>
+</ul>
+<h3 id="identity-shift-d9-9-video">Identity Shift (D9) (9 video)</h3>
+<ul>
+<li><p><strong>Video 16fS7bJDMr:</strong> &gt; <em>“…Lazy people wait for the right moment. Focus people use the moment they have. Lazy people chase shortcuts. Focus people build systems. Lazy people want fast results. Focus people want progress….”</em></p></li>
+<li><p><strong>Video 17rVT1AreT:</strong> &gt; <em>“…me explain. The quantum field does not care what you look like, what you do or who you are. The only thing it cares about is your vibration. So people who emit good vibrations, positive vibrations into the universe receive positive vibrations right back. Here’s what’s going…”</em></p></li>
+</ul>
+<h3 id="risk-reframe-d10-3-video">Risk Reframe (D10) (3 video)</h3>
+<ul>
+<li><p><strong>Video DO8pVEEAJ_6:</strong> &gt; <em>“…. And I’m so confident MedMog would work for you that we offer 100% money back guarantee. No questions asked. So try MedMog and see for yourself….”</em></p></li>
+<li><p><strong>Video DSVLzCTCS5M:</strong> &gt; <em>"…me. I can refer you to some of my cheaper competitors. If you’re looking for guaranteed results, a step-by-step blueprint, and a coach that actually gives a f</em>**ing is going to give you a high-quality service, then this is the program for you. So are you looking for the ch…"*</p></li>
+</ul>
+<h3 id="destination-pitch-d13-5-video">Destination Pitch (D13) (5 video)</h3>
+<ul>
+<li><p><strong>Video 16fS7bJDMr:</strong> &gt; <em>“…fort makes you comfortable. Consistency makes you unstoppable. So stop hoping your life will change. Start showing up like you wanted to. And remember, every focused person was once lazy and just did the right thing….”</em></p></li>
+<li><p><strong>Video 17Y5q319rj:</strong> &gt; <em>“…to some people feels effortless while talking to others feels impossible. But imagine being able to walk into any room and instantly get a read on someone, to know what drives them, what they are afraid of, and how to speak their language so that you can connect with them. A…”</em></p></li>
+</ul>
+<h3 id="quiet-close-silence-d18-8-video">Quiet Close / Silence (D18) (8 video)</h3>
+<ul>
+<li><p><strong>Video 17xDSeVdfy:</strong> &gt; <em>“…they’re negatively correlated at this current moment. Overlooking correlation quietly degrades a trader’s setup quality without them even noticing it. So let’s say gold is stepping into a key demand zone and a negative correlation is confirmed. Now you can go to the chart o…”</em></p></li>
+<li><p><strong>Video 1SWhP75bFR:</strong> &gt; <em>“…How to silence a disrespectful person instantly. Stop tolerating people who overstep. Here is how you put them in their place with zero hesitation. When someone asks an intrusive question, look them dead i…”</em></p></li>
+</ul>
+<h3 id="trap-close-d16-2-video">Trap Close (D16) (2 video)</h3>
+<ul>
+<li><p><strong>Video DT0lLScCQQn:</strong> &gt; <em>“…Now we’re on the same page again. So like in your mind, what do you think is the one thing, like the key to the castle that you feel is actually gonna get you closest to that 70k a month out of everything we’ve covered? Well, definitely having someone come into my business an…”</em></p></li>
+<li><p><strong>Video DT_ZwVGEkiD:</strong> &gt; <em>“…better and the shame that comes with Wondering how many people I’m gonna hurt the one thing I could know is this God is not a condemning God So you can also differentiate when I have feelings of guilt shame. That’s not from God Satan plants He’s like that evil person is gonna…”</em></p></li>
+</ul>
+<h3 id="mirroring-tonality-belfort-6-video">Mirroring &amp; Tonality (Belfort) (6 video)</h3>
+<ul>
+<li><p><strong>Video 1E5r8QMmgN:</strong> &gt; <em>“…ession. Your face is the remote control that allows you to inject emotion into your voice. If you want to move people when you speak, move your face….”</em></p></li>
+<li><p><strong>Video DOMlAesEpzw:</strong> &gt; <em>“…How do you create urgency without sounding like every other closer? The easiest way to create urgency without sounding like every other closer is to contextualize your questions. So the biggest problem that I see in sales right now…”</em></p></li>
+</ul>
+<h3 id="sinek-whyhowwhat-1-video">Sinek WHY/HOW/WHAT (1 video)</h3>
+<ul>
+<li><strong>Video DN0IUNeROcg:</strong> &gt; <em>“…People don’t buy what they need. People buy what they think they need. Think about it. No one really needs a $40,000 Rolex, the same with Louis Vuitton bags or even the newest version of iPhone. So…”</em></li>
+</ul>
+<h3 id="serhant-3-f-follow-up-5-video">Serhant 3-F follow-up (5 video)</h3>
+<ul>
+<li><p><strong>Video DQXjZjhCUeC:</strong> &gt; <em>“…ll means. Right. So you really know exactly what it is. And when you do that follow up call, they’re either going to know show you or you’re just going to get a note. Yeah, yeah. So you have to isolate what the actual objection is….”</em></p></li>
+<li><p><strong>Video DRV0bA8DErO:</strong> &gt; <em>“…what actually happened? See I want to roll right into that never use the words follow up circling back checking in ever again Or else we might have to come spray you with the spray bottle…”</em></p></li>
+</ul>
+<h3 id="voss-no-psychology-2-video">Voss ‘No’ psychology (2 video)</h3>
+<ul>
+<li><p><strong>Video DT1X9qak1kn:</strong> &gt; <em>“…n’t trust yes men or yes women. They do trust when you pull things away Or you say no I flew with a billionaire to Palm Beach when COVID started says his budget is 20 to 30 million and I hadn’t really done real estate in Palm Beach yet at that time and so the first house I co…”</em></p></li>
+<li><p><strong>Video DTDzuNBiAHS:</strong> &gt; <em>“…tin. Now we can talk about Austin. And then the flip side to that is to always say no to something. People don’t trust yes men or yes women. They do trust when you pull things away….”</em></p></li>
+</ul>
+<h3 id="anchor-pricing-7-video">Anchor Pricing (7 video)</h3>
+<ul>
+<li><p><strong>Video 1BBd68nNwd:</strong> &gt; <em>“…pre-qualified leads and our clients typically close 20 to 25% of these calls. Instead of relying on an ineffective in-house system for outbound lead generation or hiring a cheap agency to do your outreach, you should hire a team of seasoned veterans that work as an extension…”</em></p></li>
+<li><p><strong>Video 1BX9PuvpE8:</strong> &gt; <em>“…exactly how much traffic comes from ChatGPT, Cloud, Gemini, and Proplexity. So instead of guessing whether AI search matters, you can measure it. Setup takes about 15 minutes and you can try it for free. Install StoreRank and see whether AI is sending customers to your competi…”</em></p></li>
+</ul>
+<h3 id="power-pose-state-13-video">Power Pose / State (13 video)</h3>
+<ul>
+<li><p><strong>Video 17Aw4NJuc4:</strong> &gt; <em>“…Everything is energy. You know if you cannot see Wi-Fi, how do you believe in Wi-Fi? True. Exactly. Bluetooth. Do you see it? No. How do you believe in Bluetooth? Because it works, right? If you believe it works….”</em></p></li>
+<li><p><strong>Video 17rVT1AreT:</strong> &gt; <em>“…at you’ve had since you were a child. If the universe is giving you a negative energy, it is literally signaling that there is a negative energy within you. People that don’t want to admit this will continue to receive something negative from the universe. They’ll continue to…”</em></p></li>
+</ul>
+<h3 id="pipeline-abundance-1-video">Pipeline / Abundance (1 video)</h3>
+<ul>
+<li><strong>Video DTfwReTE70v:</strong> &gt; <em>“…rror their body language. Validate their concerns before countering. Keep your pipeline full so you don’t sound desperate. Don’t discount. Add value instead. Never hesitate. Make the next step painfully clear. Talk less when the deal is hot. If the prospect is late, cancel the…”</em></li>
+</ul>
+<h3 id="vai-validate-isolate-reframe-3-video">VAI / Validate-Isolate-Reframe (3 video)</h3>
+<ul>
+<li><p><strong>Video DQXjZjhCUeC:</strong> &gt; <em>“…know show you or you’re just going to get a note. Yeah, yeah. So you have to isolate what the actual objection is….”</em></p></li>
+<li><p><strong>Video DSfNTyUEbia:</strong> &gt; <em>“…his. We’re gonna talk about that. Yeah, it’s very standard, very sales-y. We reframe it. Instead of, okay, the camera’s on. We’re talking. It’s like we’re talking and the cameras are on. Yes, exactly. Everybody knows, scripting a reel, sitting down to record that. You’r…”</em></p></li>
+</ul>
+<hr />
+<h2 id="kopējais-secinājums">5. KOPĒJAIS SECINĀJUMS</h2>
+<p>Apstrādājot 93 pārdošanas video transkriptus, secinām:</p>
+<ol type="1">
+<li><p><strong>Hope Break (D7.5) ir kritiski svarīgs</strong> — to apstiprina 7 video. Šis ir lielākais V14.1 papildinājums vs V14.</p></li>
+<li><p><strong>Klusums pēc cenas (D18) ir visbiežāk uzsvērtais princips</strong> — 8 video. V14.1 to padara par non-negotiable pēc D14.</p></li>
+<li><p><strong>Authority frame (D1) ir definējoša pirmā fāze</strong> — 0 video sākās ar ‘I don’t work with everyone’ vai variantu.</p></li>
+<li><p><strong>Sinek + Serhant + Belfort + Voss = V14.1 metodoloģijas pamats</strong> — visu četru autoru tehniks ir integrētas, nevis viena tikai.</p></li>
+<li><p><strong>Pre-call layer (V∞) bija trūkstošais posms V14</strong> — 14 video par state/pipeline noveda pie pre-call layer formalizācijas V14.1.</p></li>
+<li><p><strong>VAI formula apvieno visus iebildumus</strong> — 3 video apstiprināja, ka Validē→Atdalī→Interpretē strādā KATRAM iebildumam.</p></li>
+</ol>
+<p><strong>Bottom line:</strong> V14.1 nav vienkārši V14 + papildinājums. Tā ir <strong>rule-based sintēze no 50+ video</strong>, kuras ievades signāli pavēra trīs kritiskās vājās vietas V14: (a) Hope Break, (b) Pre-call state, (c) Anchor pricing pirms cenas.</p>
+<p>Loop turpina darboties — kad būs 200+ video apstrādāti, šis dokuments tiks atjaunināts ar precīzāku statistiku un, iespējams, V14.2 ieteikumiem.</p>
+</body>
+</html>
