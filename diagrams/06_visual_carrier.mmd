@@ -1,0 +1,27 @@
+flowchart TB
+    subgraph TITLE[" "]
+        T["🎨 V13 PRESENTATION CARRIER · 9 metaforas<br/>VIENA metafora uz vienu zvanu"]
+    end
+    subgraph WATER[Ūdens domēns · ieteicamais flow]
+        K1["🏖️ KRASTS<br/>Tagadējais stāvoklis<br/>D2-D4"]
+        M1["🌫️ CERĪBAS MIGLA<br/>'gan jau' režīms<br/>⚡ D7.5 Hope Break"]
+        T1["🌉 TILTS<br/>Sistēma kā tilts<br/>D8 + D13"]
+        K1 --> M1 --> T1
+    end
+    subgraph OTHER[Citas metaforas · alternatīvi]
+        R["🛟 GLĀBŠANAS RIŅĶIS<br/>kontrasts ⚡"]
+        L["🦁 LAUVA<br/>Spiediens · D5-D6"]
+        N["💸 NEREDZAMĀ MAKSA<br/>COI · D7"]
+        G["🧭 GIDS<br/>Operatora identitāte · D1"]
+        Ka["⛰️ KALNS<br/>Mērķis, vīzija · D2/D9"]
+        D["🍴 DAKŠA<br/>Bināra izvēle · close"]
+    end
+
+    classDef title fill:#0a2540,color:#fff,font-weight:bold,font-size:18px;
+    classDef water fill:#dbeafe,stroke:#1e40af,color:#0a2540;
+    classDef hope fill:#ff6b35,stroke:#c44116,color:#fff,font-weight:bold,stroke-width:3px;
+    classDef other fill:#f0f4fa,stroke:#4a5568,color:#0a2540;
+    class T title;
+    class K1,T1 water;
+    class M1,R hope;
+    class L,N,G,Ka,D other;

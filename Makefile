@@ -1,8 +1,14 @@
-.PHONY: all build full cheat analysis clean
+.PHONY: all build full cheat analysis automation-dry deck-serve clean
 
 all: build
 
 build: full cheat
+
+automation-dry:
+	python3 -m automation.main --mode dry-run
+
+deck-serve:
+	cd deck && python3 -m http.server 8765
 
 full:
 	python3 scripts/build_full.py

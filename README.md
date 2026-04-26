@@ -1,8 +1,18 @@
-# SalesEngine V14 LV-COMPLETE
+# SalesEngine V14.1 LV-COMPLETE · V13-COMPLIANT
 
-> **Latviešu B2B pārdošanas zvana sistēma** — kompilēta no 50+ avotu dokumentiem, 89 dzīviem Fathom zvaniem (78+ stundas) un V8 GOLD MOLECULAR CORE MAP integrācijas.
+> **Latviešu B2B pārdošanas zvana sistēma** — V26 saturs, V13 disciplīna. Kompilēta no 50+ avotu dokumentiem, 89 dzīviem Fathom zvaniem (78+ stundas) un V8 GOLD MOLECULAR CORE MAP integrācijas. Tagad ar Hope Break (D7.5), 9-metaforu visual carrier, 6-slāņu stingru disciplīnu, deck slāni un automation skeleton (Fathom + Calendar + LLM + CRM).
 
-**Live web app:** https://app-uuhshekq.devinapps.com
+**Live web app:** https://app-uuhshekq.devinapps.com  ·  **Deck:** `deck/index.html` (lokāli) vai `make deck-serve`  ·  **Automation:** `make automation-dry`
+
+## V14.1 atjauninājums
+
+- **Hope Break** ielikts kā Q21.5 + V8 mezgls 13.6.5 (starp COI un Inevitability).
+- **Visual carrier** ar 9 metaforām un `viena metafora uz vienu call` likumu.
+- **6 slāņu disciplīna** (CORE / CURRENT CORK / ARSENAL / TRAINING / SPECIAL-CASE / PRESENTATION CARRIER).
+- **8 Prompt Core likumi** (final lock).
+- **`deck/`** — pilns prezentācijas slānis ar 20 V14 slaidiem, presenter mode, presenter notes, A/B variantiem.
+- **`automation/`** — Fathom + Google Calendar + LLM + CRM skelets ar dry-run režīmu CI pārbaudei.
+- Detalizēts changelog: [`DIFF_V14_TO_V14_1.md`](DIFF_V14_TO_V14_1.md)
 
 ---
 

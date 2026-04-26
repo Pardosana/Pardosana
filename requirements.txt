@@ -1,2 +1,6 @@
 weasyprint>=60.0
 pypdf>=4.0
+requests>=2.31
+openai>=1.40
+anthropic>=0.30
+

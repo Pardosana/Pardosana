@@ -13,3 +13,9 @@ data/raw_*
 
 # Build artifacts (kept generated outputs)
 _premium.html
+
+# Automation outputs
+automation/crm_outbox.jsonl
+.env
+.env.*
+!.env.example

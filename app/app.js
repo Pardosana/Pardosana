@@ -45,6 +45,7 @@ function renderQuestions(filter = 'all') {
   DATA.questions.forEach(q => {
     const phase = getPhase(q.num);
     if (filter === 'critical' && q.priority < 2) return;
+    if (filter === 'hopebreak' && !q.is_hope_break) return;
     if (filter.startsWith('phase')) {
       const p = parseInt(filter.replace('phase', ''));
       if (phase.num !== p) return;
@@ -54,17 +55,21 @@ function renderQuestions(filter = 'all') {
       lastPhase = phase.num;
     }
     const stars = '⭐'.repeat(q.priority);
-    html += `<div class="card" data-num="${q.num}" data-search="${(q.title + ' ' + q.phrases.join(' ') + ' ' + q.dkods).toLowerCase()}">
+    const hbStyle = q.is_hope_break ? 'border:2px solid #ff6b35;background:rgba(255,107,53,0.04);' : '';
+    const hbBadge = q.is_hope_break ? '<span style="background:#ff6b35;color:white;padding:2px 8px;border-radius:4px;font-size:10px;font-weight:600;margin-left:6px;">⚡ V13 HOPE BREAK</span>' : '';
+    const numDisplay = q.num_display || q.num;
+    html += `<div class="card" data-num="${numDisplay}" data-search="${(q.title + ' ' + q.phrases.join(' ') + ' ' + q.dkods).toLowerCase()}" style="${hbStyle}">
       <div class="card-header" onclick="this.parentNode.classList.toggle('open')">
         <div style="flex:1;">
-          <div class="card-title">${q.title} ${stars ? `<span class="tag-priority">${stars}</span>` : ''}</div>
+          <div class="card-title">${q.title} ${stars ? `<span class="tag-priority">${stars}</span>` : ''}${hbBadge}</div>
           <div class="card-meta">
             ${q.dkods ? `<span class="tag-d">${q.dkods}</span>` : ''}
             <span style="background:${phase.color}22;color:${phase.color};">Fāze ${phase.num}</span>
             <span>${q.phrases.length} frāzes</span>
+            <span style="background:#10b98122;color:#10b981;">[CORE]</span>
           </div>
         </div>
-        <span class="card-num">Q${q.num}</span>
+        <span class="card-num">Q${numDisplay}</span>
         <span class="card-toggle">▼</span>
       </div>
       <div class="card-body">
@@ -107,8 +112,10 @@ const LAYER_NAMES = { core: '🎯 Core', elite: '⚜️ Elite', psychology: '�
 
 MEZGLI_GRID.innerHTML = DATA.mezgli.map((m, i) => {
   const layers = Object.keys(m.layers);
-  return `<div class="mezgls-card" data-mezgls="${i}">
-    <div class="mezgls-name">${m.name}</div>
+  const hbStyle = m.is_hope_break ? 'border:2px solid #ff6b35;background:rgba(255,107,53,0.04);' : '';
+  const hbBadge = m.is_hope_break ? '<span style="background:#ff6b35;color:white;padding:1px 6px;border-radius:3px;font-size:9px;margin-left:6px;">⚡ V13</span>' : '';
+  return `<div class="mezgls-card" data-mezgls="${i}" style="${hbStyle}">
+    <div class="mezgls-name">${m.name}${hbBadge}</div>
     <div class="mezgls-range">${m.q_range || ''}</div>
     <div class="layer-tabs">
       ${layers.map((l, j) => `<button class="layer-tab ${j === 0 ? 'active' : ''}" data-layer="${l}">${LAYER_NAMES[l] || l}</button>`).join('')}
@@ -360,3 +367,134 @@ function resetSim() {
   document.getElementById('sim-msgs').innerHTML = '';
   SIM_HISTORY = [];
 }
+
+// ============= V14.1 NEW: HOPE BREAK SECTION =============
+(function renderHopeBreak() {
+  const container = document.getElementById('hopebreak-content');
+  if (!container) return;
+  const hbQ = DATA.questions.find(q => q.is_hope_break);
+  const hbM = DATA.mezgli.find(m => m.is_hope_break);
+  if (!hbQ && !hbM) { container.innerHTML = '<p style="color:var(--muted);">Hope Break dati nav atrasti.</p>'; return; }
+  let html = '';
+  if (hbQ) {
+    html += `<div class="card open" style="border:2px solid #ff6b35;">
+      <div class="card-header">
+        <div style="flex:1;">
+          <div class="card-title">Q${hbQ.num_display} · ${hbQ.title}</div>
+          <div class="card-meta">
+            <span class="tag-d">${hbQ.dkods}</span>
+            <span style="background:#ff6b3522;color:#ff6b35;">⚡ LOAD-BEARING</span>
+            <span style="background:#10b98122;color:#10b981;">[CORE]</span>
+          </div>
+        </div>
+        <span class="card-num">Q${hbQ.num_display}</span>
+      </div>
+      <div class="card-body">
+        <div style="margin-bottom:12px;"><b style="font-size:12px;color:var(--muted);">MĒRĶIS:</b> <span style="font-size:13px;">${hbQ.merkis}</span></div>
+        <h4 style="font-size:13px;margin:12px 0 8px;color:#ff6b35;">3 jautājumu kāpnes:</h4>
+        ${hbQ.phrases.map((p, i) => `<div class="phrase"><b style="color:#ff6b35;">${i+1}.</b> ${p}</div>`).join('')}
+        <details style="margin-top:14px;">
+          <summary style="cursor:pointer;color:var(--accent);font-size:12px;font-weight:600;">📖 Pilns konteksts (raw)</summary>
+          <div style="margin-top:10px;padding:12px;background:var(--panel-2);border-radius:6px;font-size:12px;line-height:1.6;white-space:pre-wrap;color:var(--muted);">${hbQ.raw.replace(/[<>]/g, c => ({'<':'&lt;','>':'&gt;'}[c]))}</div>
+        </details>
+      </div>
+    </div>`;
+  }
+  if (hbM) {
+    html += `<h2 style="margin-top:24px;font-size:16px;">V8 Molecular: ${hbM.name}</h2>
+    <p style="font-size:12px;color:var(--muted);margin-bottom:12px;">${hbM.q_range || ''}</p>
+    <div class="mezgls-card" style="border:2px solid #ff6b35;">
+      <div class="mezgls-name">${hbM.name}</div>
+      <div class="layer-tabs">
+        ${Object.keys(hbM.layers).map((l, j) => `<button class="layer-tab ${j === 0 ? 'active' : ''}" data-hb-layer="${l}">${LAYER_NAMES[l] || l}</button>`).join('')}
+      </div>
+      <div class="layer-content" id="hb-layer-content"></div>
+    </div>`;
+  }
+  html += `<div class="callout" style="margin-top:24px;border-left-color:#ff6b35;background:rgba(255,107,53,0.06);">
+    <h4 style="margin-bottom:8px;">Sekvence: COI → Hope Break → Inevitability</h4>
+    <ol style="padding-left:24px;font-size:13px;line-height:1.8;">
+      <li><b>COI</b> (Q21): "Tev tas maksā €X mēnesī. Pareizi?" → klients atzīst</li>
+      <li><b>Hope Break</b> (Q21.5): "Process vai cerība?" → klients atzīst, ka cerība</li>
+      <li><b>Inevitability</b> (Q22): "Kas tieši nākamajā mēnesī būs citādi?" → klusums</li>
+    </ol>
+  </div>`;
+  container.innerHTML = html;
+  if (hbM) {
+    const firstLayer = Object.keys(hbM.layers)[0];
+    document.getElementById('hb-layer-content').innerHTML = renderLayer(hbM.layers[firstLayer] || '');
+    document.querySelectorAll('[data-hb-layer]').forEach(tab => {
+      tab.addEventListener('click', () => {
+        document.querySelectorAll('[data-hb-layer]').forEach(t => t.classList.remove('active'));
+        tab.classList.add('active');
+        document.getElementById('hb-layer-content').innerHTML = renderLayer(hbM.layers[tab.dataset.hbLayer] || '');
+      });
+    });
+  }
+})();
+
+// ============= V14.1 NEW: VISUAL CARRIER SECTION =============
+(function renderVisualCarrier() {
+  const container = document.getElementById('visual-content');
+  if (!container || !DATA.visual_carrier) return;
+  const emoji = {'KRASTS':'🏖️','LAUVA':'🦁','GLĀBŠANAS':'🛟','NEREDZAMĀ':'💸','CERĪBAS':'🌫️','TILTS':'🌉','GIDS':'🧭','KALNS':'⛰️','DAKŠA':'🍴'};
+  let html = '<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:16px;">';
+  DATA.visual_carrier.forEach(vc => {
+    const key = vc.name.split(' ')[0];
+    const em = emoji[key] || '🎨';
+    const isHB = vc.node && vc.node.includes('Hope Break');
+    html += `<div class="card open" style="${isHB ? 'border:2px solid #ff6b35;' : ''}">
+      <div class="card-header" style="padding:14px;">
+        <div style="flex:1;">
+          <div class="card-title">${em} ${vc.name}${isHB ? ' <span style="background:#ff6b35;color:white;padding:1px 6px;border-radius:3px;font-size:9px;">⚡ HOPE BREAK</span>' : ''}</div>
+          <div class="card-meta"><span style="background:#9b7eff22;color:#9b7eff;">[PRESENTATION CARRIER]</span></div>
+        </div>
+        <span class="card-num" style="font-size:18px;">#${vc.num}</span>
+      </div>
+      <div class="card-body" style="padding:14px;">
+        <div style="margin-bottom:10px;"><b style="font-size:11px;color:var(--muted);">REPREZENTĒ:</b> <span style="font-size:13px;">${vc.represents}</span></div>
+        <div style="margin-bottom:10px;"><b style="font-size:11px;color:var(--muted);">MEZGLS:</b> <span style="font-size:13px;">${vc.node}</span></div>
+        <div style="margin-bottom:10px;"><b style="font-size:11px;color:var(--muted);">KAD:</b> <span style="font-size:13px;">${vc.when}</span></div>
+        ${vc.phrase ? `<div class="phrase" style="margin-top:10px;">${vc.phrase}</div>` : ''}
+      </div>
+    </div>`;
+  });
+  html += '</div>';
+  html += `<div class="callout" style="margin-top:24px;border-left-color:#9b7eff;background:rgba(155,126,255,0.06);">
+    <h4 style="margin-bottom:8px;">Likums: VIENA metafora uz vienu zvanu</h4>
+    <p style="font-size:13px;margin-bottom:8px;"><b style="color:#10b981;">Pareizi (ūdens domēns):</b> KRASTS → CERĪBAS MIGLA → TILTS</p>
+    <p style="font-size:13px;margin-bottom:8px;"><b style="color:#ef4444;">Nepareizi:</b> KRASTS + LAUVA + KALNS + DAKŠA — klients apmaldās</p>
+    <p style="font-size:13px;"><b>Slide rules:</b> 1 vizuāls = 1 mezgls · 1 ideja = 1 frame · max 7 vārdi · cheap → test → final</p>
+  </div>`;
+  container.innerHTML = html;
+})();
+
+// ============= V14.1 NEW: LAYERS (V13 6-slāņu disciplīna) =============
+(function renderLayers() {
+  const container = document.getElementById('layers-content');
+  if (!container || !DATA.layers) return;
+  const colors = {'CORE / EXPANDED CORE':'#10b981','CURRENT CORK':'#4f8eff','ARSENAL':'#fbbf24','TRAINING':'#a78bfa','SPECIAL-CASE':'#ef4444','PRESENTATION CARRIER':'#9b7eff'};
+  let html = '<div style="display:grid;gap:14px;">';
+  DATA.layers.forEach((l, i) => {
+    const color = colors[l.name] || '#6b7280';
+    html += `<div class="card open" style="border-left:4px solid ${color};">
+      <div class="card-body" style="padding:16px;">
+        <div style="display:flex;align-items:center;gap:12px;margin-bottom:10px;">
+          <span style="background:${color};color:white;font-weight:700;padding:4px 10px;border-radius:4px;font-size:11px;">SLĀNIS ${i+1}</span>
+          <h3 style="margin:0;font-size:15px;color:${color};">${l.name}</h3>
+        </div>
+        <p style="font-size:13px;line-height:1.6;margin-bottom:8px;"><b style="font-size:11px;color:var(--muted);">KAS IEKŠĀ:</b> ${l.contains}</p>
+        <p style="font-size:13px;line-height:1.6;"><b style="font-size:11px;color:var(--muted);">KAD LIETOT:</b> ${l.when}</p>
+      </div>
+    </div>`;
+  });
+  html += '</div>';
+  container.innerHTML = html;
+
+  const pcContainer = document.getElementById('prompt-core-content');
+  if (pcContainer && DATA.prompt_core) {
+    pcContainer.innerHTML = '<ol style="padding-left:24px;line-height:2;">' +
+      DATA.prompt_core.map(p => `<li><b style="color:var(--accent);">${p.law}</b> — ${p.explain}</li>`).join('') +
+    '</ol>';
+  }
+})();

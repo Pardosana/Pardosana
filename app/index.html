@@ -148,13 +148,16 @@ footer { text-align: center; padding: 32px 0 16px; color: var(--muted); font-siz
 <body data-theme="dark">
 <div class="app">
   <aside class="sidebar" id="sidebar">
-    <div class="brand">SalesEngine <span class="v">V14</span></div>
-    <div class="subtitle">Live Operator Console</div>
+    <div class="brand">SalesEngine <span class="v">V14.1</span></div>
+    <div class="subtitle">V13-COMPLIANT · Live Operator Console</div>
     <input class="search" id="search" placeholder="🔍 Meklē jautājumu, frāzi, mezglu...">
     <div class="nav">
       <button class="nav-item active" data-section="flow"><span class="nav-icon">📋</span> Q-by-Q Flow (Q1-Q40)</button>
       <button class="nav-item" data-section="conductor"><span class="nav-icon">🎼</span> Conductor Mode</button>
       <button class="nav-item" data-section="mezgli"><span class="nav-icon">🧬</span> V8 Molecular Map</button>
+      <button class="nav-item" data-section="hopebreak"><span class="nav-icon">⚡</span> Hope Break (D7.5)</button>
+      <button class="nav-item" data-section="visual"><span class="nav-icon">🎨</span> Visual Carrier (9)</button>
+      <button class="nav-item" data-section="layers"><span class="nav-icon">📚</span> 6 slāņi (V13)</button>
       <button class="nav-item" data-section="types"><span class="nav-icon">👥</span> Klientu tipi</button>
       <button class="nav-item" data-section="trees"><span class="nav-icon">🌳</span> Response Trees</button>
       <button class="nav-item" data-section="rules"><span class="nav-icon">⚜️</span> Elite likumi</button>
@@ -181,6 +184,7 @@ footer { text-align: center; padding: 32px 0 16px; color: var(--muted); font-siz
         <button class="filter-chip" data-filter="phase6">Fāze 6: Pitch</button>
         <button class="filter-chip" data-filter="phase7">Fāze 7: Cena</button>
         <button class="filter-chip" data-filter="phase8">Fāze 8: Close</button>
+        <button class="filter-chip" data-filter="hopebreak" style="background:rgba(255,107,53,0.15);color:#ff6b35;border-color:#ff6b35;">⚡ Hope Break</button>
       </div>
       <div id="questions-list"></div>
     </section>
@@ -275,6 +279,37 @@ footer { text-align: center; padding: 32px 0 16px; color: var(--muted); font-siz
       <div id="ladders-list"></div>
     </section>
 
+    <section class="section" id="section-hopebreak">
+      <h1 class="page-title">⚡ HOPE BREAK / Cerība nav sistēma</h1>
+      <p class="page-subtitle">D7.5 · Q21.5 · V13 LOAD-BEARING — starp COI un Inevitability</p>
+      <div class="callout" style="border-left-color:#ff6b35;background:rgba(255,107,53,0.08);">
+        <b>Kāpēc šis mezgls eksistē:</b> Klients atzīst, ka bezdarbība maksā (COI), BET joprojām tic, ka pati realitāte uzlabosies — "gan jau", "varbūt aizpildīsies", "piezvanīs paši". Hope Break ir atsevišķs mezgls, kas slēdz šo izeju <b>pirms</b> tu ej uz Inevitability/Pitch.
+      </div>
+      <div id="hopebreak-content"></div>
+    </section>
+
+    <section class="section" id="section-visual">
+      <h1 class="page-title">🎨 Presentation Carrier · 9 Vizuālās metaforas (V13)</h1>
+      <p class="page-subtitle">Whiteboard / slide loģika · <b>VIENA metafora uz vienu zvanu</b> · One slide = one domino</p>
+      <div class="callout" style="border-left-color:#9b7eff;background:rgba(155,126,255,0.08);">
+        <b>V13 likums:</b> Vairāk kā 1 vizuālā metafora vienā zvanā = klients apmaldās. Izvēlies VIENU domēnu (piem., ūdens: krasts → migla → tilts) un palieci tajā visu zvanu. Citas metaforas — nākamiem zvaniem.
+      </div>
+      <div id="visual-content"></div>
+    </section>
+
+    <section class="section" id="section-layers">
+      <h1 class="page-title">📚 V13 6-slāņu disciplīna</h1>
+      <p class="page-subtitle">CORE / CURRENT CORK / ARSENAL / TRAINING / SPECIAL-CASE / PRESENTATION CARRIER</p>
+      <div class="callout">
+        <b>V13.1 FINAL LOCK pamatlikums:</b> šī sistēma nav viens monolīts. Tā ir 6 stingri nošķirti slāņi. Nesajauc tos. Skat. <code>LV_MASTER_SCRIPT_V14_1.md</code> Sadaļa 0.
+      </div>
+      <div id="layers-content"></div>
+      <div style="margin-top:24px;">
+        <h2 style="font-size:16px;margin-bottom:12px;">Prompt Core likumi (V13.1 FINAL LOCK)</h2>
+        <div id="prompt-core-content"></div>
+      </div>
+    </section>
+
     <section class="section" id="section-simulator">
       <h1 class="page-title">🎮 AI Roleplay Simulator</h1>
       <p class="page-subtitle">Treniņš ar 6 klientu tipiem · AI spēlē prospect, tu praktizē</p>
@@ -297,7 +332,7 @@ footer { text-align: center; padding: 32px 0 16px; color: var(--muted); font-siz
     </section>
 
     <section class="section" id="section-about">
-      <h1 class="page-title">ℹ️ Par SalesEngine V14</h1>
+      <h1 class="page-title">ℹ️ Par SalesEngine V14.1 (V13-COMPLIANT)</h1>
       <div class="card open">
         <div class="card-body" style="border:none;padding:0;">
           <h3 style="margin-bottom:8px;">Kas tas ir</h3>

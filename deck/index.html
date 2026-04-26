@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<html lang="lv">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Domino Engine V14.1 Deck</title>
+  <style>
+    :root {
+      --bg: #0b1020;
+      --panel: #131a2c;
+      --panel-2: #1b2438;
+      --text: #edf2ff;
+      --muted: #98a2b3;
+      --accent: #6ea8ff;
+      --border: #2a3652;
+      --success: #22c55e;
+      --warning: #f59e0b;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: Inter, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+    }
+    .app {
+      display: grid;
+      grid-template-columns: 320px 1fr;
+      min-height: 100vh;
+    }
+    .sidebar {
+      background: var(--panel);
+      border-right: 1px solid var(--border);
+      padding: 20px;
+      overflow-y: auto;
+      position: sticky;
+      top: 0;
+      height: 100vh;
+    }
+    .brand {
+      font-size: 22px;
+      font-weight: 800;
+      margin-bottom: 4px;
+    }
+    .subtitle {
+      color: var(--muted);
+      font-size: 12px;
+      margin-bottom: 18px;
+      text-transform: uppercase;
+      letter-spacing: 1.2px;
+    }
+    .actions {
+      display: flex;
+      gap: 8px;
+      margin-bottom: 16px;
+      flex-wrap: wrap;
+    }
+    .btn {
+      border: 1px solid var(--border);
+      background: var(--panel-2);
+      color: var(--text);
+      border-radius: 10px;
+      padding: 9px 12px;
+      font-size: 12px;
+      cursor: pointer;
+    }
+    .btn.primary {
+      background: var(--accent);
+      color: #041021;
+      border-color: transparent;
+      font-weight: 700;
+    }
+    .summary {
+      background: var(--panel-2);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 14px;
+      margin-bottom: 16px;
+      line-height: 1.5;
+      font-size: 13px;
+    }
+    .summary ul {
+      margin: 8px 0 0 18px;
+      padding: 0;
+    }
+    .slides {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+    .slide-item {
+      background: var(--panel-2);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 10px;
+      display: grid;
+      grid-template-columns: 88px 1fr;
+      gap: 10px;
+      cursor: pointer;
+      transition: 0.15s ease;
+    }
+    .slide-item:hover,
+    .slide-item.active {
+      border-color: var(--accent);
+      transform: translateY(-1px);
+    }
+    .slide-item img {
+      width: 88px;
+      height: 50px;
+      object-fit: cover;
+      border-radius: 8px;
+      border: 1px solid var(--border);
+      background: #fff;
+    }
+    .slide-num {
+      font-size: 11px;
+      color: var(--accent);
+      font-weight: 700;
+      margin-bottom: 4px;
+    }
+    .slide-title {
+      font-size: 13px;
+      font-weight: 700;
+      margin-bottom: 4px;
+    }
+    .slide-meta {
+      font-size: 11px;
+      color: var(--muted);
+      line-height: 1.4;
+    }
+    .main {
+      padding: 20px;
+    }
+    .viewer {
+      background: var(--panel);
+      border: 1px solid var(--border);
+      border-radius: 18px;
+      overflow: hidden;
+      box-shadow: 0 20px 60px rgba(0,0,0,0.35);
+    }
+    .viewer-top {
+      padding: 14px 18px;
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 16px;
+    }
+    .viewer-title {
+      font-size: 18px;
+      font-weight: 800;
+    }
+    .viewer-phase {
+      color: var(--muted);
+      font-size: 12px;
+      margin-top: 2px;
+    }
+    .viewer-nav {
+      display: flex;
+      gap: 8px;
+    }
+    .viewer-body {
+      padding: 18px;
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) 360px;
+      gap: 18px;
+      align-items: start;
+    }
+    .slide-stage {
+      background: #fff;
+      border-radius: 14px;
+      overflow: hidden;
+      border: 1px solid var(--border);
+    }
+    .slide-stage img {
+      width: 100%;
+      display: block;
+      height: auto;
+    }
+    .notes {
+      display: flex;
+      flex-direction: column;
+      gap: 14px;
+    }
+    .note-card {
+      background: var(--panel-2);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 14px;
+    }
+    .note-card h3 {
+      margin: 0 0 8px;
+      font-size: 13px;
+      text-transform: uppercase;
+      letter-spacing: 0.7px;
+      color: var(--muted);
+    }
+    .note-card p,
+    .note-card li {
+      font-size: 13px;
+      line-height: 1.55;
+      margin: 0;
+    }
+    .note-card ul {
+      margin: 0;
+      padding-left: 18px;
+    }
+    .tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+    .tag {
+      background: rgba(110, 168, 255, 0.12);
+      color: var(--accent);
+      border: 1px solid rgba(110, 168, 255, 0.25);
+      font-size: 11px;
+      padding: 5px 8px;
+      border-radius: 999px;
+      font-weight: 700;
+    }
+    .present-mode .sidebar {
+      display: none;
+    }
+    .present-mode .app {
+      grid-template-columns: 1fr;
+    }
+    .present-mode .viewer-body {
+      grid-template-columns: 1fr;
+    }
+    .present-mode .notes {
+      display: none;
+    }
+    @media (max-width: 1100px) {
+      .app { grid-template-columns: 1fr; }
+      .sidebar {
+        position: static;
+        height: auto;
+        border-right: none;
+        border-bottom: 1px solid var(--border);
+      }
+      .viewer-body { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+  <div class="app">
+    <aside class="sidebar">
+      <div class="brand">Domino Engine V14.1</div>
+      <div class="subtitle">Deck system · reference + presenter mode</div>
+      <div class="actions">
+        <button class="btn primary" onclick="togglePresentMode()">Present mode</button>
+        <button class="btn" onclick="window.open(currentSlide.src, '_blank')">Open image</button>
+      </div>
+      <div class="summary">
+        <b>Kas tas ir:</b> pilns prezentācijas slānis uz tavām atsūtītajām V14 bildēm.
+        <ul>
+          <li>20 slide references</li>
+          <li>katram slide — mērķis, trigger, mezgls</li>
+          <li>izmantot zvana laikā vai treniņos</li>
+          <li>viena metafora / viens mezgls / viens slide</li>
+        </ul>
+      </div>
+      <div class="slides" id="slides"></div>
+    </aside>
+
+    <main class="main">
+      <div class="viewer">
+        <div class="viewer-top">
+          <div>
+            <div class="viewer-title" id="viewer-title"></div>
+            <div class="viewer-phase" id="viewer-phase"></div>
+          </div>
+          <div class="viewer-nav">
+            <button class="btn" onclick="prevSlide()">← Iepriekšējais</button>
+            <button class="btn" onclick="nextSlide()">Nākamais →</button>
+          </div>
+        </div>
+        <div class="viewer-body">
+          <div class="slide-stage">
+            <img id="slide-image" alt="Domino Engine V14 slide">
+          </div>
+          <div class="notes">
+            <div class="note-card">
+              <h3>Mērķis</h3>
+              <p id="goal"></p>
+            </div>
+            <div class="note-card">
+              <h3>Ko šis slide dara</h3>
+              <ul id="moves"></ul>
+            </div>
+            <div class="note-card">
+              <h3>Tagi</h3>
+              <div class="tags" id="tags"></div>
+            </div>
+            <div class="note-card">
+              <h3>Presenter cue</h3>
+              <p id="cue"></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </main>
+  </div>
+
+  <script>
+    const slides = [
+      { num: 1, title: 'Overview', phase: 'Mape · pilnā D1–D20 secība', src: 'assets/slide-01-overview.jpeg', goal: 'Parādīt visu Domino Engine karti vienā skatā.', moves: ['Pārskrien cauri 4 fāzēm un 20 mezgliem.', 'Iedod klientam sajūtu, ka process ir strukturēts.', 'Šo izmanto onboardingā vai sākuma orientācijai, nevis katrā live call pilnā garumā.'], tags: ['Overview', 'D1–D20', 'Operator map'], cue: 'Atver ar: “Kad pirmais krīt — pārējie krīt automātiski.”' },
+      { num: 2, title: 'Pre-call state', phase: 'Pre-call', src: 'assets/slide-02-pre-call.jpeg', goal: 'Ielikt operatoru pārpilnības un diagnostikas režīmā.', moves: ['Box breathing.', 'State check 7/10 minimums.', 'Identitāte: diagnostiķis, ne needy closer.'], tags: ['Pre-call', 'V∞', 'State'], cue: 'Šis nav klientam rādāms. Tas ir training / operatora preparation layer.' },
+      { num: 3, title: 'D1 — Frame', phase: 'Fāze 1 · Realitāte', src: 'assets/slide-03-d1-frame.jpeg', goal: 'Nomainīt telpu no pārdošanas uz diagnostiku.', moves: ['Agenda + fit check.', 'Godīgs rāmis.', 'Trigger uz D2 tikai pēc skaidra “jā”.'], tags: ['D1', 'Frame', 'Authority'], cue: 'Pasaki īsi. Neaizrunājies. D1 nav pitch.' },
+      { num: 4, title: 'D2 — Reality lock', phase: 'Fāze 1 · Realitāte', src: 'assets/slide-04-d2-reality-lock.jpeg', goal: 'Nofiksēt mērķi, tagadni un plaisu skaitļos.', moves: ['Mērķis pirmais.', 'Tagadne otra.', 'Plaisu nosauc klients vai tu pārfrāzē no viņa teiktā.'], tags: ['D2', 'Gap', 'Numbers'], cue: 'Ja nav skaitļu — neej tālāk.' },
+      { num: 5, title: 'D8 — Neizbēgamība', phase: 'Fāze 2 · Spriedze', src: 'assets/slide-05-d8-inevitability.jpeg', goal: 'Parādīt, ka situācija pati neuzlabosies.', moves: ['Jautājums: vai pats uzlabosies?', 'Klusums 7–10 sekundes.', 'Atņem “varbūt vēlāk” izeju.'], tags: ['D8', 'Inevitability', 'Silence'], cue: 'Šis strādā tikai pēc svara. Pirms tam jābūt COI / accountability.' },
+      { num: 6, title: 'D7 — COI', phase: 'Fāze 2 · Spriedze', src: 'assets/slide-06-d7-coi.jpeg', goal: 'Klients pats aprēķina bezdarbības cenu.', moves: ['Mērķis − tagadne = plaisa.', 'Plaisa × 12 = gada COI.', 'Pēc tam cik ilgi vēl gatavs to nest?'], tags: ['D7', 'COI', 'Money'], cue: 'NEKAD nerēķini pats viņa vietā, ja vari panākt, ka viņš to nosauc.' },
+      { num: 7, title: 'D6 — Accountability', phase: 'Fāze 2 · Spriedze', src: 'assets/slide-07-d6-accountability.jpeg', goal: 'Pārslēgt no ārējiem apstākļiem uz lēmuma atbildību.', moves: ['Pagātne → tagadne → nākotnes projekcija.', 'Jautājums par 6 un 12 mēnešiem.', 'Atzīt: citi lēmumi arī ir iespējami.'], tags: ['D6', 'Accountability', 'Time'], cue: 'Šis nav vainošana. Šis ir agency activation.' },
+      { num: 8, title: 'D5 — Pain reframe', phase: 'Fāze 2 · Spriedze', src: 'assets/slide-08-d5-pain-reframe.jpeg', goal: 'Nolaist sāpi no galvas ķermenī.', moves: ['Nauda / laiks / nervi / komanda.', 'Kur ķermenī tu to jūti?', 'Klusums ir obligāts.'], tags: ['D5', 'Pain', 'Somatic'], cue: 'Ja klients tikai domā, nevis jūt, viņš vēl nav pietiekami svarā.' },
+      { num: 9, title: 'D4 — Model limits', phase: 'Fāze 1 · Realitāte', src: 'assets/slide-09-d4-model-limits.jpeg', goal: 'Parādīt, ka modelim ir griesti.', moves: ['10x pūles tests.', 'Vairāk pūļu ≠ vairāk rezultātu.', 'Arhitektūras, ne motivācijas problēma.'], tags: ['D4', 'Model', 'Architecture'], cue: 'Vajag klienta paša secinājumu: “tuvāk, bet ne tur”.' },
+      { num: 10, title: 'D3 — Model ID', phase: 'Fāze 1 · Realitāte', src: 'assets/slide-10-d3-model-id.jpeg', goal: 'Dot modelim nosaukumu klienta paša vārdos.', moves: ['No kurienes nāk klienti?', 'Cik prognozējami?', 'Kā tu pats to nosauktu?'], tags: ['D3', 'Model ID', 'Naming'], cue: 'Ja klients nevar nosaukt — iedod kontrastus, ne atbildi.' },
+      { num: 11, title: 'D9 — Identitāte', phase: 'Fāze 3 · Identitāte', src: 'assets/slide-11-d9-identitate.jpeg', goal: 'Pārvērst problēmu par versijas izvēli.', moves: ['Šī versija vs nākamā versija.', 'Cik ilgi vēl gatavs būt šajā versijā?', 'Absolūts klusums.'], tags: ['D9', 'Identity', 'Self-image'], cue: 'Šeit nav jāglābj no spriedzes.' },
+      { num: 12, title: 'D9.5 — Bailes', phase: 'Fāze 3 · Identitāte', src: 'assets/slide-12-d9-5-bailes.jpeg', goal: 'Izmantot tikai cautious tipiem, kad bailes ir īstā sakne.', moves: ['Nosauc baili.', 'Galva vai vēders?', 'Mēri stresu un toleranci.'], tags: ['D9.5', 'Fear', 'Special-case'], cue: 'Ja klients nav C tips — izlaid.' },
+      { num: 13, title: 'D10 — Risk reframe', phase: 'Fāze 3 · Identitāte', src: 'assets/slide-13-d10-risk-reframe.jpeg', goal: 'Parādīt, ka neriskēt arī ir risks.', moves: ['Tu jau spēlē šo spēli.', 'Jautājums nav vai, bet ar kādiem noteikumiem.', 'Binary choice.'], tags: ['D10', 'Risk', 'Reframe'], cue: 'Labs pēc identitātes konflikta.' },
+      { num: 14, title: 'D13 — Micro pitch v1', phase: 'Fāze 4 · Aktivācija', src: 'assets/slide-14-d13-micro-pitch-v1.jpeg', goal: 'Pitch zem 90 sekundēm.', moves: ['Spogulis.', 'Mehānisms.', 'Piesaiste.', 'Belief lock.'], tags: ['D13', 'Pitch', 'Bridge'], cue: 'Neļauj tam pārvērsties monologā.' },
+      { num: 15, title: 'D14 — Cena v1', phase: 'Fāze 4 · Aktivācija', src: 'assets/slide-15-d14-cena-v1.jpeg', goal: '6 soļu cenas drops ar klusumu.', moves: ['Recap.', 'Belief lock.', 'Transition.', 'Cena.', 'Stop.', 'Gaidi.'], tags: ['D14', 'Price', 'Silence'], cue: 'Kas runā pirmais pēc cenas — zaudē.' },
+      { num: 16, title: 'D16 — Objection engine', phase: 'Fāze 4 · Aktivācija', src: 'assets/slide-16-d16-objection-engine.jpeg', goal: 'Vienota objection cilpa.', moves: ['Clarify.', 'Isolate.', 'Root.', 'Reframe.', 'Padlock.', 'Close.'], tags: ['D16', 'Objections', 'Loop'], cue: 'Neatbildi uz iebildumu, kamēr neesi nosaucis sakni.' },
+      { num: 17, title: 'D18 — Final collapse', phase: 'Fāze 4 · Aktivācija', src: 'assets/slide-17-d18-final-collapse.jpeg', goal: 'Atstāt tikai divus ceļus.', moves: ['Nest tālāk.', 'Sakārtot šodien.', 'Klusums.'], tags: ['D18', 'Final collapse', 'Choice'], cue: 'Divi ceļi. Nav trešā.' },
+      { num: 18, title: 'D20 — Post-close', phase: 'Fāze 4 · Aktivācija', src: 'assets/slide-18-d20-post-close.jpeg', goal: 'Aizvērt aizvēršanu ar logistiku.', moves: ['Rēķins uzreiz.', 'WhatsApp grupa.', 'Anketa.', 'Zoom.'], tags: ['D20', 'Post-close', 'Ops'], cue: 'Jo ilgāk gaidi ar rēķinu, jo lielāks atbirums.' },
+      { num: 19, title: 'D13 — Micro pitch v2', phase: 'Fāze 4 · Aktivācija', src: 'assets/slide-19-d13-micro-pitch-v2.jpeg', goal: 'Pitch otra versija ar tīrāku grafiku.', moves: ['Tas pats 90 sekunžu noteikums.', 'Vairāk vietas vizuālajam tiltam.', 'Stiprāks trigger bloks.'], tags: ['D13', 'Pitch', 'Variant'], cue: 'Saglabā kā A/B testa deck variantu.' },
+      { num: 20, title: 'D14 — Cena v2', phase: 'Fāze 4 · Aktivācija', src: 'assets/slide-20-d14-cena-v2.jpeg', goal: 'Tīrāka cenas vizualizācija ar OPEN lock mehānismu.', moves: ['Tas pats 6 soļu rāmis.', 'Labāka klusuma vizualizācija.', 'Spēcīgāks “OPEN = klients runā” signāls.'], tags: ['D14', 'Price', 'Variant'], cue: 'Šo vari izmantot kā finālo cenu slide, ja patīk vizuāli labāk par v1.' }
+    ];
+
+    let currentIndex = 0;
+    let currentSlide = slides[0];
+
+    function renderSlideList() {
+      const root = document.getElementById('slides');
+      root.innerHTML = slides.map((slide, index) => `
+        <div class="slide-item ${index === currentIndex ? 'active' : ''}" onclick="goToSlide(${index})">
+          <img src="${slide.src}" alt="${slide.title}">
+          <div>
+            <div class="slide-num">Slide ${slide.num.toString().padStart(2, '0')}</div>
+            <div class="slide-title">${slide.title}</div>
+            <div class="slide-meta">${slide.phase}</div>
+          </div>
+        </div>
+      `).join('');
+    }
+
+    function renderViewer() {
+      currentSlide = slides[currentIndex];
+      document.getElementById('slide-image').src = currentSlide.src;
+      document.getElementById('viewer-title').textContent = `${String(currentSlide.num).padStart(2, '0')} · ${currentSlide.title}`;
+      document.getElementById('viewer-phase').textContent = currentSlide.phase;
+      document.getElementById('goal').textContent = currentSlide.goal;
+      document.getElementById('moves').innerHTML = currentSlide.moves.map(item => `<li>${item}</li>`).join('');
+      document.getElementById('cue').textContent = currentSlide.cue;
+      document.getElementById('tags').innerHTML = currentSlide.tags.map(tag => `<span class="tag">${tag}</span>`).join('');
+      renderSlideList();
+    }
+
+    function goToSlide(index) {
+      currentIndex = index;
+      renderViewer();
+    }
+
+    function prevSlide() {
+      currentIndex = (currentIndex - 1 + slides.length) % slides.length;
+      renderViewer();
+    }
+
+    function nextSlide() {
+      currentIndex = (currentIndex + 1) % slides.length;
+      renderViewer();
+    }
+
+    function togglePresentMode() {
+      document.body.classList.toggle('present-mode');
+    }
+
+    window.addEventListener('keydown', (event) => {
+      if (event.key === 'ArrowRight' || event.key === 'PageDown' || event.key === ' ') {
+        event.preventDefault();
+        nextSlide();
+      }
+      if (event.key === 'ArrowLeft' || event.key === 'PageUp') {
+        event.preventDefault();
+        prevSlide();
+      }
+      if (event.key.toLowerCase() === 'f') {
+        togglePresentMode();
+      }
+    });
+
+    renderViewer();
+  </script>
+</body>
+</html>
