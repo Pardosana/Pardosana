@@ -2640,6 +2640,21 @@ Investīcija, lai šo sakārto, ir €X.»*
 
 💀 **KILL CONFIRM:** Klients saka *«kā sākam?»* vai *«kad ir pirmā sesija?»* = pirkšanas signāls. NETURPINI PĀRDOT. Pāriet uz Close.
 
+## KLUSAIS SLĒGUMS — 8-15 Sekunžu Ierocis
+
+> *Brīdis pēc cenas cipara, kad tu klusē 8-15 sekundes, izšķir 70% close. Pirmais, kas pārtrauc to klusumu, zaudē.*
+
+**Mehānika:**
+1. Nosauc cenu: *«Investīcija ir €X.»*
+2. Apklust. Pilnīgi. 8-15 sekundes.
+3. Nepabrīdini. Nelabo. Nepievieno *«bet»* vai *«tikai»*.
+4. Skaiti iekšēji līdz 8. Pēc tam gaidi vēl.
+5. Klients runā pirmais — un viņa pirmie vārdi pēc klusuma = patiesa reakcija.
+
+**Kāpēc strādā:** Klusums rada kognitīvu spiedienu. Klients piepilda to ar savām domām — un tās parasti ir *«nu, tas nav tik daudz salīdzinot ar €[COI]»*. Ja TU piepildi klusumu — tu pārtrauc šo procesu un dod klientam iemeslu pretoties.
+
+**⚠ Drilla:** Mājās ieraksti sevi, kā pasaki *«Investīcija ir €3000»* un klusē 15 sekundes. Klausies — vai tavā balsī ir atvainošanās? Vai ir steigas? Atkārto 50 reizes, līdz cena skan kā gravitācija.
+
 ## N088 · CENAS RĀMJU LĒMUMU KOKS
 
 | MICE motors | Cenas rāmis | Verbatim |
@@ -2682,6 +2697,44 @@ Investīcija, lai šo sakārto, ir €X.»*
 # AKTS VII — IEBILDUMI (Q33–Q40)
 
 > *Iebildums nav ienaidnieks — tas ir signāls, ka agrāk kāds domino nav nostiprināts.*
+
+## CARE IEBILDUMU IETVARS
+
+> *Katrs iebildums apstrādājas pa 4 soļiem. Bez šī ietvara operators reaģē impulsīvi — vai aizstāvies, vai uzbrūk. CARE tevi tur sausā tonā.*
+
+| Solis | Ko dari | Verbatim piemērs |
+|-------|---------|-----------------|
+| **C · Connect** | Nepiekrīt, bet apstiprini | *«Es saprotu, kāpēc tu to saki...»* |
+| **A · Acknowledge** | Apstiprini, ka iebildums ir leģitīms | *«Tas ir saprātīgs jautājums...»* |
+| **R · Reframe** | Pārrāmē skatpunktu | *«Bet skaties no šī skatpunkta...»* |
+| **E · Engage** | Atgriezies pie klienta | *«Vai tas ir tas, ko tu meklēji?»* |
+
+> ⚠ **CARE secība ir OBLIGĀTA.** Ja izlaid «Connect» un uzreiz «Reframe» — klients sajūt uzbrukumu. Ja izlaid «Engage» — klients paliek savā iebilduma rāmī.
+
+## 6 KLIENTU ARHETIPI — MICE-MAPPĒTI
+
+> *Katrs arhetips nosaka, kā pielāgot Q22 rāmi, Q26 pīlārus un Q32 cenu.*
+
+| Arhetips | MICE | Q22 Rāmis | Q26 Pīlāri | Q32 Cena |
+|----------|------|-----------|------------|----------|
+| **Skeptiķis** | Money | ROI matemātika · €/lead | Skaitļi · case studies · ROI | Anchor high → drop low |
+| **Vizionārs** | Ideology | *«Tu nepazūdi rutīnā, tu būvē vīziju»* | Legacy stāsts · ietekme uz nozari | «Ieguldījums vīzijā» |
+| **Pragmatiķis** | Compromise | *«2 ceļi — droši rīt, riskanti pēc gada»* | Garantijas · pakāpenisks ieviesums | Drošā ceļa enkurs |
+| **Lepnais** | Ego | *«Tu atjauno vadību nozarē»* | «Top 1% klubs» · ekskluzivitāte | Prestiža investīcija |
+| **Analītiķis** | Money+Compromise | ROI + riska profils | Case studies · A/B testi | Dati-balstīts |
+| **Pirmsreizējais** | Beginner | Vienkāršs sistēmas attēls | «Pamati» valoda · vienkārši pīlāri | Zemākā barjera |
+
+## MANIPULĀCIJA vs INSPIRĀCIJA — Operatora Nostāja
+
+> *Vienīgā atšķirība starp manipulāciju un inspirāciju ir tava iekšējā nostāja. Klients to uztver bez vārdiem. — Sinek + Cialdini*
+
+| Manipulācija | Inspirācija |
+|-------------|------------|
+| Es *pārliecinu* klientu | Es *parādu* klientam |
+| Pīlāri ir *arguments* | Pīlāri ir *vīzija* |
+| Es *uzstāju* uz close | Es *filtrēju* klientu |
+| Klients sajūt *spiedienu* | Klients sajūt *aicinājumu* |
+| Pēc zvana — pārdomas | Pēc zvana — atvieglojums |
 
 
 ⚔ **FULL CLOSE KOMBO** (V122) · 🥇 NĀVĒJOŠAIS SITIENS #6
@@ -3276,6 +3329,73 @@ Post-call AI protokols:
 One-click automatizācija:
 - **Jā path:** CRM update + 2h teksts + homework + sesijas plānošana
 - **Nē path:** Follow-up template + re-engagement schedule
+
+## POST-CALL RITUĀLS — 10:3:1 ZELTA PRINCIPS
+
+> *Pārdošanas operatori, kuri pieaug — pieaug tieši šeit. Tas, kas notiek 30 minūtes PĒC zvana, izšķir, vai nākamais zvans būs labāks.*
+
+**10:3:1 formula:** Uz katru zvanu — 10 min audita, 3 min klasifikācijas, 1 stunda nākamā plāna.
+
+| Solis | Laiks | Kas notiek |
+|-------|-------|------------|
+| 1. Audio replay | 5 min | Pārklausies klusumus, GAP brīžus, Hope Break |
+| 2. Q-čeklists | 3 min | Kuri 5 vārti izpildīti? (Q3, Q11, Q21.5, Q26, Q32) |
+| 3. MICE klasifikācija | 2 min | Klients = M / I / C / E? |
+| 4. CRM atjaunojums | 5 min | Stadijas, MICE, GAP €N, follow-up |
+| 5. Anti-overload audit | 3 min | Cik ARSENAL es izmantoju? (ideālā 0-1) |
+| 6. Nākamais plāns | 12 min | Email, kalendārs, pielikumi |
+
+> *Zvans nav notikums. Zvans ir 90 sek + 50 min + 30 min = 80 min sistēma.*
+
+## ANTI-OVERLOAD — Gudrība Pēc 50 Zvaniem
+
+> *Vissvarīgākā lieta, ko tu iemācies pēc 50 dzīvajiem zvaniem, nav vairāk tehniku. Tas ir — kā nelietot par daudz.*
+
+| Aizliegums | Pamatojums |
+|------------|-----------|
+| Maks. 1 ARSENAL mezgls per zvans | Vairāki = klients sajūt manipulāciju |
+| Maks. 1 metafora per zvans | Vairākas = atmiņas pārslodze |
+| Voss + Takeaway + Mikro-jā kopā NELIETO | Visi 3 ir psiholoģiski intensīvi |
+| Tonalitātes 5 balsis bez 100+ drillas — NĒ | Skan kā skripts |
+| 5 vārti palaisti garām → APSTĀJIES | Bez vārtiem = tukša saruna |
+
+## BELFORT 5 BALSIS — Q Mapping
+
+> *Jordan Belfort tonalitātes sistēma pielāgota Q līnijai. Katru balsi mēra, ne uz jūtām — uz Hz un tempu.*
+
+| Balss | Q-mapping | Verbatim piemērs |
+|-------|-----------|-----------------|
+| **Reasonable Man** | Q1-Q3 (frame) | *«Zini, kā pie mums notiek...»* |
+| **I Care** | Q5-Q6 | *«Tas, ko tu saki, ir svarīgi.»* |
+| **I Feel Your Pain** | Q11 GAP, Q21 COI | *«Es saprotu, kā tas izklausās...»* |
+| **Money Aside** | Q32 Cena | *«Atstājot cenu malā uz sekundi...»* |
+| **Mystery / Intrigue** | Q22 Investora rāmis | *«Es tev parādīšu kaut ko, ko 90% neredz...»* |
+
+> ⚠ **Drillas mājās:** Ieraksti savu balsi, kā saki Q2 verbatim. Klausies. Vai tava balss ir steigā? Vai apologēzē? Pārmēri 100 reizes, līdz balss ir *sausā*.
+
+## V25 NODE MAP — Domino → Q Kartējums
+
+> *V25 Ultimate Monolith mezglu karte sasaista Domino kodiem (D1-D14.5), Master kodiem (M1-M20) un Closing kodiem (C1-C12) ar Q līniju.*
+
+| Meta | Kodi | Q līnija | Mērķis |
+|------|------|----------|--------|
+| META 1: ENTRY | D1-D3, M1-M5 | Q1-Q3 | Auditora statuss, pirmā Mikro-jā |
+| META 2: DIAGNOSIS | D4-D8, M6-M12 | Q4-Q20 | GAP €N, Reality Snap, Belief Lock |
+| META 3: MODEL | D9-D12, M13-M18 | Q22-Q28 | Bridge, 1-10 Anchor, Self-Sell |
+| META 4: CLOSE | D13-D14.5, M19-M20, C1-C12 | Q29-Q41+ | Price Strike, Collision, Identity Lock |
+
+**Closing kodu secība (C1-C12):**
+- C1 Price Strike → C2 Price Collapse → C3 Silence Weapon → C4 Thinker Killer → C5 Collision → C6 Math Reframe → C7 Double Reality → C8 Identity Lock → C9 Failsafe Exit → C10 Time Collapse → C11 No Escape Close → C12 The Invoice
+
+## LOJALITĀTES CILPA — Pēc Close Retences Sistēma
+
+> *Klients, kurš ir nopircis, ir 6× vērtīgāks nekā jauns klients. Lojalitātes cilpa nodrošina, ka viņš paliek un iesaka.*
+
+1. **Onboarding 7d:** Pirmā uzvara 48h. Homework 24h pēc close. Pirmā sesija ≤5d.
+2. **Stabilizācija 30d:** Nedēļas check-in. Mēra pirmos rezultātus. Nostiprina lēmumu.
+3. **Izaugsme 90d:** Paplašina scope. Piedāvā L2-L3 pakāpienu. Prasa referral.
+4. **Lojāls partneris 180d+:** Klients kļūst par iekšējo čempionu. Iesaka citiem. Atgriežas pēc papildus pakalpojumiem.
+
 ---
 # PIELIKUMI
 
@@ -9189,4 +9309,26 @@ Katrā mijiedarbībā sniedz: (1) patiesu komplimentu + (2) atrod kaut ko kopīg
 > *«Uzvar tas, kurš zina pareizo KOMBO pareizajā brīdī.»*
 
 ---
-*FINĀLĀ GRĀMATA · V4.0 FINAL · 257 Neironi · 34 FINISHING MOVES · 30 KILLS · PILNA V122 INTEGRĀCIJA · 10 BLUEPRINTS · 23 PIELIKUMI · Lauris Leitāns · Sharpify.io · 2026*
+
+## GLOSĀRIJS
+
+| Termins | Nozīme |
+|---------|--------|
+| **5 vārti** | Q3, Q11, Q21.5, Q26, Q32 — neapejami katrā zvanā |
+| **ARSENAL** | Situatīvi mezgli (Tonalitāte, Mikro-jā, Klusais slēgums) · max 1 per zvans |
+| **CARE** | Connect → Acknowledge → Reframe → Engage (iebildumu cikls) |
+| **COI** | Cost of Inaction · bezdarbības cena (Q21) |
+| **CORE** | Q1-Q40 obligātā ķēde · sacrosanct |
+| **CORK** | Current Cork · 1 bottleneck vienlaicīgi |
+| **D16 Engine** | Visa zvana kopsavilkums VIENĀ TEIKUMĀ pirms cenas |
+| **GAP €N** | Klienta esošā vs vēlamā ienākumu plaisa eiro (Q11) |
+| **Hope Break** | Q21.5 · LOAD-BEARING · «Cerība nav sistēma» |
+| **KOMBO** | MICE + Maska + dievs2/CDL + Lock + NLP katrā Q |
+| **Lock** | Klients verbalizē apstiprinājumu — tu fiksē |
+| **Luksofors** | 🟢 turpini / 🔴 stop / 🟡 dziļini — operatora traffic light |
+| **MICE** | Money / Ideology / Compromise / Ego — 4 klienta motori |
+| **Maska** | Klienta aizsardzības mehānisms, kas jānoņem |
+| **System 1/2** | Kahneman · ātrs/instinktīvs vs lēns/analītisks |
+
+---
+*FINĀLĀ GRĀMATA · V4.0+ ENHANCED · 257+ Neironi · 34 FINISHING MOVES · 30 KILLS · PILNA V122 INTEGRĀCIJA · Frekvences · Kara Māksla · CARE · 6 Arhetipi · Anti-Overload · Belfort 5 Balsis · V25 Node Map · Klusais Slēgums · Lojalitātes Cilpa · 10 BLUEPRINTS · 23+ PIELIKUMI · Lauris Leitāns · Sharpify.io · 2026*
