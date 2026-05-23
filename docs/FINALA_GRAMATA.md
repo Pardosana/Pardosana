@@ -419,6 +419,63 @@ Katrs D ir svars. Svara akumulācija D(n) → D(n+1). 16 svara avotu kategorijas
 
 ## N044 · PĀRDOŠANAS PAĀTRINĀTĀJI
 Meta-slānis virs Q secības: tehnikas, kas paātrina klienta virzīšanos (spogulis, klusums, ciparu atkārtošana, identitātes snap).
+
+## KARA MĀKSLA — 7 STRATĒĢISKIE PRINCIPI
+
+> *Stratēģiskie principi, kas pasargā no taktiskām kļūdām. Ieausti katrā Q.*
+
+| # | Princips | Pielietojums |
+|---|----------|-------------|
+| 1 | **Ja esi visvājākais — tēlo visstipāko** | Pattern Interrupt Q1 — pārdevējs, kas saka «nē ir ok» |
+| 2 | **Ja esi visstipākais — nestāsti par to** | Nekad necel sevi. Ļauj diagnozei runāt |
+| 3 | **Neuzbrūc pirmajā solī** | Q1–Q3 ir rāmis, ne pitch. Ej ar jautājumu, ne risinājumu |
+| 4 | **Lielākā uzvara — ienaidnieks padodas pats** | Hope Break Q21.5 — viņš pats atzīst, ka vecais nestrādā |
+| 5 | **Atstāj ienaidniekam izeju** | Q28 «Nē ir ok» — viņam jājūt, ka durvis ir vaļā |
+| 6 | **Nekaro ar ēnu** | Q3 — ja lēmējs nav zvanā, NEEJ tālāk |
+| 7 | **Zini savu ienaidnieku** | MICE motori — diagnosticē, kāda sāpe un kāds motors vada klientu |
+
+## KĀPŅU METODE — Pilna Seka Q4→Q7
+
+> *Katrs solis palielina emocionālo svaru. Secība nav maināma.*
+
+```
+Q4 (Sakne) → Q5 (Ideāls) → Q6 (Kāpēc tagad) → Q7 (Cipari)
+    ↓             ↓              ↓                  ↓
+  Problēma    →  Sapnis     →  Steidzamība   →   Mērs (€)
+  «Kas traucē?» «Kā izskatītos?» «Kāpēc tieši tagad?» «Cik tas maksā?»
+```
+
+Secības loģika: Problēma bez sapņa = sūdzēšanās. Sapnis bez steidzamības = «kādreiz». Steidzamība bez cipara = nav mēra. Cipars pēc visa = COI pamats.
+
+## 🎵 FREKVENCES MASTER TABULA
+
+> *Balss frekvence, Solfeggio, smadzeņu viļņi un neiromediatori katrā Q zonā. Izvelkts no dievs2.pdf — Šūmana rezonanse 7.83 Hz kā bāze.*
+
+| Zona | Q punkti | Balss Hz | Solfeggio | Smadzenes | Neiromediators | Mērķis |
+|------|----------|----------|-----------|-----------|----------------|--------|
+| DROŠĪBA | Q1–Q3 | 100-150 | 396 Hz | ALFA 8-13 | Oksitocīns | Uzticēšanās |
+| DIAGNOZE | Q4–Q7 | 120-160 | 528-639 Hz | BETA 14-22 | Noradrenalīns | Ziņkāre + Cipari |
+| SĀPES | Q8–Q12 | 100-140 | 741 Hz | TETA 6-8 | Kortizols + Oksitocīns | Empātija + Sāpes |
+| COI / LAIKS | Q13–Q20 | 110-160 | 741-852 Hz | BETA 16-22 | Kortizols MAX | Cipari = Sāpe |
+| Q19.5 VĀRTS | Q19.5 | 130-160 | 741 Hz | BETA 18-22 | Noradrenalīns | Ētikas filtrs |
+| Q20.5 KODS | Q20.5 | 110-130 | 963 Hz | TETA→BETA | Dopamīns | Buying Instruction |
+| LŪZUMS | Q21–Q21.5 | 90-140 | 852-963 Hz | TETA 4-6 → ALFA | Kortizols → kritums | Hope Break |
+| RISINĀJUMS | Q22–Q28 | 140-170 | 528-852 Hz | BETA→GAMMA 22-40 | Dopamīns + Serotonīns | Risinājums + Uzvara |
+| CENA | Q29–Q32 | 140-170 | 852 Hz | ALFA 8-12 | Noradrenalīns | Akmens mierīgs |
+| IEBILDUMI | Q33–Q40 | 130-160 | 852 Hz | BETA 16-20 | Noradrenalīns | Skaidrība |
+| CLOSE | Q39–Q41+ | 140-170 | 963 Hz | GAMMA 30-40 | Dopamīns MAX | Uzvara |
+
+> **Šūmana rezonanse 7.83 Hz** — Zemes magnētiskā lauka dabiskā frekvence. Operatora iekšējais stāvoklis jātur tuvu šai bāzei. Kad operators ir «skaņots» — klients to jūt intuitīvi.
+
+## ZEIGARNIK EFEKTS — Nepabeigto Uzdevumu Spēks
+
+> *Nepabeigts uzdevums paliek smadzenēs 2× spēcīgāk nekā pabeigts. Lietojums: atstāj klientam «atvērtu cilpu» — viņš atgriezīsies.*
+
+**Lietojums sarunā:**
+- **Q41+ Follow-up:** Ja klients neatbild — atstāj *«kādu novērojumu»* kā iemeslu sazināties. Nav «vai esi izdomājis?» — bet «Man ienāca prātā vēl viens novērojums par to, ko tu teici...»
+- **Q35 Partneris:** Ja klients nenosauc partneri — atstāj «atvērtu cilpu» par kādu konkrētu novērojumu
+- **Voicemail:** Nekad neizstāsti visu. Atstāj vienu nepabeigtu domu — klients pats atzvanīs lai noskaidrotu
+
 ---
 # AKTS 0 — PIRMS ZVANA (Q0)
 
@@ -1225,6 +1282,8 @@ Q41+ → POST-CLOSE NOKAUTS       ├─ AKTS VIII: POST-CLOSE (2 KILLS)
 ## Q1 · Drošība
 *Laiks: 0:00-0:30*
 
+> 🎵 **FREKVENCES:** Balss: ZEMA-MIERĪGA 100-130 Hz · Temps: Lēns 80-100 v/min · Neiromediators: Oksitocīns (uzticēšanās) · Solfeggio: 396 Hz — atbrīvo no bailēm · Smadzenes: ALFA 8-12 Hz — uzticēšanās
+
 ⚔ **DROŠĪBAS KOMBO** (N255)
 
 **SAKI:**
@@ -1275,6 +1334,8 @@ Maska: pārdevējs → diagnostiķis. Vecais altāris: vajadzība pierādīt →
 ## Q2 · Frame
 *Laiks: 0:30-1:00*
 
+> 🎵 **FREKVENCES:** Balss: MIERĪGA-NOTEIKTA 110-140 Hz · Temps: Normāls 100-110 v/min · Neiromediators: Oksitocīns + Noradrenalīns · Solfeggio: 396 Hz — pamatu nostiprina · Smadzenes: ALFA 10-13 Hz
+
 ⚔ **FRAME KOMBO** (N255)
 
 **SAKI:**
@@ -1315,6 +1376,8 @@ Maska: kontrolētājs → līdzvērtīgs partneris. Motors: loģika + cieņa.
 
 ## Q3 · Lēmējs
 *Laiks: 1:00-2:00*
+
+> 🎵 **FREKVENCES:** Balss: NOTEIKTA 120-150 Hz · Temps: Noteikta 110-120 v/min · Neiromediators: Noradrenalīns (lēmējs) · Solfeggio: 417 Hz — situācijas maiņa · Smadzenes: ALFA→BETA 12-16 Hz
 
 ⚔ **LĒMĒJA KOMBO** (N255)
 
@@ -1376,6 +1439,8 @@ Ja klients novirzās pirmajos 3 jautājumos: «Es saprotu, ka tev ir daudz ko pa
 
 ## Q4 · Galvenā Lieta
 *Laiks: 2:00-3:00*
+
+> 🎵 **FREKVENCES:** Balss: ZIŅKĀRA-NEITRĀLA 120-150 Hz · Temps: Normāls 100-120 v/min · Neiromediators: Noradrenalīns (ziņkāre) · Solfeggio: 528 Hz — transformācija · Smadzenes: BETA 14-18 Hz — analīze
 
 ⚔ **SAKNES KOMBO** (N255)
 
@@ -1443,6 +1508,8 @@ Mērķis: Nonākt līdz nopietnībai 10/10. Pie 10 saruna iet pavisam citādi ne
 ## Q5 · Kā Izskatītos Ideāli
 *Laiks: 3:00-4:00*
 
+> 🎵 **FREKVENCES:** Balss: SILTA-ZIŅKĀRA 120-150 Hz · Temps: Normāls 100-120 v/min · Neiromediators: Dopamīns (sapnis) · Solfeggio: 528 Hz — DNS remonts · Smadzenes: BETA 14-18 Hz — vizualizācija
+
 **SAKI:**
 *«Ja varētu ar burvju nūjiņu — kā tas izskatītos ideāli? Kas notiktu, ja šī lieta būtu sakārtota?»*
 
@@ -1469,6 +1536,8 @@ Mērķis: Nonākt līdz nopietnībai 10/10. Pie 10 saruna iet pavisam citādi ne
 ## Q6 · Kāpēc Tagad
 *Laiks: 4:00-5:00*
 
+> 🎵 **FREKVENCES:** Balss: STINGRA-NOTEIKTA 130-160 Hz · Temps: Normāls 100-120 v/min · Neiromediators: Noradrenalīns (steidzamība) · Solfeggio: 639 Hz — attiecību dziedēšana · Smadzenes: BETA 16-22 Hz — aktivizācija
+
 **SAKI:**
 *«Kāpēc tas tev ir svarīgi TAGAD? Kas mainījās?»*
 
@@ -1491,6 +1560,8 @@ Mērķis: Nonākt līdz nopietnībai 10/10. Pie 10 saruna iet pavisam citādi ne
 
 ## Q7 · Cipari
 *Laiks: 5:00-7:00*
+
+> 🎵 **FREKVENCES:** Balss: NEITRĀLA-BEZ ŠOKA 130-160 Hz · Temps: Normāls 100-120 v/min · Neiromediators: Noradrenalīns + Kortizols (cipari) · Solfeggio: 639 Hz — attiecību dziedēšana · Smadzenes: BETA 16-22 Hz — kalkulators
 
 ⚔ **CIPARU KOMBO** (N255)
 
@@ -1555,6 +1626,8 @@ Efekts: Klients pirmajās 7 min atklāj: 1) virsmas iemeslu, 2) ideālo stāvokl
 ## Q8 · Mēģinājumi
 *Laiks: 7:00-9:00*
 
+> 🎵 **FREKVENCES:** Balss: EMPĀTISKA 110-140 Hz · Temps: Lēns 80-100 v/min · Neiromediators: Kortizols (frustācija) · Solfeggio: 741 Hz — intuitīvā pamošanās · Smadzenes: TETA 6-8 Hz — pagātnes pārstrāde
+
 **SAKI:**
 *«Ko tu līdz šim esi mēģinājis, lai to sakārtotu?»*
 
@@ -1580,6 +1653,8 @@ Efekts: Klients pirmajās 7 min atklāj: 1) virsmas iemeslu, 2) ideālo stāvokl
 
 ## Q9 · Sāpju Svira
 *Laiks: 9:00-12:00*
+
+> 🎵 **FREKVENCES:** Balss: EMPĀTISKA-KLUSA 100-130 Hz · Temps: Lēns 70-90 v/min · Neiromediators: Kortizols + Oksitocīns (empātija) · Solfeggio: 741 Hz — intuitīvā pamošanās · Smadzenes: TETA 6-8 Hz — dziļā empātija
 
 ⚔ **SĀPJU SVIRAS KOMBO** (N255)
 
@@ -1671,6 +1746,8 @@ Kad klients nosauc sāpi — meklē OTRO sāpi, kas ir saistīta:
 
 ## Q11 · COI — Cost of Inaction
 *Laiks: 13:00-15:00*
+
+> 🎵 **FREKVENCES:** Balss: NEITRĀLA-BEZ ŠOKA 130-150 Hz · Temps: Normāls 100-120 v/min · Neiromediators: Kortizols MAX (cipari = sāpe) · Solfeggio: 852 Hz — trešā acs · Smadzenes: BETA 18-24 Hz — analīze
 
 > 🥇 **VĀRTI #3: Q11** — COI cipars JĀBŪT uz galda pirms Q21.5
 
@@ -1846,6 +1923,45 @@ Atklāj emocionālo ieguvumu no vecā modeļa: drošība, pazīstamība, attaisn
 
 Mērķis: klients PATS definē kritērijus, ko tu Q24-Q26 izpildi.
 
+## Q19.5 · Kapacitātes Pārbaude (VĀRTS)
+*Laiks: 23:00-23:30*
+
+> 🎵 **FREKVENCES:** Balss: TIEŠA-STINGRA 130-160 Hz · Temps: Noteikta 100-120 v/min · Neiromediators: Noradrenalīns (vārts) · Solfeggio: 741 Hz — šķīstīšana · Smadzenes: BETA 18-22 Hz — filtrs
+
+**NODOMS:** Ētikas vārts — nevari pārdot plūsmu uz šauru kaklu.
+
+**KO NOSTIPRINA:** DOUBT — «Vai es REĀLI varu uzņemt vairāk?» Klients konfrontē savu kapacitāti.
+
+**PAPLAŠINĀTAIS:**
+*«Ja tev tuvākajā laikā nāktu vēl klients vai divi, tu viņus vispār vari uzņemt?»*
+
+**SAĪSINĀTAIS:**
+*«Vari uzņemt vairāk?»*
+
+**KO KLAUSĪTIES:** Vai klients atzīst kapacitātes problēmu vai aizsargājas.
+
+**⚛ ZINĀTNE:** Pretējo pierādījumu jautājums — *«Pamēģini man pastāstīt — kāds ir tavs labākais arguments, ka tu to vari atrisināt pats nākamajos 90 dienās?»* ⏸ Klients mēģina — un parasti nevar.
+
+**⚙ TEHNIKA:** Godīgums kā pārdošanas instruments — ja kapacitātes problēma ir lielāka par plūsmas problēmu, saki to tieši: *«Godīgi sakot, klientu plūsma tev nav pirmā problēma. Pirmā problēma ir kapacitāte. Es negribu tev pārdot plūsmu uz šauru kaklu.»*
+
+**🔒 LOCK:** Pretējo pierādījumu tests izturēts. 🔓 Ja klients neatbild — palēnini un padziļini.
+
+**🚦 LUKSOFORS:**
+- ✅ **Zaļā:** «Jā, tieši to vajag» — turpini.
+- ❌ **Sarkanā:** Nav kapacitātes — diskvalificē vai pāradresē.
+
+⚔ **KOMBO:** MICE + Maska + dievs2 + Lock + Ētikas vārts
+Scenārijs: Klients: «Nu, varbūt 1–2 klientus varu uzņemt…» → Godīgums šeit = uzticēšanās vairāk nekā jebkura tehnika. Compromise klients novērtēs godīgumu vislabāk.
+
+🎯 **Q19.5 FINISHING MOVE — KAPACITĀTES NOKAUTS:**
+| Instruments | Ko sit | Kā sit |
+|-------------|--------|--------|
+| 🎯 MICE | Atklāj kapacitātes ierobežojumu | C: vai var uzņemt? M: vai ienesīgs? |
+| 🎭 Maska | Optimista maska → realitāte | «Varu uzņemt» → godīgs audits |
+| 📖 Cilvēka Dabas Likums | Godīgums | Operators, kas atzīst ierobežojumu = uzticams |
+| 🔒 Lock | Ētikas Lock | Kapacitāte ir reāla — vai diskvalificē, vai turpini godīgi |
+| 💬 NLP | Pretējo pierādījumu jautājums | Klients pats nevar atrast argumentu — pats nonāk pie secinājuma |
+
 ## Q20 · Buying Instruction / Drošības Kods
 *Laiks: 24:00-26:00*
 
@@ -1917,6 +2033,47 @@ Anticipatory Regret + Riska kalkulācija. *«Kur dzīvo bailes — galvā vai ka
 ## N153 · 5 VĀRTIS KOPSAVILKUMS
 #1(D2): nav skaitļa → stop. #2(D3): nav spiediena → dziļini. #3(D10): nav «jā» → atpakaļ. #4(Q21.5): nav Hope Break → atpakaļ Q8. #5(Q28): nav BLC 8+ → risini.
 
+## Q20.5 · Buying Instruction (Drošības Kods)
+*Laiks: 25:30-26:00*
+
+> 🎵 **FREKVENCES:** Balss: MYSTERY 110-130 Hz · Temps: Lēna ar pauzēm 70-90 v/min · Neiromediators: Dopamīns (noslēpums) · Solfeggio: 963 Hz — augstākā apziņa · Smadzenes: TETA 7-8 Hz → BETA lēciens
+
+**NODOMS:** Klients PATS nosaka savus pirkšanas kritērijus. Viņa atbilde = tavs Q22–Q26 pitch kods.
+
+**KO NOSTIPRINA:** COST — «Ko man jāredz, lai justos droši?» Klients definē savas drošības noteikumus.
+
+**PAPLAŠINĀTAIS:**
+*«Kas tev jāredz, lai tu justies droši sākt? Ko tev vajag zināt, redzēt vai sajust, lai šī reize justos citādāka?»*
+
+**SAĪSINĀTAIS:**
+*«Ko tev vajag redzēt, lai sāktu?»*
+
+**KO KLAUSĪTIES:** Vai klients nosauc konkrētu kritēriju (case study, garantija, process) vai paliek abstrakts.
+
+**⚛ ZINĀTNE:** Damasio — somatisko marķieru reset: klients pats definē, kas šo reizi padara atšķirīgu no iepriekšējām. IKEA Efekts (Norton/Mochon/Ariely): klients, kurš pats definē kritērijus, vērtē risinājumu augstāk.
+
+**⚙ TEHNIKA:** Buying Instruction — kā lietot atbildi:
+- Klients: «Man jāredz, ka citi to ir izdarījuši.» → Q26 pīlārs = case study
+- Klients: «Man vajag garantiju.» → Q26 anti-pīlārs = garantijas formulējums
+- Klients: «Man vajag redzēt precīzu procesu.» → Q25 pīlārs = step-by-step
+
+**🔒 LOCK:** Buying Instruction saņemta — drošības kods. 🔓 Bez šī koda tavi pīlāri Q22–Q26 šaus garām. Neej uz pitch bez koda.
+
+**🚦 LUKSOFORS:**
+- ✅ **Zaļā:** Klients nosauc konkrētu kritēriju.
+- ❌ **Sarkanā:** «Nezinu» — palīdzi: *«Vai tā ir par uzticību? Par risku? Par laiku? Par pieredzi?»*
+
+⚔ **KOMBO:** MICE + Maska + dievs2 + Lock + NLP + Buying Instruction
+Scenārijs: Tu: *«Kas tev jāredz, lai justies droši?»* Klients: *«Man jāredz reāli piemēri no cilvēkiem kā es.»* → Kritērijs: case study → Q26 pīlārs = ŠIS case study. Klients teica «cilvēki kā es» → izmanto šo frāzi Q26 stāstā.
+
+> **AKTS III → AKTS IV TILTS — Pain Stacking Kopsavilkums:**
+> *«Ja es saprotu pareizi — tev ir [pain 1 no Q15], plus [pain 2 no Q17], plus [pain 3 no Q18], un tas viss velkas jau [laiks no Q20]. Vai es to redzu pareizi?»*
+> ⏸ Klients: «Jā.» → Tu tikko esi padarījis viņa situāciju neignorējamu.
+>
+> **Pretējo Pierādījumu Jautājums (pirms Q21):**
+> *«Pamēģini man pastāstīt — kāds ir tavs labākais arguments, ka tu to vari atrisināt pats nākamajos 90 dienās?»*
+> ⏸ Klusums. Klients mēģina — un parasti nevar. → Seko Q21 · Q21.5 HOPE BREAK
+
 ---
 # AKTS IV — PATIESĪBAS MOMENTS (Q21–Q21.5)
 
@@ -1924,6 +2081,8 @@ Anticipatory Regret + Riska kalkulācija. *«Kur dzīvo bailes — galvā vai ka
 
 ## Q21 · Double Reality
 *Laiks: 26:00-28:00*
+
+> 🎵 **FREKVENCES:** Balss: NOPIETNA-KONFRONTĒJOŠA 110-140 Hz · Temps: Lēns + KLUSUMS · Neiromediators: Kortizols → kritums · Solfeggio: 852 Hz — skaidrības lūzums · Smadzenes: TETA→ALFA 6-10 Hz — lūzuma brīdis
 
 ## N007 · DOUBLE REALITY
 
@@ -1952,6 +2111,7 @@ Anticipatory Regret + Riska kalkulācija. *«Kur dzīvo bailes — galvā vai ka
 ## Q21.5 · HOPE BREAK
 *Laiks: 28:00-33:00*
 
+> 🎵 **FREKVENCES:** Balss: ČUKSTS (viszemākā) 90-110 Hz · Temps: Lēnākais — 60-80 v/min · Neiromediators: Kortizols MAX → straujš kritums · Solfeggio: 963 Hz — augstākā apziņa · Smadzenes: TETA 4-6 Hz → ALFA šoks — lūzums → miers
 
 ⚔ **PROCESS-VAI-CERĪBA KOMBO** (V122) · 🥇 PRIORITĀTE #4 — GALVENAIS LŪZUMS
 
@@ -2082,6 +2242,8 @@ Combo: Sunk Cost + COI = dubults spiediens.
 ## Q22 · Investora Rāmis
 *Laiks: 33:00-34:00*
 
+> 🎵 **FREKVENCES:** Balss: PĀRLIECINĀTA-ENERĢISKA 140-170 Hz · Temps: Normāls→ātrāks 110-130 v/min · Neiromediators: Dopamīns + Serotonīns (risinājums) · Solfeggio: 528 Hz — transformācija · Smadzenes: BETA→GAMMA 22-30 Hz — risinājums
+
 **SAKI:**
 *«Labi. Ļauj man pastāstīt, kā mēs to risinātu — ne kā pārdevējs, bet kā partneris, kurš investē savā klientā. Tu man pastāstīji, kas tev ir svarīgi. Tagad parādīšu, kā mēs to sakārtojam.»*
 
@@ -2107,6 +2269,7 @@ Kāpēc: Atļauja = psiholoģisks kontrakts. Klients, kas saka «jā», ir IESAI
 ## Q24 · 3 Pīlāri
 *Laiks: 34:00-38:00*
 
+> 🎵 **FREKVENCES:** Balss: EKSPERTA 140-170 Hz · Temps: Normāls 110-130 v/min · Neiromediators: Dopamīns (uzvara) · Solfeggio: 852 Hz — trešā acs · Smadzenes: GAMMA 30-40 Hz — apziņa
 
 ⚔ **PĪLĀRU KOMBO** (V122) · PRIORITĀTE #4
 
@@ -2391,6 +2554,8 @@ Mērķis: iztīri VISUS iebildumus PIRMS cenas. Pēc cenas katrs iebildums ir 3�
 ## Q32 · CENA
 *Laiks: 40:00-42:00*
 
+> 🎵 **FREKVENCES:** Balss: FLAT. BEZ EMOCIJĀM 140-170 Hz · Temps: Lēns — 80-100 v/min · Neiromediators: Noradrenalīns (spriedze) · Solfeggio: 852 Hz — fakts · Smadzenes: ALFA 8-12 Hz — akmens mierīgs. Cena = gravitācija.
+
 
 ⚔ **CENAS KLUSUMA KOMBO** (V122) · NĀVĒJOŠAIS SITIENS #4
 
@@ -2609,6 +2774,41 @@ Investīcija, lai šo sakārto, ir €X.»*
 - A: *«Tu agrāk teici ka šī problēma maksā tev €[X] katru mēnesi. Katrs mēnesis ko gaidi = vēl €[X].»*
 - T: *«Varbūt jautājums nav «vai jādomā» — bet «vai es ticu ka tas strādās». Ja tā — ko tev vajag redzēt?»*
 - T: *«Tātad — sākam vai atļaujam šai situācijai turpināties?»*
+
+## Q35 · Partneris
+
+> 🎵 **FREKVENCES:** Balss: TIEŠA 130-160 Hz · Temps: Noteikta 100-120 v/min · Neiromediators: Noradrenalīns (lēmējs) · Solfeggio: 852 Hz — skaidrība · Smadzenes: BETA 16-20 Hz
+
+**NODOMS:** Pārvietot rāmi — partneris ir alibi, ne reāls šķērslis.
+
+**PAPLAŠINĀTAIS:**
+*«Saprotu. Pajautāšu citādi — ja mājā 35 grādu karstumā beigtu strādāt kondicionieris, vai tu ietu pie partnera prasīt atļauju samaksāt par remontu?»*
+
+**SAĪSINĀTAIS:**
+*«Ja tikai tavs lēmums — ko TU teiktu?»*
+
+**KO KLAUSĪTIES:** Vai klients atgriežas pie saviem vārdiem vai bēg.
+
+**🔒 LOCK:** Iebildums sasaistīts ar viņa paša realitāti. 🔓 Atgriezies Q13 kopsavilkumā.
+
+**🚦 LUKSOFORS:**
+- ✅ **Zaļā:** Klients atzīst, ka lēmums ir VIŅA.
+- ❌ **Sarkanā:** Turpina vainot partneri → Champion Building.
+
+**JA IESPRŪST:**
+- «Partneris nepiekritīs»: *«Ja partneris redzētu, ka šī problēma tev maksā €[COI] gadā — ko viņš/viņa teiktu?»*
+- «Jākonsultējas»: *«Vai varam viņu pievienot nākamajās 24h?»*
+
+⚔ **KOMBO:** Secības disciplīna — NEKAD neapstrādā «partneri» pirms naudas iebilduma.
+
+🎯 **Q35 FINISHING MOVE — PARTNERA NOKAUTS:**
+| Instruments | Ko sit | Kā sit |
+|-------------|--------|--------|
+| 🎯 MICE | Partnera alibi = C (drošība) | Klients slēpjas aiz partnera — patiesā bremze ir bailes no lēmuma |
+| 🎭 Maska | Partnera maska → paša lēmums | *«Ja tikai tavs lēmums?»* noņem alibi |
+| 📖 Cilvēka Dabas Likums | Kontrole + Atbildība | Kondicioniera analogs — reāla problēma = reāls lēmums |
+| 🔒 Lock | Partnera Lock | Klients atzīst ka VAR lemt pats, vai dod datumu ar partneri |
+| 💬 NLP | Zeigarnik efekts | Ja klients nenosauc partneri — atstāj «kādu novērojumu» kā iemeslu sazināties |
 
 ## N068 · CARE IETVARS (Emocionāliem iebildumiem)
 
