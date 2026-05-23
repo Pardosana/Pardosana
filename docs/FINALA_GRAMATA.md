@@ -11,6 +11,94 @@
 
 ---
 
+## 🎨 VIZUĀLĀ DIZAINA VADLĪNIJAS — Blueprint Gaišais Stils
+
+> *Šīs vadlīnijas nosaka vienotu vizuālo valodu visai grāmatai, attēliem, slaidiem un prezentācijām. Šis bloks kalpo gan kā dizaina standarts, gan kā AI prompts attēlu ģenerēšanai.*
+
+### DIZAINA DNS
+
+```
+STILS: Blueprint / Technical Drawing / Gaišais Inženiertehniskais
+NOSAUKUMS: "Blueprint Gaišais" — Sharpify dizaina sistēma
+```
+
+### KRĀSU PALETE
+
+| Elements | Krāsa | HEX | Lietojums |
+|----------|-------|-----|-----------|
+| **Fons** | Balts / Gaišs smilšu | `#FFFFFF` / `#F5F0E8` | Galvenais fons — tīrs, gaišs, profesionāls |
+| **Primārā līnija** | Tumši zils (Navy) | `#0D3B66` | Visi tehniskie zīmējumi, teksts, rāmji, Q numuri |
+| **Akcenta zelts** | Zelta / Amber | `#D4A843` / `#D97706` | Galvenie akcenti, virsraksti, ikonas, ērgļa emblēma, svarīgi elementi |
+| **Sekundārā** | Gaiši zils | `#B8D4E3` | Ēnojumi, sekundārie laukumi, fona gradient |
+| **Signāls — zaļš** | Dabīgi zaļš | `#2D6A4F` | ✓ Pozitīvs / Zaļā gaisma / Turpini |
+| **Signāls — sarkans** | Kluss sarkans | `#C1272D` | ✗ Stop / Sarkanā gaisma / Brīdinājums |
+| **Signāls — dzeltens** | Dzeltens/Amber | `#E9C46A` | ⚠ Uzmanību / Dziļini / Pārejas zona |
+
+### TIPOGRĀFIJA
+
+| Elements | Fonts | Izmērs | Stils |
+|----------|-------|--------|-------|
+| **Galvenie virsraksti** | Georgia / Serif | 16-24pt | Bold, uppercase, letter-spacing 2-4pt |
+| **Q numuri** | DIN / Sans-serif | 36-48pt | Bold, iekš rāmja ar dubultu līniju |
+| **Pamatteksts** | Georgia / Serif | 10-11pt | Regular, line-height 1.6 |
+| **Verbatim frāzes** | Italic Serif | 10pt | Kursīvs, pēdiņās «...» |
+| **Tabulas / Tehniskais** | Mono / Sans-serif | 9pt | Clean, aligned |
+
+### VIZUĀLIE ELEMENTI
+
+| Elements | Apraksts |
+|----------|---------|
+| **Rāmji** | Dubulta līnija (navy) ap katru Blueprint paneli — kā tehniskais rasējums |
+| **Q numura bloks** | Liels Q numurs (piem. `Q21.5`) dubultā rāmī ar serif fontu — augšējā kreisajā stūrī |
+| **Ērgļa emblēma** | Zelta ērglis augšējā labajā stūrī — Sharpify identitāte |
+| **Kompasa roze** | Navigācijas elements — norāda virzienu / posmu |
+| **Ikonas** | Vienkāršas, līniju stilā (ne filled) — navy krāsā |
+| **Bultas / Plūsmas** | Zelta vai navy bultas ar skaidriem virzieniem |
+| **Citātu bloki** | Lieli pēdiņu zīmes `❝...❞` navy krāsā, teksts italic |
+| **Leģendas bloks** | Apakšējā joslā — modeļa nosaukums, versija, datums, drawing number |
+| **Emocionālā ceļojuma līkne** | Viļņveida līnija ar ikonām (iedvesma → šķēršļi → lūzums → jauns sākums) |
+
+### AI ATTĒLU ĢENERĒŠANAS PROMPTS
+
+```
+UNIVERSAL PROMPT TEMPLATE:
+
+"Create a technical blueprint-style diagram on a white/light cream background (#F5F0E8).
+Use navy blue (#0D3B66) for all lines, borders, text, and technical drawings.
+Use gold/amber (#D4A843) for key accents, highlights, icons, and the eagle emblem.
+Style: architectural/engineering blueprint with double-line borders.
+Include a large Q-number label (e.g., 'Q21.5') in the top-left corner in a double-bordered box.
+Add a gold eagle emblem in the top-right corner.
+Bottom bar: model name, version, date, drawing number.
+Typography: serif fonts (Georgia) for headings, clean sans-serif for data.
+All text in Latvian language.
+Mood: professional, precise, clean — like a master architect's technical drawing.
+Resolution: 1920x1080 or 3840x2160 for print."
+```
+
+**PER-Q PROMPTA PIELĀGOŠANA:**
+```
+Katram Q punktam mainās:
+- Q NUMURS: Q1, Q4, Q21.5, Q32, utt.
+- VIRSRAKSTS: Q punkta nosaukums latviešu valodā
+- GALVENĀ DIAGRAMMA: Atbilstošs vizuālais (tilts, kāpnes, vārts, svari, utt.)
+- CITĀTS: Q atslēgas frāze pēdiņās
+- LEĢENDA: Modeļa ID (piem. Q21.5-HB-001)
+```
+
+**SLAIDU PROMPTA PIELĀGOŠANA:**
+```
+Slaidiem papildus:
+- Landscape orientācija (16:9)
+- Mazāk teksta, lielāki vizuālie elementi
+- Zelta akcenta josla augšā vai apakšā
+- Sharpify logo + ērglis vienmēr redzams
+```
+
+> ⚠ **SVARĪGI:** Šīs vadlīnijas ir NEMAINĪGAS visā grāmatā. Katrs jauns vizuālais elements, slaids vai attēls SEKO šim dizainam. Nav izņēmumu.
+
+---
+
 ## KĀ LASĪT ŠO GRĀMATU
 
 | Elements | Ko tas nozīmē |
