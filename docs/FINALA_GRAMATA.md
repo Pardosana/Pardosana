@@ -645,7 +645,10 @@ Secības loģika: Problēma bez sapņa = sūdzēšanās. Sapnis bez steidzamība
 
 > *«Amatieris mēģina mainīt klientu. PRO regulē sarunu. Meistars vispirms regulē sevi.»*
 
-## POWER POSE + 4-4-6 ELPA — Fiziskā Sagatavošanās
+
+## Q0 · Pirms Zvana — Viss Vienā Vietā
+
+### POWER POSE + 4-4-6 ELPA — Fiziskā Sagatavošanās
 
 > *Pirms katra zvana — 2 minūtes. Ķermenis pirmais, galva otrā.*
 
@@ -657,7 +660,8 @@ Secības loģika: Problēma bez sapņa = sūdzēšanās. Sapnis bez steidzamība
 
 > **PIPELINE ATGĀDNE:** *«Man ir 25-30 iespējas. Šis zvans nav pēdējais. Es esmu pārpilnībā.»* — Neediness = pārdošanas nāve. Pārpilnība = autoritāte.
 
-## PĀRPILNĪBAS 25-30 PIPELINE — Stāvokļa Fizikālais Pamats
+
+### PĀRPILNĪBAS 25-30 PIPELINE — Stāvokļa Fizikālais Pamats
 
 > *V∞ stāvoklis «tev NAV vajadzīga klienta nauda» ir mentāls. Bet bez fizikāla atbalsta tā ir tukša mantra. Pārpilnības pamats = 25-30 atvērti darījumi vienlaicīgi.*
 
@@ -676,7 +680,8 @@ Secības loģika: Problēma bez sapņa = sūdzēšanās. Sapnis bez steidzamība
 > ⚠ Pipeline < 15 → operators kļūst «vajadzīgs» → tonalitāte mainās uz pierunāšanu → close rate KRĪT.
 > ⚠ Pipeline > 40 → operators kļūst paviršs → neuzklausa līdz galam → close rate arī KRĪT.
 
-## MIKRO-JĀ CILPA — Tie-Down Momentum
+
+### MIKRO-JĀ CILPA — Tie-Down Momentum
 
 > *Klienta smadzenes pieņem mazos «jā» lēmumus 10-20× zvana laikā. Kad nāk lielais lēmums Q32, tās jau ir trenētas saskaņot.*
 
@@ -694,7 +699,8 @@ Secības loģika: Problēma bez sapņa = sūdzēšanās. Sapnis bez steidzamība
 
 > **Likumi:** Max 8 per zvanu. Variē formas — nelieto vienu 3× pēc kārtas. Nelieto uz iebildumu (CARE strādā savādāk).
 
-## SPOGUĻOŠANA + ĶERMEŅA VALODA — Neapzinātā Uzticēšanās
+
+### SPOGUĻOŠANA + ĶERMEŅA VALODA — Neapzinātā Uzticēšanās
 
 > *Latvieši ir piesardzīgi pret cilvēkiem, kas runā pārāk ātri, pārāk enerģiski, pārāk «pārdevējiski». Spoguļošana ir veids, kā klienta zemapziņa dabīgi kļūst drošāka.*
 
@@ -708,6 +714,7 @@ Secības loģika: Problēma bez sapņa = sūdzēšanās. Sapnis bez steidzamība
 **Zoom zvaniem:** Kamera acu līmenī. 70/30 acu kontakts (70% kamerā, 30% piezīmēs). Spogulis pie kameras — atgādinājums smaidam. Aizver visus citus tabus.
 
 > **NEDRĪKST:** Klāji kopēt klientu (ievēros pēc 3 reizēm). Sēdēt atslāji ar rokām aiz galvas (nicīgi). Matchēt agresīvus klientus (zaudē autoritāti).
+
 
 ## N253 · PRO SELF-REGULATION ENGINE — 10 Prakses
 
@@ -2484,20 +2491,6 @@ Combo: Sunk Cost + COI = dubults spiediens.
 
 > *Pēc Q21.5 — VISUR lieto «KAD», ne «JA». Smadzenes apstrādā «kad» kā faktu un «ja» kā hipotēzi. (N100)*
 
-## SINEK GOLDEN CIRCLE — Pitch Struktūra (WHY → HOW → WHAT)
-
-> *Simon Sinek: «Cilvēki nepērk TO, ko tu dari. Viņi pērk KĀPĒC tu to dari.»*
-
-Pitch Q22-Q28 vienmēr seko Golden Circle secībai:
-
-| Slānis | Ko saki | Piemērs |
-|--------|---------|---------|
-| **WHY** (Kāpēc) — sāc ar pārliecību | Kāpēc šī sistēma eksistē? Ko tu tici? | *«Mēs ticam, ka katram uzņēmumam ir jābūt sistēmai, kas strādā bez īpašnieka diennakts klātbūtnes.»* |
-| **HOW** (Kā) — unikālais process | Kā tieši tas darbojas? | *«Mēs to darām ar 3 pīlāru sistēmu, kas automatizē klientu piesaisti, kvalifikāciju un slēgšanu.»* |
-| **WHAT** (Ko) — produkts/pakalpojums | Ko tieši klients saņem? | *«Konkrēti — tu saņem [pīlārs 1], [pīlārs 2], [pīlārs 3] + 90 dienu atbalstu.»* |
-
-> **Secība ir OBLIGĀTA:** WHY → HOW → WHAT. Amatieris sāk ar WHAT (*«Mēs piedāvājam...»*). PRO sāk ar WHY (*«Mēs ticam, ka...»*). Smadzenes pieņem lēmumus limbiskajā sistēmā (WHY/HOW), ne neokorteksā (WHAT).
-
 ## Q22 · Investora Rāmis
 *Laiks: 33:00-34:00*
 
@@ -2520,6 +2513,35 @@ Pitch Q22-Q28 vienmēr seko Golden Circle secībai:
 
 ⚔ **COMBO SECĪBA:**
 *«Ļauj man pastāstīt — ne kā pārdevējs, bet kā partneris» (MICE frame shift) → «Vai drīkstu pastāstīt, kā mēs strādājam?» (NLP — iesakņots «jā») → klients saka «jā» — viņš PATS izvēlējās klausīties (Cilvēka Dabas Likums suverēnā izvēle) → pretestības maska ir apieta (Maska) → klients ir iesaistīts un atvērts (Lock) → Q22-Q23 NOGALINĀTS. GATAVS PĪLĀRIEM.*
+
+### SINEK GOLDEN CIRCLE — Pitch Struktūra (WHY → HOW → WHAT)
+
+> *Simon Sinek: «Cilvēki nepērk TO, ko tu dari. Viņi pērk KĀPĒC tu to dari.»*
+
+Pitch Q22-Q28 vienmēr seko Golden Circle secībai:
+
+| Slānis | Ko saki | Piemērs |
+|--------|---------|---------|
+| **WHY** (Kāpēc) — sāc ar pārliecību | Kāpēc šī sistēma eksistē? Ko tu tici? | *«Mēs ticam, ka katram uzņēmumam ir jābūt sistēmai, kas strādā bez īpašnieka diennakts klātbūtnes.»* |
+| **HOW** (Kā) — unikālais process | Kā tieši tas darbojas? | *«Mēs to darām ar 3 pīlāru sistēmu, kas automatizē klientu piesaisti, kvalifikāciju un slēgšanu.»* |
+| **WHAT** (Ko) — produkts/pakalpojums | Ko tieši klients saņem? | *«Konkrēti — tu saņem [pīlārs 1], [pīlārs 2], [pīlārs 3] + 90 dienu atbalstu.»* |
+
+> **Secība ir OBLIGĀTA:** WHY → HOW → WHAT. Amatieris sāk ar WHAT (*«Mēs piedāvājam...»*). PRO sāk ar WHY (*«Mēs ticam, ka...»*). Smadzenes pieņem lēmumus limbiskajā sistēmā (WHY/HOW), ne neokorteksā (WHAT).
+
+
+### 6 KLIENTU ARHETIPI — MICE-MAPPĒTI
+
+> *Katrs arhetips nosaka, kā pielāgot Q22 rāmi, Q26 pīlārus un Q32 cenu.*
+
+| Arhetips | MICE | Q22 Rāmis | Q26 Pīlāri | Q32 Cena |
+|----------|------|-----------|------------|----------|
+| **Skeptiķis** | Money | ROI matemātika · €/lead | Skaitļi · case studies · ROI | Anchor high → drop low |
+| **Vizionārs** | Ideology | *«Tu nepazūdi rutīnā, tu būvē vīziju»* | Legacy stāsts · ietekme uz nozari | «Ieguldījums vīzijā» |
+| **Pragmatiķis** | Compromise | *«2 ceļi — droši rīt, riskanti pēc gada»* | Garantijas · pakāpenisks ieviesums | Drošā ceļa enkurs |
+| **Lepnais** | Ego | *«Tu atjauno vadību nozarē»* | «Top 1% klubs» · ekskluzivitāte | Prestiža investīcija |
+| **Analītiķis** | Money+Compromise | ROI + riska profils | Case studies · A/B testi | Dati-balstīts |
+| **Pirmsreizējais** | Beginner | Vienkāršs sistēmas attēls | «Pamati» valoda · vienkārši pīlāri | Zemākā barjera |
+
 
 ## Q23 · Atļaujas Jautājums
 **SAKI:** *«Vai drīkstu pastāstīt, kā mēs strādājam?»*
@@ -2628,6 +2650,20 @@ Tāpēc Q18-Q20 klients pats definē kritērijus → Q24-Q26 tu tos izpildi → 
 
 ## Q26 · 60 Sekunžu Stāsts
 *Laiks: 38:00-40:00*
+
+### BANDWAGON / SOCIAL PROOF — Pūļa Spēks
+
+> *«80% mūsu klientu izvēlas šo variantu.» — Cilvēks seko pūlim, ja nav pilnīgas informācijas.*
+
+| Lietojums | Verbatim | Q zona |
+|-----------|---------|--------|
+| **Normalizēšana** | *«Lielākā daļa uzņēmēju, ar kuriem strādājam, sākumā jautā to pašu.»* | Q35-Q37 iebildumi |
+| **Statistika** | *«8 no 10 klientiem, kuri sāk, redz pirmos rezultātus 30 dienās.»* | Q22-Q28 pīlāri |
+| **Case Study** | *«Iepriekšējais klients ar līdzīgu situāciju — sāka ar [X], pēc 90 dienām [Y].»* | Q26 Neural Coupling stāsts |
+| **Ekskluzivitāte** | *«Mēs strādājam ar 3-5 jauniem klientiem mēnesī. Šobrīd ir 1 vieta.»* | Q32 cena |
+
+> **Cialdini likums:** Social Proof strādā visspēcīgāk, ja atsaucies uz cilvēkiem, kas ir LĪDZĪGI klientam (tā pati nozare, līdzīgs izmērs, līdzīga problēma).
+
 
 ## N105 · NEURAL COUPLING 60s STĀSTS
 
@@ -2920,7 +2956,7 @@ Investīcija, lai šo sakārto, ir €X.»*
 
 💀 **KILL CONFIRM:** Klients saka *«kā sākam?»* vai *«kad ir pirmā sesija?»* = pirkšanas signāls. NETURPINI PĀRDOT. Pāriet uz Close.
 
-## KONTRASTA ENKUROŠANA — Cenas Psiholoģija
+### KONTRASTA ENKUROŠANA — Cenas Psiholoģija
 
 > *Pirms saki Q32 cenu — ielieci klienta galvā lielāku skaitli, kas ir viņa nozarei radniecīgs. Smadzenes apstrādā cenu relatīvi, ne absolūti.*
 
@@ -2937,7 +2973,8 @@ Investīcija, lai šo sakārto, ir €X.»*
 
 > **Likumi:** Anchor skaitlim jābūt PATIESAM un PĀRBAUDĀMAM. Max 1× per zvanu. Nelieto, ja klients jau strādā ar šo cenu līmeni.
 
-## KLUSAIS SLĒGUMS — 8-15 Sekunžu Ierocis
+
+### KLUSAIS SLĒGUMS — 8-15 Sekunžu Ierocis
 
 > *Brīdis pēc cenas cipara, kad tu klusē 8-15 sekundes, izšķir 70% close. Pirmais, kas pārtrauc to klusumu, zaudē.*
 
@@ -2951,6 +2988,7 @@ Investīcija, lai šo sakārto, ir €X.»*
 **Kāpēc strādā:** Klusums rada kognitīvu spiedienu. Klients piepilda to ar savām domām — un tās parasti ir *«nu, tas nav tik daudz salīdzinot ar €[COI]»*. Ja TU piepildi klusumu — tu pārtrauc šo procesu un dod klientam iemeslu pretoties.
 
 **⚠ Drilla:** Mājās ieraksti sevi, kā pasaki *«Investīcija ir €3000»* un klusē 15 sekundes. Klausies — vai tavā balsī ir atvainošanās? Vai ir steigas? Atkārto 50 reizes, līdz cena skan kā gravitācija.
+
 
 ## N088 · CENAS RĀMJU LĒMUMU KOKS
 
@@ -2995,7 +3033,12 @@ Investīcija, lai šo sakārto, ir €X.»*
 
 > *Iebildums nav ienaidnieks — tas ir signāls, ka agrāk kāds domino nav nostiprināts.*
 
-## CARE IEBILDUMU IETVARS
+
+## Q33 · Iebildumu Apstrādes Arsenāls
+
+> *Šeit ir VISI rīki, ko lieto Q33-Q39 zonā. Katrs iebildums tiek apstrādāts ar vienu no šiem instrumentiem.*
+
+### CARE IEBILDUMU IETVARS
 
 > *Katrs iebildums apstrādājas pa 4 soļiem. Bez šī ietvara operators reaģē impulsīvi — vai aizstāvies, vai uzbrūk. CARE tevi tur sausā tonā.*
 
@@ -3008,7 +3051,8 @@ Investīcija, lai šo sakārto, ir €X.»*
 
 > ⚠ **CARE secība ir OBLIGĀTA.** Ja izlaid «Connect» un uzreiz «Reframe» — klients sajūt uzbrukumu. Ja izlaid «Engage» — klients paliek savā iebilduma rāmī.
 
-## VAI FORMULA — Ātrā Iebildumu Apstrāde
+
+### VAI FORMULA — Ātrā Iebildumu Apstrāde
 
 > *VAI ir CARE kompresēts variants — lietojams, kad iebildums ir vienkāršs un operators to var atrisināt ātri.*
 
@@ -3020,7 +3064,8 @@ Investīcija, lai šo sakārto, ir €X.»*
 
 > **Kad lietot VAI vs CARE:** VAI = vienkāršiem iebildumiem (cena, laiks, «jāpadomā»). CARE = dziļiem iebildumiem (bailes, identitāte, partnera pretestība). Ja VAI nestrādā pēc 1 cilpas — pārslēdzies uz CARE.
 
-## FEEL FELT FOUND — Empātijas Tilts
+
+### FEEL FELT FOUND — Empātijas Tilts
 
 > *Klasiska 3 soļu tehnika, kad klients jūtas vientuļš savā iebildumā.*
 
@@ -3032,7 +3077,8 @@ Investīcija, lai šo sakārto, ir €X.»*
 
 > **Piesardzība:** Feel Felt Found ir spēcīgs, bet var skanēt «šabloniski», ja lieto pārāk bieži. Max 1× per zvanu. Labākais brīdis = Q35-Q37, kad klients ir tuvu lēmumam, bet baidās.
 
-## NEGATIVE REVERSE SELLING — Pretējais Virziens
+
+### NEGATIVE REVERSE SELLING — Pretējais Virziens
 
 > *«Varbūt tas tiešām nav priekš tevis.» — Kad tu atņem, klients paķer.*
 
@@ -3046,50 +3092,8 @@ Investīcija, lai šo sakārto, ir €X.»*
 
 > **BĪSTAMI:** Ja lieto pārāk bieži vai nepareizā tonī — klients sajūt manipulāciju. Max 1× per zvanu, tikai Whisper balsī.
 
-## BANDWAGON / SOCIAL PROOF — Pūļa Spēks
 
-> *«80% mūsu klientu izvēlas šo variantu.» — Cilvēks seko pūlim, ja nav pilnīgas informācijas.*
-
-| Lietojums | Verbatim | Q zona |
-|-----------|---------|--------|
-| **Normalizēšana** | *«Lielākā daļa uzņēmēju, ar kuriem strādājam, sākumā jautā to pašu.»* | Q35-Q37 iebildumi |
-| **Statistika** | *«8 no 10 klientiem, kuri sāk, redz pirmos rezultātus 30 dienās.»* | Q22-Q28 pīlāri |
-| **Case Study** | *«Iepriekšējais klients ar līdzīgu situāciju — sāka ar [X], pēc 90 dienām [Y].»* | Q26 Neural Coupling stāsts |
-| **Ekskluzivitāte** | *«Mēs strādājam ar 3-5 jauniem klientiem mēnesī. Šobrīd ir 1 vieta.»* | Q32 cena |
-
-> **Cialdini likums:** Social Proof strādā visspēcīgāk, ja atsaucies uz cilvēkiem, kas ir LĪDZĪGI klientam (tā pati nozare, līdzīgs izmērs, līdzīga problēma).
-
-## VOSS «NĒ» PSIHOLOĢIJA — FBI Negotiation Instruments
-
-> *Chris Voss (FBI hostage negotiator): Latvieši nemīl teikt «jā» svešam — tas šķiet riskanti. Bet «nē» sniedz drošības sajūtu — viņi sajūt kontroli.*
-
-| Klasiskā forma | Voss «Nē» forma | Klienta zemapziņas atbilde |
-|----------------|-----------------|--------------------------|
-| *«Vai mēs varam virzīties uz priekšu?»* | *«Vai būtu nelaikā tev pievērsties tam tagad?»* | *«Nē, nebūtu nelaikā»* = **Jā** |
-| *«Vai jūs piekrītat?»* | *«Vai jūs esat pret to, lai pārbaudām, vai šis darbojas?»* | *«Nē, neesmu pret»* = **Jā** |
-| *«Vai gribat sākt?»* | *«Vai būtu smieklīgi, ja apsvertu sākt nākamnedēļ?»* | *«Nē, nebūtu smieklīgi»* = **Jā** |
-
-**Kad ieslēgt:** Q33-Q40, kad klients dod «mīkstos nē» (*«jāpadomā», «varbūt vēlāk»*). Max 2× per zvanu.
-
-**BREAK GLASS — pēdējais Voss instruments (Q40):**
-> *«[Vārds], ko es daru tagad nepareizi? Es klausos un man šķiet, ka tu GRIBI šo, bet es nesaprotu, kas tevi tur atpakaļ.»*
-
-Strādā, jo operators kļūst par «mēģinātāju saprast» — klients kļūst par «skolotāju». Mainās rāmis.
-
-## CEO OBJECTION — Partnera / Vadītāja Iebildums
-
-> *Klients Q35 saka «man jāapspriežas ar partneri/sievu/vadītāju» — bet to atzīst TIKAI PĒC cenas. Tas nozīmē — viņš grib, bet nevar lemt viens.*
-
-**Skripts:**
-> *«Es pilnībā saprotu, [vārds]. Lai tev nevajadzētu to visu atstāstīt savam [partnerim] un riskēt, ka kaut kas pazūd tulkojumā — vai tas šķiet saprātīgi, ja es 5 minūtēs pievienojos jūsu nākamajai sarunai? Es atbildēšu uz viņa jautājumiem uzreiz, un tu būsi tas, kurš atrada risinājumu — ne tas, kurš mēģina to «pārdot» iekšēji.»*
-
-| Iznākums | Ko dari |
-|----------|---------|
-| Klients piekrīt → trīspusīgais zvans | Q40 atlikts uz to zvanu |
-| Klients atsakās — *«es pats pateikšu»* | Dod vienas lapas summary PDF ar 3 pīlāriem + cenu |
-| Klients: *«viņa nav klāt»* | *«Kad jūs abi varat būt kopā?»* — pārplāno |
-
-## TAKEAWAY CLOSE — Atņemšanas Tehnika
+### TAKEAWAY CLOSE — Atņemšanas Tehnika
 
 > *«Varbūt mēs šobrīd virzāmies pārāk ātri.» — Silta atņemšana, ne agresīva.*
 
@@ -3106,18 +3110,6 @@ Strādā, jo operators kļūst par «mēģinātāju saprast» — klients kļūs
 
 > **⚠ NEDRĪKST:** Nelieto ar Money-MICE klientu (lasīs kā cenas atlaides spēli). Nelieto kā close triku — dari TIKAI ja patiesi domā, ka klients nav gatavs.
 
-## 6 KLIENTU ARHETIPI — MICE-MAPPĒTI
-
-> *Katrs arhetips nosaka, kā pielāgot Q22 rāmi, Q26 pīlārus un Q32 cenu.*
-
-| Arhetips | MICE | Q22 Rāmis | Q26 Pīlāri | Q32 Cena |
-|----------|------|-----------|------------|----------|
-| **Skeptiķis** | Money | ROI matemātika · €/lead | Skaitļi · case studies · ROI | Anchor high → drop low |
-| **Vizionārs** | Ideology | *«Tu nepazūdi rutīnā, tu būvē vīziju»* | Legacy stāsts · ietekme uz nozari | «Ieguldījums vīzijā» |
-| **Pragmatiķis** | Compromise | *«2 ceļi — droši rīt, riskanti pēc gada»* | Garantijas · pakāpenisks ieviesums | Drošā ceļa enkurs |
-| **Lepnais** | Ego | *«Tu atjauno vadību nozarē»* | «Top 1% klubs» · ekskluzivitāte | Prestiža investīcija |
-| **Analītiķis** | Money+Compromise | ROI + riska profils | Case studies · A/B testi | Dati-balstīts |
-| **Pirmsreizējais** | Beginner | Vienkāršs sistēmas attēls | «Pamati» valoda · vienkārši pīlāri | Zemākā barjera |
 
 ## MANIPULĀCIJA vs INSPIRĀCIJA — Operatora Nostāja
 
@@ -3258,6 +3250,20 @@ Strādā, jo operators kļūst par «mēģinātāju saprast» — klients kļūs
 | 🔒 Lock | Partnera Lock | Klients atzīst ka VAR lemt pats, vai dod datumu ar partneri |
 | 💬 NLP | Zeigarnik efekts | Ja klients nenosauc partneri — atstāj «kādu novērojumu» kā iemeslu sazināties |
 
+### CEO OBJECTION — Partnera / Vadītāja Iebildums
+
+> *Klients Q35 saka «man jāapspriežas ar partneri/sievu/vadītāju» — bet to atzīst TIKAI PĒC cenas. Tas nozīmē — viņš grib, bet nevar lemt viens.*
+
+**Skripts:**
+> *«Es pilnībā saprotu, [vārds]. Lai tev nevajadzētu to visu atstāstīt savam [partnerim] un riskēt, ka kaut kas pazūd tulkojumā — vai tas šķiet saprātīgi, ja es 5 minūtēs pievienojos jūsu nākamajai sarunai? Es atbildēšu uz viņa jautājumiem uzreiz, un tu būsi tas, kurš atrada risinājumu — ne tas, kurš mēģina to «pārdot» iekšēji.»*
+
+| Iznākums | Ko dari |
+|----------|---------|
+| Klients piekrīt → trīspusīgais zvans | Q40 atlikts uz to zvanu |
+| Klients atsakās — *«es pats pateikšu»* | Dod vienas lapas summary PDF ar 3 pīlāriem + cenu |
+| Klients: *«viņa nav klāt»* | *«Kad jūs abi varat būt kopā?»* — pārplāno |
+
+
 ## N068 · CARE IETVARS (Emocionāliem iebildumiem)
 
 | Solis | Ko dari | Verbatim |
@@ -3396,6 +3402,24 @@ Pēc atvadīšanās — atgriezies ar vienu pēdējo jautājumu:
 *«Ak, vēl viena lieta — kas PATIESĪBĀ tevi aptur?»*
 Kolumbo strādā, jo klients jau ir «atvadījies» — aizsardzība ir zemāk nekā jebkad.
 
+### VOSS «NĒ» PSIHOLOĢIJA — FBI Negotiation Instruments
+
+> *Chris Voss (FBI hostage negotiator): Latvieši nemīl teikt «jā» svešam — tas šķiet riskanti. Bet «nē» sniedz drošības sajūtu — viņi sajūt kontroli.*
+
+| Klasiskā forma | Voss «Nē» forma | Klienta zemapziņas atbilde |
+|----------------|-----------------|--------------------------|
+| *«Vai mēs varam virzīties uz priekšu?»* | *«Vai būtu nelaikā tev pievērsties tam tagad?»* | *«Nē, nebūtu nelaikā»* = **Jā** |
+| *«Vai jūs piekrītat?»* | *«Vai jūs esat pret to, lai pārbaudām, vai šis darbojas?»* | *«Nē, neesmu pret»* = **Jā** |
+| *«Vai gribat sākt?»* | *«Vai būtu smieklīgi, ja apsvertu sākt nākamnedēļ?»* | *«Nē, nebūtu smieklīgi»* = **Jā** |
+
+**Kad ieslēgt:** Q33-Q40, kad klients dod «mīkstos nē» (*«jāpadomā», «varbūt vēlāk»*). Max 2× per zvanu.
+
+**BREAK GLASS — pēdējais Voss instruments (Q40):**
+> *«[Vārds], ko es daru tagad nepareizi? Es klausos un man šķiet, ka tu GRIBI šo, bet es nesaprotu, kas tevi tur atpakaļ.»*
+
+Strādā, jo operators kļūst par «mēģinātāju saprast» — klients kļūst par «skolotāju». Mainās rāmis.
+
+
 ## N158 · POWER TAKEBACK
 Kad klients saka «Man viss labi»:
 *«Lieliski. Tad kāpēc tu esi šeit?»*
@@ -3502,6 +3526,87 @@ Katrs «vēlāk/padomāšu/atsūti» = izvairīšanās. Neakceptē. Izolē sakni
 ⚔ **COMBO SECĪBA:**
 *Dopamīna slēdzene (N092) — pirmā uzvara TAGAD: «Kas ir TĀ viena lieta, ko tu vari izdarīt 24h?» (NLP action trigger) → klients jūtas kā uzvarētājs (MICE motors nostiprināts) → «Tu tikko pieņēmi lēmumu, ko 90% nespēj» (Maska: pircējs → līderis) → «Mūsu pirmā sesija — [datums]» (Lock: datums fiksēts) → 2h teksts ar nākamajiem soļiem (cilvēka dabas likums: jaunais sākums ir reāls) → Q41+ NOGALINĀTS. SARUNA PABEIGTA. KLIENTS IR PARTNERA STATUSĀ.*
 
+
+## Q41 · Pēc-Zvana Sistēma — Viss Vienā Vietā
+
+> *Viss, kas notiek pēc zvana — follow-up, ghosting, reactivation, lojalitāte — vienā atomā.*
+
+### SERHANT 3-F FOLLOW-UP — Pēc Katra Zvana
+
+> *Ryan Serhant: «Follow-up pēc 10 minūtēm — kamēr klients vēl jūt sarunu ķermenī.»*
+
+| # | Solis | Laiks | Ko dari |
+|---|-------|-------|---------|
+| 1 | **Find** — atrodi klientu | 0-10 min pēc zvana | Nosūti īsu, personisku ziņu (WhatsApp/e-pasts): *«Prieks bija runāt. Viens jautājums man palika prātā — [konkrēts moments no sarunas].»* |
+| 2 | **Follow** — seko līdzi | 24-48h | Nosūti solīto materiālu (case study, prezentācija, video). Nav «pārbaudīt kā iet» — dod VĒRTĪBU. |
+| 3 | **Friend** — kļūsti par cilvēku | 7-30 dienas | Seko sociālajos, komentē, dalies ar noderīgu saturu. Klients redz tevi kā CILVĒKU, ne pārdevēju. |
+
+> **Serhant likums:** *«Cilvēki aizmirst, ko tu teici. Cilvēki atceras, kā tu liki justies. Sekošana IR tas, kā tu liec justies.»*
+
+
+### REACTIVATION 30-DIENU SECĪBA + MERE EXPOSURE
+
+> *80% pārdošanu notiek pēc 5. kontakta. Lielākā daļa operatoru apstājas pēc 1.*
+
+**Mere Exposure efekts:** Jo biežāk klients saskaras ar tavu vārdu/seju/vēstījumu — jo pazīstamāks un uzticamāks tu kļūsti. Tas nav «spamošana» — tas ir sistemātiska klātbūtne.
+
+| Diena | Kanāls | Ko dari | Mērķis |
+|-------|--------|---------|--------|
+| **D1** | WhatsApp | *«Sveiks! Paldies par sarunu. Kā solīju — [materiāls].»* | Serhant Follow solis |
+| **D3** | E-pasts | Case study vai video, kas adresē klienta konkrēto sāpi | Vērtība, ne pitch |
+| **D7** | WhatsApp | *«Kā iet ar [konkrēta lieta no sarunas]?»* | Cilvēcisks kontakts |
+| **D14** | E-pasts | Nozares insights vai stats, kas saistīti ar klienta problēmu | Autoritāte |
+| **D21** | Telefons | Īss zvans: *«Es domāju par tavu situāciju ar [X]. Vai ir kaut kas jauns?»* | Re-engage |
+| **D30** | WhatsApp / E-pasts | *«Pēdējais jautājums — vai joprojām gribi atrisināt [sāpe]? Ja jā — man ir ideja.»* | Final push vai graceful exit |
+
+> **Pēc 30 dienām:** Ja klients nav atbildējis — pārcel uz 90-dienu cilpu (reizi mēnesī vērtības ziņa). Nekad nenodzēs kontaktu — tikai mainī frekvenci.
+
+
+### GHOSTING BREAK-UP PROTOKOLS — Pēc 7+ Dienām Bez Atbildes
+
+> *Standarta follow-up vairs nestrādā. Ieslēdzam atņemšanas loģiku — profesionāli un bez agresijas.*
+
+**Skripts (e-pasts vai WhatsApp pēc 7 dienām bez atbildes):**
+
+> *«Sveiks, [Vārds]. Tā kā nesaņēmu no tevis ziņu, pieņemu, ka prioritātes ir mainījušās vai esi izvēlējies citu virzienu. Slēdzu šo lietu savā sistēmā, lai vairs tevi netraucētu. Ja situācija mainās — zini, kur mani atrast.»*
+
+**Siltāks variants (ja zvans bija dziļš):**
+
+> *«[Vārds], cerēju saņemt no tevis ziņu — lai mums abiem netērētu laiku, vienkārši pasaki, kā tev šķiet pareizi: turpinām vai šobrīd nē.»*
+
+**Statistika (Serhant):** ~80% klientu atbild UZREIZ uz break-up ziņu, no tiem ~30-40% reaktivējas un noslēdzas.
+
+| ✅ DRĪKST | ❌ NEDRĪKST |
+|-----------|------------|
+| Sūti vienreiz | Nesūti 2× vai 3× |
+| Ja atbild «sorry, biju aizņemts» → *«Nav problēma. Kad būtu īstais brīdis?»* | Nelieto, ja pēdējais kontakts bija < 5 dienām |
+| Break-up = PĒDĒJAIS ziņojums šajā ciklā | Nesakaļini ar citiem follow-up |
+
+
+### LOJALITĀTES CILPA — Post-Close Bridge
+
+> *Pārdošana nebeidzas ar parakstītu līgumu. Tā beidzas ar klienta PIRMO REZULTĀTU.*
+
+| Laiks | Ko dari | Skripts |
+|-------|---------|---------|
+| **24h** pēc onboarding | Īsa ziņa/zvans (5 min) | *«Pārbaudu, vai onboarding ir gājis labi. Vai ir kas, ko varam paātrināt?»* |
+| **7 dienas** | 10-15 min zvans — pirmie rezultāti | *«Kā iet ar pirmajiem leadiem? Kas patīkami pārsteidzis? Kas vēl nav tik?»* |
+| **30 dienas** | Referāļa skripts (ja ir vismaz 1 kvalitatīvs lead) | *«Vai ir kāds uzņēmējs tavā lokā, kuram arī sāp [līdzīga problēma]?»* |
+| **365 dienas** | Gada reset zvans | Re-evaluate sistēmu, atjaunot līgumu vai re-engage |
+
+> **Statistika:** 1 labi apkalpots klients = vidēji 2-3 kvalificēti referāļi gadā. Tas ir bezmaksas pipeline.
+
+
+### LOJALITĀTES CILPA — Pēc Close Retences Sistēma
+
+> *Klients, kurš ir nopircis, ir 6× vērtīgāks nekā jauns klients. Lojalitātes cilpa nodrošina, ka viņš paliek un iesaka.*
+
+1. **Onboarding 7d:** Pirmā uzvara 48h. Homework 24h pēc close. Pirmā sesija ≤5d.
+2. **Stabilizācija 30d:** Nedēļas check-in. Mēra pirmos rezultātus. Nostiprina lēmumu.
+3. **Izaugsme 90d:** Paplašina scope. Piedāvā L2-L3 pakāpienu. Prasa referral.
+4. **Lojāls partneris 180d+:** Klients kļūst par iekšējo čempionu. Iesaka citiem. Atgriežas pēc papildus pakalpojumiem.
+
+---
 
 ## Q37.5 · Dopamīna Slēdzene (N092)
 *Pēc close — 43:00*
@@ -3725,68 +3830,6 @@ One-click automatizācija:
 - **Jā path:** CRM update + 2h teksts + homework + sesijas plānošana
 - **Nē path:** Follow-up template + re-engagement schedule
 
-## SERHANT 3-F FOLLOW-UP — Pēc Katra Zvana
-
-> *Ryan Serhant: «Follow-up pēc 10 minūtēm — kamēr klients vēl jūt sarunu ķermenī.»*
-
-| # | Solis | Laiks | Ko dari |
-|---|-------|-------|---------|
-| 1 | **Find** — atrodi klientu | 0-10 min pēc zvana | Nosūti īsu, personisku ziņu (WhatsApp/e-pasts): *«Prieks bija runāt. Viens jautājums man palika prātā — [konkrēts moments no sarunas].»* |
-| 2 | **Follow** — seko līdzi | 24-48h | Nosūti solīto materiālu (case study, prezentācija, video). Nav «pārbaudīt kā iet» — dod VĒRTĪBU. |
-| 3 | **Friend** — kļūsti par cilvēku | 7-30 dienas | Seko sociālajos, komentē, dalies ar noderīgu saturu. Klients redz tevi kā CILVĒKU, ne pārdevēju. |
-
-> **Serhant likums:** *«Cilvēki aizmirst, ko tu teici. Cilvēki atceras, kā tu liki justies. Sekošana IR tas, kā tu liec justies.»*
-
-## REACTIVATION 30-DIENU SECĪBA + MERE EXPOSURE
-
-> *80% pārdošanu notiek pēc 5. kontakta. Lielākā daļa operatoru apstājas pēc 1.*
-
-**Mere Exposure efekts:** Jo biežāk klients saskaras ar tavu vārdu/seju/vēstījumu — jo pazīstamāks un uzticamāks tu kļūsti. Tas nav «spamošana» — tas ir sistemātiska klātbūtne.
-
-| Diena | Kanāls | Ko dari | Mērķis |
-|-------|--------|---------|--------|
-| **D1** | WhatsApp | *«Sveiks! Paldies par sarunu. Kā solīju — [materiāls].»* | Serhant Follow solis |
-| **D3** | E-pasts | Case study vai video, kas adresē klienta konkrēto sāpi | Vērtība, ne pitch |
-| **D7** | WhatsApp | *«Kā iet ar [konkrēta lieta no sarunas]?»* | Cilvēcisks kontakts |
-| **D14** | E-pasts | Nozares insights vai stats, kas saistīti ar klienta problēmu | Autoritāte |
-| **D21** | Telefons | Īss zvans: *«Es domāju par tavu situāciju ar [X]. Vai ir kaut kas jauns?»* | Re-engage |
-| **D30** | WhatsApp / E-pasts | *«Pēdējais jautājums — vai joprojām gribi atrisināt [sāpe]? Ja jā — man ir ideja.»* | Final push vai graceful exit |
-
-> **Pēc 30 dienām:** Ja klients nav atbildējis — pārcel uz 90-dienu cilpu (reizi mēnesī vērtības ziņa). Nekad nenodzēs kontaktu — tikai mainī frekvenci.
-
-## GHOSTING BREAK-UP PROTOKOLS — Pēc 7+ Dienām Bez Atbildes
-
-> *Standarta follow-up vairs nestrādā. Ieslēdzam atņemšanas loģiku — profesionāli un bez agresijas.*
-
-**Skripts (e-pasts vai WhatsApp pēc 7 dienām bez atbildes):**
-
-> *«Sveiks, [Vārds]. Tā kā nesaņēmu no tevis ziņu, pieņemu, ka prioritātes ir mainījušās vai esi izvēlējies citu virzienu. Slēdzu šo lietu savā sistēmā, lai vairs tevi netraucētu. Ja situācija mainās — zini, kur mani atrast.»*
-
-**Siltāks variants (ja zvans bija dziļš):**
-
-> *«[Vārds], cerēju saņemt no tevis ziņu — lai mums abiem netērētu laiku, vienkārši pasaki, kā tev šķiet pareizi: turpinām vai šobrīd nē.»*
-
-**Statistika (Serhant):** ~80% klientu atbild UZREIZ uz break-up ziņu, no tiem ~30-40% reaktivējas un noslēdzas.
-
-| ✅ DRĪKST | ❌ NEDRĪKST |
-|-----------|------------|
-| Sūti vienreiz | Nesūti 2× vai 3× |
-| Ja atbild «sorry, biju aizņemts» → *«Nav problēma. Kad būtu īstais brīdis?»* | Nelieto, ja pēdējais kontakts bija < 5 dienām |
-| Break-up = PĒDĒJAIS ziņojums šajā ciklā | Nesakaļini ar citiem follow-up |
-
-## LOJALITĀTES CILPA — Post-Close Bridge
-
-> *Pārdošana nebeidzas ar parakstītu līgumu. Tā beidzas ar klienta PIRMO REZULTĀTU.*
-
-| Laiks | Ko dari | Skripts |
-|-------|---------|---------|
-| **24h** pēc onboarding | Īsa ziņa/zvans (5 min) | *«Pārbaudu, vai onboarding ir gājis labi. Vai ir kas, ko varam paātrināt?»* |
-| **7 dienas** | 10-15 min zvans — pirmie rezultāti | *«Kā iet ar pirmajiem leadiem? Kas patīkami pārsteidzis? Kas vēl nav tik?»* |
-| **30 dienas** | Referāļa skripts (ja ir vismaz 1 kvalitatīvs lead) | *«Vai ir kāds uzņēmējs tavā lokā, kuram arī sāp [līdzīga problēma]?»* |
-| **365 dienas** | Gada reset zvans | Re-evaluate sistēmu, atjaunot līgumu vai re-engage |
-
-> **Statistika:** 1 labi apkalpots klients = vidēji 2-3 kvalificēti referāļi gadā. Tas ir bezmaksas pipeline.
-
 ## POST-CALL RITUĀLS — 10:3:1 ZELTA PRINCIPS
 
 > *Pārdošanas operatori, kuri pieaug — pieaug tieši šeit. Tas, kas notiek 30 minūtes PĒC zvana, izšķir, vai nākamais zvans būs labāks.*
@@ -3844,16 +3887,6 @@ One-click automatizācija:
 **Closing kodu secība (C1-C12):**
 - C1 Price Strike → C2 Price Collapse → C3 Silence Weapon → C4 Thinker Killer → C5 Collision → C6 Math Reframe → C7 Double Reality → C8 Identity Lock → C9 Failsafe Exit → C10 Time Collapse → C11 No Escape Close → C12 The Invoice
 
-## LOJALITĀTES CILPA — Pēc Close Retences Sistēma
-
-> *Klients, kurš ir nopircis, ir 6× vērtīgāks nekā jauns klients. Lojalitātes cilpa nodrošina, ka viņš paliek un iesaka.*
-
-1. **Onboarding 7d:** Pirmā uzvara 48h. Homework 24h pēc close. Pirmā sesija ≤5d.
-2. **Stabilizācija 30d:** Nedēļas check-in. Mēra pirmos rezultātus. Nostiprina lēmumu.
-3. **Izaugsme 90d:** Paplašina scope. Piedāvā L2-L3 pakāpienu. Prasa referral.
-4. **Lojāls partneris 180d+:** Klients kļūst par iekšējo čempionu. Iesaka citiem. Atgriežas pēc papildus pakalpojumiem.
-
----
 # PIELIKUMI
 
 ## P.1 · PĀRLIECĪBU KĀPNES (N005, N027, N050)
@@ -4686,10 +4719,6 @@ Neuralink-iedvesmots meta-ietvars: kā AI sistēma var monitorēt, analizēt un 
 | 4 | Q33-Q41 (Iebildumi + Close) | 5 reāli zvani ar trenera klausīšanos |
 
 
-
-
-
-
 ## OG MANDINO IDENTITĀTES SPOGUĻI — 5 Stāsti (N196)
 
 > *Stāsti NAV motivācija — tie ir identitātes spoguļi. Klients redz SEVI stāstā.*
@@ -5372,7 +5401,6 @@ Struktūra: **[Cilvēks līdzīgā situācijā] + [Viņa problēma = tava probl�
 | 18 | Blueprint diagrammas BP01-BP10 | ✓ |
 | 19 | KOMBO = reāls pielietojums, ne komentārs | ✓ |
 | 20 | 0 «dievs2» atsauces | ✓ |
-
 
 
 ## NEIRONU PAPLAŠINĀJUMI — V122 Pilnais Saturs
@@ -6161,8 +6189,6 @@ Post-Close 5min protokols.
 > AI PĀRDOŠANAS NERVU SISTĒMA (AI Revenue Nervous System)
 ▸ «Reklāma atnes signālus. AI tos atkodē. Pārdošana reaģē ātrāk. CRM mācās. Īpašnieks iegūst kontroli.»
 Neuralink-iedvesmots meta-ietvars pārdošanai: signāli(leads/zvani/čati/CRM) → AI dekodēšana(kurš karsts/kurš pazūd/kur lūzt) → komanda(zvani tagad/sūti SMS/nav price objection bet trust) → rezultāts → feedbac
-
-
 
 
 ---
@@ -9122,10 +9148,7 @@ Neuralink-iedvesmots meta-ietvars pārdošanai: signāli(leads/zvani/čati/CRM) 
 - 4) Button-Down (Close) The Sale.
 
 
-
-
 ---
-
 
 
 ## GATAVĪBAS SKALA — Readiness Scale (Q36)
@@ -9312,7 +9335,6 @@ OPERATORA SOLĪJUMS
 — Lauris Leitāns / Sharpify.io
 
 ---
-
 
 
 # SalesEngine V15 · Premium Book · Latviskais Master Skripts
