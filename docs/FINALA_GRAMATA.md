@@ -143,6 +143,54 @@ Slaidiem papildus:
 > | **4. nedēļa** | Q33-Q41 (Iebildumi + Close) | CIA-PATT×10, pilni zvani×5 |
 > *Katru dienu 1h treniņš. Pēc 4 nedēļām — pirmie reālie zvani ar mentoru klausoties.*
 
+## MASTER BLUEPRINT — Sistēmas Anatomija Q0–Q41+
+
+> *Visa saruna ir viena kustīga līnija, kas iet cauri 5 krāsu posmiem un 5 vārtiem. Šis ir tavs GPS.*
+
+```
+VIZUĀLAIS: Metro/shēmas karte ar krāsu kodētiem posmiem un 5 vārtiem
+
+┌──────────────┬────────────────┬──────────────┬──────────────────┬─────────────────┐
+│  🟢 ZAĻAIS   │  🔵 ZILAIS     │  🔴 SARKANAIS │  ⬜ BALTAIS      │  🔷 CIĀNA       │
+│  Q1-Q3       │  Q4-Q20        │  Q21.5       │  Q22-Q32         │  Q33-Q41+       │
+│  Drošība     │  Diagnoze &    │  Hope Break  │  Pīlāri un Cena  │  Iebildumi un   │
+│              │  Sāpes         │  (Kritiskais)│                  │  Darījums       │
+│  Vārti 1     │  Vārti 2 + 3   │  Vārti 4     │  Vārti 5         │                 │
+└──────────────┴────────────────┴──────────────┴──────────────────┴─────────────────┘
+```
+
+| Posms | Krāsa | Q zona | Mērķis | Vārti |
+|-------|-------|--------|--------|-------|
+| **Zaļais** | 🟢 | Q1-Q3 | Drošība, Frame, Lēmēja Lock | Vārti #1: Lēmēja Lock |
+| **Zilais** | 🔵 | Q4-Q20 | Diagnoze, Sāpes, COI, Hidden Contract | Vārti #2 (pēc Q6): Steidzamība + #3 (Q11): COI Lock |
+| **Sarkanais** | 🔴 | Q21.5 | Hope Break — LOAD-BEARING kritiskais punkts | Vārti #4: Hope Break izturēts |
+| **Baltais** | ⬜ | Q22-Q32 | Pīlāri, IKEA, Belief Lock, D16 Engine, Cena | Vārti #5 (Q26): BLC ≥8/10 |
+| **Ciāna** | 🔷 | Q33-Q41+ | Iebildumi, CIA-PATT, Close, Post-Close | — (ja vārti #1-5 izturēti, close ir organiska) |
+
+> *«Operators neizglābj no patiesības. Operators ļauj cerībai nomirt, lai varētu dzīvot process.»*
+
+## HUD VIZUĀLAIS CEĻVEDIS — Katram Aktam Savs Attēls
+
+> *Šeit ir AI attēlu ģenerēšanas apraksti, kas izvada katru AKTS kā vizuālu karti lasītājam.*
+
+| AKTS | Vizuālais elements | Apraksts |
+|------|-------------------|---------|
+| **Titullapa** | Kognitīvā Operatora Pults | Centrā — inženiertehnisks aplis ar SYS.V122 markeriem, «SALESENGINE 2026» |
+| **Identitātes Kodekss** | Amatieris vs PRO tabula | Kreisā puse (sarkana) = amatieris, labā (zila) = PRO. 5 dimensijas: Mērķis, Taktika, Dinamika, Secība, Pozīcija |
+| **AKTS 0** | Ķermeņa siluets | Tukšās Krūzes Likums + Sirds koherences mērītājs (4s/8s). 3 Naudas Likumi blokā |
+| **AKTS I** | 3 bloku plūsma → Lock | Q1→Q2→Q3 bloki ar bultām, beidzas ar lielu piekaramo atslēgu (Vārti #1) |
+| **AKTS II** | Apgriezta piltuve | Q4 Sakne → Q5 Ideāls → Q6 Urgency → Q7 Cipari. Apakšā Vārti #2 |
+| **AKTS III** | Akmens kaudze | 4 slāņi: Pain → Root → Consequence → Ownership. Blakus: Empātiskais klusums 5-8s |
+| **COI** | Radara diagramma | 5 dimensijas: Nauda, Laiks, Attiecības, Veselība, Iespējas. Vārti #3 apakšā |
+| **AKTS IV** | Sazarošanās shēma | Hope Break sitiens → 4 iespējamās reakcijas (A: Atzīst, B: Daļēji, C: Pretojas, D: Aizsargājas) |
+| **AKTS V** | 3 pīlāru templis | Investora Rāmis, 3 pīlāri, Q26 Neural Coupling stāsts. Vārti #5 apakšā |
+| **Svaru Kausi** | Svaru kausi | Kreisā = COI+Sāpe+Laiks+HopeBreak (smaga). Labā = Cena+Komforts (viegla) |
+| **AKTS VI** | D16 Engine plāksne | Metāla plāksne ar formulu. Apakšā: KLUSUMS progress bar 7-15s |
+| **AKTS VII** | Masku Domino dekoderis | 4 rindas: Saka(Virsma) → Īstā Sakne → Taktika. «Objection = Symptom» |
+| **CIA-PATT** | 6-soļu aplis | Clarify→Isolate→Appreciate→Permission→Transform→Time. Centrā: Max 3 cilpas |
+| **AKTS VIII** | Kāpnes ar gaismu | 4 pakāpieni: Tūlītēja Kustība → Derība → Sēkla → Spogulis. Augšā: gaisma |
+| **Failsafe** | Oranžie brīdinājuma bloki | Drift Recovery + Kill Switch 4 DQ + FE pēc 3 cilpām |
+| **Master** | Metro karte | 5 krāsu posmi ar 5 vārtiem — pilna Q0-Q41+ plūsma |
 
 ---
 
@@ -1525,6 +1573,23 @@ Ja klients novirzās pirmajos 3 jautājumos: «Es saprotu, ka tev ir daudz ko pa
 ---
 # AKTS II — DIAGNOZE (Q4–Q7)
 
+## DZIĻUMA SKENĒŠANA — 4 Slāņu Diagnostikas Modelis
+
+> *Klients runā uz 4 līmeņiem vienlaicīgi. Operators klausās VISUS 4, ne tikai virsmu.*
+
+```
+VIZUĀLAIS: Apgriezta piramīda — platākais augšā (Virsma), šaurākais apakšā (Identitāte)
+```
+
+| Slānis | Ko klients | Ko operators dzird | Neiroķīmija |
+|--------|-----------|-------------------|-------------|
+| **SAKA** (Virsma) | *«Vajag klientus»* | Simptoms, ne cēlonis | — |
+| **DOMĀ** (Loģika) | *«Nav sistēmas»* | Racionālā problēma | Prefrontālais kortekss |
+| **JŪT** (Emocijas) | *(nerunā — bet dzird balsī)* | Stress, vientulība, bailes | Kortizols ↑ |
+| **NEAPZINĀS** (Identitāte) | *(klients pats nezina)* | Maska · Identitātes konflikts | Amigdala |
+
+> **Operators nekad nepāriet uz Q22 (piedāvājumu), kamēr nav sasniedzis 3. vai 4. slāni.** Ja paliec 1. slānī — tu esi konsultants, ne diagnostikas. Ja aizej līdz 4. — tu esi ārsts.
+
 ## Q4 · Galvenā Lieta
 *Laiks: 2:00-3:00*
 
@@ -2593,6 +2658,27 @@ Kognitīvā konfrontācija: *«Tu šobrīd «pērc» savu mieru par €[X] mēne
 «Pirms mēs ejam tālāk — es gribu pārliecināties, ka tev ir skaidrs, KĀPĒC mēs šo darām. Tu teici [citāts]. Vai tas joprojām ir galvenais?»
 ---
 # AKTS VI — CENA (Q29–Q32)
+
+## LĒMUMA MATEMĀTIKA — Svaru Kausu Pārsvars
+
+> *Operators nekad «nepārdod» cenu. Operators sakrauj svaru kausā visu, ko klients pats ir teicis — un ļauj gravitācijai strādāt.*
+
+```
+VIZUĀLAIS: Svaru kausi — kreisā puse (smaga) nosver labo pusi (viegla)
+
+     KREISĀ PUSE (Uzvar):          LABĀ PUSE (Zaudē):
+     ┌─────────────────┐           ┌───────────────┐
+     │  + COI Cipars    │           │  Cena (€)     │
+     │  + Emocionālā    │           │  + Vecais     │
+     │    Sāpe (Stress) │           │    komforts   │
+     │  + Zaudētais     │           └───────────────┘
+     │    Laiks (X gadi)│
+     │  + Hope Break    │
+     │    (Nav procesa) │
+     └─────────────────┘
+```
+
+**Koncepcija:** Kad kreisā puse izskauž labo — lēmums kļūst neizbēgams. **Pain > Delay = Decision.** Operators nekad nesaka *«pirk»* — viņš vienkārši sakrauj VISUS enkurus kreisajā kausā, un klients pats redz, ka lēmums ir vienīgā loģiskā izeja.
 
 > *Nekad neaizstāvi cenu. Cena ir fakts. Gravitācija nav jāaizstāv.* — N183
 
