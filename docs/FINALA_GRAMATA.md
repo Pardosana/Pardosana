@@ -1,4 +1,5 @@
 # SALESENGINE — FINĀLĀ GRĀMATA
+
 ## Viens organisms · Viena līnija · Viens Flow
 ### 257 Neironi · 22 KOMBO · 8 Akti · Q0–Q41+
 
@@ -6,200 +7,257 @@
 > *«Es nestrādāju ar visiem.»*
 > *«Es nepārdošu — diagnozēju.»*
 
-**Avoti:** V116 Final · V119 TEKEN3 · V120 Fixed · V121 Blueprint · V122 Full · V125 Elite · V102 Final · V108 Final · V109.1 Final · V114 Grāmata · pilna.pdf · V101 · V4 Monolīts · Drive 98 faili (726K chars) · GitHub Pardosana/Pardosana repo (V14.1 + V15 + V16 + FULL.md + MASTER_CORPUS)
-
-**Lasīšanas režīmi:** 🔴 LIVE (zvana laikā) · 🟠 TRENIŅŠ (starp zvaniem) · 🟢 ARSENĀLS (sesijās)
+**Lauris Leitāns · Sharpify.io · 2026**
 
 ---
+
+## KĀ LASĪT ŠO GRĀMATU
+
+| Elements | Ko tas nozīmē |
+|----------|----------------|
+| Q14 | Jautājuma numurs — tavs kompasa punkts zvanā |
+| *Kursīvs teksts* | Precīza frāze, ko tu saki klientam |
+| ⏸ 5-10s | Klusuma indikators — veids un ilgums |
+| ✓ Zaļā gaisma | Klients gatavs virzīties tālāk |
+| ✗ Sarkanā gaisma | Apstājies — kaut kas nav gatavs |
+| ⚛ Zinātne | Neironaukas princips fonā |
+| ⚙ Tehnika | Specifiska taktika no meistara |
+| 🧬 Molekula | Neirona bloks ieausts Q pozīcijā |
+| ⚔ KOMBO | TEKKEN 3 stila kombinācija |
+| 🔒 Lock | Obligāts pirms turpināt |
+| 🔓 Ja nav Lock | Ko darīt, ja Lock nav |
+| N### | Neirona ID — atrodams katalogā |
+
+---
+
 ## SATURS
 
 | Daļa | Saturs | Q zona |
 |------|--------|--------|
-| **DAĻA 0** | SISTĒMAS DNS — Filosofija, MICE, 7 Likumi, V13, V∞ | Pre-call |
-| **AKTS 0** | Pirms zvana — Operatora stāvoklis, PRO Self-Regulation, Dienas cikls | Q0 |
-| **AKTS I** | Atvēršana — Drošības/Frame/Lēmēja KOMBO | Q1–Q3 |
-| **AKTS II** | Diagnoze — MICE motors, ROI, Kāpņu metode | Q4–Q7 |
-| **AKTS III** | Karte & Plaisa — Sāpes, COI 5D, Hidden Contract | Q8–Q20 |
-| **AKTS IV** | Patiesības moments — Hope Break, Double Reality | Q21–Q21.5 |
-| **AKTS V** | Pīlāri — Piedāvājums, Belief Lock, IKEA, Stāsts | Q22–Q28 |
-| **AKTS VI** | Cena — Klusums, D16 Engine, MICE cenas rāmji | Q29–Q32 |
-| **AKTS VII** | Iebildumi — CIA-PATT, Objection Engine, Masku Domino | Q33–Q40 |
+| **DAĻA 0** | Sistēmas DNS — Filosofija, MICE, Kodekss, Lēmuma Matemātika | Pre-call |
+| **AKTS 0** | Pirms zvana — PRO State, Rituāli, Dienas cikls, Tonalitāte | Q0 |
+| **AKTS I** | Atvēršana — Drošības / Frame / Lēmēja KOMBO | Q1–Q3 |
+| **AKTS II** | Diagnoze — MICE motors, Cipari, Discovery piltuve | Q4–Q7 |
+| **AKTS III** | Karte & Plaisa — Sāpes, COI 5D, Hidden Contract, Buying Instruction | Q8–Q20 |
+| **AKTS IV** | Patiesības moments — Hope Break, Double Reality, 5 Vārti | Q21–Q21.5 |
+| **AKTS V** | Pīlāri — Piedāvājums, Belief Lock, Stāsts, IKEA efekts | Q22–Q28 |
+| **AKTS VI** | Cena — D16 Engine, Klusums, Post-Price Branch | Q29–Q32 |
+| **AKTS VII** | Iebildumi — CIA-PATT, Objection Engine, Masku Domino, Breakers | Q33–Q40 |
 | **AKTS VIII** | Post-close — 48h, L1-L5, Referral, Re-Engagement | Q41+ |
-| **PIELIKUMI** | Arsenāls, Scorecard, Treniņi, Audits, Katalogs | — |
+| **PIELIKUMI** | Arsenāls, Scorecard, Treniņi, Audits, N001-N257 Katalogs | — |
 
 ---
+
 # DAĻA 0 — SISTĒMAS DNS
 
-## 0.1 Kodols
+> *Nav 3 sistēmas, nav 20 soļi — IR 1 sistēma ar 7 blokiem.* — N164
 
-Pārdošana nav pitch. Pārdošana ir **diagnostika**. Operators nav pārdevējs — operators ir **instruments skaidrībai**.
+## N164 · CORE SYSTEM 7 BLOKI
+Pattern → Cause → Impact → Future → Identity → Responsibility → Collision → Decision.
+Visa sistēma vienā teikumā: «Tu redzi problēmu. Tu saproti cēloni. Tu jūti sekas. Tu ieraugi nākotni. Tu saskaras ar savu identitāti. Tu pieņem atbildību. Viss saduras. Tu izlem.»
 
-**N185 · COGNITIVE ENVIRONMENT DESIGNER**
+## N185 · COGNITIVE ENVIRONMENT DESIGNER
 Tu kontrolē uzmanību, salīdzinājumus un secību, kādā smadzenes domā.
+
 | Vecais modelis | Jaunais modelis |
 |----------------|-----------------|
-| Funkcijas, pārliecina | Identitāte + kontrole |
-| Cīnās ar iebildumiem | Rada vidi, kur iebildumi nerodas |
+| Stāsta par funkcijām | Rada identitātes konfliktu |
+| Pārliecina | Liek klientam pašam spriest |
+| Cīnās ar iebildumiem | Novērš iebildumus pirms tie rodas |
 | Pitch pirms diagnostikas | Pitch tikai pēc D10 |
+| Atbild uz jautājumiem | Kontrolē jautājumu secību |
 
-**N208 · KODOLS / CARRIER / ARSENĀLS — trīslīmeņu doktrīna**
-- **KODOLS:** Q1–Q41, viena saruna, obligāts
-- **CARRIER:** Tāfele/slaidi/metafora — nav obligāts, 1 metafora uz zvanu
-- **ARSENĀLS:** Matricas/drillas/scorecard — treniņam, ne live
+## N208 · KODOLS / CARRIER / ARSENĀLS — Trīslīmeņu Doktrīna
 
-**N047 · Viena molekula, viena funkcija, viena māja.**
+| Līmenis | Kas | Kad | Likums |
+|---------|-----|-----|--------|
+| **KODOLS** | Q1-Q41 viena saruna | VIENMĒR | Obligāts. Ja sajūc — zvans kļūst par lekciju |
+| **CARRIER** | Tāfele, slaidi, metafora | Pēc vajadzības | Max 1 metafora uz zvanu. Aizpildi ar klienta vārdiem |
+| **ARSENĀLS** | Matricas, drillas, scorecard | Treniņos | Nekad live. Šeit tu trenē, ne zvanā lieto |
 
-## 0.2 Operatora kodekss (N183)
+## N047 · Viena molekula, viena funkcija, viena māja
+Katra ideja dzīvo tikai VIENĀ vietā. Nav dublikātu. Ja ideja parādās 2 vietās — tā ir kļūda.
 
-| # | Likums |
-|---|--------|
-| 1 | Ja klients nepateica — netic |
-| 2 | Ja runā vairāk — zaudē (30/70 likums) |
-| 3 | Nav cipara — nav dīla |
-| 4 | Klusums = spēks |
-| 5 | Nekad neaizstāvi cenu |
-| 6 | Iebildums = simptoms |
-| 7 | Lock pirms Move |
-| 8 | Pain > Delay = Decision |
-| 9 | Esi auditors, nevis pārdevējs |
-| 10 | Sistēma ir hermētiska |
+## N109 · 6 LĪMEŅU TEHNIKAS TAKSONOMIJA
 
-## 0.3 MICE Motori
+| Līmenis | Saturs | Kurš lieto |
+|---------|--------|------------|
+| L1 Struktūra | Q secība, akti, laika rāmis | Iesācējs |
+| L2 Psiholoģija | MICE, maskas, motors | Iesācējs+ |
+| L3 Valoda/NLP | Iegultās komandas, presupozīcijas | Vidējs |
+| L4 Emocijas | Sāpju aktivizēšana, empātija | Pieredzējis |
+| L5 Stāvoklis/V∞ | PRO STATE, klātbūtne | Meistars |
+| L6 Micro-Interventions | 0.1% tehnikas ar 10-100× efektu | Elite |
 
-| Motors | Triggers (N212) | Cenas rāmis (N216) |
-|--------|---------|-------------|
-| **M** Money | ROI, peļņa, nopelnīt, ietaupīt | ROI rāmis: «Investīcija €2K. Plaisa €7K/mēn. Atmaksā 28 dienās.» |
-| **I** Ideology | statuss, līderis, labākais, pierādīt | Izvēles arhitektūra + statuss |
-| **C** Compromise | drošība, risks, garantija, bail | Zaudējumu rāmis + drošība |
-| **E** Ego | augt, potenciāls, attīstība, mainīt | Nākotnes projekcija + investīcija sevī |
+## N183 · 0.1% OPERATORA KODEKSS — 10 Likumi
 
-> *«Pirmais motors bieži ir virsmas. Patiesais parādās Q17–Q21. Klausies maiņu.»* — N212
+| # | Likums | Izskaidrojums |
+|---|--------|---------------|
+| 1 | Ja klients nepateica — netic | Tu neizdomā par klientu. Viņš pasaka pats. |
+| 2 | Ja runā vairāk — zaudē | 30/70 likums: klients runā 70%, tu 30% |
+| 3 | Nav cipara — nav dīla | Bez € cipara cena peldēs gaisā |
+| 4 | Klusums = spēks | Pēc jautājuma — NERUNĀ. Gaidi. |
+| 5 | Nekad neaizstāvi cenu | Cena ir fakts. Gravitācija nav jāaizstāv. |
+| 6 | Iebildums = simptoms | Aiz iebilduma vienmēr ir neaizvērts Lock |
+| 7 | Lock pirms Move | Neej uz priekšu, kamēr Lock nav apstiprināts |
+| 8 | Pain > Delay = Decision | Kad sāpe > komforts — klients izlem |
+| 9 | Esi auditors, ne pārdevējs | Tu diagnosticē. Tu neieteic kamēr nezini. |
+| 10 | Sistēma ir hermētiska | 0 izdzīvotāji — ja operators izpilda pareizi |
 
-## 0.4 Cilvēka Dabas Likumi
+## N135 · 10 OPERACIONĀLIE PRINCIPI
 
-| # | Likums | Q māja | Bībele |
-|---|--------|--------|--------|
-| 1 | Cilvēks izvairās no sāpēm vairāk nekā tiecas uz baudu | Q8–Q11 | Ādams — sāpe nav sods, tā ir signāls |
-| 2 | Cilvēks rīkojas, kad sāpe > komforts | Q21.5 | Faraons — 10 brīdinājumi pirms rīcības |
-| 3 | Cilvēks tic stāstiem, ne datiem | Q22–Q26 | Nātans — «Tu esi tas vīrs» |
-| 4 | Cilvēks baidās no nezināmā vairāk nekā no sliktā pazīstamā | Q17–Q20 | Izraēlieši — «Vai tiešām gribam atpakaļ uz Ēģipti?» |
-| 5 | Cilvēks meklē apstiprināšanu saviem lēmumiem | Q4–Q7 | Gedeons — «Parādi man zīmi» |
-| 6 | Cilvēks pieņem lēmumus emocionāli, attaisno loģiski | Q29–Q32 | Naamans — «Vai tiešām tik vienkārši?» |
-| 7 | Cilvēks rīkojas, kad redz sevi «jaunajā» identitātē | Q22–Q28 | Jēzus — «Es redzu tevi kā klinti, ne zvejnieku» |
+1. Strādā ar modeli, nevis atbildēm
+2. Neļauj palikt vecajā
+3. Katrs solis noņem izeju
+4. Klienta vārdi = munīcija
+5. Klusums = ierocis
+6. Nekad nepaskaidro cenu
+7. Nekad neattaisno
+8. Nekad nepārdod
+9. Iebildums = atgriešanās punkts
+10. Plaisa padziļinās — nekad nesamazinās
 
-## 0.5 V13 Strukturālā Disciplīna — 6 slāņi katrā Q
+## N004 · MICE MOTORI — 4 Klienta Dzinēji
 
-| Slānis | Saturs |
-|--------|--------|
-| 🔴 SAKI | Verbatim frāze klientam (System 1 valoda) |
-| ⏸ KLUSUMS | Pēc jautājuma — min sekundes, tips |
-| 🔒 LOCK | Kas jādzird pirms turpināt |
-| 🔓 JA NAV LOCK | Ko darīt, ja nav zaļā gaisma |
-| 👂 KO KLAUSĪTIES | Klienta signāli (balss, vārdi, ķermenis) |
-| 💬 JA KLIENTS SAKA | Konkrēta atbilde uz konkrētu klienta frāzi |
+| Motors | Trigger vārdi (N212) | Cenas rāmis (N216) | Stāsta veids |
+|--------|---------------------|---------------------|--------------|
+| **M** Money | ROI, peļņa, nopelnīt, ietaupīt, cipari | ROI rāmis: «Plaisa €7K/mēn. Atmaksā 28 dienās.» | Ciparu stāsts — X → Y ar € |
+| **I** Ideology | statuss, līderis, labākais, pierādīt, misija | «Tā ir par to, vai tu paceļ biznesu uz līmeni, kas atbilst tev» | Identitātes stāsts — kas tu esi |
+| **C** Compromise | drošība, risks, garantija, bail, noguris, miers | «€2K par to, ka tu vairs nedomā par šo katru rītu» | Atvieglojuma stāsts — beidzot var elpot |
+| **E** Ego | augt, potenciāls, attīstība, mainīt, es zinu | «Tu jau labāks par 90%. Investīcija par atlikušajiem 10%» | Izaugsmes stāsts — nākamais līmenis |
 
-## 0.6 Lēmuma Matemātika (N230)
+> *«Pirmais motors bieži ir virsmas. Patiesais parādās Q17-Q21. Klausies maiņu.»* — N212
+
+## N118 · DUAL ENGINE
+Katrs domino posms aktivizē vienu vai ABUS dzinējus:
+- **VALUE dzinējs:** statuss, izaugsme, peļņa, pozīcija
+- **SAFETY dzinējs:** drošība, kontrole, riska mazināšana, stabilitāte
+Piemērs: Q11 aktivizē SAFETY (cik tu zaudē) + VALUE (cik tu VARĒTU nopelnīt).
+
+## N230 · LĒMUMA MATEMĀTIKA
 
 ```
 Pain + Cost + Inevitability + Identity  >  Fear + Comfort + Delay
 ```
-Kad kreisā puse > labējo — lēmums ir neizbēgams. Operators bīda svaru kreisajā pusē.
 
-## 0.7 Divi Emocionālie Posmi (N065)
+Kad kreisā puse pārsniedz labējo — lēmums ir neizbēgams. Operators katru Q bīda svaru kreisajā pusē. Q8-Q20 ceļ Pain + Cost. Q21.5 ceļ Inevitability. Q22-Q28 ceļ Identity. Q29-Q32 testē, vai jau pietiek.
 
-- **Clarity** (Q4–Q21): Klients saprot, KO viņš zaudē
-- **Certainty** (Q22–Q32): Klients saprot, KĀ to atrisināt
+## N065 · DIVU EMOCIJU MODELIS
 
-## 0.8 Četri Klienta Līmeņi (N106)
+| Puse | Q zona | Emocija | Ko rada |
+|------|--------|---------|---------|
+| Pirmā | Q4-Q21 | **CLARITY** — skaidrība | Par problēmu, sāpēm, cenu |
+| Otrā | Q22-Q32 | **CERTAINTY** — pārliecība | Par risinājumu, sevi, lēmumu |
 
-## 0.9 Papildus DNS Neironi
+Bez skaidrības nav sāpju. Bez sāpēm nav steidzamības. Bez pārliecības nav lēmuma.
 
-**N010** · DIAGNOSTIĶA IDENTITĀTE framing
+## N150 · CAUSE CHAIN V7 — 7-posmu formula
+NOTIKUMS → SPIEDIENS → SEKAS → RISKS → DROŠĪBA → LOĢIKA → LĒMUMS
+Katram posmam 3D: Loģika × Ķermenis × Cilts.
 
-**N029** · 157+ avota failu integrācija (meta-insight)
+## N176 · 4 META BLOKU ARHITEKTŪRA
 
-**N045** · "Inženiertehniska Precizitāte" framing
+| Bloks | Saturs | Q zona | Likums |
+|-------|--------|--------|--------|
+| META1 | Entry & Power Frame | Q1-Q3 (D1-D3) | Bez drošības — nav diagnozes |
+| META2 | Diagnosis & Gap | Q4-Q11 (D4-D8) | Bez datiem — nav sāpju |
+| META3 | Model & Vision | Q12-Q28 (D9-D12) | Bez Hope Break — nav pitch |
+| META4 | Pressure & Close | Q29-Q40 (D13-D20) | Bez Belief Lock — nav cenas |
 
-**N086** · KONDUKTORA 3 PRIORITĀTES — kompresēts "what matters most" (Drošība→Patiesība→Regulācija)
+> *«Operators nepāriet uz nākamo bloku, kamēr iepriekšējais nav Locked.»*
 
-**N109** · 6 LĪMEŅU TEHNIKAS TAKSONOMIJA — Struktūra→Psiholoģija→Valoda(NLP)→Emocijas→Stāvoklis(V∞)→Micro-Interventions
+## N010 · DIAGNOSTIĶA IDENTITĀTE + 7 CILVĒKA DABAS LIKUMI
 
-**N118** · DUAL ENGINE — VALUE(statuss/izaugsme) + SAFETY(drošība/kontrole). Katrs domino obligāti aktivizē vienu vai abus dzinējus
+Tu neesi pārdevējs. Tu esi diagnostiķis. Tu neesi glābējs. Tu esi instruments skaidrībai.
 
-**N119** · COMPRESSION PRINCIPLE — 4 vāji bloki→1 stiprs motors; Discovery Compression 12Q→4Q; mērķis samazināt sarežģītību nezaudējot jaudu
+| # | Likums | Q māja | Bībeles paralēle (dievs2) |
+|---|--------|--------|---------------------------|
+| 1 | Cilvēks izvairās no sāpēm vairāk nekā tiecas uz baudu | Q8-Q11 | Ādams — sāpe nav sods, tā ir signāls |
+| 2 | Cilvēks rīkojas, kad sāpe > komforts | Q21.5 | Faraons — 10 brīdinājumi pirms rīcības |
+| 3 | Cilvēks tic stāstiem, ne datiem | Q22-Q26 | Nātans — «Tu esi tas vīrs» |
+| 4 | Cilvēks baidās no nezināmā vairāk nekā no sliktā pazīstamā | Q17-Q20 | Izraēlieši — «Vai tiešām atpakaļ uz Ēģipti?» |
+| 5 | Cilvēks meklē apstiprināšanu saviem lēmumiem | Q4-Q7 | Gedeons — «Parādi zīmi» |
+| 6 | Cilvēks pieņem lēmumus emocionāli, attaisno loģiski | Q29-Q32 | Naamans — «Vai tiešām tik vienkārši?» |
+| 7 | Cilvēks rīkojas, kad redz sevi jaunajā identitātē | Q22-Q28 | Jēzus — «Es redzu tevi kā klinti, ne zvejnieku» |
 
-**N150** · CAUSE CHAIN V7 — 7-posmu formula: NOTIKUMS→SPIEDIENS→SEKAS→RISKS→DROŠĪBA→LOĢIKA→LĒMUMS ar 3D (Loģika×Ķermenis×Cilts) per posmu
+## N106 · 4 KLIENTA LĪMEŅI
 
-**N176** · 4 META BLOKU ARHITEKTŪRA — zvana makro-struktūra: META1(Entry&Power Frame D1-D3)→META2(Diagnosis&Gap D4-D8)→META3(Model&Vision D9-D12)→META4(Pressure&Collision&Close D13-D20). "Operators nepāriet uz nākamo bloku kamēr iepriekšējais nav Locked"
+| Līmenis | Ko operators skenē | Piemērs |
+|---------|---------------------|---------|
+| SAKA | Virsma — vārdi | «Man viss ok, tikai vajag vairāk klientu» |
+| DOMĀ | Loģika aiz vārdiem | «Vai tiešām šis ir labāks par to, ko jau daru?» |
+| JŪT | Emocija aiz loģikas | Bailes, kauns, bezspēcība, cerība |
+| NEAPZINĀS | Identitāte, bailes, vajadzības | «Es neesmu pietiekami labs lai...» |
 
-**N210** · KONDUKTORA 3 PRIORITĀTES V102 — "What matters most" kompresija: 1)Drošība pirms dziļuma(nekad neej dziļāk ja klients nejūtas droši) 2)Patiesība pirms pitch(nekad neprezentē kamēr patiesība nav uz galda) 3)Regulācija pirms cenas(nekad nedod cenu emocionālajā pīķī — 5-8min mierīgas prezentācijas pēc Hope Break)
+## N061 · 9 SLĒPTIE PAŅĒMIENI
 
+| # | Paņēmiens | Q zona | Verbatim piemērs |
+|---|-----------|--------|------------------|
+| 1 | Double Bind | Q2, Q11, Q31 | «Sākam pirmdien vai ceturtdien?» (abas = jā) |
+| 2 | Presupposition | Q22+ | «KAD sāksim» (ne «ja») |
+| 3 | Somatic Marker | Q8-Q10 | «Kur tu to jūti — galvā vai krūtīs?» |
+| 4 | Embedded Command | Q22-Q28 | «Kad viņi IZLĒMA SĀKT» (toņa maiņa = komanda) |
+| 5 | Pattern Interrupt | Q1 | «Es nesolu, ka vajag. Noskaidrosim.» |
+| 6 | Future Pacing | Q22-Q26 | «Iedomājies — pēc 90 dienām tu jau...» |
+| 7 | Strategic Confusion | Q21.5 | «Vai vecā pieeja tevi aizvedīs tur?» (konfūzija → atvērtība) |
+| 8 | Reverse Psychology | Q40 | «Varbūt šis nav priekš tevis.» (reaktance) |
+| 9 | Micro-Agreement | Q4-Q28 | «Pareizi?» pēc katra fakta (jā-kāpne) |
 
-| Līmenis | Ko operators skenē |
-|---------|---------------------|
-| SAKA | Virsma — vārdi |
-| DOMĀ | Loģika aiz vārdiem |
-| JŪT | Emocija aiz loģikas |
-| NEAPZINĀS | Dziļākais slānis — identitāte, bailes, vajadzības |
+## N099 · DUBULTĀ SAITE (DOUBLE BIND) — 7 Pozīcijas
+7 stratēģiskās pozīcijas, kur ABAS atbildes ved uz operatora mērķi:
+Q1 («Noskaidrosim. Ja nav — pateikšu pirmais»), Q2 («Ja esam īstie — turpinam, ja nē — draugi»), Q11 («Cik tas tev maksā — aptuveni?»), Q20 («Kas tev jāredz lai sāktu?»), Q31 («No 1-10, cik gatavs?»), Q32 («Sākam vai nav prioritāte?»), Q33 («Kas tieši aptur?»).
 
+## N100 · IEGULTĀS KOMANDAS (EMBEDDED COMMANDS)
+Eriksona hipnoterapijas toņa maiņa: «Kad viņi IZLĒMA SĀKT» → zemapziņa dzird «izlem sākt».
+Pēc Q21.5 — VISUR lieto «KAD», ne «JA». Smadzenes apstrādā «kad» kā faktu un «ja» kā hipotēzi.
+
+## N119 · COMPRESSION PRINCIPLE
+4 vāji bloki → 1 stiprs motors. Discovery 12Q → 4Q ja klients silts.
+«Labāk 4 spēcīgi jautājumi nekā 12 virspusēji.»
+
+## N029 · 157+ AVOTA FAILU INTEGRĀCIJA
+Šī grāmata apvieno 157+ avota failus, 726K+ chars avota materiāla, 9+ Devin sesiju outputs, 15 meistaru metodikas vienā dzīvā sarunā.
+
+## N045 · INŽENIERTEHNISKA PRECIZITĀTE
+Sistēma būvēta kā inženiertehnisks process, ne «pārdošanas triki». Katram Q ir precīza funkcija, Lock, un labošanas ceļš.
+
+## N043 · 8 MODULIS (AKTS) NAMING
+Inženiertehniskā nosaukumu sistēma: AKTS 0 (Pre-call) → AKTS I (Opening) → ... → AKTS VIII (Post-close). Kā teātra izrāde ar precīzu dramaturģiju.
+
+## N086 · KONDUKTORA 3 PRIORITĀTES (N210)
+
+| Prioritāte | Likums | Ko tas nozīmē |
+|------------|--------|----------------|
+| 1. Drošība pirms dziļuma | Nekad neej dziļāk, ja klients nejūtas droši | Q1-Q3 LOCK obligāts |
+| 2. Patiesība pirms pitch | Nekad neprezentē, kamēr patiesība nav uz galda | Q21.5 LOCK obligāts |
+| 3. Regulācija pirms cenas | Nekad nedod cenu emocionālajā pīķī | 5-8 min pēc Hope Break |
+
+## N120 · DOMINO SVARA LIKUMS
+Katrs D ir svars. Svara akumulācija D(n) → D(n+1). 16 svara avotu kategorijas. Katrs jautājums pievieno svaru — kad kopējais svars pietiekams, lēmums krīt pats.
+
+## N044 · PĀRDOŠANAS PAĀTRINĀTĀJI
+Meta-slānis virs Q secības: tehnikas, kas paātrina klienta virzīšanos (spogulis, klusums, ciparu atkārtošana, identitātes snap).
 ---
 # AKTS 0 — PIRMS ZVANA (Q0)
 
+> *«Amatieris mēģina mainīt klientu. PRO regulē sarunu. Meistars vispirms regulē sevi.»*
+
 ## N253 · PRO SELF-REGULATION ENGINE — 10 Prakses
 
-**1. Ķermeņa reset**
-- MĒRĶIS: Fiziskā enerģija un klātbūtne
-- DARI: 20-60 min kustība + stiepšanās
-- ZVANĀ TAS DOD: Augstāka enerģija, spēcīgāka klātbūtne
-
-**2. Elpa**
-- MĒRĶIS: Parasimpātiskā aktivācija
-- DARI: 4s ieelpa / 8s izelpa × 5-10 cikli
-- ZVANĀ TAS DOD: Zemāka balss. Lēnāks temps. Klients jūt drošību
-
-**3. Somatika**
-- MĒRĶIS: Atbrīvot fizisko sasprindzinājumu
-- DARI: Scan: žoklis → pleci → krūtis → vēders. Atlaid
-- ZVANĀ TAS DOD: Ķermenis neatstaro sasprindzinājumu
-
-**4. Meditācija**
-- MĒRĶIS: Prāta klusums
-- DARI: 10-20 min klusums
-- ZVANĀ TAS DOD: Nav iekšējā trokšņa zvanā
-
-**5. Pašhipnoze**
-- MĒRĶIS: Zemapziņas programmēšana
-- DARI: Vizualizācija pirms miega
-- ZVANĀ TAS DOD: Automātiski pareizas reakcijas
-
-**6. Balss + klātbūtne**
-- MĒRĶIS: Toņa kalibrēšana
-- DARI: Lēnāk runāt, acu kontakts (Zoom)
-- ZVANĀ TAS DOD: Klients uzticas balsij, ne vārdiem
-
-**7. Enerģijas darbs (N103)**
-- MĒRĶIS: HeartMath sirds koherence
-- DARI: Rokas uz krūtīm + 5/5 elpošana
-- ZVANĀ TAS DOD: Klients jūt koherenci pat pa telefonu
-
-**8. Stresa tolerance**
-- MĒRĶIS: Anti-trauslums
-- DARI: Aukstā duša, cīņas sports
-- ZVANĀ TAS DOD: Nereaģē uz klienta spiedienu
-
-**9. Emocionālā tīrīšana**
-- MĒRĶIS: Emocionālā higiēna pēc zvaniem
-- DARI: Raksti bez filtriem 10 min. «Ko jutos? Kas triggerēja?»
-- ZVANĀ TAS DOD: Nenesī iepriekšējo zvanu emocijas uz nākamo
-
-**10. Garīgais slānis**
-- MĒRĶIS: Ego attīrīšana
-- DARI: «Es neesmu glābējs. Es esmu instruments.»
-- ZVANĀ TAS DOD: Nav ego zvanā. Tikai skaidrība
+| # | Prakse | DARI | Zvanā tas dod |
+|---|--------|------|---------------|
+| 1 | Ķermeņa reset | 20-60 min kustība + stiepšanās | Augstāka enerģija, klātbūtne |
+| 2 | Elpošana | 4s ieelpa / 8s izelpa × 10 cikli | Vagusa nerva aktivizēšana, miers |
+| 3 | Klusuma prakse | 10 min meditācija/klusums | Spēja izturēt klusumu zvanā |
+| 4 | Nodoms dienai | «Šodien es diagnosticēju, ne pārdodu» | Ego attīrīšana |
+| 5 | Tonalitātes trenēšana | 3 min lasīt skaļi ar variācijām | Kontrolēts balss instruments |
+| 6 | Vizualizācija | «Es redzu sevi 3 zvanus, mierīgu, skaidru» | Mentālā sagatavošanās |
+| 7 | Iepriekšējā analīze | 5 min CRM/piezīmes par nākamo klientu | Informēts, ne akls |
+| 8 | Stresa tolerance | Aukstā duša, cīņas sports | Nereaģē uz klienta spiedienu |
+| 9 | Emocionālā tīrīšana | «Ko jutos? Kas triggerēja?» 10 min | Nenesī iepriekšējo zvanu emocijas |
+| 10 | Garīgais slānis | «Es neesmu glābējs. Es esmu instruments.» | Nav ego zvanā. Tikai skaidrība |
 
 ## N254 · IEKŠĒJĀ ALĶĪMIJA — 7 Dziļā Darba Slāņi
-
-> *«Amatieris mēģina mainīt klientu. PRO regulē sarunu. Meistars vispirms regulē sevi.»*
 
 1. **Rituāls:** 60s pirms zvana: noliec telefonu, izelpo 3×, saki: «Tagad esmu operators. Nav steigas. Nav vajadzības.»
 2. **Elpa:** 4s ieelpa / 8s izelpa × 5-10 cikli. Box breathing starp zvaniem.
@@ -219,7 +277,7 @@ Kad kreisā puse > labējo — lēmums ir neizbēgams. Operators bīda svaru kre
 | PĒC ZVANA | 30s izelpa → atlaid klientu → «Kur pazaudēju stāvokli?» → nākamais zvans sākas tīrs |
 | VAKARĀ | Stretching → journaling (10 min) → meditācija → vizualizācija → mierīga elpa → miegs |
 
-## N188 · IKDIENAS MANTRA — 8 Punkti (pirms katra zvana)
+## N188 · IKDIENAS MANTRA — 8 Punkti
 
 1. Nepārdod agri
 2. Nerunā par sevi
@@ -236,1034 +294,1708 @@ Kad kreisā puse > labējo — lēmums ir neizbēgams. Operators bīda svaru kre
 2. **Nauda plūst uz pārpilnību** — pēc neveiksmīga zvana PROBLĒMA ESI TU
 3. **Naudu piesaista atrautība** — «Lūdzu apstiprini!» = atgrūšana
 
+## N098 · ZVANA NEIROĶĪMISKĀ ARKA
+
+| Fāze | Q diapazons | Neiroķīmija | Ko operators dara |
+|------|-------------|-------------|-------------------|
+| Drošība | Q1-Q3 | Oksitocīns ↑ | Rada drošību. Nepitch. Cilvēcisks kontakts |
+| Discovery | Q4-Q7 | Dopamīns ↑ (ziņkāre) | Ļauj klientam runāt 80%. Uzdod jautājumus |
+| Sāpes | Q8-Q16 | Kortizols ↑ | Padara problēmu ķermenisku. Ļauj just |
+| Hope Break | Q17-Q21.5 | Kortizols MAX → kritums | Cerības sabrukums. Neatbalsti cerību |
+| Tilts | Q22-Q28 | Dopamīns + Serotonīns ↑ | 5-8 min mierīgs tilts. Risinājums kā loģisks solis |
+| Cena | Q29-Q32 | Kortizols ↑↑ (spriedze) | Klusums. Nav attaisnošanās. Fakts |
+| Close | Q33-Q40 | Dopamīns + Oksitocīns ↑ | Klients jūtas kā uzvarētājs. Pirmā darbība zvanā |
+
+## N195 · TONALITĀTES PROTOKOLS — 7 Režīmi
+
+| # | Režīms | Q zona | Apraksts |
+|---|--------|--------|----------|
+| 1 | Silta, zema, lēna | Q1-Q3 | Drošība. Oksitocīns. |
+| 2 | Ziņkārīga | Q4-Q7 | Atvērti jautājumi. Klausīšanās. |
+| 3 | Nopietnā, klusa | Q8-Q16 | Sāpju aktivēšana. Pauzes. |
+| 4 | Čuksts (viszemākā) | Q21.5 | Hope Break. Lēnākais temps. |
+| 5 | Mierīga, pārliecināta | Q22-Q28 | Tilts. Risinājuma prezentēšana. |
+| 6 | Faktoloģiska, neitrāla | Q29-Q32 | Cena. Nav emocionāla. |
+| 7 | Silta, noslēdzoša | Q33-Q40 | Close. Klients kā uzvarētājs. |
+
+## N028 · ŠŪMANA REZONANSE
+7.83 Hz — Zemes dabiskā frekvence. REZONANSES princips: operators «noskaņo» savu nervu sistēmu PIRMS zvana.
+Ja operators ir nestabils → klients to jūt. Tu neesi termināls — tu esi instruments.
+
+## N014 · 5 KLUSUMA TIPI
+
+| # | Tips | Kad | Ilgums | Nolūks |
+|---|------|-----|--------|--------|
+| 1 | Diagnostiskais | Pēc jebkura jautājuma | 3-5s | Ļauj klientam domāt |
+| 2 | Empātiskais | Pēc klienta sāpju izteikuma | 3-5s | «Es dzirdu tevi» bez vārdiem |
+| 3 | Spiediena | Q21.5 Hope Break, pēc cenas | 8-15s | Pirmais kas runā — zaudē |
+| 4 | Pārejas | Starp AKTS | 2-3s | Marķē sarunu ritma maiņu |
+| 5 | Stratēģiskais | Pēc iebilduma | 5-8s | Ļauj klientam pašam koriģēt |
+
+## N067 · SETTER VS CLOSER DISTINCTION
+Setter kvalificē un pieslēdz. Closer diagnosticē un noslēdz. Ja tu esi abus — tev jāzina, KAD tu pārslēdzies.
+
 ## N231 · LEAD KLASIFIKĀCIJA
 
-| Līmenis | Tips | MICE hipotēze |
-|---------|------|---------------|
-| A (Hot) | Kvalificēts, lēmējs | Gatavs — ej full flow |
-| B (Warm) | Ieinteresēts, vajag push | Vajag dziļināt Q4-Q7 |
-| C (Cool) | Curious, daudz darba | Garš zvans, pilna diagnostika |
-| D (Cold) | Random, nav fit | Diskvalificē agri (Q3) |
+| Līmenis | Tips | MICE hipotēze | Q ceļš (N218) |
+|---------|------|---------------|---------------|
+| A (Hot) | Kvalificēts, lēmējs | Gatavs — ej full flow | Q1→Q41 (45 min) |
+| B (Warm) | Ieinteresēts, vajag push | Vajag dziļināt Q4-Q7 | Q1→Q3→Q4→Q6→Q10→Q21.5→Q24→Q32 (30 min) |
+| C (Cold) | Skeptisks, testē | Drošības fokuss Q1-Q3 | Q1→Q3→Q4→Q11→Q21.5→Q24→Q32 (20 min) |
+| D (DQ) | Nepieciešams izfiltrēt | Kill criteria check | Q1→Q3→DQ (10 min) |
 
-## N195 · TONALITĀTES PROTOKOLS (Mehrabian 55/38/7)
+## N218 · ADAPTĪVĀ Q KOMPRESORA KARTE
 
-## AKTS 0 — Papildus Neironi
+| Scenārijs | Laiks | Q ceļš | Piezīmes |
+|-----------|-------|--------|----------|
+| Auksts | 45 min | Q1-Q41 (pilns) | Full flow — nekas neizlaists |
+| Silts | 30 min | Q1→Q3→Q4→Q6→Q10→Q21.5→Q24→Q32 | Izlaisti Q5, Q7-Q9, Q11-Q20 detaļas |
+| Karsts | 20 min | Q1→Q3→Q4→Q11→Q21.5→Q24→Q32 | Tikai galvenie mezgli |
+| Follow-up | 15 min | Q21.5 recap→Q24→Q32→Q39 | Pēc iepriekšējā zvana |
+| DQ | 10 min | Q1→Q3→DQ | Tikai kvalifikācija |
 
-**N028** · 🎵 ŠŪMANA REZONANSE (7.83Hz + REZONANSE princips)
+> *«Q21.5 un Q32 NEDRĪKST izlaist NEKAD — jebkurā scenārijā.»*
 
-**N173** · PILNA ĶERMEŅA DNS — visa ķermeņa saskaņotība pārdošanā: domāšana+balss+stāja+žesti+acu kontakts+elpošana strādā vienoti. "Kad šaubies — ķermenis to nodod, pat ja vārdi ir pareizi"
+## N008 · STATE DETECTION TABULA — 5 Stāvokļi
 
+| State | Signāli | Ko darīt |
+|-------|---------|----------|
+| CLOSED | Šķērsoti rokas, īsas atbildes, «jā» bez enerģijas | Atgriezies Q1-Q2 drošībā. Dod telpu. |
+| OPEN | Stāsta, jautā, dalās ar detaļām | Padziļini. Spogulis + klusums. |
+| BUYING | Nākotnes valoda «kad mēs...», «kā tas strādā?» | Neturpini diagnostiku — virzi uz pitch |
+| RESISTANCE | Iebildumi, aizsardzība, argumenti | Izolē sakni. CIA-PATT. |
+| NEUTRAL | Klausās bez signāliem | Uzdod provokatīvāku jautājumu. Aktivizē. |
 
-| Fāze | Balss | Temps |
-|------|-------|-------|
-| Frame (Q1-Q3) | Neitrāls, mierīgs | Lēns |
-| Discovery (Q4-Q7) | Zemāks | Vēl lēnāks |
-| Identity (Q8-Q21) | Mierīgs | Ļoti lēns |
-| Price (Q29-Q32) | Neitrāls + KLUSUMS | Normāls |
-| Close (Q33-Q40) | Silts | Normāls |
-| Post (Q41+) | Silts, draudzīgs | Lēns |
+## N013 · FREKVENCES SLĀNIS
+Katrs Q posms operē noteiktā frekvencē:
+Q1-Q3: Alfa (8-13 Hz) — uzticēšanās. Q4-Q7: Alfa → Beta. Q8-Q16: Beta (13-30 Hz) — aktivēšana. Q17-Q21.5: Teta (4-8 Hz) → Gamma šoks. Q22-Q28: Alfa + Serotonīns. Q29-Q32: Beta ↑↑. Q33-Q40: Alfa + Oksitocīns.
 
-## N098 · NEIROĶĪMISKĀ LAIKA KARTE
-
+## N009 · ZVANA PLŪSMA — Single-page
 ```
-Q1-Q3:  Oksitocīns ↑  (drošība, uzticēšanās)
-Q4-Q7:  Noradrenalīns ↑  (uzmanība, fokuss)
-Q8-Q21: Kortizols ↑  (spriedze, sāpes, neizbēgamība)
-Q21.5:  Hope Break — Kortizols PĪĶIS → sāk kristies
-Q22-Q25: Kortizols ↓  (atvieglojums, risinājuma redzēšana)
-Q26-Q28: Dopamīns ↑  (nākotnes identitāte, vīzija)
-Q29-Q32: Kortizols ↑↑  (cenas stress — tāpēc KLUSUMS)
-Q33-Q40: Kortizols ↓ + Oksitocīns ↑  (iebildumu risināšana)
-Q41+:   Dopamīns + Oksitocīns  (lēmuma prieks)
+Q0(Prep) → Q1(Drošība) → Q2(Frame) → Q3(Lēmējs) →
+Q4(Galvenā lieta) → Q5(Ideāls) → Q6(Kāpēc tagad) → Q7(Cipari) →
+Q8(Mēģinājumi) → Q9(Sāpes) → Q10(Laiks) → Q11(COI) →
+Q12-Q16(Dziļums) → Q17(Slēptais līgums) → Q18-Q19(Buying signals) → Q20(Drošības kods) →
+Q21(Double Reality) → Q21.5(HOPE BREAK) →
+Q22(Investora rāmis) → Q23(Atļauja) → Q24(3 Pīlāri) → Q25(Anti-pīlāri) → Q26(Stāsts) → Q27(Circumstance vs Vision) → Q28(Belief Lock) →
+Q29(Temp test) → Q30(Gatavības tests) → Q31(Pēdējais filtrs) → Q32(CENA + KLUSUMS) →
+Q33(Iebildumu cilpa) → Q34-Q38(Engine) → Q39(Close) → Q40(Kolumbo) →
+Q41+(Post-close)
 ```
 
 ---
 # AKTS I — ATVĒRŠANA (Q1–Q3)
 
-## ⚔ DROŠĪBAS KOMBO — Q1 Gids/Diagnostiķis
-🥇 PRIORITĀTE #1
+> 🥇 **VĀRTI #1: Q3** — Ja Q1-Q3 nav locked → NETURPINI. Bez drošības nav diagnozes.
 
-🔴 **SAKI:** «Godīgi — es vēl nezinu, vai tev vispār vajag to, kas mums ir. Noskaidrosim. Ja beigās sapratīsim, ka nav — es to pateikšu pirmais. Ok?»
+## Q1 · Drošība
+*Laiks: 0:00-0:30*
 
-⏸ **KLUSUMS:** 5-7s. Diagnostiskais klusums.
+⚔ **DROŠĪBAS KOMBO** (N255)
 
-**JA ATVĒRĀS:** Klients atbild mierīgi: «Jā, labi, klausos.» → Turpini ar Frame KOMBO.
+**SAKI:**
+*«Godīgi — es vēl nezinu, vai tev vispār vajag to, kas mums ir. Noskaidrosim. Ja beigās sapratīsim, ka nav — es to pateikšu pirmais. Ok?»*
 
-**JA BLOĶĒ:** «Kāpēc man vispār vajadzētu klausīties?» → «Es nesolu, ka vajag. Noskaidrosim. 10 minūtes.»
+**JA ATVĒRĀS:**
+Klients atbild mierīgi: «Jā, labi, klausos.» → Turpini ar Frame KOMBO.
 
-**TRĀPĪJA, JA:** Klients atlaiž plecu sasprindzinājumu. Balss kļūst mierīgāka. Sāk klausīties.
+**JA BLOĶĒ:**
+«Kāpēc man vispār vajadzētu klausīties?» → *«Es nesolu, ka vajag. Noskaidrosim. 10 minūtes.»*
 
-**AIZVĒRTS, KAD:** Klients apstiprina: «Ok, klausos» vai nonverbāli atspirgst.
+**TRĀPĪJA, JA:**
+Klients atlaiž plecu sasprindzinājumu. Balss kļūst mierīgāka. Sāk klausīties.
 
-**PRO STATE:** Zema balss. Slow pace. Nav steigas pārdot. Empātija, ne manipulācija.
+**AIZVĒRTS, KAD:**
+Klients apstiprina: «Ok, klausos» vai nonverbāli atspirgst.
 
-**SLĒPTĀ MEH.:** Maska: pārdevējs → diagnostiķis. Vecais altāris: vajadzība pierādīt → atlaist.
+**PRO STATE:**
+Zema balss. Slow pace. Nav steigas pārdot. Empātija, ne manipulācija.
 
-🔒 **LOCK:** Klients jūtas drošs un gatavs runāt godīgi.
-🔓 **JA NAV LOCK:** Atkārto drošības rāmi. Ja joprojām bloķē — DQ pēc 3 min.
+**SLĒPTĀ MEH.:**
+Maska: pārdevējs → diagnostiķis. Vecais altāris: vajadzība pierādīt → atlaist.
 
-**N172 · AUTORITĀTES TRIPODS:** 3 apgalvojumi ar pauzēm → pozicionē kā ekspertu 3 teikumos.
+🧠 *Neirālā mehānika:* Pattern Interrupt — klients gaida pitch, dabū godīgumu. Smadzenes «aizķeras» — cerēts modelis neatbilst. Uzticēšanās sāk augt (N061).
 
-**N211 · KILL SWITCH:** 4 signāli kas beidz zvanu uzreiz: nav lēmēja + nevar pārcelt / nav godīgai sarunai / «atsūti kas jums tur ir» / agresīva necieņa. Frāze: «Nav īstā vide normālai diagnozei.»
+⚛ *Zinātne:* Amigdala novērtē apdraudējumu pirmo 7 sekunžu laikā. Ja operators pusē viss ir «lēns, zems, drošs» — fight-or-flight neaktivējas.
 
-## ⚔ FRAME KOMBO — Q2 Rāmis
-🥇 PRIORITĀTE #2
+🎭 *Verbatim variācijas (N015):*
+- Introvertam: «Es tevi nespiežu. Tikai noskaidrosim, vai vispār ir ko runāt.»
+- Ekstravertam: «Klausies — es vispirms gribu saprast, vai mēs esam pareizi TIEŠI tev. Ok?»
+- B2B: «Mana pieredze rāda, ka 40% gadījumu mēs pat neesam īstais risinājums. Noskaidrosim.»
 
-🔴 **SAKI:** «Šodien es uzdošu dažus jautājumus. Ja sapratīsim, ka esam īstie — pastāstīšu kā strādājam. Ja nē — atvadīsimies kā draugi. Skan godīgi?»
+## Q2 · Frame
+*Laiks: 0:30-1:00*
 
-⏸ **KLUSUMS:** 3-5s
+⚔ **FRAME KOMBO** (N255)
 
-**JA ATVĒRĀS:** «Jā, skan labi.» → Pāriet uz Lēmēja KOMBO (Q3).
+**SAKI:**
+*«Šodien es uzdošu dažus jautājumus. Ja sapratīsim, ka esam īstie — pastāstīšu kā strādājam. Ja nē — atvadīsimies kā draugi. Skan godīgi?»*
 
-**JA BLOĶĒ:** «Runā ātrāk, man nav laika.» → «Tieši tāpēc — ja 10 minūtēs sapratīsim, ka nav — ietaupīsim tev laiku.»
+**JA ATVĒRĀS:**
+«Jā, skan labi.» → Pāriet uz Lēmēja KOMBO (Q3).
 
-**TRĀPĪJA, JA:** Klients piekrīt sarunu formātam. Vairs nepretojās struktūrai.
+**JA BLOĶĒ:**
+«Runā ātrāk, man nav laika.» → *«Tieši tāpēc — ja 10 minūtēs sapratīsim, ka nav — ietaupīsim tev laiku.»*
 
-**AIZVĒRTS, KAD:** Klients saprot, ka tā nav pārdošana — tā ir kopīga izpēte.
+**TRĀPĪJA, JA:**
+Klients piekrīt sarunu formātam. Vairs nepretojās sarunas struktūrai.
 
-**PRO STATE:** Pārliecināts. Skaidrs rāmis. Es vadu sarunu, bet klients jūtas brīvs.
+**AIZVĒRTS, KAD:**
+Klients saprot, ka tā nav pārdošana — tā ir kopīga izpēte.
 
-**SLĒPTĀ MEH.:** Maska: kontrolētājs → līdzvērtīgs partneris. Motors: loģika + cieņa.
+**PRO STATE:**
+Pārliecināts. Skaidrs rāmis. Es vadu sarunu, bet klients jūtas brīvs.
 
-🔒 **LOCK:** Klients akceptē formātu «es jautāšu, tu atbildēsi».
+**SLĒPTĀ MEH.:**
+Maska: kontrolētājs → līdzvērtīgs partneris. Motors: loģika + cieņa.
 
-**N140 · FRAME BREAK:** «Man nav tev jāpārliecina» + «Varam beigt zvanu» — klients sāk pats pārliecināt.
+## Q3 · Lēmējs
+*Laiks: 1:00-2:00*
 
-**N099 · DUBULTĀ SAITE (Q2):** Abas atbildes ved uz operatora mērķi — «Ja jā — turpinam. Ja nē — ietaupām laiku.»
+⚔ **LĒMĒJA KOMBO** (N255)
 
-## ⚔ LĒMĒJA KOMBO — Q3 Lēmuma vide + Naudas vārts (VĀRTS #1)
+**SAKI:**
+*«Ja mēs abi redzam, ka ir vērtīgi — vai tu esi tas cilvēks, kurš var pieņemt šo lēmumu? Vai vēl kāds iesaistās?»*
 
-🔴 **SAKI:** «Ja mēs abi redzam, ka ir vērtīgi — vai tu esi tas cilvēks, kurš var pieņemt šo lēmumu? Vai vēl kāds iesaistās?»
+**JA ATVĒRĀS:**
+«Jā, es lemju.» → Turpini uz AKTS II (Saknes KOMBO).
 
-⏸ **KLUSUMS:** 5s
+**JA BLOĶĒ:**
+«Man jārunā ar partneri/šefu.» → *«Super — vai varam viņu pieslēgt nākamajā zvanā? Jo citādi tu stāstīsi to, ko es pastāstīšu, un tas nekad nestrādā tikpat labi.»*
 
-**JA ATVĒRĀS:** «Jā, es lemju.» → Turpini uz AKTS II.
+**TRĀPĪJA, JA:**
+Tu zini, ka pie galda sēž lēmējs. Nav pārsteigumu vēlāk.
 
-**JA BLOĶĒ:** «Man jārunā ar partneri/šefu.» → «Super — vai varam viņu pieslēgt nākamajā zvanā? Jo citādi tu stāstīsi to, ko es pastāstīšu, un tas nekad nestrādā tikpat labi.»
+**AIZVĒRTS, KAD:**
+Klients vai nu apstiprina lēmēja statusu, vai pieslēdz otru cilvēku.
 
-**TRĀPĪJA, JA:** Tu zini, ka pie galda sēž lēmējs. Nav pārsteigumu vēlāk.
+**PRO STATE:**
+Neitrāls. Nedraudīgs jautājums. Nav spiediena. Nav apvainojuma, ja nav lēmējs.
 
-**PRO STATE:** Neitrāls. Nedraudīgs jautājums. Nav spiediena.
+**SLĒPTĀ MEH.:**
+Motors: ego — klients grib sevi redzēt kā lēmēju. Maska: padotais → vadītājs.
 
-**SLĒPTĀ MEH.:** VĀRTS #1 — bez lēmēja pārejie Q ir tukši. Maska: «jā, es lemju» (bet bieži nav).
+⚙ *CHAMPION BUILDING (N017):* 3 soļu iekšējā čempiona tehnika — ja klients nav lēmējs:
+1. «Kas vēl iesaistās?»
+2. «Vai varam viņu pieslēgt?»
+3. «Ja nē — ko TU viņam teiksi, lai viņš saprastu tāpat kā tu?» (padari klientu par TAVU pārdevēju)
 
-🔒 **LOCK:** Lēmējs apstiprināts.
-🔓 **JA NAV LOCK:** Pieprasi 2. zvanu ar visiem lēmējiem.
+⚙ *KONDICIONIERA ANALOGS (N018):* Partnera iebilduma reframe — «Ja tavs partneris redz, ka tas atrisina problēmu, ko jūs abi jau sen ziniet — kā domā, vai viņš iebilstu?»
 
-**N123 · PARTNER FRAME:** 5 kritēriji ko partneri gribēs zināt + obligāts datums. «Bez datuma = de facto nē.»
+⚙ *ATVĒRŠANAS KILL SWITCH (N080):* 4 diskvalifikācijas kritēriji:
+1. Nav lēmēja un nevar pieslēgt
+2. Nav godīguma — klients melo vai slēpj
+3. Necieņa — klients nevēlas konstruktīvu sarunu
+4. «Atsūti info» — nevar pieslēgties dialogā
+Ja kāds no 4 → DQ. Neturpini.
 
-**N017 · CHAMPION BUILDING:** 3-step tehnika — padari klientu par iekšējo čempionu, kurš pārdod TAVAM vietā.
-
-**🔄 DRIFT RECOVERY (N016) — AKTS I:** Ja klients aiziet no tēmas → «Gribu atgriezties pie tā, ko teici par [X].»
-
-## AKTS I — Integrētie Neironi
-
-**N018** · ⚙ KONDICIONIERA ANALOGS (partner objection reframe)
-
-**N080** · ATVĒRŠANAS KILL SWITCH — 4 diskvalifikācijas kritēriji atvēršanā (nav lēmēja, nav godīguma, necieņa, "atsūti info")
-
-**N238** · STATUS GAME FRAMEWORK — statusa spēles ietvars: kā kontrolēt statusa dinamiku sarunā (augsts/zems statuss, statusa maiņa)
-
+🔄 *DRIFT RECOVERY (N016) — AKTS I:*
+Ja klients novirzās pirmajos 3 jautājumos: «Es saprotu, ka tev ir daudz ko pastāstīt. Atgriezīsimies pie galvenā — vai tu esi gatavs, ka es uzdodu dažus jautājumus?»
 
 ---
 # AKTS II — DIAGNOZE (Q4–Q7)
 
-## ⚔ SAKNES KOMBO — Q4 MICE Motors
+## Q4 · Galvenā Lieta
+*Laiks: 2:00-3:00*
 
-🔴 **SAKI:** «Pastāsti — kā izskatās tavs bizness šobrīd? Ko tu dari, ar ko strādā, kādi ir cipari?»
+⚔ **SAKNES KOMBO** (N255)
 
-⏸ **KLUSUMS:** 7-10s. Klients aizpilda telpu.
+**SAKI:**
+*«Pastāsti — kāda šobrīd ir situācija? Ko dari tagad, un kā tas strādā (vai nestrādā)?»*
 
-**JA ATVĒRĀS:** Klients runā 2-3 min par savu situāciju. Klausies MICE signālus.
+**JA ATVĒRĀS:**
+Klients sāk stāstīt. TU KLUSĒ. Pieraksti. Spoguļo: *«Tātad tu saki, ka...»*
 
-**JA BLOĶĒ:** «Kāpēc tev tas ir svarīgi?» → «Lai saprotu — vai varu palīdzēt vai neesmu īstais.»
+**JA BLOĶĒ:**
+Klients dod vispārīgu atbildi: «Nu, ir ok.» → *«Ok nozīmē ko? Kā izskatās «ok» tavā dienā?»*
 
-**TRĀPĪJA, JA:** Klients sāk runāt par ĪSTAJĀM problēmām, ne tikai PR versiju.
+**TRĀPĪJA, JA:**
+Klients sāk runāt par specifiskām problēmām, ne tikai vispārīgi.
 
-**PRO STATE:** Klausīšanās. Klusums. Ziņkārība. Nav vērtēšanas, nav piedāvāšanas.
+**AIZVĒRTS, KAD:**
+Klients ir nosaucis vismaz 1 konkrētu problēmu ar kontekstu.
 
-**SLĒPTĀ MEH.:** MICE motors tiek noteikts. Klients parāda, kurš motors vada (M/I/C/E).
+**PRO STATE:**
+Klausīšanās. Klusums. Ziņkārība. Nav vērtēšanas, nav piedāvāšanas.
 
-🔒 **LOCK:** MICE motors nosaukts klienta vārdos.
+**SLĒPTĀ MEH.:**
+MICE atklāsme sākas. Maska: eksperts → klausītājs. Vecais altāris: ātrā diagnoze → pacietīga izpēte.
 
-**N019 · PEEL BACK:** Rokies zem virsmas ar 1-10 skalu — «No 1 līdz 10, cik apmierināts ar [X]?»
+⚛ *Zinātne (Uri Hasson, Princeton):* Kad klients stāsta savu stāstu, smadzenes sinhronizējas (neural coupling). Tas paaugstina uzticēšanos. Tāpēc — ĻAUJ viņam runāt.
 
-**N081 · MICE SWITCH SIGNALS:** Trigervārdu ātrā atpazīšana per motoru (skatīt MICE tabulu 0.3).
+⚙ *PEEL BACK tehnika (N019):* Izlobīt īsto problēmu zem virsmas:
+- «Kas ir aiz tā? Kāpēc tieši ŠĪ lieta tevi neļauj gulēt?»
+- «Ja tu to atrisinātu rīt — kas mainītos tavā dzīvē ĀRPUS biznesa?»
+- «No 1 līdz 10 — cik nopietni šī problēma ietekmē tevi? Un kāpēc tā nav 10?»
+Mērķis: Nonākt līdz nopietnībai 10/10. Pie 10 saruna iet pavisam citādi nekā pie 3.
 
-**N139 · LINARDA DISCOVERY:** «Tu minēji, ka neesi apmierināts. KĀPĒC?» STOP pirms pārslēgšanās. 3 dziļināšanas frāzes.
+⚙ *4 Dziļuma frāzes (pēc katras atbildes):*
+1. «Pastāsti vairāk. Ko tieši tu domā, kad saki [X]?»
+2. «Kāpēc tu saki, ka tā ir lielākā problēma?»
+3. «Kā tas ir ietekmējis biznesu konkrēti? Kā vēl?»
+4. «Kas ir tā sliktākā lieta tajā?»
 
-## Q4.5 · Nākotnes Identitāte
+⏸ 3-5s (empātisks — tu klausies)
 
-🔴 **SAKI:** «Ja varētu izskatīties ideāli — kā izskatītos tavs bizness pēc 12 mēnešiem?»
+🎭 *Verbatim variācijas (N015):*
+- Introvertam: «Pastāsti savos vārdos — kas šobrīd nestrādā?»
+- Ekstravertam: «Klau — kas ir TĀ lieta, kas tevi visvairāk ēd?»
+- B2B: «Pastāsti par savu pašreizējo sistēmu — kur redzi lielākos zaudējumus?»
 
-**SLĒPTĀ MEH.:** Comprehension — klients sāk redzēt plaisu starp «ir» un «vajag».
+⚙ *MICE SWITCH SIGNALS (N081):* Trigger vārdi katram motoram:
+- M: «ROI, atmaksāties, nopelnīt, ietaupīt, peļņa, cipari, mēnesis»
+- I: «misija, labākais, līderis, pierādīt, ekskluzīvs, pirmais»
+- C: «drošība, risks, garantija, bail, noguris, miers, stabilitāte»
+- E: «augt, potenciāls, attīstība, mainīt, nākamais līmenis, pārliecināts»
 
-## Q5 · Status Quo
+## Q5 · Kā Izskatītos Ideāli
+*Laiks: 3:00-4:00*
 
-🔴 **SAKI:** «Un kur tu esi tagad salīdzinot ar to?»
+**SAKI:**
+*«Ja varētu ar burvju nūjiņu — kā tas izskatītos ideāli? Kas notiktu, ja šī lieta būtu sakārtota?»*
 
-⏸ **KLUSUMS:** 7s
+**JA ATVĒRĀS:** Klients apraksta ideālo. Pieraksti — tas būs tavs Q26 stāsta materiāls.
+**JA BLOĶĒ:** «Es nezinu.» → *«Ok, iedomājies ka pēc 6 mēnešiem viss ir perfekti — ko tu redzi?»*
+**TRĀPĪJA, JA:** Klients sāk runāt emocionāli par nākotni — acu mirdzums, enerģija.
+**AIZVĒRTS, KAD:** Ir nosaukts konkrēts mērķis ar kontekstu.
 
-🔒 **LOCK:** Plaisa starp «ir» un «gribu» nosaukta.
+**PRO STATE:** Ziņkārīgs. Klients rada savu vīziju — tu to NEKORIĢĒ.
+**SLĒPTĀ MEH.:** Pozitīvais GAP sāk veidoties: kur es ESMU vs kur es GRIBU BŪT.
 
-**N031 · CHUNK DOWN:** Sadali lielos ciparus — «Cik leads nedēļā? Cik kļūst par zvaniem? Cik par klientiem?»
+## Q6 · Kāpēc Tagad
+*Laiks: 4:00-5:00*
 
-## ⚔ CIPARU KOMBO — Q6 Izmaksu kvantifikācija
+**SAKI:**
+*«Kāpēc tas tev ir svarīgi TAGAD? Kas mainījās?»*
 
-🔴 **SAKI:** «Kāds ir tavs vidējais darījums? Cik klientu mēnesī vajag?»
+**JA ATVĒRĀS:** Klients atklāj emocionālo triggeri — notikums, frustācija, deadline.
+**JA BLOĶĒ:** «Nu, vienmēr ir bijis svarīgi.» → *«Tad kāpēc tieši tagad tu esi šajā zvanā, nevis pirms gada?»*
+**TRĀPĪJA, JA:** Klients nosauc konkrētu momentu vai notikumu.
+**AIZVĒRTS, KAD:** Zini emocionālo iemeslu PLUS loģisko iemeslu.
 
-**JA ATVĒRĀS:** Klients nosauc ciparus. Pieraksti precīzi — tie kļūst par munīciju Q14/Q26.
+## Q7 · Cipari
+*Laiks: 5:00-7:00*
 
-**JA BLOĶĒ:** «Aptuveni — 5K vai 50K? Lai saprastu skalu.»
+⚔ **CIPARU KOMBO** (N255)
 
-**PRO STATE:** Neitrāls. Nav šoka reakcijas. Nav vērtēšanas. Tikai pieraksti.
+**SAKI:**
+*«Ja mēģinātu to izlikt ciparos — cik tas tev maksā tagad? Mēnesī, gadā... Nevis perfektu ciparu — bet aptuveni?»*
 
-**SLĒPTĀ MEH.:** VĀRTS #2 — bez cipara cena peldēs gaisā.
+**JA ATVĒRĀS:**
+Klients nosauc ciparu vai diapazonu. → Pieraksti. Atkārto: *«Tātad ~€X mēnesī?»*
 
-🔒 **LOCK:** € cipars nosaukts. Bez tā — nekustamies.
+**JA BLOĶĒ:**
+«Es nezinu ciparu.» → *«Nav nevajag perfektu ciparu. Ja minētu — tuvāk €500 vai tuvāk €5000?»* (N012)
 
-**N148 · GAP FILL FRAMING:** «Nenopelnīta nauda = zaudēta nauda» + 3 soļu plaisa vizualizācija.
+**TRĀPĪJA, JA:**
+Klients pats izsaka konkrētu ciparu. Nav TU to piedāvāji — viņš pats.
 
-## Q7 · Kāpņu metode + Mandela Lock
+**AIZVĒRTS, KAD:**
+Ir vismaz viens cipars, ko vēlāk var salīdzināt ar investīciju.
 
-🔴 **SAKI:** «Kur tu gribētu būt pēc 6 mēnešiem? Kādi cipari būtu labs?»
+**PRO STATE:**
+Dabisks. Neitrāls. Nav šoka sejas. Nav vērtējuma.
 
-⏸ **KLUSUMS:** 5s
+**SLĒPTĀ MEH.:**
+Cipars klientam = emocionāls enkurs. Tagad cena (Q32) tiks salīdzināta ar ŠO ciparu, ne ar «dārgi/lēti».
 
-🔒 **LOCK:** Mērķis nosaukts klienta vārdos + Mandela Lock ieausts.
+⚙ *Chunk Down Playbook (N031):* Ciparu ekstrakcija pa soļiem:
+- «Cik klientu šobrīd mēnesī?» → «Cik no tiem atkārtoti?» → «Vidējais darījuma apjoms?» → «Cik potenciālo tu zaudē?»
+- Rezultāts: «Tātad tu zaudē ~€X mēnesī potenciālo klientu dēļ.»
 
-**N096 · MANDELA / REALITY MEMORY GAP:** Klients neatceras pagātni precīzi — aizsargā veco identitāti. «Kad tu pirmo reizi pamanīji šo problēmu?»
+> 🥇 **VĀRTI #2: Q6** — Ja Q4-Q6 nav lock (situācija + ideāls + kāpēc tagad) → NETURPINI. Bez konteksta sāpes būs virspusējas.
 
-**🔄 DRIFT RECOVERY (N016) — AKTS II-III:** Ja klients aiziet → «Gribu atgriezties — cik precīzi tas tev maksā mēnesī?»
+🔄 *DRIFT RECOVERY (N016) — AKTS II-III:*
+«Es saprotu. Paldies, ka dalies. Ļauj man atgriezties pie vienas lietas, ko tu teici — [citāts]. Pastāsti vairāk par to.»
 
-## AKTS II — Integrētie Neironi
+## DISCOVERY PILTUVE Q4→Q7 (N119)
 
-**N004** · MICE ALT: Money/Influence/Confidence/Efficiency
+```
+Q4 Galvenā lieta → «Ko tu gribi sakārtot?» → klients atklāj virsmu
+→ Spogulis «Tātad — [vārds].» [5s klusums] → klients papildina
+→ Q5 Ideāls → «Ja tas būtu ideāli — kā tas izskatītos?» → pozitīvais GAP
+→ Q6 Kāpēc tagad → «Kāpēc svarīgi TAGAD?» → emocija
+→ Q7 Cipari → «Cik tas maksā ciparos?» → dati
+```
 
-**N037** · ⚙ Dziļuma Kāpnes (75% zvana = PAIN)
-
-**N056** · FONA JAUTĀJUMI B2B CHECKLIST (5 obligāti konteksta jautājumi)
-
-**N087** · DZIĻUMA KĀPŅU KOMPRESORS — 4 trepes uz patiesību: Pain→Root→Consequence→Ownership
-
-**N145** · BEZDARBĪBAS KONFRONTĀCIJA LINARDA VERSIJA — "Ko tieši ir kavējis tevi pēdējo 12 mēnešu laikā?" + "Mums visiem ir 24 stundas"
-
-**N154** · MICE PER 3D TABULA — katram MICE tipam % sadalījums Loģika/Ķermenis/Cilts un galvenā pieeja
-
-**N157** · MENTAL STATE DECODER — mikro-signālu sistēma: 🟢Īsts/🟡Tikai Loģika/🔴Viltus/❓Slēpts + reakcija per signālu
-
-**N161** · DZINĒJS/DEGVIELA/PILOTS DIAGNOSTIKA — universālais biznesa modelis: "Bizness=lidmašīna" + Nepareizas Diagnozes Mehānisms + Mēroga Paradokss + Noplūdes Modelis
-
-**N165** · DEEP DRILL ROOT EXTRACTION — 7-soļu tehnika no virsmas līdz saknei: Sāc no realitātes→Iešķeļ→Padziļini→Nolaid līdz sajūtai→Neapstājies→Nolaid vēl dziļāk→Nosauc. Saknes formula: "Tu vari dabūt klientus bet nevari paļauties ka tas notiks atkal"
-
-**N171** · SCAN PROTOKOLS — 4-soļu signālu reakcijas sistēma: S(Stop)→C(Calibrate)→A(Adjust)→N(Navigate). Lietojams, kad klients parāda šaubas (lūpu saspiešana, acu sašaurināšanās, rokas sakrustotas, skatiens prom)
-
-**N205** · MCL MICRO-COMMITMENT LADDER V101 — 8 mikro-jā sistēma D1→D10: katrs posms beidzas ar mikro-jā. Klients saka "jā" 8+ reizes PIRMS cenas. D1(Situācija "Pareizi?")→D2(Mērķis €)→D4(Plaisa)→D5(Sāpes)→D7(COI €)→D8(Neizbēgamība)→D9(Identitāte)→D10(Buying instrukcija). "Ja nevar mikro-jā→STOP. Ej atpakaļ." Close notiek pirms close.
-
-**N213** · DZIĻUMA KĀPŅU KOMPRESORS V102 — 4 trepes uz patiesību: 1)PAIN("Pastāsti vairāk")→2)ROOT("Kāpēc vēl?")→3)CONSEQUENCE("Ko tas reāli maksā?")→4)OWNERSHIP("Kāda tava daļa tajā?"). "Visi apstājas pie PAIN. Meistars iet līdz OWNERSHIP — tikai tad klients saprot ka VIŅŠ ir tas kam jāmainās"
-
-**N232** · ADAPTIVE EXECUTION — signālu lasīšana reāllaikā: BRANCHING(ja klients devās uz X→dari Y), CHAOS MODE(kad saruna pilnībā noiet no ceļa), Signal Categories(verbālie/tonālitātes/laika/klusuma signāli)
-
-**N237** · BUYER PERSONALITY MATRIX — pircēju personības matrice ar tipu noteikšanu un piemērotāko pieeju katram tipam
-
-**N239** · ELITE QUESTION LADDER — progresīvu jautājumu kāpnes ar pieaugošu dziļumu un spiedienu katram līmenim
-
-**N240** · EMOTIONAL LEVER SYSTEM — emocionālo sviru sistēma: identificē un aktivizē klienta galvenos emocionālos triggerus
-
-**N243** · PERSONALITY SWITCH MATRIX — matrice kā pārslēgties starp komunikācijas stiliem atkarībā no klienta tipa reāllaikā
-
-**N247** · POWER QUESTION FORMULAS — spēka jautājumu formulas: universālas konstrukcijas, kas darbojas jebkurā nozarē un jebkurā sarunu fāzē
-
-
+Efekts: Klients pirmajās 7 min atklāj: 1) virsmas iemeslu, 2) ideālo stāvokli, 3) emocionālo saikni, 4) reālos ciparus. Tagad tev ir VISS, lai būvētu COI un Hope Break.
 ---
-# AKTS III — KARTE & PLAISA & SĀPES (Q8–Q20)
+# AKTS III — KARTE & PLAISA (Q8–Q20)
 
-> *75% zvana = PAIN. Šeit operators būvē lietu kā prokurors. (N101 · PROKURORA ĶĒDE)*
+> *75% zvana = PAIN (N037). Sāpes ir degviela. Bez sāpēm — nav steidzamības.*
 
-## N055 · DZIĻUMA KĀPNES — 4 Līmeņi
+## Q8 · Mēģinājumi
+*Laiks: 7:00-9:00*
 
-| Līmenis | Jautājums | Kas notiek |
-|---------|----------|------------|
-| 1. PAIN | «Pastāsti vairāk» | Virsma — ko jūt |
-| 2. ROOT | «Kāpēc vēl?» | Sakne — kāpēc nav atrisinājis |
-| 3. CONSEQUENCE | «Ko tas reāli maksā?» | Sekas — € un laiks |
-| 4. OWNERSHIP | «Kāda tava daļa tajā?» | Atbildība — klients saprot, ka VIŅŠ ir tas, kam jāmainās |
+**SAKI:**
+*«Ko tu līdz šim esi mēģinājis, lai to sakārtotu?»*
 
-> *«Visi apstājas pie PAIN. Meistars iet līdz OWNERSHIP.»*
+**JA ATVĒRĀS:** Klients sāk uzskaitīt mēģinājumus. Pieraksti KATRU.
+**JA BLOĶĒ:** «Neko īsti.» → *«Un kas notiek tāpēc, ka nekas nav darīts?»*
+**TRĀPĪJA, JA:** Klients nosauc 2+ mēģinājumus, kas NAV strādājuši.
+**AIZVĒRTS, KAD:** Ir saraksts ar mēģinājumiem, kas visus var «nolasīt» Q21.5.
 
-## Q8 · Mēģinājumi (8:00-9:00)
+**PRO STATE:** Mierīgs. Nekomentē. Nepiedāvā. Tikai «Un tad?»
+**SLĒPTĀ MEH.:** Katrs mēģinājums = pierādījums prokurora lietai (Q21.5). Klients pats būvē argumentu PRET sevi.
 
-🔴 **SAKI:** «Ko tu jau esi mēģinājis, lai to atrisinātu?»
+## Q9 · Sāpju Svira
+*Laiks: 9:00-12:00*
 
-⏸ **KLUSUMS:** 7s. Spoguļa balss: klusa, bez komentāra.
+⚔ **SĀPJU SVIRAS KOMBO** (N255)
 
-✓ **Zaļā gaisma:** Klients uzskaita 2-3 mēģinājumus — viņš aktīvi meklējis risinājumu.
-✗ **Sarkanā gaisma:** «Neko» — «Tiešām neko? Kāpēc?»
+**SAKI:**
+*«Kā tas ietekmē tevi personīgi? Ne tikai biznesu — bet tevi?»*
 
-🔒 **LOCK:** Ir skaidrs: reāla sistēma vai fragmentāri mēģinājumi.
+**JA ATVĒRĀS:**
+Klients sāk runāt par stresu, miegu, attiecībām, veselību. TU KLUSĒ. Ļauj runāt.
 
-**N104 · REZONANSES SPOGULIS:** Atkārto klienta ciparu viņa vārdos + klusums. «3 gadus.» (klusums 8s)
+**JA BLOĶĒ:**
+«Nē, personīgi viss ok.» → *«Un kad tu padomā par to piektdienas vakarā — kāda ir tā sajūta?»*
 
-## ⚔ SĀPJU SVIRAS KOMBO — Q9 Kāpēc neizdevās (9:00-10:00)
+**TRĀPĪJA, JA:**
+Klients maina balss toni — kļūst klusāks, lēnāks, emocionālāks.
 
-🔴 **SAKI:** «Kāpēc, tavuprāt, tas nestrādāja?»
+**AIZVĒRTS, KAD:**
+Klients ir verbalizējis emocionālo cenu, ne tikai finansiālo.
 
-⏸ **KLUSUMS:** 8s. Empātiska, rūpīga, ļoti klusa balss.
+**PRO STATE:**
+Empātija. Klusa balss. Nav «es saprotu» — tikai klausīšanās un klusums.
 
-**JA ATVĒRĀS:** Klients analizē un nosauc konkrētus iemeslus.
+**SLĒPTĀ MEH.:**
+Somatic Marker (N061) — klients sāk JUST sāpi, ne tikai par to runāt. Kortizols sāk celties.
 
-**JA BLOĶĒ:** «Nezinu» → «Ja tev būtu jāmin viena lieta, kas trūka — kas tā būtu?»
+⏸ 5-8s (empātisks klusums)
 
-**TRĀPĪJA, JA:** MICE motors kļūst skaidrs — kurš spiediens visvairāk ņem mieru.
+⚙ *PAIN STACKING (N053):* Nekrāj sāpes atsevišķi — kārto vienu virs otras:
+«Tu teici, ka [1. sāpe]. Un ka tas rada [2. sāpe]. Un ka tas ietekmē [3. sāpe].» → Katrs Q pievieno slāni.
 
-**PRO STATE:** Empātija. Nav spiediena. Tu palīdzi ieraudzīt to, ko viņš izvairās redzēt.
+## Q10 · Laika Svira
+*Laiks: 12:00-13:00*
 
-🔒 **LOCK:** Dominantais sāpju motors nosaukts klienta vārdos.
+**SAKI:**
+*«Cik ilgi šī situācija turpinās? Mēnešus? Gadus?»*
 
-**SĀPJU PILTUVE:** «Kur Tu to izjūti: ciparos? Zaudēta kontrole? Citi apsteidz? Kauns?»
-→ **Spogulis:** Klients: «Jā, citi apsteidz.» Operators: «Citi apsteidz.» [8s klusums]
-→ **Lauva (MICE: Ego):** «Tu negribi, lai konkurenti tevi apsteidz? Tas ir tas, ko tu negribi pieļaut?»
-→ **Laika svira (Q14):** «Cik ilgi tu jau zini, ka tas ir jāmaina?»
-→ «Tāpēc jārīkojas jau tagad.»
-→ **COI (Q16):** «Katru mēnesi, kad tas nenotiek, tu zaudē €[X].»
+**JA ATVĒRĀS:** Klients nosauc laiku. → *«Tātad [X mēneši/gadi]. Un šajā laikā — kas mainījās?»*
+**JA BLOĶĒ:** «Nu, ne tik ilgi.» → *«Bet pietiekami ilgi, lai tu esi šajā zvanā. Pareizi?»*
+**TRĀPĪJA, JA:** Klients apzinās laika svaru — «jā, jau X gadus un nekas nav mainījies».
+**AIZVĒRTS, KAD:** Laiks ir nosaukts un klients saprot, ka laiks pats problēmu neatrisina.
 
-> *Efekts: Sāpe + laiks + nauda = trīskāršs spiediens, kas liek cerībai krist pirms Hope Break.*
+**SLĒPTĀ MEH.:** Sunk Cost aktivēšana — jo ilgāk gaidīts, jo smagāk nedarīt neko.
 
-**AMATIERIS vs PRO (N105):**
-- Amatieris: «Es saprotu, ka tev ir problēma. Mēs varam palīdzēt.» → STĀSTA, NORMALIZĒ sāpi
-- PRO: «Kāpēc, tavuprāt, tas nestrādāja?» [klusums] → JAUTĀ, GAIDA, FOKUSĒ sāpi
+## Q11 · COI — Cost of Inaction
+*Laiks: 13:00-15:00*
 
-## Q10 · Hidden Contract (N006)
+> 🥇 **VĀRTI #3: Q11** — COI cipars JĀBŪT uz galda pirms Q21.5
 
-🔴 **SAKI:** «Vai vēl kaut kas, ko esi mēģinājis?»
+⚔ **COI KOMBO** (N255)
 
-Izsmēl visu sarakstu. Pēc Q10 klients nosaucis VISUS mēģinājumus un VISUS neveiksmes iemeslus.
+**SAKI:**
+*«Ja šī situācija turpinās vēl 12 mēnešus — bez nekādām izmaiņām — cik TAS tev izmaksā? Reālos ciparus.»*
 
-🔒 **LOCK:** Laiks nosaukts. Problēma vairs nav «nejauša nedēļa».
+**JA ATVĒRĀS:** Klients rēķina. «Nu, vismaz €X.» → *«Tātad €X gadā. Un tu to maksā jau [Y gadus].»*
+**JA BLOĶĒ:** «Es nezinu.» → *«Aptuveni — tuvāk €5K vai tuvāk €50K?»*
+**TRĀPĪJA, JA:** Klients izsaka COI ciparu, kas ir ievērojami lielāks par potenciālo cenu.
+**AIZVĒRTS, KAD:** COI cipars ir uz galda un klients to ir PATS nosaucis.
 
-## Q11–Q20 · COI 5 Dimensijas (N036, N046)
+**PRO STATE:** Kalkulators. Nav emocionāls. Skaitļi runā paši.
+**SLĒPTĀ MEH.:** Loss aversion — cilvēki reaģē uz zaudējumiem 2× spēcīgāk nekā uz ieguvumiem. COI = zaudējums.
 
-| Dimensija | Jautājums | Mērķis |
-|-----------|----------|--------|
-| Laiks | «Cik stundu nedēļā tu tērē uz [problēmu]?» | Laika zaudējums |
-| Nauda | «Cik tas tev maksā mēnesī/gadā?» | € cipars |
-| Enerģija | «Cik enerģijas tas ņem?» | Emocionālais svars |
-| Cilvēki | «Kas vēl cieš no šīs situācijas?» | Cilts aktivizēšana |
-| Iespējas | «Ko tu nevar darīt, kamēr šis nav atrisināts?» | Opportunity cost |
+## N036 · COI 5 DIMENSIJU TABULA
 
-**N054 · SEKU MAGNITŪDA TABULA:** Nauda/Laiks/Attiecības/Veselība/Oportunitātes — katrai dimensijai cipars.
+| Dimensija | Jautājums | Piemērs |
+|-----------|-----------|---------|
+| Nauda | «Cik € mēnesī/gadā tev tas reāli maksā?» | €3K/mēn = €36K/gadā |
+| Laiks | «Cik stundu nedēļā tu tērē uz šo neefektīvi?» | 10h/ned = 520h/gadā |
+| Enerģija | «Cik daudz no tavas enerģijas šī problēma apēd?» | 40% mentālās kapacitātes |
+| Cilvēki | «Kā tas ietekmē tavu komandu/attiecības?» | Konflikti, izdegšana |
+| Iespējas | «Kādas iespējas tu palaid garām kamēr šī situācija turpinās?» | 5 potenciālie klienti/mēn |
 
-**N053 · PAIN STACKING:** Pirms Hope Break — recap VISAS sāpes vienā teikumā: «Tu man teici, ka [sāpe1], [sāpe2], [sāpe3]. Tas tev izmaksā €[X] mēnesī.»
+## N054 · SEKU MAGNITŪDA TABULA
+5 dimensiju seku analīze: Nauda × Laiks × Attiecības × Veselība × Iespējas — katrai dimensijai sava mērvienība un laika periods.
 
-## Q17 · Slēptais Līgums (N089)
+## Q12-Q16 · Dziļuma Kāpnes
+*Laiks: 15:00-22:00*
 
-🔴 **SAKI:** «Ko vecais veids tev vēl dod?»
+## N055 · DZIĻUMA KĀPNES 4 LĪMEŅI (N087)
 
-Atklāj emocionālo ieguvumu no vecā modeļa: drošība, pazīstamība, attaisnojums. Klients saprot — vecais strādā kā neapzināts līgums ar bailēm.
+| Līmenis | Ko operators meklē | Piemērs frāze |
+|---------|---------------------|---------------|
+| PAIN | Virsmas problēma | «Mēs nezinām no kurienes nāk klienti» |
+| ROOT | Sakne zem virsmas | «Mēs nekad neesam izveidojuši sistēmu» |
+| CONSEQUENCE | Sekas ja nemaina | «Katru mēnesi mēs zaudējam ~€5K» |
+| OWNERSHIP | Atbildības pieņemšana | «Jā, godīgi — es to neesmu sakārtojis» |
 
-## Q19.5 · Nodevība (dievs2: motīvs #9)
+Operators dziļinās ar frāzēm:
+- «Pastāsti vairāk.» (vienmēr strādā)
+- «Kāpēc tā ir?»
+- «Kā vēl tas ietekmē?»
+- «Kas notiktu, ja vēl gadu nekas nemainītos?»
+- «Un kāda ir tā sliktākā lieta tajā?»
 
-🔴 **SAKI:** «Vai tu pret sevi dari to, ko nekad nedarītu pret draugu?»
+## Q12 · Sakne
+**SAKI:** *«Kāpēc, tavuprāt, tā ir? Kur ir SAKNE?»*
+Mērķis: pāriet no simptoma uz cēloni.
 
-Klients saprot — viņš nodod sevi, paliekot vecajā modelī.
+## Q13 · Plašākas sekas
+**SAKI:** *«Kā vēl šī situācija ietekmē citas biznesa jomas?»*
+Mērķis: parādīt, ka problēma nav izolēta — tā sēž VISUR.
 
-## Q20 · Buying Instruction / Drošības Kods (N090)
+## Q14 · Personālā ietekme
+**SAKI:** *«Kā TU personīgi jūties par šo katru dienu?»*
+Mērķis: pārvērst biznesa problēmu personiskā sāpē. Kortizols ↑.
 
-🔴 **SAKI:** «Kas tev būtu jāredz, lai justos droši sākt? Cipari, pierādījumi, niša, onboarding?»
+## Q15 · Identitātes spriedze
+**SAKI:** *«Vai tu jūti, ka šī situācija neatspoguļo to, kas tu patiesībā esi?»*
+Mērķis: aktivēt identitātes konfliktu — «es esmu labāks nekā mana pašreizējā situācija».
 
-Klients pats pasaka, kas jāparāda pitch laikā. Operators šo lieto Q22-Q28.
+## Q16 · Kopējā aina
+**SAKI:** *«Tātad, ja savelku kopā — [problēma + mēģinājumi + laiks + nauda + personālā ietekme] — vai ŠĪ ir pilna aina?»*
+🔒 Lock: Klients apstiprina pilno ainu.
 
-🔒 **LOCK:** VĀRTS #3 — bez Buying Instruction nekad nepitcho.
+## N056 · FONA JAUTĀJUMI B2B CHECKLIST
+5 obligāti konteksta jautājumi B2B sarunā:
+1. «Cik cilvēku tavā komandā?»
+2. «Kāds ir tavs pašreizējais apgrozījums?»
+3. «Kāds ir tavs mērķa apgrozījums?»
+4. «Kāds ir tavs galvenais klientu avots?»
+5. «Cik % no klientiem ir atkārtoti?»
+
+## Q17 · Slēptais Līgums
+*Laiks: 22:00-24:00*
+
+## N089 · SLĒPTAIS LĪGUMS
+
+**SAKI:**
+*«Ko vecais veids tev vēl dod? Kas ir tas, ko tu no tā IEGŪSTI, pat ja zini, ka tas nestrādā?»*
+
+Atklāj emocionālo ieguvumu no vecā modeļa: drošība, pazīstamība, attaisnojums.
+
+**JA ATVĒRĀS:** Klients atzīst: «Nu, tas man dod sajūtu, ka vismaz kaut ko daru.»
+**JA BLOĶĒ:** «Nekas! Es vienkārši nezinu ko darīt.» → *«Un tas «nezinu» — vai tas pats par sevi nav viens no iemesliem, kāpēc nekas nemainās?»*
+**TRĀPĪJA, JA:** Klients pirmoreiz redz, ka vecais modelis nav tikai «nestrādā» — tam ir IEGUVUMS. Un tas ieguvums ir TAS, kas viņu tur iesprostotu.
+
+**SLĒPTĀ MEH.:** Tā ir psiholoģiskā «zelta būris» — vecā pieeja dod komfortu, bet iespēju cenu. Kamēr klients neredz slēpto līgumu — viņš nevar to lauzt.
+
+## Q18-Q19 · Buying Signals & Kritēriji
+
+**Q18 SAKI:** *«Kas tev ir pats svarīgākais, izvēloties risinājumu?»*
+**Q19 SAKI:** *«Ja kāds tev piedāvātu risinājumu — kādi būtu tavi 3 galvenie kritēriji?»*
+
+Mērķis: klients PATS definē kritērijus, ko tu Q24-Q26 izpildi.
+
+## Q20 · Buying Instruction / Drošības Kods
+*Laiks: 24:00-26:00*
+
+## N090 · BUYING INSTRUCTION
+
+**SAKI:**
+*«Kas tev ir jāredz, jādzird vai jāsajūt, lai tu varētu droši pieņemt šo lēmumu?»*
+
+**JA ATVĒRĀS:** Klients pats pasaka drošības kodu: «Man vajag redzēt ciparus, case study, garantiju.»
+**JA BLOĶĒ:** «Es nezinu.» → *«Ja kāds tev šodien piedāvātu perfektu risinājumu — kas tev liktu teikt jā?»*
+**TRĀPĪJA, JA:** Klients nosauc 2-3 konkrētus kritērijus.
+**AIZVĒRTS, KAD:** Tu zini PRECĪZI ko klientam vajag dzirdēt Q24-Q26.
+
+**SLĒPTĀ MEH.:** Klients ir iedevis tev «atslēgu». Q24-Q26 tu vienkārši izpildi viņa paša instrukciju.
+
+## N046 · COI 5 DIMENSIJAS KOPĀ
+Q11-Q20 kopā veido pilnu COI karti:
+Nauda (Q7/Q11) × Laiks (Q10) × Enerģija (Q14) × Cilvēki (Q13) × Iespējas (Q16).
+Visi 5 ir uz galda pirms Hope Break.
+## N006 · HIDDEN CONTRACT CONCEPT
+Q10 nosaukums konceptam, kas tiek atklāts Q17: klients uztur veco modeli, jo tas dod slēptu emocionālo ieguvumu (drošība, pazīstamība, attaisnojums).
+
+## N091 · REALITY LANDING
+Pēc Q21 pirms pitch: *«Kur tavā biznesā šis process varētu aizķerties?»*
+Implementācijas šaubu lokalizēšana PIRMS risinājuma prezentēšanas. Ja klients pats nosauc risku — tu to adresē Q24.
+
+## N096 · MANDELA / REALITY MEMORY GAP
+Klients neatceras pagātni precīzi — aizsargā veco identitāti. Atbildes tehnika: *«Tu teici [precīzs citāts no Q4]. Vai tu to atceries?»* Operators lieto klienta PAŠA vārdus kā spogulis.
+
+## N101 · PROKURORA ĶĒDE
+Q4-Q21 kā juridiska lietas būvēšana: situācija (Q4) → motīvs (Q6) → zaudējums (Q11) → alibi (Q8) → ilgums (Q10) → verdikts (Q21.5). Tu esi prokurors, klients ir apsūdzētais UN tiesnesis.
+
+## N139 · LINARDA DISCOVERY PRINCIPS
+*«Tu minēji, ka neesi apmierināts. KĀPĒC?»* STOP pirms pārslēgšanās uz nākamo Q. Katrs Q ir pilnīgi izsmelts pirms virzies tālāk.
+
+## N148 · GAP FILL FRAMING
+«Nenopelnīta nauda = zaudēta nauda.» 3 soļu plaisa vizualizācija: 1) Kur esi 2) Kur gribi būt 3) Plaisa cipars.
+
+## N152 · D9.5 BAIĻU SLĀNIS
+Anticipatory Regret + Riska kalkulācija. *«Kur dzīvo bailes — galvā vai kabatā?»* Izolē baiļu avotu. Bieži: bailes dzīvo galvā, bet rēķins dzīvo kabatā.
+
+## N153 · 5 VĀRTIS KOPSAVILKUMS
+#1(D2): nav skaitļa → stop. #2(D3): nav spiediena → dziļini. #3(D10): nav «jā» → atpakaļ. #4(Q21.5): nav Hope Break → atpakaļ Q8. #5(Q28): nav BLC 8+ → risini.
 
 ---
 # AKTS IV — PATIESĪBAS MOMENTS (Q21–Q21.5)
 
-> *Šis ir load-bearing moments. Bez Hope Break pārējais ir teātris.*
+> 🥇 **VĀRTI #4: Q21.5** — LOAD-BEARING mezgls. Bez Hope Break — Q22 stāv tukšs, Q26 ir abstrakcija, Q32 tiek apspriesta. NEIZLAIST NEKAD.
 
-## Q21 · Double Reality (N007)
+## Q21 · Double Reality
+*Laiks: 26:00-28:00*
 
-🔴 **SAKI:** «Tātad, no vienas puses tu gribi [mērķis]. No otras puses tu dari [vecais modelis]. Kā tas kopā strādā?»
+## N007 · DOUBLE REALITY
 
-⏸ **KLUSUMS:** 10s+. Garākais klusums visā zvanā.
+**SAKI:**
+*«Tu man pastāstīji, ka gribi [mērķis]. Un tu man pastāstīji, ko dari tagad [pašreizējā situācija]. Vai starp šīm divām lietām — ir plaisa?»*
 
-## ⚔ HOPE BREAK KOMBO — Q21.5 (D8.5 + D9.5 + D10)
+**JA ATVĒRĀS:** «Jā, milzīga plaisa.» → Turpini uz Q21.5.
+**JA BLOĶĒ:** «Nu, es strādāju pie tā.» → *«Strādāt pie tā — un to atrisināt — ir divas dažādas lietas. Vai piekrīti?»*
+**TRĀPĪJA, JA:** Klients pirmo reizi redz ABUS stāvokļus blakus — un plaisu starp tiem.
+**AIZVĒRTS, KAD:** Klients atzīst plaisu.
 
-🔴 **SAKI:** «Paklausies — tu tikko man pastāstīji, ka [sāpe]. Tu esi mēģinājis [mēģinājumi] un tas nav strādājis. Tu zini, ka katru mēnesi tu zaudē €[COI]. Vai tu domā, ka kaut kas mainīsies, ja turpināsi tāpat?»
+**SLĒPTĀ MEH.:** Kognitīvā disonanse — smadzenes nevar turēt abus stāvokļus vienlaicīgi bez spriedzes. Tā spriedze = degviela lēmumam.
 
-⏸ **KLUSUMS:** 15-20s. NEKAD nerunā pirmais. «Kurš runā pirmais — zaudē.» (N122)
+## Q21.5 · HOPE BREAK
+*Laiks: 28:00-33:00*
 
-**JA ATVĒRĀS (A):** Pilna atzīšana «Nē, nekas nemainīsies.» → Turpini uz Q22.
+⚔ **HOPE BREAK KOMBO** (N255) — ZVANA KLĪMAKSS
 
-**JA DAĻĒJI (B):** «Varbūt...» → «Kas mainījies, kas dotu citu rezultātu?» → Gaidi.
+**SAKI:**
+*«Tu nosauci [problēmu]. Tu mēģināji [mēģinājumus]. Tas turpinās [laiku]. Tas tev izmaksā [COI cipars]. Un tagad — godīgs jautājums: vai tam, ko tu dari TAGAD... ir process? Vai vairāk cerība, ka kaut kā izdosies?»*
 
-**JA AIZSARGĀ (C):** Atpakaļ uz Q19-Q20 — nav pietiekami dziļi.
+⏸ **8-15 sekundes KLUSUMS** (SPIEDIENA klusums — tu NEKO nesaki. Pirmais, kas runā, zaudē.)
 
-**JA KLUSUMS (D):** Ilgs klusums → NERUNĀ PIRMAIS → pēc 15-20s «Kas notiek tavā galvā?» = vistuvāk patiesībai.
+**JA ATVĒRĀS:**
+Klients klusē 5+ sekundes un tad atzīst: «Nē, godīgi — es nezinu.» → *Aizslēdz:* «Tātad te nav īstas kontroles. Te vairāk ir cerība nekā sistēma.»
 
-> **N214 · HOPE BREAK LĒMUMU KOKS:** Bez atzīšanas neej uz Q22.
+**JA BLOĶĒ:**
+Klients izvairās un sāk stāstīt par plāniem → *«Labi. Izstāsti man to plānu tā, lai es saprotu nākamos 5 soļus. Ko tu darītu pirmdien, otrdien, trešdien, ceturtdien, piektdien?»*
+Ja nevar izstāstīt 5 soļus — ir vēlme, ne plāns → *«Redzi, te arī ir tas moments — ir sajūta, ka ir plāns, bet nav atkārtojama mehānisma. Un tieši tas arī tur tevi miglā.»*
+Ja aizsargājas «tu man mēģini pierādīt» → *«Es tev nemēģinu neko pierādīt. Es tikai mēģinu saprast, vai tev ir process, vai vairāk vēlme. Tās ir divas dažādas lietas.»*
 
-**PRO STATE:** Nopietnība. Mierīga konfrontācija. Nav triumfa.
+**TRĀPĪJA, JA:**
+Klients klusē. Klients atzīst. Klients pirmo reizi saka: «Nē, godīgi — nav procesa.»
 
-**SLĒPTĀ MEH.:** Cerība = zelta teļš (dievs2 motīvs #1). Hope Break salauž neapzināto ticību, ka «kaut kas mainīsies pats».
+**AIZVĒRTS, KAD:**
+Klients atzīst, ka vecā pieeja pati neradīs jaunu rezultātu.
 
-🔒 **LOCK:** Hope Break Lock — klients verbāli atzīst: cerēt nav sistēma. Bez tā — NEEJ UZ PITCH.
+**PRO STATE:**
+Viszemākā balss visā sarunā. Gandrīz čuksts. 60-80 vārdi/min — vislēnākais.
 
-### D8.5 · Neizbēgamība
-Pēc Hope Break — klients saprot: turpināt tāpat = garantēts zaudējums.
+**SLĒPTĀ MEH.:**
+20 min TETA, tad pēkšņi «VAI?» = smadzenes PIESPIEŽ lemt. Nav laika aizsargāties. Neironu spogulis — operators jūt klienta sāpi kā savu.
 
-### D9.5 · Baiļu Slānis + Bailes Lokalizācija (N152)
-«Kur dzīvo bailes — galvā vai vēderā?» Tikai C tipam vai augstai bailei.
+## N035 · HOPE BREAK 4 SCENĀRIJI
 
-### D10 · Belief Split + 5 Vārti (N153)
+| Scenārijs | Klienta reakcija | Operatora atbilde |
+|-----------|-----------------|-------------------|
+| A — Atzīst | «Nē, godīgi nav procesa» | «Tieši tā. Un tieši tāpēc mēs runājam.» → Q22 |
+| B — Daļēji | «Nu, kaut kas ir, bet...» | «Bet vai tas tevi aizved tur, kur gribi?» → atkārto Q21.5 |
+| C — Pretojas | «Man IR plāns» | «5 soļi — pirmdien, otrdien...» → ja nevar = B |
+| D — Aizsargājas | «Tu mani mēģini manipulēt» | «Es nemēģinu pierādīt. Mēģinu saprast.» → ja atzīst = A |
 
-| Vārti | Pozīcija | Noteikums |
-|-------|----------|-----------|
-| #1 | Q3 (D2) | Nav lēmēja → STOP |
-| #2 | Q6 (D3) | Nav spiediena/cipara → dziļini |
-| #3 | Q20 (D10) | Nav Buying Instruction → nekad pitch |
-| #4 | Q11 (D8) | COI nav apstiprināts → atkārto |
-| #5 | Q21.5 (D11) | Nav Hope Break Lock → nekad cenu |
+## N102 · KORTIZOLA LOGS
+5-8 min pēc Hope Break smadzenes ir bioloģiski atvērtas. Pitch JĀNĀK šajā logā. Ja kavējas — logs aizveras.
+Tāpēc: pēc Q21.5 atzīšanas — NEKAVĒ. Pāriet uz Q22 mierīgā, pārliecinātā balsī. 5-8 min mierīgas prezentācijas pirms cenas.
 
-### N102 · KORTIZOLA LOGS
+## N103 · PROKURORA SUMMA
+Q4-Q21 = pierādījumu ķēde. Tu neesi pārdevējs — tu esi prokurors, kas nolasa klienta PAŠA vārdus. Viņš pats nosaka verdiktu.
+Prokurora lieta: *«Tu nosauci [problēmu], [mēģinājumus], [laiku], [maksu]. Un tagad — vai tev ir process vai cerība?»*
 
-## AKTS IV — Integrētie Neironi
+## N104 · NEIZBĒGAMĪBA (D8.5)
+*«Kas nākamajā mēnesī mainīsies, ja pieeja nemainās?»*
+Neizbēgamība nerodas no viena argumenta — tā rodas, kad visi enkuri vienlaicīgi rāda vienā virzienā.
 
-**N035** · ⚙ Hope Break 4 Scenāriji (A/B/C/D with tactics)
+## ⚙ SUNK COST tehnika
+*«Tu jau ieguldīji [X mēnešus] meklējot risinājumu. Cik vēl mēnešus tu gribi ieguldīt MEKLĒŠANĀ, pirms sāc ieguldīt RISINĀJUMĀ?»*
+Combo: Sunk Cost + COI = dubults spiediens.
+*«Tu jau iztērēji €[X] un [Y mēnešus] mēģinot pats. Un katru dienu tā turpinās — vēl €[COI/30] dienā.»*
 
-**N141** · RESNIE UN TIEVIE SPORTA ZĀLĒ — "vēlāk" iebilduma vizuālā analogija + WhatsApp 90d transformācijas attēls pēc zvana
-
-**N159** · 1% BAIĻU SLĀNIS (D11.5) — jauna sadaļa starp D11 un D12
-
-**N196** · OG MANDINO IDENTITĀTES SPOGUĻI 5 — stāsti NAV motivācija, tie ir identitātes spoguļi. 5 stāsti: Rīcība vs Domāšana/Oļu un Dimanta/Sēkla ko sēj/Šī diena neatgriežas/Ieradumi kā identitāte. Katram TRIGGER SIGNAL + jautājums klientam. HIGH-TICKET "2 jautājumu" versija
-
-**N198** · VILCINĀŠANĀS CENAS 4 IEROČI + 3 TONALITĀTES — 4 ieroči: 1)Tu jau maksā(padara neredzamo zaudējumu redzamu) 2)Drošības ilūzija(neizlēmība=aktīva riska izvēle) 3)Naudas pārrāmēšana(ņem kredītu mājai kāpēc ne biznesam) 4)Ja būtu kā būtu(iebildums kļūst pirkuma iemesls). 3 tonalitātes: Maigā/Tiešā/Brutāli godīgā
-
-5-8 min periods pēc Hope Break, kur smadzenes ir «atvērtas». Operators izmanto mierīgu sistēmas prezentāciju. Nav emocionāla pārdošana — tikai fakti un struktūra.
+> *Cerības migla — «gan jau» ir mūsdienu elks. Operators neizglābj no patiesības. Operators ĻAUJ cerībai nomirt, lai varētu dzīvot process.*
 
 ---
-# AKTS V — PĪLĀRI & PIEDĀVĀJUMS (Q22–Q28)
+# AKTS V — PĪLĀRI (Q22–Q28)
 
-## Q22 · Reality Landing (N091)
+> *Pēc Q21.5 — VISUR lieto «KAD», ne «JA». Smadzenes apstrādā «kad» kā faktu un «ja» kā hipotēzi. (N100)*
 
-🔴 **SAKI:** «Pirms es pastāstu par risinājumu — kur tavā biznesā šis process varētu aizķerties?»
+## Q22 · Investora Rāmis
+*Laiks: 33:00-34:00*
 
-Implementation fear check pirms pitch. Ja klients saka bažas — tu tās integrē piedāvājumā.
+**SAKI:**
+*«Labi. Ļauj man pastāstīt, kā mēs to risinātu — ne kā pārdevējs, bet kā partneris, kurš investē savā klientā. Tu man pastāstīji, kas tev ir svarīgi. Tagad parādīšu, kā mēs to sakārtojam.»*
 
-## ⚔ BELIEF LOCK KOMBO — Q23–Q26 Pīlāri & Vīzija
+**PRO STATE:** Mierīga pāreja. Nav steigas. Nav enerģijas lēciena — tas signalizētu pārdošanu.
+**SLĒPTĀ MEH.:** Frame shift: pārdevējs → investors/partneris. Klients jūtas kā projekts, ne mērķis.
 
-🔴 **SAKI:** «Mēs strādājam ar 3 pīlāriem: [Pīlārs 1], [Pīlārs 2], [Pīlārs 3]. Katrs atrisina vienu no problēmām, ko tu minēji.»
+## Q23 · Atļaujas Jautājums
+**SAKI:** *«Vai drīkstu pastāstīt, kā mēs strādājam?»*
+Kāpēc: Atļauja = psiholoģisks kontrakts. Klients, kas saka «jā», ir IESAISTĪTS. Klients, kuram «uzspied» — ir pretošanās režīmā.
 
-**PRO STATE:** Enerģisks bet kontrolēts. Tu stāsti stāstu — ne pārdod.
+## Q24 · 3 Pīlāri
+*Laiks: 34:00-38:00*
 
-**N034 · IKEA EFEKTS:** Klients piedalās risinājuma veidošanā → 3× stiprāka aizsardzība pret iebildumiem.
+⚔ **BELIEF LOCK KOMBO** (N255)
 
-**N110 · BELIEF LOCK:** Obligāts «jā» pirms cenas: «Ja tev būtu šāda sistēma — vai tā atrisina problēmu?» Bez tīra «jā» — cena peldēs gaisā.
+**SAKI:**
+*«Mēs strādājam uz 3 lietām:*
+*1) [Pīlārs 1 — pielāgots klienta Q18-Q20 kritērijiem]*
+*2) [Pīlārs 2 — adresē klienta galveno sāpi no Q9-Q16]*
+*3) [Pīlārs 3 — izpilda klienta drošības kodu no Q20]*
 
-**N111 · ONBOARDING 6 SOĻI:** Kognitīvais Koridors — 6 secīgi jautājumi, kas slēdz loģiskās izejas pirms cipara.
+**JA ATVĒRĀS:** Klients sāk kustināt galvu. «Jā, tas ir tieši tas, ko meklēju.»
+**JA BLOĶĒ:** «Kā tas atšķiras no...?» → Izmanto klienta paša vārdus: *«Tu teici, ka tev vajag [Q20]. Mēs tieši to dodam.»*
+**TRĀPĪJA, JA:** Klients atsaucas uz saviem vārdiem, ko tu atkārto.
+**AIZVĒRTS, KAD:** Klients saprot 3 pīlārus UN kā tie risina VIŅA problēmu.
 
-**N143 · OFFER DIFERENCIĀCIJA:** «10 speciālisti rindā — kāpēc izvēlēsies tevi?»
+**PRO STATE:** Mierīga prezentācija. 5-8 min tilts. Ne ātrāk.
+**SLĒPTĀ MEH.:** Tu neprezentē savu produktu — tu prezentē VIŅA paša kritērijus, izpildītus.
 
-**N219 · NEURAL COUPLING 60s STĀSTS (Hasson):** Pēc Q24-25. Formula: Konteksts(10s) → Problēma(15s) → Lēmums(10s) → Rezultāts(15s) → Tilts+jautājums(10s). «Stāstam jābūt ĪSTAM. Max 60s. Beidz ar JAUTĀJUMU.»
+## N074 · PITCH CODEX™ SYSTEM
+3 fāzes pitching:
+1. **Setup:** Atsauces uz klienta paša vārdiem (Q4-Q20 citāti)
+2. **Delivery:** 3 Pīlāri — katrs pielāgots MICE motoram
+3. **Lock:** Pārliecības tests pirms cenas
 
-**N112 · VILKA METODE:** 4-elementu pitch: KAS/KO/CIK ĀTRI/GARANTIJA.
+## N034 · IKEA EFEKTS
+Klients, kas PATS ir palīdzējis definēt risinājumu, to aizstāv 3× spēcīgāk.
+Tāpēc Q18-Q20 klients pats definē kritērijus → Q24-Q26 tu tos izpildi → klients jūt, ka risinājums ir VIŅA, ne tavs.
 
-🔒 **LOCK:** Belief Lock — klients saka «jā, tā atrisina problēmu» PIRMS cenas.
+## Q25 · Anti-pīlāri
+**SAKI:** *«Un godīgi — šī sistēma NAV priekš visiem. Ja tu meklē [anti-pīlārs 1] vai [anti-pīlārs 2] — mēs neesam īstie.»*
+**SLĒPTĀ MEH.:** Reverse Scarcity — pateikt «nav priekš visiem» palielina vērtību. Klients sāk sevi pārliecināt, ka viņš IR īstais.
 
-**N082 · CARRIER DOCTRINE:** 1) Slaids = fons, ne galvenais. 2) 1 metafora uz zvanu. 3) Aizpildi ar klienta vārdiem, ne saviem.
+## Q26 · 60 Sekunžu Stāsts
+*Laiks: 38:00-40:00*
 
-**N215 · CARRIER DOCTRINE 3 LIKUMI:** Lietot: plaisa vizuāli, vizuāls tips, tāfele. Nelietot: emocionāli iekšā, pirms Q8, prezentācija pirms patiesības, balss režīmā.
+## N105 · NEURAL COUPLING 60s STĀSTS
 
-## Q27–Q28 · Circumstance vs Vision (N065)
+**SAKI:**
+*«Pirms es dodu jebkādu ciparu — ļauj man pastāstīt par [klienta vārds]. Viņš bija tieši tavā situācijā — [līdzīga problēma]. Viņš teica [klienta citāts]. Mēs sākām ar [1. pīlārs]. Pēc [laika periods] viņš redzēja [konkrēts rezultāts].»*
 
-🔴 **SAKI:** «Ja tā pati problēma, kuras dēļ tu esi šajā zvanā, ir tā, kas tev liedz sākt risināt — tu esi self-perpetuating loop. Jautājums nav «kad būs pareizais laiks» — tas nekad nebūs. Jautājums ir: kad tu pārstāsi pieņemt lēmumus balstoties uz apstākļiem un sāksi — balstoties uz savu vīziju?»
+**5 soļu stāsta struktūra:**
+1. Varoņa ievads (līdzīgs klientam)
+2. Problēma (spogulis klientam)
+3. Šaubas pirms lēmuma (normalizēšana)
+4. Rīcība (ko izdarīja)
+5. Rezultāts (ar ciparu)
 
-**🔄 DRIFT RECOVERY (N016) — AKTS V-VI:** Ja klients jautā par detaļām pirms cenas → «Tam iesim cauri pēc pamata lēmuma. Tagad — vai virziens ir pareizs?»
+**PRO STATE:** Stāstnieks. Lēna, silta balss. 60s max — ne vairāk.
+**SLĒPTĀ MEH.:** Neural Coupling (Uri Hasson) — kad klients dzird stāstu, smadzenes sinhronizējas ar stāstnieku. Klients JŪTAS kā varoņa vietā.
 
-## AKTS V — Integrētie Neironi
+## Q27 · Circumstance vs Vision
 
-**N011** · FAST-START 7-DIENU PROTOKOLS (24h/3d/7d)
+**SAKI:**
+*«Jautājums nav «kad būs pareizais laiks» — tas nekad nebūs. Jautājums ir: kad tu pārstāsi pieņemt lēmumus balstoties uz pašreizējiem apstākļiem un sāksi — balstoties uz savu vīziju?»*
 
-**N023** · ⚙ CURRENT CORK — post-close single bottleneck focus
+**SLĒPTĀ MEH.:** Ja tā pati problēma, kuras dēļ klients zvanīja, ir tā, kas liedz sākt risināt — self-perpetuating loop.
 
-**N025** · URGENCY REAKTIVĀCIJA — 3 WhatsApp Bridge (48h/5d/10d)
+## Q28 · Belief Lock Check
 
-**N032** · ⚙ Cognitive Dissonance — Pēc "Jā" Teikšanas
+## N207 · BLC — BELIEF LOCK CHECK
 
-**N033** · ⚙ Decoy Effect — 3 Paketes (behavioral economics pricing)
+**SAKI:**
+*«No 1 līdz 10 — cik pārliecināts tu esi, ka šī pieeja tev var dot rezultātu?»*
 
-**N040** · D16 Engine framework
+| Rezultāts | Ko darīt |
+|-----------|----------|
+| 8-10 | Turpini uz Q29. Belief ir locked. |
+| 6-7 | *«Kas trūkst līdz 9?»* → risini PIRMS cenas |
+| 1-5 | Atgriezies Q24 vai Q21.5. Kaut kas nav nostiprinājies. |
 
-**N042** · Referral framework (post-close)
+> 🥇 **VĀRTI #5: Q28** — Belief Lock JĀBŪT 8+ pirms cenas. Ja nav — atgriezies.
 
-**N063** · BELIEF BUSTER — deep objection technique separating emotional resistance from rational need
+## N082 · CARRIER DOCTRINE
+Kad lietot vizuālo nesēju (tāfeli, slaidi):
+1. Tikai pēc Q22 — nekad pirms.
+2. Max 1 metafora uz zvanu.
+3. Nesējs pastiprina, neaizstāj sarunu.
+Likums: «Ja visuālais nesējs nepadara sarunu SPĒCĪGĀKU — nelieto.»
 
-**N066** · "How vs Should" COMMITTING TIE-DOWN — shift from decision to implementation
+## N110 · BELIEF LOCK
+Obligāts «jā» pirms cenas: *«Ja tev būtu šāda sistēma — vai tā atrisina problēmu, ko tu aprakstīji?»*
 
-**N069** · FINANŠU 3 SLIEDES — Sequential: Nākotnes-Es → "Nav naudas" diagnoze → Maksājuma sadalīšana
+## N111 · ONBOARDING 6 SOĻI — Kognitīvais Koridors
+6 secīgi jautājumi pirms cenas, kas slēdz loģiskās izejas:
+1. «Vai redzi problēmu?» 2. «Vai saprati cēloni?» 3. «Vai jūti sekas?» 4. «Vai redzi risinājumu?» 5. «Vai tici ka var strādāt?» 6. «Vai gatavs sākt?»
 
-**N070** · 🤖 AI-POWERED ZVANU ANALĪZE — Post-call AI protocol + iknedēļas AI atskaite
+## N112 · VILKA METODE — 4 Elementu Pitch
+| Elements | Ko | Piemērs |
+|----------|-----|---------|
+| KAS | Ko tu dari | «Mēs būvējam [X] sistēmu» |
+| KO | Kādu rezultātu | «Kas dod [Y] rezultātu» |
+| CIK ĀTRI | Laika rāmis | «Pirmajās 30-90 dienās» |
+| GARANTIJA | Riska novēršana | «Ja nedod — atdodam naudu» |
 
-**N071** · ⚡ VIENA POGA POST-CALL — One-click automation (Jā path / Nē path templates + CRM)
+## N143 · OFFER DIFERENCIĀCIJAS JAUTĀJUMS
+*«10 speciālisti rindā — kāpēc izvēlēsies tevi?»* Liek klientam formulēt atbildi, kas kļūst par pitch pamatu.
 
-**N074** · PITCH CODEX™ SYSTEM — 3-phase pitching (different from 3 Pīlāri), includes Pitch Creation Worksheet
+## N177 · REALITY SNAP (RS)
+Kognitīvā konfrontācija: *«Tu šobrīd «pērc» savu mieru par €[X] mēnesī. Vai tas ir darījums, ko tu apzināti izvēlētos?»*
 
-**N076** · CLOSING DEPOSITS — language for refundable/non-refundable deposits when timing/finances issue
+🔄 *DRIFT RECOVERY (N016) — AKTS V-VI:*
+«Pirms mēs ejam tālāk — es gribu pārliecināties, ka tev ir skaidrs, KĀPĒC mēs šo darām. Tu teici [citāts]. Vai tas joprojām ir galvenais?»
+---
+# AKTS VI — CENA (Q29–Q32)
 
-**N083** · SMOKE SCREEN DECODER — 6 ātrās pārslēgšanas iebildumiem (Jāpadomā/Dārgi/Partneris/Info/Laiks/Vēlāk)
+> *Nekad neaizstāvi cenu. Cena ir fakts. Gravitācija nav jāaizstāv.* — N183
 
-**N088** · CENAS RĀMJU LĒMUMU KOKS — kuru cenas rāmi lietot kuram MICE/klienta tipam (ROI/Zaudējumu/Izvēles/Nākotnes)
+## N038 · 3 TEMPERATŪRAS TESTI (Q29-Q31)
 
-**N115** · ESKALĀCIJA 5 SOĻI — Cenas iebilduma eskalācija: Clarify→Konkurents/DIY→COI Enkurs→Identitātes Pārnesums→Confirm+Padlock
+## Q29 · Temperatūras Tests #1
+**SAKI:** *«Pirms es dodu jebkādu ciparu — no 1 līdz 10, cik gatavs tu esi sākt risināt šo situāciju?»*
 
-**N132** · CHAOS HANDLING — sistēma haotisku zvanu apstrādei (kad klients zaudē kontroli vai saruna aiziet ārā no ķēdes)
+| Atbilde | Ko darīt |
+|---------|----------|
+| 8-10 | Turpini uz Q30 |
+| 5-7 | *«Kas tev trūkst līdz 9?»* → Risini pirms turpināt |
+| 1-4 | Atgriezies Q21.5. Kaut kas nav nostiprinājies |
 
-**N142** · TOMASA DISQUALIFIKĀCIJA — "Es ilgi neesmu bijis zvanā, kur klients ir tik negatīvs" + pilnīgs klusums 5-10s. Pašclosing vai produktīva DQ
+## Q30 · Gatavības Tests #2
+**SAKI:** *«Ja es tev parādītu, ka tas ir reāli — tu būtu gatavs pieņemt lēmumu šodien?»*
+Mērķis: izolēt lēmumu uz ŠODIENU. Ja «nē» — uzzini KĀPĒC pirms cenas.
 
-**N144** · AB TESTĒŠANAS SKAIDROJUMS BEZ ŽARGONA — pilns klientam saprotams skripts, AIZLIEGTS minēt "AB tests/split test"
+## Q31 · Pēdējais Filtrs #3
+**SAKI:** *«Pirms es nosaucu ciparu — vai ir vēl kaut kas, ko tev vajag zināt vai redzēt?»*
+Mērķis: iztīri VISUS iebildumus PIRMS cenas. Pēc cenas katrs iebildums ir 3× grūtāk atrisināms.
 
-**N147** · META REKLĀMAS STRUKTŪRA KLIENTA VALODĀ — kampaņas→auditorijas→vizuāli skaidrojums + "sistēma kā krāns" framing
+## Q32 · CENA
+*Laiks: 40:00-42:00*
 
-**N149** · INDRAS CASE STUDY TEMPLATE — 4 storytelling noteikumi: sāc ar klienta problēmu, "tāds pats kā tu", emocionāls rezultāts, par klientu ne par tevi
+⚔ **CENA KĀ FAKTS KOMBO** (N255)
 
-**N156** · CLOSING MATRIX — 5 close varianti D18 zonā (pēc Unfinished Business)
+**SAKI (D16 Engine — N174):**
+*«Tu man teici, ka [sāpe]. Tas tev izmaksā [COI cipars] katru mēnesi. Tu esi mēģinājis [mēģinājumi] un tas nav strādājis. Tu teici, ka gribi [mērķis]. Tev ir skaidrs, ka cerēt nav sistēma. Investīcija, lai šo sakārto, ir €X.»*
 
-**N189** · SIEVAS KITS — 5 kritēriji partnera iebildumam: 1)Vai sistēma specifiska nišai? 2)Vai garantija/riska novēršana? 3)Cik darbinieku jāiesaista? 4)Kāds termiņš līdz pirmajiem rezultātiem? 5)ROI modelis: 1 darījums sedz investīciju? + "Kura diena šonedēļ der lai abi uz 20 min?"
+⏸ **KLUSUMS.** (Pirmais, kas runā pēc cenas — zaudē. Ieskaitī līdz 7.)
 
-**N203** · REAL-TIME RESPONSE TREE 15 SCENĀRIJI — prognozēšanas un atbildes koks katram klienta iebildumam: "Nav prioritāte"→D9.5/"Nav naudas"→"Nav naudas vai pārliecības?"/"Jāpadomā"→3 Decisions/"Latvija maza"→piekļuve/"Konkurence"→"nauda tirgū ir"/"Ivans lētāk"→"nevari pārspēt cenā un nevajag" u.c.
+**JA ATVĒRĀS:**
+Klients klusē, tad: «Ok. Kā sākam?» → Pāriet uz Q39 Close.
 
-**N220** · V40 OBJECTION DESTRUCTION SYSTEM — 5 OBJECTION ROOT TYPES + iebildumu sakņu diagnostika: 1)Nav pietiekamas sāpes 2)Nav kvantificēts (nav €) 3)Nav neizbēgamības 4)Nav identitātes konflikta 5)Nav drošības (D10). "Tu neapstrādā objection→tu ej atpakaļ DOMINO"
+**JA BLOĶĒ:**
+«Dārgi.» → *«Salīdzinot ar ko?»* un tad → *«Ja tas būtu €0 — tu to darītu?»* → Ja jā: cena nav īstais iebildums.
+«Jāpadomā.» → *«Par ko tieši gribi padomāt?»* → Izolē reālo bažu.
 
-**N222** · V40 DEEP CHAINS 10-STEP PRICE BREAK — pilna loģikas sabrukuma secība: 1)Salīdzinot ar ko? 2)Ja €0 darītu? 3)Jautājums nav cena bet pārliecība? 4)Ko maksā neatrisināt/mēn? 5)Gadā? 6)Jau samaksāts? 7)Sliktākais ja rīkojas? 8)Sliktākais ja nerīkojas? 9)Kurš smagāks? 10)Kas patiesībā dārgāks?
+**TRĀPĪJA, JA:**
+Klients nesaka «dārgi» — jo D16 Engine jau sasaistīja cenu ar VIŅA cipariem.
 
-**N242** · OBJECTION PREDICTION ENGINE — iebildumu prognozēšanas dzinējs: paredz iebildumus PIRMS tie rodas, balstoties uz klienta tipu un sarunu fāzi
+**AIZVĒRTS, KAD:**
+Klients uzdod implementācijas jautājumus: «Kad sākam?» «Kā tas strādā?»
 
-**N245** · WAR MODE LIVE NEGOTIATION MATRIX — kaujas režīms sarežģītām sarunām: reāllaika lēmumu matrice ar taktiskām opcijām katrā sarunu punktā
+**PRO STATE:**
+Faktoloģisks. Neitrāls. Nav emocionāls. Cena = gravitācija.
 
-**N249** · MASTER CLOSING SYSTEM FULL CHAIN — pilnā aizvēršanas ķēde no pirmā signāla līdz parakstam. Multi-close secība ar fallback opcijām
+**SLĒPTĀ MEH.:**
+D16 Engine = visa zvana informācija saspiesta VIENĀ TEIKUMĀ pirms cenas. Klients dzird savu pašu stāstu → cena kļūst loģiska, ne šokējoša.
 
-**N250** · IZVAIRĪŠANĀS FORMULA — kā noteikt un apstrādāt klienta izvairīšanās modeļus. Katram izvairīšanās tipam specifiska atbilde
+## N088 · CENAS RĀMJU LĒMUMU KOKS
 
+| MICE motors | Cenas rāmis | Verbatim |
+|-------------|-------------|---------|
+| Money | ROI rāmis | *«Investīcija €2K. Plaisa €7K/mēn. Pat 30% = €2.1K. Atmaksā 28 dienās.»* |
+| Ideology | Identitātes rāmis | *«Šī investīcija nav par €2K. Tā ir par to, vai tu beidzot paceļ biznesu uz līmeni, kas atbilst tam, ko tu patiesi spēj.»* |
+| Compromise | Atvieglojuma rāmis | *«€2K par to, ka tu beidzot vairs nedomā par šo katru rītu. Vai tas ir tā vērts?»* |
+| Ego | Izaugsmes rāmis | *«Tu jau esi labāks par 90% sava tirgus. Šī investīcija ir par atlikušajiem 10%.»* |
+
+## N202 · PRICE IMMUNITY MODULE
+5 jautājumi, kas liek klientam PAŠAM pamatot premium:
+1. *«Cena vai prognozējamība?»*
+2. *«Cena vai rezultāta prognozējamība?»*
+3. *«Lētākais maksā mazāk sākumā vai beigās?»*
+4. *«Sistēma vai cerība?»*
+5. *«Vai pēdējā ārējā investīcija atmaksājās?»*
+
+## N206 · POST-PRICE BRANCH — 3 Ceļi
+
+| Ceļš | Klienta reakcija | Operatora atbilde |
+|------|-----------------|-------------------|
+| A — KLUSUMS | Klients klusē | Tu arī klusi. Ieskaiti līdz 7. Pirmais runā = zaudē. |
+| B — «PAR DĀRGU» | «Tas ir dārgi» | *«Salīdzinot ar ko?»* + *«Ja €0 tu to darītu?»* → D7 LOOP |
+| C — «JĀPADOMĀ» | «Man jāpadomā» | *«Par ko tieši?»* → 3 Decisions |
+
+## N222 · V40 DEEP CHAINS — 10 SOĻU CENAS SABRUKŠANA
+
+1. *«Salīdzinot ar ko?»*
+2. *«Ja €0 — tu to darītu?»*
+3. *«Tātad jautājums nav cena, bet pārliecība?»*
+4. *«Ko tev maksā šo neatrisināt mēnesī?»*
+5. *«Gadā?»*
+6. *«Cik tu jau esi samaksājis par šo problēmu?»*
+7. *«Kas ir sliktākais, kas var notikt, ja rīkojies?»*
+8. *«Kas ir sliktākais, ja nerīkojies?»*
+9. *«Kur tu būsi pēc 12 mēnešiem, ja nekas nemainās?»*
+10. *«Tātad — sākam vai atļaujam šai situācijai turpināties?»*
 
 ---
-# AKTS VI — CENA & KLUSUMS (Q29–Q32)
+# AKTS VII — IEBILDUMI (Q33–Q40)
 
-## ⚔ CENA KĀ FAKTS KOMBO — Q29–Q32
+> *Iebildums nav ienaidnieks — tas ir signāls, ka agrāk kāds domino nav nostiprināts.*
 
-### N038 · 3 Temperatūras Testi (pirms cenas)
-Q29: «No 1-10, cik tu redzi vērtību tajā, ko tikko apspriedām?»
-Q30: «Kas trūkst līdz 10?»
-Q31: «Ja tas viss būtu pieejams — vai tu būtu gatavs sākt?»
+## N136 · 5 SAKŅU KATEGORIJU IEBILDUMU SISTĒMA
 
-### D16 ENGINE — CENAS KOMPRESORS
-🔴 **SAKI:** «Tu man teici, ka [sāpe]. Tas tev izmaksā €[COI cipars] katru mēnesi. Tu esi mēģinājis [mēģinājumi] un tas nav strādājis. Tu teici, ka gribi [mērķis]. Tev ir skaidrs, ka cerēt nav sistēma. Investīcija, lai šo sakārto, ir €X.»
+| # | Kategorija | Īstā doma | Domino, kas nav locked |
+|---|-----------|-----------|------------------------|
+| 1 | Bailes no riska | «Ko ja nestrādā?» | D8 (Hope Break) vai D10 (Belief Lock) |
+| 2 | Vērtības neskaidrība | «Ko es par to dabūšu?» | D7 (COI) vai D9 (3 Pīlāri) |
+| 3 | Uzticības trūkums | «Vai es tev varu ticēt?» | D1-D3 (Drošība/Frame) |
+| 4 | Prioritātes | «Vai tas ir svarīgāk par X?» | D5-D6 (Sāpes/Laiks) |
+| 5 | Kontroles zaudēšana | «Es nezaudēšu kontroli?» | D2 (Frame) vai D10 (Onboarding) |
 
-⏸ **KLUSUMS:** 10-15s. ABSOLŪTS klusums. «Kurš runā pirmais — zaudē.» (N122)
-
-**PRO STATE:** Flat. Bez emocijām. Cena ir fakts — kā gravitācija.
-
-**N216 · CENAS RĀMJU LĒMUMU KOKS:**
-- **M (Money):** ROI rāmis → «Investīcija €2K. Plaisa €7K/mēn. Atmaksā 28 dienās.»
-- **I (Ideology):** «Šī investīcija nav par €2K. Tā ir par to, vai tu beidzot paceļ biznesu uz līmeni, kas atbilst tam, ko tu patiesi spēj.»
-- **C (Compromise):** «€2K par to, ka tu beidzot vairs nedomā par šo katru rītu. Vai tas ir tā vērts?»
-- **E (Ego):** «Tu jau esi labāks par 90% sava tirgus. Šī investīcija ir par atlikušajiem 10%.»
-
-**N202 · PRICE IMMUNITY:** 5 jautājumi: «Cena vai prognozējamība?» / «Lētākais maksā mazāk sākumā vai beigās?» / «Sistēma vai cerība?»
-
-### N206 · POST-PRICE BRANCH — 3 Ceļi
-
-| Scenārijs | Reakcija |
-|-----------|---------|
-| **A) KLUSUMS** | Tu arī klusi. Ieskaiti līdz 7. Pirmais runā = zaudē. |
-| **B) «PAR DĀRGU»** | «Salīdzinot ar ko?» + «Ja €0, tu to darītu?» → D7 Loop |
-| **C) «JĀPADOMĀ»** | «Ko tieši gribi pārbaudīt?» → 3 Decisions diagnostika |
-
-> *«80% dealu liktenis notiek tieši šeit.»* — N206
-
----
-# AKTS VII — IEBILDUMI & CILPA (Q33–Q40)
-
-> *«Iebildums nav ienaidnieks — tas ir signāls, ka agrāk kāds domino nav nostiprināts.»*
-
-## N174 · D16 OBJECTION ENGINE — 6 Soļu Cilpa
+## N174 · D16 OBJECTION ENGINE — 6 SOĻU CILPA
 
 | # | Solis | Frāze |
 |---|-------|-------|
-| 1 | CLARIFY | «Palīdzi man saprast — ko tieši tu domā ar [iebildums]?» |
-| 2 | ISOLATE | «Ja šo vienu lietu atrisinām — vai ir vēl kaut kas?» |
-| 3 | ROOT | «Kas patiesībā aiz tā stāv — cena, uzticība, ieviešana, fit vai bailes?» |
-| 4 | REFRAME | «Atgriežamies pie tā, ko pats teici — [klienta vārdi]...» |
-| 5 | PADLOCK | «Tātad, ja [viņa nosacījums] ir sakārtots — tu esi gatavs?» |
-| 6 | READINESS | «No 1 līdz 10 — cik gatavs sākt?» (Ja <7 → jauna cilpa) |
+| 1 | CLARIFY | *«Palīdzi man saprast — ko tieši tu domā ar [iebildums]?»* |
+| 2 | ISOLATE | *«Ja šo vienu lietu atrisinām — vai ir vēl kaut kas?»* |
+| 3 | ROOT | *«Kas patiesībā aiz tā stāv — cena, uzticība, ieviešana, fit vai bailes?»* |
+| 4 | REFRAME | *«Atgriežamies pie tā, ko pats teici — [klienta vārdi]...»* |
+| 5 | PADLOCK | *«Tātad, ja [viņa nosacījums] ir sakārtots — tu esi gatavs?»* |
+| 6 | READINESS | *«No 1 līdz 10 — cik gatavs sākt, ja šo sakārtojam?»* (Ja <7 → jauna cilpa) |
 
-## N030 · CIA-PATT — 7 Soļu Protokols
+## N030 · CIA-PATT FRAMEWORK — 7 Soļi
 
-C(Clarify) → I(Isolate) → A(Appreciation «Novērtēju, ka pasaki godīgi») → P(Permission «Vai drīkstu pajautāt?») → A(Accountability «Tu agrāk teici [citāts]») → T(Transform Meaning) → T(Time to Decide «Ko tu dari?»)
+| # | Solis | Ko dari |
+|---|-------|---------|
+| C | Clarify | *«Palīdzi man saprast — ko tieši tu domā?»* |
+| I | Isolate | *«Ja šo vienu atrisinām — vai ir vēl kaut kas?»* |
+| A | Appreciation | *«Es novērtēju, ka tu to pasaki godīgi.»* |
+| P | Permission | *«Vai drīkstu pajautāt?»* |
+| A | Accountability | *«Tu agrāk teici [citāts]. Ko tas nozīmē tagad?»* |
+| T | Transform | Reframe ar klienta vārdiem |
+| T | Time to Decide | *«Tātad — ko tu dari?»* |
 
-## N136 · 5 SAKŅU KATEGORIJAS
+## N068 · CARE IETVARS (Emocionāliem iebildumiem)
 
-| Sakne | Klients domā | Operators dara |
-|-------|-------------|----------------|
-| Bailes no riska | «Bet ja nestrādā?» | Atpakaļ uz N090 Buying Instruction |
-| Vērtības neskaidrība | «Kāpēc tieši jūs?» | N143 Offer Diferenciācija |
-| Uzticības trūkums | «Es tev netic» | Atpakaļ uz Q1-Q3 Frame |
-| Prioritātes | «Nav laika/naudas» | N177 Reality Snap |
-| Kontroles zaudēšana | «Es gribu pats» | N158 Power Takeback |
+| Solis | Ko dari | Verbatim |
+|-------|---------|---------|
+| C — Clarify | Precizē | *«Ko tieši domā?»* |
+| A — Acknowledge | Atzīsti | *«Es saprotu, kāpēc tā jūties.»* |
+| R — Reframe | Pārrāmē | *«Vai esi apsvēris, ka...»* |
+| E — Explore | Izpēti | *«Kas tev palīdzētu justies drošāk?»* |
 
-## N221 · 10 UNIVERSĀLIE BREAKERS
+## N079 · MASKU DOMINO — PILNA KARTE (7 maskas)
 
-| # | Breaker | Frāze |
-|---|---------|-------|
-| 1 | Universālais | «Kas tev maksā šo neatrisināt?» |
-| 2 | Double Reality | «Sliktākais, ja dari — vs ja nedari?» |
-| 3 | Think Killer | «Ko tieši gribi pārbaudīt?» |
-| 4 | Price Collapse | «Salīdzinot ar ko?» |
-| 5 | Control Shift | «Atrisināt vai padomāt?» |
-| 6 | Identity Break | «Gaida vai rīkojas?» |
-| 7 | Time Collapse | «Kas mainīsies pēc 1 mēneša?» |
-| 8 | No Escape | «Sākam vai nav prioritāte?» |
-| 9 | Silence Weapon | [klusums 10s+ pēc katra] |
-| 10 | Meta Level | «Kur ir bloks — galvā vai vēderā?» |
+| Maska | Virsmas frāze | Ko aizsargā | Jautājums | Q māja |
+|-------|---------------|-------------|-----------|--------|
+| Miera | «Es tikai skatos» | Ievainojamību, kontroli | *«Kas bija tas moments, kas tomēr lika pieteikties?»* | Q3-Q4 |
+| Partnera | «Jārunā ar partneri» | Paša nepateikto jā/nē | *«Ja tikai tavs lēmums — ko TU teiktu?»* | Q3/Q33 |
+| Eksperta | «Es pats zinu» | Kaunu, ka nav izdarīts | *«Cik ilgi tu jau to zini? Un kāpēc vēl nav?»* | Q8-Q10 |
+| Laika | «Nav laika tagad» | Bailes no pārmaiņām | *«Cik laika problēma apēd katru nedēļu?»* | Q10/Q14 |
+| Naudas | «Par dārgu» | Neuzticēšanos vērtībai | *«Salīdzinot ar ko? Ar to, ko tu zaudē katru mēnesi?»* | Q32/Q33 |
+| Skeptiķa | «Vai tiešām strādā?» | Iepriekšēju neveiksmju traumu | *«Ko tieši tev vajag redzēt, lai justos droši?»* | Q20/Q28 |
+| Intelektuālā | «Atsūti info, izpētīšu» | Izvairīšanos no lēmuma | *«Ko ceri atrast, ko neredzi tagad?»* | Q20 |
 
-## N217 · SMOKE SCREEN DECODER — 6 Ātrās
+## N083 · SMOKE SCREEN DECODER — 6 Ātrās Atbildes
 
-| Klients saka | Sakne | Operators |
-|-------------|-------|-----------|
-| «Jāpadomā» | Neskaidrība | «Par ko tieši?» |
-| «Dārgi» | Nav vērtības | «Ja uz pusi, sāktu?» |
-| «Jārunā ar partneri» | Pats nav jā | «Ja tikai tavs lēmums?» |
-| «Atsūti info» | Bēgšana | «Ko ceri atrast, ko neredzi tagad?» |
-| «Nav laika» | Prioritāte | «Cik laika problēma apēd?» |
-| «Vēlāk» | Atliekšana | «Kas būs citādi pēc 30 dienām?» |
+| Klients saka | Tu atbildi |
+|--------------|-----------|
+| «Jāpadomā» | *«Par ko tieši?»* |
+| «Dārgi» | *«Salīdzinot ar ko?»* |
+| «Partneris» | *«Ja tikai tavs lēmums?»* |
+| «Atsūti info» | *«Ko ceri atrast, ko neredzi tagad?»* |
+| «Nav laika» | *«Cik laika problēma apēd?»* |
+| «Vēlāk» | *«Kas mainīsies pēc 30 dienām?»* |
 
-> *«Nekad nerisini virsmu.»* — N217
+## OBJECTION ROUTER — Q mājas karte
 
-## N209 · MASKU DOMINO — 7 Maskas + Operatora Kustība
+| Iebildums | Kur atgriezties | Kāpēc |
+|-----------|-----------------|-------|
+| «Dārgi» | Q6/Q14/Q26 | COI nav pietiekami dziļš vai stāsts nav rezonējis |
+| «Jāpadomā» | Q19/Q20 | Buying Instruction nav izpildīta |
+| «Partneris» | Q3 | Lēmēja check nav izdarīts |
+| «Atsūti info» | Q20 | Drošības kods nav dots |
+| «Nav laika» | Q9/Q14 | Sāpe nav pietiekami dziļa |
+| «Es pats» | Q14 | *«Cik ilgi jau zini? Kāpēc vēl nav?»* |
+| «Vēlāk» | Q17 | Slēptais līgums nav atklāts |
+| «Nezinu vai strādās» | Q21.5 | Hope Break nav locks |
+| «Man jau ir sistēma» | Q8-Q10 | Klients pats teica, kāpēc vecais nestrādā |
+| «Bail no riska» | Q28 (BLC) | Belief Lock nav 8+ |
+| «Pārliecini mani» | Frame Break | Atgriezies Q2 Frame |
 
-| Maska | Virsmas frāze | Ko aizsargā | Operators |
-|-------|--------------|-------------|-----------|
-| Spēka | «Es zinu ko daru» | Kontroli | «Kas traucē rezultātam?» |
-| Naudas | «Par dārgu» | Vērtības šaubas | «Ja cena uz pusi, sāktu?» |
-| Laika | «Nav laika» | Prioritātes | «Nav bijis pietiekami augstu?» |
-| Partnera | «Jārunā ar sievu» | Paša nepateikto jā/nē | «Ko partneris teiktu?» |
-| Miera | «Es tikai skatos» | Ievainojamību | «Kāpēc tomēr esi šeit?» |
-| Analītiķa | «Atsūtiet materiālus» | Bēgšanu | «Vai izlasīsi?» |
-| Vājuma | «Es neesmu gatavs» | Bailes no neveiksmes | «Kas jānotiek, lai pats gatavs?» |
+## N063 · BELIEF BUSTER
+Kad klients pretojas nevis racionāli, bet emocionāli:
+*«Es dzirdu, ka tev ir bažas. Vai tās ir par sistēmu — vai par kaut ko citu?»*
+Atdali emociju no loģikas. Bieži: bailes no pārmaiņām, nevis no produkta.
 
-**N079 · MASKA → Q → KUSTĪBA:** Ja redzi masku — zini kuru Q atgriezties. Navigācija reāllaikā.
+## N066 · «HOW VS SHOULD» COMMITTING TIE-DOWN
+Pārslēdz no «vai man vajadzētu?» (lēmums) uz «kā es to darīšu?» (implementācija):
+*«Mēs jau redzējām KĀPĒC. Tagad jautājums ir — KĀ tu to sakārtosi?»*
+Klients sāk plānot = jau ir teicis «jā».
 
-## OBJECTION ROUTER — Iebildums → Failed Domino Node
+## N069 · FINANŠU 3 SLIEDES (Nav naudas)
+Secīga apstrāde:
+1. **Nākotnes-Es:** *«Kāds tu būsi pēc 12 mēn, ja to neatrisini?»*
+2. **Diagnoze:** *«Vai jautājums ir par naudu — vai par pārliecību?»*
+3. **Sadalīšana:** *«Ja sadalām — €X mēnesī. Tas ir mazāk nekā [salīdzinājums].»*
 
-| Iebildums | Failed node |
-|-----------|------------|
-| «Dārgi» | Q6/Q14/Q26 |
-| «Jāpadomā» | Q19/Q20 |
-| «Partneris» | Q3 |
-| «Atsūti info» | Q20 |
-| «Nav laika» | Q9/Q14 |
-| «Es pats» | Q14 |
-| «Vēlāk» | Q17 |
-| «Pārliecini» | Frame Break Q2 |
+## N039 · CLOSE TEHNIKAS — 4 Varianti
 
-## N039 · CLOSE TEHNIKAS
+| Tehnika | Frāze | Kad |
+|---------|-------|-----|
+| Assumptive | *«Tad iesākam ar...»* | Pēc 8+ Belief Lock |
+| Sharp Angle | *«Ja es to varu sakārtot — tu esi gatavs?»* | Ja klients lūdz kaut ko |
+| Alternative | *«Sākam pirmdien vai ceturtdien?»* (Double Bind) | Standard close |
+| Now or Never | *«Šī vieta brīva tikai šonedēļ.»* | Ja klients vilcinās |
 
-- **Assumptive:** «Kad sākam — pirmdien vai trešdien?»
-- **Sharp Angle:** Klients prasa X → «Ja iedodu X — sākam šodien?»
-- **Alternative:** «Visa programma vai pamats?»
-- **Now or Never:** «Šī cena ir šodienas cena.»
+## N156 · CLOSING MATRIX — 5 Close Varianti
 
-## Q40 · Pēdējais jautājums
+| # | Tips | Frāze |
+|---|------|-------|
+| 1 | Direct | *«Sākam.»* |
+| 2 | Assumptive | *«Tad iesākam ar...»* |
+| 3 | Alternative | *«Pirmdien vai ceturtdien?»* |
+| 4 | Summary | *«Tu teici... tātad... sākam?»* |
+| 5 | Urgency | *«Šī vieta brīva tikai šonedēļ.»* |
 
-🔴 **SAKI:** «Tātad — ko tu dari?»
+## N170 · ULTRA CLOSE — 6 LĪNIJAS
+*«Tu nevari paredzēt → Tu zaudē ~€X → Tu nevari paļauties → Tu gribi kontrolēt → Bet tas, ko tu dari, neved uz to → Tu turpini vai sakārto.»*
 
-⏸ **KLUSUMS:** 10s+. Pēdējais klusums.
+## N192 · FORCE LEVEL SISTĒMA F1-F7
 
-**N041 · KOLUMBO TEHNIKA:** Pēc «atvadīšanās» — «Vēl viena lieta...» — bieži atver to, ko klients baidījās pateikt.
+| F | Līmenis | Piemērs |
+|---|---------|---------|
+| F1 | Opening | Mieriīgs, zema enerģija |
+| F2 | Discovery | Ziņkārīgs, atklāts |
+| F3 | Clarification | Precizējošs |
+| F4 | Consequences | Sāpju konfrontēšana |
+| F5 | Inevitability | «Kas mainīsies?» |
+| F6 | Identity | «Vai tu esi cilvēks, kas...» |
+| F7 | Hard Stop | *«Sākam vai aizveram.»* |
 
-**N170 · ULTRA CLOSE 6 LĪNIJAS:** «Tu nevari paredzēt / Tu zaudē ~€X / Tu nevari paļauties / Tu gribi kontrolēt / Bet tas, ko tu dari, neved uz to / Tu turpini vai sakārto.»
+## N179 · FAILSAFE EXIT (FE) — 4 soļu protokols
+Kad klients saka «Nē» pēc pilna C1-C8:
+FE1: *«Saprotu.»*
+FE2: *«Tu izvēlies turpināt zaudēt €X.»*
+FE3: PAUZE. GAIDI.
+FE4: *«Katrs mēnesis, ko gaidi, maksā €X.»*
+VIENMĒR noslēdz ar laiku.
 
-**N095 · NAMED BRAKE:** Ja nav jā — nosaukt KONKRĒTU bremzi + datums/laiks. «Kas tieši tevi aptur? Kurā dienā turpinam?» Ne miglains «sarakstīsimies».
+## Q40 · Kolumbo Tehnika (N041)
+Pēc atvadīšanās — atgriezies ar vienu pēdējo jautājumu:
+*«Ak, vēl viena lieta — kas PATIESĪBĀ tevi aptur?»*
+Kolumbo strādā, jo klients jau ir «atvadījies» — aizsardzība ir zemāk nekā jebkad.
 
-**N179 · FAILSAFE EXIT:** FE1(Saprotu) → FE2(«Tu izvēlies turpināt zaudēt €X») → FE3(PAUZE GAIDI) → FE4(«Katrs mēnesis, ko gaidi, maksā €X»). VIENMĒR noslēdz ar laiku.
+## N158 · POWER TAKEBACK
+Kad klients saka «Man viss labi»:
+*«Lieliski. Tad kāpēc tu esi šeit?»*
 
-**N186 · SELF-CLOSING STATE:** «Augstākais closing nav jautājums. Tas ir brīdis, kad klients pats saka: Ok, šis vienkārši ir jārisina. Tava atbilde: Skaidrs. Tad sakārtojam.»
+## N186 · SELF-CLOSING STATE
+Augstākais closing nav jautājums. Tas ir brīdis, kad klients PATS saka:
+*«Ok, šis vienkārši ir jārisina.»*
+Tava atbilde: *«Skaidrs. Tad sakārtojam.»*
+40/60 LIKUMS: klients runā 60%, tu vadi 40%.
 
-**🔄 DRIFT RECOVERY (N016) — AKTS VII:** Ja iebildumu cilpa griežas > 3× → «Gribu saprast godīgi — kas patiesībā aptur?»
+🔄 *DRIFT RECOVERY (N016) — AKTS VII:*
+«Es saprotu tavu bažu. Atgriežamies pie vienas lietas — tu teici [citāts no Q9/Q21.5]. Vai tas joprojām ir tā?»
+
+## N203 · REAL-TIME RESPONSE TREE — 15 Scenāriji
+Prognozēšanas koks katram iebildumam:
+- «Nav prioritāte» → D9.5 baiļu slānis
+- «Nav naudas» → *«Nav naudas vai pārliecības?»*
+- «Jāpadomā» → 3 Decisions
+- «Partneris» → Lēmēja recheck
+- «Bail» → BLC + stāsts
+- «Jau mēģināts» → *«Ko tieši mēģināji un kas precīzi nestrādāja?»*
+- «Atsūti info» → *«Ko ceri tur atrast?»*
+- «Vēlāk» → *«Kas mainīsies pēc 30d?»*
+
+
+## N092 · DOPAMĪNA SLĒDZENE
+Q36 post-close: pirmā uzvara TAGAD. *«Kas ir TĀ viena lieta, ko tu vari izdarīt nākamajās 24h?»*
+Lai klients jūt «es izdarīju pareizi» — nevis «es iztērēju naudu».
+
+## N093 · DERĪBA
+Q37 abpusēja apņemšanās: *«Tava daļa + mana daļa pirmajās 48h.»* Ne tikai maksājums — abpusēja investīcija. Klients jūt ko-ownership.
+
+## N094 · SĒKLA
+Q38 identitātes nostiprināšana: *«Pēc 90 dienām tu būsi tas stāsts, ko es stāstīšu nākamajam klientam.»* Klients sāk sevi redzēt kā nākotnes success story.
+
+## N095 · NAMED BRAKE
+Q40 ja nav «jā»: nosaukt KONKRĒTU bremzi + datums/laiks. *«Ko tieši tev vajag lai teiktu jā? Un kad mēs par to runājam — pirmdien vai trešdien?»* Ne miglains «sarakstīsimies».
+
+## N121 · ESCAPE DESTRUCTION MATRIX
+13 klienta escape ceļi ar precīzu «nogalināšanas» frāzi per D:
+«Jāpadomā» → «Par ko tieši?» | «Atsūti info» → «Ko ceri atrast?» | «Partneris» → «Ja tikai tavs?» | «Dārgi» → «Salīdzinot ar ko?» | «Vēlāk» → «Kas mainīsies?» | «Es pats» → «Cik ilgi jau?» | ...
+
+## N124 · DISQUALIFIKĀCIJA — 4 Scenāriji
+Kad iziet: 1) Nav problēma 2) Nav budžeta reāli 3) Lēmējs 3× nav pieslēdzams 4) Necieņa/manipulācija no klienta puses.
+
+## N140 · «PĀRLIECINI MANI» FRAME BREAK
+Dominances pāreja: *«Man nav tev jāpārliecina. Es diagnosticēju. Ja tas nav priekš tevis — es to pateikšu pirmais.»* + *«Varam beigt jebkurā brīdī.»*
+
+## N190 · RE-ENGAGEMENT PROTOKOLS
+3 ziņu pazudušo klientu secība:
+1) 3-5d: *«Vai nokļuva info?»*
+2) 7-10d: *«Domāju par tavu situāciju. Kas mainījies?»*
+3) 14-21d: *«Pēdējā ziņa. Ja nav aktuāli — saprotu. Ja ir — raksti.»*
+
+## N201 · POST-CLOSE 5 MIN PROTOKOLS V11
+0-1 min: Bridge (*«Ātri izskaidrošu kas notiks»*)
+1-2 min: Soļi (1-2-3 nākamie)
+2-3 min: Homework (*«Sagatavo [X] pirms sesijas»*)
+3-4 min: Datums (*«Mūsu sesija — [diena]»*)
+4-5 min: Nostiprināšana (*«Pareizs lēmums.»*)
+
+## N209 · 7 MASKU KARTE + OPERATORA KUSTĪBA V102
+7 klientu maskas ar precīzu kustību:
+Spēka (*«Kas tev liedz mainīt?»*) / Viedā (*«Kā tu to zini?»*) / Aizņemtā (*«Ko tu padari mazāk svarīgu?»*) / Upura (*«Ko TU kontrolē?»*) / Optimista (*«Kāpēc vēl nav?»*) / Skeptiķa (*«Ko vajag redzēt?»*) / Kontroles (*«Kas tev šobrīd dod kontroli?»*)
+
+## N211 · ATVĒRŠANAS KILL SWITCH V102
+4 diskvalifikācijas signāli: Nav lēmēja(3× nav) / Nav godīguma(melo) / Necieņa / «Atsūti info»(nevar iesaistīties dialogā).
+
+## N214 · HOPE BREAK LĒMUMU KOKS 4 SCENĀRIJI V102
+Pēc Q21.5: A) Pilna atzīšana → Q22 / B) Daļēja → *«Kas mainās ja turpini?»* → A / C) Pretošanās → 5 soļi tests → B / D) Aizsardzība → *«Es nemēģinu pierādīt»* → ja atzīst → A.
+
+## N215 · CARRIER DOCTRINE 3 LIKUMI V102
+Kad lietot/nelietot vizuālo: LIETOT(plaisa vizuāli, ROI kalkulācija, process diagramma). NELIETOT(emocionālie momenti, Hope Break, klusuma brīži). Max 1 vizuāls per zvanu.
+
+## N204 · NEIESPĒJAMĀS TAKTIKAS — 9 Metodes
+Taktikas, kas šķiet agresīvas, bet strādā:
+1. Fail-Closed — pēc «nē» tāpat dod nākamo soli
+2. *«Varbūt nav tev»* — Reverse Scarcity
+3. Klusums 60 sekundes
+4. *«Stagnācija vs €3K»*
+5. Og Mandino late-game
+6. €100 depozīts
+7. *«Rīcība iznīcina vilcināšanos»*
+8. *«Izklausī līdz beigām»*
+9. *«Ko tu zaudē, ja sāc?»* (reverse risk)
+
+## N250 · IZVAIRĪŠANĀS FORMULA
+Kā noteikt un apstrādāt klienta izvairīšanās modeļus:
+Katrs «vēlāk/padomāšu/atsūti» = izvairīšanās. Neakceptē. Izolē sakni.
 
 ---
 # AKTS VIII — POST-CLOSE (Q41+)
 
-## N201 · POST-CLOSE 5 MIN PROTOKOLS
+## N113 · POST-CLOSE — 5 Min Protokols
+Pēc «Jā» — 5 min kritiskas:
+1. **2h teksts:** *«Prieks, ka sākam. Šeit ir nākamie soļi: [1-2-3]. Jautājumi? Raksti jebkurā laikā.»*
+2. **Homework:** Dod 1 mazu uzdevumu: *«Pirms mūsu pirmās sesijas — sagatavo [X].»*
+3. **Datuma fiksēšana:** *«Mūsu pirmā sesija — [diena]. Labi?»*
+4. **Emocionālā nostiprināšana:** *«Tu pieņēmi pareizu lēmumu. Šī sistēma ir būvēta tieši tādiem kā tu.»*
+5. **Cognitive Dissonance novēršana (N032):** Normalizē: *«Ir normāli, ka pirmajā stundā pēc lēmuma parādās šaubas. Tas ir smadzeņu aizsardzības mehānisms. Neuztraucies.»*
 
-| Minūte | Darbība |
-|--------|---------|
-| 0-1 | Bridge: «Ātri izskaidrošu, kas notiks» |
-| 1-2 | Soļi: Anketa + WA + Zoom ar PM |
-| 2-3 | Šaubas: «Vai vēl kas rada šaubas?» |
-| 3-4 | Fiksē: Rēķins + rekvizīti + WA |
-| 4-5 | Anketa: nosūti tūlīt |
+## N114 · DEPOZĪTA PROTOKOLS + EDITAS STĀSTS
+Depozīts NAV atlaide — tā ir STRUKTŪRA.
+Editas case: *«€100 depozīts = emocionālā saistība. Kas nesamaksā depozītu — nekad nesāk.»*
+5 soļi: 1) Piedāvā depozītu 2) Izskaidro kāpēc 3) Accountability 2× nedēļā OBLIGĀTS 4) Pilna summa 14 dienās 5) Ja nepilda — naudu atpakaļ.
 
-> *«Katrs minūtes kavēšanās = riska pieaugums.»*
+## N197 · DEPOSIT HANDLING — 14 SOĻU ALGORITMS
+No «Novērtē 1-10» līdz SPOGULIS UZŅĒMĒJIEM.
+Mikrodepozīts (€100) = saistību tests. Bailīgajam tipam NEKAD mikrodepozīts → vienmēr mikrostarts.
 
-## N092 · DOPAMĪNA SLĒDZENE (Q36 post-close)
-
-Pirmā uzvara TAGAD — lai klients jūt «es izdarīju pareizi», ne «mani aizvēra».
-
-## N093 · DERĪBA (Q37)
-
-Abpusēja apņemšanās: «Tava daļa + mana daļa pirmajās 48h» — ne tikai maksājums, bet attiecības.
-
-## N094 · SĒKLA (Q38)
-
-«Pēc 90 dienām tu būsi tas stāsts.» — Nav lēts referral ask. Identitātes nostiprināšana.
+## N076 · CLOSING DEPOSITS
+Valoda refundable/non-refundable depozītiem:
+- *«Depozīts €100 — ja 14 dienās nesāc, atdodam atpakaļ.»*
+- *«Tas nav maksājums. Tas ir TU sev pierādi, ka šoreiz ir nopietni.»*
 
 ## N020 · L1-L5 IMPLEMENTĀCIJAS CEĻŠ
 
-| Līmenis | Kas notiek |
-|---------|------------|
-| L1 | Onboarding — pirmie soļi |
-| L2 | Pirmie rezultāti |
-| L3 | Sistēmas ieviešana |
-| L4 | Optimizācija |
-| L5 | Meistarība + referrals |
+| Līmenis | Saturs | Laiks |
+|---------|--------|-------|
+| L1 | Setup + pirmā sesija | Nedēļa 1 |
+| L2 | Sistēmas ieviešana | Nedēļas 2-4 |
+| L3 | Optimizācija + pirmie rezultāti | Mēnesis 2 |
+| L4 | Skalēšana | Mēnesis 3-6 |
+| L5 | Autonomija — klients darbojas pats | Mēnesis 6+ |
 
-## N190 · RE-ENGAGEMENT PROTOKOLS — 3 Ziņas
+## N011 · FAST-START 7-DIENU PROTOKOLS
 
-| # | Laiks | Ziņa |
-|---|-------|------|
-| 1 | 3-5d | «Vai nokļuva info?» |
-| 2 | 7-10d | «Brīva vieta, vai aktuāla?» |
-| 3 | 14+d | «Aizveru failu.» |
+| Diena | Darbība |
+|-------|---------|
+| 24h | WhatsApp bridge + 2h teksts ar nākamajiem soļiem |
+| 3d | Pirmā sesija. Homework check. Sistēmas setup. |
+| 7d | Pirmie KPI + feedback cikls |
 
-Pēc 3. bez atbildes → Spains 1 → Nekad vairs.
+## N025 · URGENCY REAKTIVĀCIJA — 3 WhatsApp Bridge
 
-## N075 · RE-OFFER TEHNIKA
+| Laiks | Ziņa |
+|-------|------|
+| 48h | *«Tikai check-in — vai viss ir skaidrs par [datums]?»* |
+| 5d | *«Kā iet ar [homework]? Kādi jautājumi?»* |
+| 10d | *«Es redzēju, ka [insights]. Izskatās, ka mēs ejam pareizi.»* |
 
-1-4 nedēļu pēc-konsultācijas hook — atkal iesaistīt pazaudētos dīlus.
+## N075 · RE-OFFER TECHNIQUE
+1-4 nedēļas pēc konsultācijas — hook piedāvājums zaudētajiem dīliem:
+*«Sveiks [vārds]. Pēc mūsu sarunas es domāju par tavu situāciju. Man ir ideja, kas varētu palīdzēt ar [specifiskā problēma]. Vai ir 5 min?»*
 
-## N113 · ZANDAS CLOSE PROTOKOLS — 6 Soļi
+## N077 · ART OF THE DELAY
+Strukturēta follow-up sistēma:
+- **2-Call Close:** Pirmais zvans = diagnostika + Hope Break. Otrais = cena + close.
+- **Partnera delay:** Dod 48h + konkrētu datumu.
+- **«Jāpadomā» delay:** *«Saprotu. Kad precīzi tu būsi gatavs — pirmdien vai trešdien?»* Bez datuma = de facto «nē».
 
-Commitment → Split Payment → WhatsApp links ZVANA LAIKĀ → Anketa → Onboarding 1h → Noslēgums
+## N042 · REFERRAL FRAMEWORK
+Pēc close — uzreiz:
+*«Tu zini vēl kādu, kam ir līdzīga situācija? Es priecātos palīdzēt.»*
+Referral konversijas rate: 30-50% (augstākais kanāls).
 
-## N114 · DEPOZĪTA PROTOKOLS
+## N023 · CURRENT CORK
+Post-close fokuss: viena pudeļu korķa metode — fokusēties uz VIENU bottleneck vienlaicīgi. Nav 10 mērķi — ir 1.
 
-Depozīts nav atlaide — tā ir struktūra. Mikrodepozīts (€100) = saistību tests. Bailīgajam tipam NEKAD mikrodepozīts → vienmēr mikrostarts.
+## N024 · UPSELL/CROSS-SELL FRAMEWORK (L3-L5)
+Pēc L2 stabilizēšanas — piedāvā nākamo līmeni. Nav agresīvs — organiska izaugsme.
 
-## N197 · DEPOSIT HANDLING — 14 Soļu Algoritms
+## N070 · AI-POWERED ZVANU ANALĪZE
+Post-call AI protokols:
+- Automātiska transkripcija
+- MICE motors identifikācija
+- Klusuma punktu analīze
+- Iknedēļas AI atskaite ar rekomendācijām
 
-No «Novērtē 1-10» līdz SPOGULIS UZŅĒMĒJIEM. Lēmumu koks: Jā → Post-Close / Vēlāk → Re-Engagement / Nav naudas → Deposit / Nav fit → Fail-closed.
-
+## N071 · VIENA POGA POST-CALL AUTOMATIZĀCIJA
+One-click automatizācija:
+- **Jā path:** CRM update + 2h teksts + homework + sesijas plānošana
+- **Nē path:** Follow-up template + re-engagement schedule
 ---
 # PIELIKUMI
 
-## P.1 · PRO STATE PER KOMBO (N255)
+## P.1 · PĀRLIECĪBU KĀPNES (N005, N027, N050)
 
-| KOMBO | PRO STATE |
-|-------|-----------|
-| Q0 Meistara Rituāls | Miers. Zema balss. Lēna izelpa. Nevajag izglābt. Gatavs dzirdēt «nē». |
-| Drošības (Q1) | Zema balss. Slow pace. Nav steigas pārdot. Empātija. |
-| Frame (Q2) | Pārliecināts. Skaidrs rāmis. Es vadu, klients jūtas brīvs. |
-| Lēmēja (Q3) | Neitrāls. Nedraudīgs. Nav spiediena. |
-| Saknes (Q4-Q5) | Klausīšanās. Klusums. Ziņkārība. Nav vērtēšanas. |
-| Ciparu (Q6-Q7) | Neitrāls. Nav šoka. Tikai pieraksti. |
-| Neredzamās Maksas (Q8-Q11) | Empātija. Nav spiediena. Palīdzi ieraudzīt. |
-| Slēptā Darījuma (Q12-Q20) | Dziļa klausīšanās. Spogulis, ne tiesnesis. |
-| Hope Break (Q21-Q21.5) | Nopietnība. Mierīga konfrontācija. Nav triumfa. |
-| Belief Lock (Q22-Q28) | Enerģisks bet kontrolēts. Stāsti stāstu. |
-| Cena kā Fakts (Q29-Q32) | Flat. Bez emocijām. Cena = fakts. |
-| Full Close (Q33-Q40) | Mierīgs. Nav desperate. Ja «nē» — ok. |
+| Kāpne | Q zona | Checkpoint | Ja neizdodas |
+|-------|--------|------------|--------------|
+| 1. TRUST — Uzticēšanās | Q1-Q3 | Klients saka «ok, klausos» | Atgriezies Q1 |
+| 2. SUPPORT — Atbalsts | Q4-Q7 | Klients dalās ar situāciju | Dod vairāk telpas |
+| 3. PAIN — Sāpes | Q8-Q16 | Klients verbalizē sāpi | Dziļina ar Q14 |
+| 4. SOLUTION — Risinājums | Q17-Q21.5 | Hope Break locked | Ja nav — atpakaļ Q8 |
+| 5. CONFIDENCE — Pārliecība | Q22-Q28 | BLC 8+ | Ja <8 — risini trūkumu |
+| 6. COMMITMENT — Saistības | Q29-Q32 | Klients nesaka «dārgi» | Ja saka — Q6/Q14 |
+| 7. ACTION — Rīcība | Q33-Q40 | Close locked | Ja nav — Engine cilpa |
 
-## P.2 · KLUSUMA KARTE (N122)
+## P.2 · 5 VĀRTI (GATES)
 
-| Moments | Min klusums |
-|---------|-------------|
-| Pēc Q1 | 5-7s |
-| Pēc cipara (Q6) | 5s |
-| Pēc sāpju jautājuma (Q9) | 7-10s |
-| Pēc COI (Q11-Q20) | 7s |
-| Pēc Hope Break (Q21.5) | 15-20s |
-| Pēc Killer Line | 7-10s |
-| Pēc cenas drops (Q32) | 10-15s |
-| Pēc Close (Q40) | 7+s |
+| # | Vārti | Q | Kas jābūt | Ja nav |
+|---|-------|---|-----------|--------|
+| 1 | Drošība | Q3 | Klients jūtas droši, lēmējs apstiprināts | STOP — atpakaļ Q1 |
+| 2 | Konteksts | Q6 | Situācija + ideāls + kāpēc tagad skaidrs | STOP — atpakaļ Q4 |
+| 3 | COI | Q11 | COI cipars uz galda, klients pats nosaucis | STOP — atpakaļ Q7 |
+| 4 | Hope Break | Q21.5 | Klients atzīst «nav procesa» | STOP — atpakaļ Q8 |
+| 5 | Belief Lock | Q28 | BLC 8-10 | STOP — risini trūkumu |
 
-## P.3 · ZVANA SCORECARD (N021, N193)
+> *Ja kāds vārts nav atvērts — neej tālāk. Nekad. Tas ir sistēmas likums.*
 
-| # | Kritērijs | Jā/Nē |
-|---|-----------|-------|
-| 1 | Pre-call state (V∞) sakārtots? | |
-| 2 | MICE motors identificēts? | |
-| 3 | Klients verbalizēja sāpes? | |
-| 4 | COI € cipars dabūts? | |
-| 5 | 5 Vārti izpildīti? | |
-| 6 | Hope Break Lock iegūts? | |
-| 7 | Klusums pēc cenas? | |
-| 8 | Iebilduma sakne izolēta? | |
-| 9 | CONFIRM/Padlock pēc katra iebilduma? | |
-| 10 | Lēmēji pie galda? | |
-| 11 | Datums/laiks nofiksēts? | |
-| 12 | Bridge + WA nosūtīts? | |
-| 13 | Tip: kas bija labi? | |
-| 14 | Tip: kas jāuzlabo? | |
+## P.3 · KLUSUMA KARTE (N122)
 
-> *«Ja kaut viens NĒ → problēma nav klientā — problēma ir procesā.»*
+| Q | Klusuma tips (N014) | Ilgums | Nolūks |
+|---|---------------------|--------|--------|
+| Q1 | Diagnostiskais | 3s | Ļauj klientam apstrādāt Pattern Interrupt |
+| Q4-Q7 | Empātiskais | 3-5s | Klausīšanās mode |
+| Q8-Q10 | Diagnostiskais | 5s | Pēc katra jautājuma |
+| Q11 | Spiediena | 5-8s | Pēc COI cipara |
+| Q14 | Empātiskais | 5-8s | Pēc personālās ietekmes |
+| Q21.5 | SPIEDIENA | 8-15s | Hope Break — NERUNĀ |
+| Q32 | SPIEDIENA | 5-7s+ | Pēc cenas — NERUNĀ |
+| Q33+ | Stratēģiskais | 5-8s | Pēc iebilduma |
 
-## P.4 · KILL LIST — 12 Aizliegtās Frāzes (N180)
+## P.4 · ZVANA SCORECARD (N021, N193)
 
-1. «Mūsu produkts piedāvā»
-2. «Mēs esam labākie»
-3. «Vai jums ir jautājumi?»
-4. «Es domāju, ka patiktu»
-5. «Mēs varētu palīdzēt»
-6. «Laba cena»
-7. «Kā jutīsieties, ja»
-8. «Vai vēlaties dzirdēt?»
-9. «Saprotu bažas»
-10. «Piedāvājam garantiju»
-11. «Šī ir labākā iespēja»
-12. Runāšana >20 sek bez jautājuma
+| # | Kritērijs | Max punkti | Paskaidrojums |
+|---|-----------|-----------|---------------|
+| 1 | Pre-call state | 5 | Vai bija rituāls, elpa, nodoms? |
+| 2 | MICE identificēts | 5 | Vai motors ir skaidrs pēc Q7? |
+| 3 | Klients verbalizēja sāpi | 5 | Vai klients PATS teica sāpi? |
+| 4 | COI cipars uz galda | 5 | Vai klients pats nosaka COI? |
+| 5 | 5 Vārti izpildīti | 5 | Vai visi 5 atvērti? |
+| 6 | Hope Break locked | 5 | Vai klients atzina «nav procesa»? |
+| 7 | Klusums pēc cenas | 5 | Vai klusēji vismaz 5s? |
+| 8 | Iebildums izolēts | 5 | Vai atradi sakni (ne virsmu)? |
+| 9 | Confirm pēc katra soļa | 5 | Vai bija Lock pirms Move? |
+| 10 | PRO STATE saglabāts | 5 | Vai biji operators, ne pārdevējs? |
 
-## P.5 · 7 AIZLIEGUMI (N072)
+**Total: /50.** Ja <35 → atpakaļ treniņos. Ja 35-45 → labs. Ja 45+ → elite.
 
-Max 1 ARSENAL uz zvanu. Max 1 metafora. Nav Voss + Takeaway + Mikro-jā combo vienā Q.
+## N057 · Simplified Scorecard
+Vienkāršota versija: MICE | COI | Hope Break | Klusums | Close = 5 kolonnas ar Jā/Nē.
 
-## P.6 · AIZLIEGTĀS FRĀZES (N073)
+## P.5 · KILL LIST — Diskvalifikācijas Kritēriji (N180, N051)
 
-| Aizliegts | Pareizi |
-|-----------|---------|
-| «Es tev palīdzēšu» | «Noskaidrosim, vai varu» |
-| «Mūsu produkts» | «Sistēma, ar ko strādājam» |
-| «Vai jums ir jautājumi?» | [klusums] |
-| «Es saprotu» | «Pastāsti vairāk» |
+| # | Kritērijs | Q zona | Verbatim |
+|---|-----------|--------|---------|
+| 1 | Nav lēmēja un nevar pieslēgt | Q3 | *«Vai varam viņu pieslēgt?»* Ja nē → DQ |
+| 2 | Klients nav godīgs | Q3 | Ja slēpj vai melo → DQ |
+| 3 | Nav budžeta UN nav elastības | Q7/Q11 | Ja nav COI un nav budžeta → DQ |
+| 4 | Hope Break neizdodas 2× | Q21.5 | Ja klients NEATZĪST pēc 2 mēģinājumiem → DQ |
+| 5 | BLC <5 pēc visa flow | Q31 | Ja pārliecība zem 5 pēc Q22-Q28 → DQ |
 
-## P.7 · KABATAS VERSIJA — 5 Rindiņas (N168)
+> *DQ nav zaudējums — DQ ir tava laika aizsardzība. Tu nestrādā ar visiem.*
 
-1. Vai redz, ka nekontrolē rezultātu?
-2. Vai jūt, ko tas maksā?
-3. Vai saprot, ka turpināsies?
-4. Vai sit pa identitāti?
-5. Vai vēl var loģiski palikt?
+## P.6 · IEBILDUMU PREVENCIJAS TREPE (N221, N220)
 
-> *«Skaties, kurš no 5 NAV izdarīts un ej tur.»*
+| Iebildums Q33+ | Kur tika novērsts | Mehānisms |
+|----------------|-------------------|-----------|
+| «Dārgi» | Q7 Cipari + Q11 COI | Klients pats nosauca zaudējuma ciparu |
+| «Jāpadomā» | Q19/Q20 Buying Instruction | Klients pats teica, kas vajadzīgs |
+| «Partneris» | Q3 Lēmējs | Apstiprināts vai pieslēgts |
+| «Nav laika» | Q9/Q14 Sāpju svira | Sāpe > laiks |
+| «Es pats» | Q14 + Q10 Laika svira | «Cik ilgi jau zini? Kāpēc vēl nav?» |
+| «Atsūti info» | Q20 Drošības kods | Buying Instruction atbild |
+| «Vēlāk» | Q17 Slēptais līgums | «Ko vecais veids tev dod?» |
+| «Nezinu vai strādās» | Q21.5 Hope Break | Ja Hope Break — klients jau atzina |
+| «Man jau ir sistēma» | Q8-Q10 | Klients pats nosauca nestrādā |
+| «Bail no riska» | Q28 BLC | Baiļu slānis lokalizēts |
 
-## P.8 · ĀTRĀ ATSAUCE — 25 Min Spīkeris (N133)
+> *10 UNIVERSĀLIE BREAKERS (N221):* Katrs breaker = 1 jautājums + 1 reframe. Universālais: *«Kas tev maksā šo neatrisināt? Un cik ilgi tu esi gatavs par to maksāt?»*
 
-```
-[0-1 min]   Frame: Drošība + Rāmis + Lēmējs
-[1-10 min]  Discovery: MICE + Cipari + Kāpnes
-[10-14 min] Sāpes + COI 5D
-[14-17 min] Neizbēgamība + Hope Break
-[17 min]    5 Vārti check
-[17-19 min] Pitch: 3 Pīlāri + Belief Lock
-[19-22 min] Cena + KLUSUMS
-[22-25 min] Close + Post-Close
-```
+## P.7 · 6 KLIENTU ARHETĪPI (N181)
 
-## P.9 · ADAPTĪVĀ Q KOMPRESORA KARTE (N218)
+| Tips | MICE | Kā runāt | Close stils |
+|------|------|----------|-------------|
+| Analītiķis | M > I | Cipari, ROI, fakti | Data-driven close |
+| Līderis | I > E | Statuss, vīzija, pozīcija | Identity close |
+| Skeptiķis | C | Garantija, risks, pierādījumi | Safety close |
+| Emocionālais | C > E | Sajūtas, attiecības, bailes | Empathy close |
+| Ātrais lēmējs | E > M | Ātrums, rezultāts, nākamais solis | Direct close |
+| Piesardzīgais | C > I | Detaļas, process, kontrole | Step-by-step close |
 
-| Scenārijs | Laiks | Q ceļš |
-|-----------|-------|--------|
-| Auksts | 45 min | Q1-Q41 (pilns) |
-| Silts | 30 min | Q1→Q3→Q4→Q6→Q10→Q21.5→Q24→Q32 |
-| Karsts | 20 min | Q1→Q3→Q4→Q11→Q21.5→Q24→Q32 |
-| Follow-up | 15 min | Q21.5 recap→Q24→Q32→Q39 |
-| DQ | 10 min | Q1→Q3→Q4→Q6→STOP |
+## P.8 · 15 MEISTARU MOLEKULAS (N078)
 
-> *«Q21.5 un Q32 NEDRĪKST izlaist NEKAD.»*
+| # | Meistars | Galvenā molekula | Q zona |
+|---|---------|-----------------|--------|
+| 1 | Jordan Belfort | Tonalitātes kontrole, Straight Line | Visa saruna |
+| 2 | Chris Voss | Spogulis, etiķetēšana, kalibrētie jautājumi | Q4-Q20 |
+| 3 | Jeremy Miner | NEPQ — Negatīvā reversā | Q21.5, Q33 |
+| 4 | Grant Cardone | Spiediens, persistence, «vienmēr close» | Q33-Q40 |
+| 5 | Dan Lok | Augstā vērtība, premium positioning | Q22-Q28 |
+| 6 | Zig Ziglar | Stāsti, optimisms, «palīdzi pietiekami daudziem» | Q26 |
+| 7 | Brian Tracy | Sistēma, disciplīna, atkārtojamība | AKTS 0 |
+| 8 | Sandler | Reverse psychology, «tu neesi priekš visiem» | Q25, Q40 |
+| 9 | SPIN Selling | Situācija→Problēma→Implikācija→Nepieciešamība | Q4-Q20 |
+| 10 | Challenger | Kontrolē sarunu, māci klientam ko jaunu | Q22-Q28 |
+| 11 | Cialdini | 6 ietekmes principi (reciprocitāte, konsistence, sociālais pierādījums...) | Visa saruna |
+| 12 | Kahneman | Sistēma 1/2, loss aversion, framing | Q11, Q32 |
+| 13 | Og Mandino | 10 tiesības, filosofija, humility | AKTS 0, Q40 |
+| 14 | Milton Erickson | Iegultās komandas, hipnotiskā valoda | Q22-Q28 |
+| 15 | Uri Hasson | Neural coupling, stāstu zinātne | Q26 |
 
-## P.10 · KVALIFIKĀCIJAS MATRICA RADAR (N182)
+## P.9 · ĀTRĀ ATSAUCE — 25 Min Spīkeris (N133)
 
-4 asis pirms cenas: **Sāpes / Nauda / Uzticība / Steidzamība** (1-10)
-- 🟢 Visi ≥ 7 = GO
-- 🟡 1-2 rādītāji 5-6 = CAUTION
-- 🔴 Jebkurš < 5 = STOP
-- ⚫ Trust < 5 = RESET uz Q1-Q3
+| Min | Q | Ko darīt |
+|-----|---|----------|
+| 0-2 | Q1-Q3 | Drošība + Frame + Lēmējs. Lock: «Ok, klausos.» |
+| 2-5 | Q4-Q7 | Galvenā lieta + Cipari. Lock: COI cipars. |
+| 5-12 | Q8-Q16 | Sāpes + Dziļums. Lock: Emocionālā cena. |
+| 12-15 | Q17-Q21.5 | Hidden Contract + Hope Break. Lock: «Nav procesa.» |
+| 15-20 | Q22-Q28 | 3 Pīlāri + Stāsts + BLC. Lock: 8+ pārliecība. |
+| 20-22 | Q29-Q32 | Temp test + Cena + Klusums. Lock: Nav «dārgi». |
+| 22-25 | Q33-Q40 | Iebildumi + Close. Lock: «Sākam.» |
 
-## P.11 · 6 KLIENTA ARHETĪPI (N181)
+## P.10 · NOZARU ADAPTĀCIJAS (N182)
 
-| Tips | MICE | Pieeja |
-|------|------|--------|
-| Analītiskais | Money + Logic | M7-M8, ROI fokuss |
-| Emocionālais | Pain + Identity | M10+C8, dziļi jautājumi |
-| Skeptiķis | Ego + Trust | META1 reset, pierādījumi |
-| Bailīgais | Safety + Fear | C8+C9, drošība pirms visa |
-| Complex B2B | Process + ROI | Pilns flow, vairāki lēmēji |
-| Siltais Pircējs | Urgency | Izlaid META1-2, ej M15+C1 |
+| Nozare | MICE fokuss | Specifiskais COI | Stāsta piemērs |
+|--------|------------|------------------|----------------|
+| E-commerce | M (ROI, ROAS) | €/mēn zaudēts no konversijas | «Mūsu klients X palielināja konversiju par 35%» |
+| Coaching/Konsultants | I + E (statuss, izaugsme) | Iespēju izmaksas | «Viņa bija X, tagad Y» |
+| SaaS B2B | M (MRR, churn) | €/mēn churna dēļ | «Samazināja churnu par 22%» |
+| Fitness/Veselība | C + E (bailes, izaugsme) | Veselības/enerģijas cena | «Juta sevi atkal X» |
+| Nekustamais īpašums | M + C (investīcija, risks) | €/gadā zaudēts | «Nopirka par X, pārdeva par Y» |
 
-## P.12 · 15 MEISTARI
-
-| Meistars | Ko dod sistēmai |
-|----------|-----------------|
-| Chris Voss | Labels, Mirrors, Late-night DJ voice |
-| Jeremy Miner | NEPQ — jautājumi, ne pitch |
-| Cole Gordon | 7 Figure Closing, Tonality, Objection Patterns |
-| Oren Klaff | Frame Control, Status alignment |
-| Alex Hormozi | Value equation, Grand Slam Offer |
-| Daniel Kahneman | System 1/2, Loss Aversion, Prospect Theory |
-| Robert Cialdini | 7 Influence principi |
-| Russell Brunson | Hook → Story → Offer |
-| Jordan Belfort | 3 Desmitnieki, Straight Line |
-| David Sandler | Reverse psychology, Up-front contracts |
-| Dan Pink | To Sell is Human, Attunement |
-| Patrick Bet-David | Value-tainment, War Mode |
-| Og Mandino | Identitātes spoguļi, 5 stāsti |
-| Uri Hasson | Neural Coupling, 60s stāsts |
-| Antonio Damasio | Somatisko marķieru hipotēze |
-
-## P.13 · 9 OPERATORA DIMENSIJAS
-
-| # | Dimensija |
-|---|-----------|
-| 1 | Identitāte — «Es esmu instruments, ne pārdevējs» |
-| 2 | Enerģija — V∞ state, fiziskā sagatavotība |
-| 3 | Drosme — spēja pajautāt neērtos jautājumus |
-| 4 | Lauka kvalitāte — HeartMath koherence |
-| 5 | Iekšējais dialogs — ko sev stāstu starp zvaniem |
-| 6 | Laika apziņa — 25 min = pilna saruna, ne lekcija |
-| 7 | Patiesība — nekad nemelo, pat ja sāp |
-| 8 | Kontroles paradokss — jo mazāk kontrolē, jo vairāk kontrolē |
-| 9 | Svētais «Nē» — «Nē» ir ok. «Nē» ir labi. |
-
-## P.14 · FORCE LEVEL F1-F7 (N192)
-
-| Līmenis | Fāze | Spiediens |
-|---------|------|----------|
-| F1 | Opening | Minimāls — drošība |
-| F2 | Discovery | Zems — ziņkārība |
-| F3 | Clarification | Vidējs — precizitāte |
-| F4 | Consequences | Augstāks — plaisa |
-| F5 | Inevitability | Augsts — neizbēgamība |
-| F6 | Identity | Ļoti augsts — identitāte |
-| F7 | Hard Stop | Maksimāls — «Sākam vai aizveram» |
-
-## P.15 · DISKVALIFIKĀCIJA (N124, N051)
-
-| Scenārijs | Rīcība |
-|-----------|--------|
-| Nav problēma | «Lieliski! Tad šī saruna nav vajadzīga.» |
-| Nav budžeta reāli | Godīgi atzīt, piedāvāt mazāku variantu vai noslēgt |
-| Lēmējs 3× nav | «Nav īstā vide.» |
-| Vērtību neatbilstība | «Nav fit — un tas ir ok.» |
-
-Kill Criteria checkpoints: Q3 / Q7 / Q11 / Q21.5 / Q31
-
-## P.16 · 30 DIENU TRENIŅU PLĀNS (N064, N052)
+## P.11 · 30 DIENU TRENIŅU PLĀNS (N001, N052, N064)
 
 | Nedēļa | Fokuss | Drilla |
 |--------|--------|--------|
-| 1 | Q1-Q7 Atvēršana + MICE | 50× Q1 verbatim, MICE signālu atpazīšana |
-| 2 | Q8-Q21 Sāpes + COI + Hope Break | Sāpju sviras pilna secība, COI ciparu treniņš |
-| 3 | Q22-Q32 Pitch + Cena | Belief Lock, 3 Pīlāri, Cenas klusums |
-| 4 | Q33-Q40 Iebildumi + Close | Objection Blitz (N131), CIA-PATT pilna secība |
+| 1 | Q1-Q3 verbatim | 50× katru frāzi. Ieraksti sevi. Klausies. |
+| 2 | Q4-Q7 + Klusums | Spogulis + 5s klusums pēc KATRA jautājuma. |
+| 3 | Q8-Q21.5 Dziļums | Hope Break 50× ar dažādiem scenārijiem. |
+| 4 | Q22-Q40 Close | Pilns flow 10× dienā ar partneri vai AI. |
 
-**Iknedēļas treniņu protokols (N129):** Pirmdiena (fokuss) / Trešdiena (role-play) / Piektdiena (audio analīze). 1.5-2h/nedēļā.
+**7-Nedēļu Drilla (N064):** Progresīva — 50× → 100× per Q, nedēļa pa nedēļai.
 
-## P.17 · 4 MICE ROLE-PLAY SCENĀRIJI (N130)
+## N011 · FAST-START 7-DIENU PROTOKOLS (atkārtots)
+24h/3d/7d — katrs posms ar konkrētu uzdevumu un checkpoint.
 
-| Profils | MICE | Galvenais iebildums |
-|---------|------|---------------------|
-| M profils | Money | «Kāds ROI?» → cipari, pierādījumi |
-| I profils | Ideology | «Es gribu būt labākais» → identitāte, vīzija |
-| C profils | Compromise | «Bail no riska» → drošība, garantija |
-| E profils | Ego | «Es jau zinu» → «Kāpēc tad rezultāts nav?» |
+## P.12 · KVALIFIKĀCIJAS MATRICA (N180)
 
-## P.18 · 10 BIEŽĀKĀS KĻŪDAS (N127, N191)
+| Kritērijs | Jā (turpini) | Nē (DQ vai atgriezies) |
+|-----------|-------------|------------------------|
+| Ir problēma | ✓ | DQ — nav ko risināt |
+| Ir lēmējs | ✓ | Pieslēdz vai DQ |
+| Ir budžets/elastība | ✓ | DQ vai delay |
+| Ir steidzamība | ✓ | Dziļina sāpes Q8+ |
+| Ir gatavība mainīties | ✓ | Hope Break Q21.5 |
 
-| # | Kļūda | Sekas | Labojums |
-|---|-------|-------|---------|
-| 1 | Pitch pirms vārtiem | Klients dzird cenu bez konteksta | Izpildi 5 Vārtus |
-| 2 | COI nav kvantificēts | Cena šķiet liela | Dabū € ciparu Q6 |
-| 3 | Nav klusuma pēc cenas | Operators izglābj klientu no lēmuma | Ieskaiti līdz 10 |
-| 4 | Nav ROI skaitļa | Investīcija vs izmaksas nav skaidrs | Aprēķini Q26 |
-| 5 | Nav kritēriju pirms cenas | Belief Lock nav | Pajautā Q26 «Vai atrisina?» |
-| 6 | Nav CONFIRM pēc iebilduma | Iebildums paliek atvērts | Padlock obligāts |
-| 7 | Reaģē uz baiļu kostīmu | Risina virsmu, ne sakni | ROOT pirms REFRAME |
-| 8 | Runā agri | Klients nebija gatavs dzirdēt | Gaidi Q21.5 Lock |
-| 9 | Prezentē pirms filtriem | Lekcija, ne diagnostika | 5 Vārti obligāti |
-| 10 | Nav ciparu | Viss ir vispārīgs | «Aptuveni — 5K vai 50K?» |
+## P.13 · AIZLIEGUMI (N072, N073, N191)
 
-## P.19 · NOZARU ADAPTĀCIJAS
+**7 AIZLIEGUMU TABULA (N072):**
+Max 1 ARSENĀLS tehnika, max 1 metafora, nekad Voss + Takeaway + Mikro-jā combo.
 
-| Nozare | Q4 piemērs | COI piemērs |
-|--------|-----------|-------------|
-| B2B SaaS | «Cik lietotāju? Kāds churn?» | «Katrs zaudēts klients = €X LTV» |
-| B2C pakalpojumi | «Cik klientu mēnesī?» | «Katrs nenotikušais klients = €X» |
-| E-commerce | «Kāds AOV? Conversion rate?» | «Katrs nekonvertētais = €X» |
-| Coaching | «Cik klientu? Kāda cena?» | «Pilna prakse vs 60% = €X starpība» |
-| Real estate | «Cik darījumi gadā?» | «Katrs pazaudētais darījums = €X komisija» |
+**AIZLIEGTĀS FRĀZES (N073):**
 
-## P.20 · ESCAPE DESTRUCTION MATRIX (N121)
+| Nepareizi | Pareizi |
+|-----------|---------|
+| «Es saprotu» | *Klusums + spogulis* |
+| «Mēs esam labākie» | *«Mēs strādājam ar šādu tipu klientiem»* |
+| «Uzticies man» | *«Tu pats tikko teici [citāts]»* |
+| «Tas ir lēti» | *«Investīcija ir €X»* — fakts, ne vērtējums |
+| «Tev VAJAG šo» | *«Ko TU domā — vai tas risina tavu [problēmu]?»* |
+| «Visi tā dara» | *«[Vārds] bija līdzīgā situācijā — viņš izdarīja [X]»* |
 
-13 klienta escape ceļi ar precīzu nogalināšanas frāzi per D.
-«0 izdzīvotāji. Sistēma ir hermētiska.»
+**7 META-KĻŪDAS (N191):**
+1. Runā agri 2. Prezentē pirms 5 Vārtiem 3. Nav klusuma pēc cenas 4. Nav ROI skaitļa 5. Nav kritēriju pirms cenas 6. Nav CONFIRM pēc iebilduma 7. Reaģē uz baiļu kostīmu nevis cēloni.
 
-## P.21 · AI PĀRDOŠANAS NERVU SISTĒMA (N252)
+## P.14 · IDENTITĀTES CEĻŠ Q0→Q41 (N049)
 
-Signāli → Dekodēšana → Komanda → Rezultāts → Feedback Loop
+| Q zona | Vecais ES | Jaunais ES |
+|--------|-----------|-----------|
+| Q0 | Stresains, negatavs | PRO STATE, mierīgs, skaidrs |
+| Q1-Q3 | Pārdevējs | Diagnostiķis |
+| Q4-Q7 | Stāsta par produktu | Klausās un jautā |
+| Q8-Q20 | Izvairās no sāpēm | Konfrontē ar empātiju |
+| Q21.5 | Piedāvā cerību | Ļauj cerībai nomirt |
+| Q22-Q28 | Pārliecina | Izpilda klienta instrukciju |
+| Q29-Q32 | Aizstāv cenu | Nosauc faktu |
+| Q33-Q40 | Cīnās ar iebildumiem | Izolē sakni un risina |
+| Q41+ | Aizmirst klientu | 48h bridge + L1-L5 |
 
-| Fāze | Kas notiek |
-|------|------------|
-| Signāli | Leads, zvani, čati, CRM — operators uztver |
-| Dekodēšana | AI nosaka: kurš karsts, kurš pazūd, kur lūzt |
-| Komanda | Zvani tagad / sūti SMS / nav price objection bet trust |
-| Rezultāts | Novēro efektu |
-| Feedback | CRM mācās. Sistēma uzlabojas |
+## P.15 · UNIVERSĀLAIS KAREIVIS — Per-Q Response Branching (N062)
 
-## P.22 · 9 VIZUĀLĀS METAFORAS (dievs2)
+| Klienta atbilde | Ko darīt |
+|-----------------|----------|
+| **Jā** | Turpini uz nākamo Q. Lock apstiprināts. |
+| **Nē** | Izolē: *«Ko tieši tu domā?»* → Risini → Atgriezies. |
+| **Nezinu** | Dod framework: *«Ja minētu — tuvāk X vai Y?»* |
+| **Klusums** | Gaidi 5-8s. Ja turpinās — atkārto jautājumu mierīgāk. |
 
-| # | Motīvs | Q māja | Kas notiek |
-|---|--------|--------|------------|
-| 1 | Zelta teļš | Q21.5 | Cerība = elks. Hope Break to salauž. |
-| 2 | Apsolītā zeme | Q22-Q28 | Jaunā identitāte un vīzija |
-| 3 | Spogulis | Q4-Q7 | Klients redz sevi — ne PR versiju |
-| 4 | Slēptais līgums | Q17 | Neapzināts pīrgs ar bailēm |
-| 5 | Derība | Q37 | Izvēle starp ceļiem |
-| 6 | Sēkla | Q38 | Kas aug iekšienē — identitāte |
-| 7 | Atgriešanās | Q40+ | Ceļš atpakaļ pie nodoma |
-| 8 | Mandela Lock | Q7 | Brīvā/cietuma izvēle |
-| 9 | Nodevība | Q19.5 | Pret sevi — paliekot vecajā |
+## P.16 · LUKSOFORS SISTĒMA (N058)
+Per-Q «Ja Iesprūst» recovery protokols:
+🟢 Zaļā — turpini, viss ok.
+🟡 Dzeltenā (N002) — klients vilcinās, vajag papildus drošību.
+🔴 Sarkanā — apstājies, atgriezies, kaut kas nav gatavs.
 
-> *Viena metafora uz vienu call. Izvēlies pēc MICE motora.*
+## P.17 · SAĪSINĀTAIS (DZĪVĀ MĒLE) — Kabatas Versija (N059, N225)
 
-## P.23 · CARE IETVARS (N068)
+5 rindiņas katram Q:
+1. SAKI (saīsināts)
+2. LOCK (ko gaidi)
+3. JA IESPRŪST (glābšana)
+4. KO KLAUSĪTIES
+5. MICE hipotēze
 
-| Solis | Darbība |
-|-------|---------|
-| C — Clarify | «Ko tieši tu domā?» |
-| A — Acknowledge | «Es dzirdu, ko tu saki.» |
-| R — Reframe | Pārrāmē ar klienta vārdiem |
-| E — Explore | «Kas vēl?» |
+## P.18 · PSIHOLOĢIJA & METODE PER Q (N060, N226)
+Katram Q: LOĢIKA × ĶERMENIS × CILTS + MICE hipotēze + MASKA + DIEVS2 + CARRIER.
 
-## P.24 · SIMBOLU LEĢENDA
+## P.19 · POST-CALL SCORECARD (N021)
+10 kritēriji /50 skalā. Pēc katra zvana — aizpildi.
 
-| Simbols | Nozīme |
-|---------|--------|
-| 🔴 SAKI | Verbatim frāze klientam |
-| ⏸ KLUSUMS | Pauze (min sekundes) |
-| 🔒 LOCK | Obligāts apstiprinājums pirms turpināt |
-| 🔓 JA NAV | Ko darīt, ja Lock nav |
-| ⚔ KOMBO | TEKKEN 3 stila kombinācija |
-| ✓ | Zaļā gaisma — turpini |
-| ✗ | Sarkanā gaisma — STOP vai dziļini |
-| 🔄 | Drift Recovery — atgriešanās |
-| N### | Neirona ID (katalogs) |
+## P.20 · NEDĒĻAS TRENDING (N022)
+5 zvanu nedēļas analīze: vidējais score, uzlabojumu zones, MICE patterns.
 
-## P.25 · IEBILDUMU PREVENCIJAS TREPE
+## P.21 · END-OF-DAY DETOX (N026)
+4 soļu detox: 1) Izelpa 2× min 2) Journaling 10 min 3) Fiziskā kustība 4) «Atlaid visus klientus».
+Burnout zīmes: ja 3+ no šīm dienā → stop un atpūta.
 
-> *«Iebildumiem ir sava loģiskā trepe un tos var apstrādāt jau no Q1–Q41+, lai tie pat nerodas.»*
+## P.22 · COGNITIVE CONTROL MATRIX — 23 Soļi (N194)
+Pilns runbook ar Gate sistēmu: OS Noteikums → Control Open → Notikums → Spiediens → Pattern Detektors → Steidzamības Simulācija → Identitātes Filtrs → Riska Kvantifikācija → Riska Pārrāmēšana → Drošības Kods → Mini Lēmums...
 
-| Q33+ Iebildums | Kur neaizvēra Lock | Prevencija |
-|----------------|-------------------|------------|
-| «Par dārgu» | Q6 cipars, Q14 COI | Dabū € ciparu PIRMS. COI > Cena = nav šoka. |
-| «Jāpadomā» | Q19-Q20 Buying Instruction | Klients pats saka, kas vajadzīgs → tu dod tieši TO. |
-| «Jārunā ar partneri» | Q3 Lēmējs | Lēmēja check Q3. Ja nav — pieslēdz vai DQ. |
-| «Nav laika» | Q9/Q14 sāpju svira | Ja sāpe pietiekami dziļa — laiks atrodas. |
-| «Es pats» | Q14 laika svira | «Cik ilgi jau zini? Kāpēc vēl nav?» |
-| «Atsūti info» | Q20 drošības kods | Buying Instruction atbild uz visu, ko klients grib «izlasīt». |
-| «Vēlāk» | Q17 slēptais līgums | «Ko vecais veids tev vēl dod?» salauž «vēlāk» loģiku. |
-| «Nezinu vai strādās» | Q21.5 Hope Break | Ja Hope Break izdarīts — klients jau atzina: «tāpat nestrādā». |
-| «Man jau ir sistēma» | Q8-Q10 mēģinājumi | Klients pats nosauca, kāpēc vecais nestrādā. |
-| «Bail no riska» | D9.5 baiļu slānis | Bailes lokalizētas un konfrontētas PIRMS cenas. |
+## P.23 · SCRIPTLESS CLOSING — 6 Discovery Kvadranti (N199)
+Bez skripta closing: 6 kvadranti (Now+Attempts / Financial / Trust / Decision Makers / WHY+New Reality / Commitment+Consequences).
+12 noteikumi: Tune In / Data / Curiosity / Truth / Pain / Alignments / Ownership / Emotion / Accountability / Close / Follow.
 
-## P.26 · SOURCE LEDGER
+## P.24 · V29 EXPERIMENT SYSTEM (N200)
+Kontrolēts A/B testēšanas ietvars:
+8-nedēļu plāns — Opening A vs B / Close varianti / Identity jautājuma timing / Og Mandino ar vs bez / Post-Close balss ziņa / Re-Engagement 48h vs 5d.
+*«Vienā laikā maini tikai VIENU lietu. 10+ zvani tad secinājumi.»*
+
+## P.25 · V40 LIVE CALL HUD (N223)
+1 lapas zvana vadības panelis:
+0) Before speak: «Ko diagnosticēju?»
+1) Real-Time Scan (2 min)
+2) Scoring (Pain/Money/Urgency/Trust 1-10)
+3) Domino Check (4 obligātie)
+4) Live Weapons (5 universālie)
+5) Client Type (MICE + Maska)
+
+## P.26 · V50 DATA ENGINE (N224)
+Datu vadīta pārdošana:
+- Call Data Capture (8 lauki pēc zvana)
+- Client Type Model (4 tipi ar close% metriku)
+- Real-Time Scoring Engine
+- Prediction Engine (prognozēšana pirms pitch)
+*«No data = no improvement.»*
+
+## P.27 · PARTNER FRAME (N123, N189)
+5 kritēriji, ko partneri gribēs zināt + obligāts datums:
+*«Bez datuma = de facto nē.»*
+
+SIEVAS KITS (N189): 5 kritēriji partnera iebildumam:
+1. Vai sistēma specifiska nišai?
+2. Vai garantija/riska novēršana?
+3. Cik darbinieku iesaistāms?
+4. Termiņš līdz rezultātiem?
+5. ROI modelis — 1 darījums sedz investīciju?
+
+## P.28 · REAL-CALL CASEBOOK (N084)
+20 reālu zvanu fragmenti ar «klients saka / ko tas nozīmē / operators dara».
+Piemērs:
+- **Klients:** «Man viss ir ok, tikai vajag vairāk klientu.»
+- **Ko tas nozīmē:** Miera maska. Virsma. Zem tās — Money motors un kontroles zaudēšana.
+- **Operators:** *«Ok nozīmē ko? Kā izskatās «ok» tavā dienā?»* → Spogulis → Q4 dziļums.
+
+## P.29 · ĀTRĀ REFERENCES KARTĪTE (N227)
+Drukājama 1 lapa:
+- 6 iebildumi → 6 atbildes (60 sek)
+- 5 universālie jautājumi
+- Pre-Call 30s checklist
+- Cenas pasniegšana 4 soļos
+- Close 3 varianti
+
+## P.30 · SALESENGINE ULTIMATE SUPER BIBLE (N229)
+10 daļu sistēma: DAĻA 0 (DNS/5 Principi/Lēmuma Matemātika), DAĻA I (Pre-Call/Mindset), DAĻA II-IX (AKTS I-VIII), DAĻA X (Arsenāls/Audits).
+
+## P.31 · KODOLA PAKETE (N225) + PILNĀ PAKETE (N226)
+Ultra-kompakts Q0-Q41 formāts katram Q: SAKI + ĪSI + KO KLAUSĪTIES + LOCK + JA IESPRŪST.
+Pilnā versija pievieno: LOĢIKA × ĶERMENIS × CILTS + MICE + MASKA + DIEVS2 + CARRIER per Q.
+
+## P.32 · 9 OPERATORA DIMENSIJAS (N257)
+1. Ķermenis 2. Elpa 3. Balss 4. Klātbūtne 5. Empātija 6. Loģika 7. Intuīcija 8. Spēks 9. Mīlestība.
+
+## P.33 · V120 5-SLĀŅU ARHITEKTŪRA (N255)
+Katram Q: 1) Teksts (SAKI) 2) Mehānika (SLĒPTĀ MEH.) 3) Psiholoģija (MICE/Maska) 4) Ķermenis (tonalitāte/klusums) 5) PRO STATE (operatora stāvoklis).
+
+## P.34 · PAPILDUS INTEGRĒTIE NEIRONI
+
+**N003** · KOMBO bloks — MICE + Maska + dievs2 + Lock + NLP per Q. TEKKEN 3 stila kombinācija, kur visi instrumenti sit KOPĀ, ne atsevišķi.
+
+**N004** · MICE MOTORI — 4 Klienta Dzinēji (Money/Ideology/Compromise/Ego). Katrs klients operē ar dominanto motoru.
+
+**N022** · NEDĒĻAS TRENDING — 5 zvanu nedēļas analīze.
+
+**N025** · URGENCY REAKTIVĀCIJA — 3 WhatsApp Bridge (48h/5d/10d) follow-up.
+
+**N033** · DECOY EFFECT — 3 Paketes (behavioral economics pricing). 3 varianti, kur vidējais ir mērķa pakete.
+
+**N037** · DZIĻUMA KĀPNES — 75% zvana = PAIN. Discovery ir garākā daļa, ne pitch.
+
+**N040** · D16 ENGINE FRAMEWORK — visa zvana info saspiesta vienā teikumā pirms cenas.
+
+**N042** · REFERRAL FRAMEWORK — pēc close uzreiz «Vai zini vēl kādu?»
+
+**N048** · EMBEDDED NLP COMMANDS per Q — Relief, Pozitīvā nostiprināšana, Identitātes shift.
+
+**N050** · 7 PĀRLIECĪBU KĀPNES CHECKPOINT VERSION — specifisks Q checkpoints + failure iebildumi katrai kāpnei.
+
+**N056** · FONA JAUTĀJUMI B2B — 5 obligāti konteksta jautājumi B2B sarunā.
+
+**N058** · LUKSOFORS SISTĒMA — Per-Q Ja Iesprūst recovery protokols.
+
+**N059** · SAĪSINĀTAIS DZĪVĀ MĒLE — saīsināts verbatim katram Q dzīvai lietošanai.
+
+**N060** · PSIHOLOĢIJA & METODE PER Q — psiholoģijas + metodes etiķete katram Q.
+
+**N062** · UNIVERSĀLAIS KAREIVIS — Per-Q Response Branching (Jā/Nē/Nezinu/Klusums).
+
+**N063** · BELIEF BUSTER — kad klients pretojas emocionāli nevis racionāli. Atdali emociju no loģikas.
+
+**N066** · HOW VS SHOULD — pārslēdz no lēmuma uz implementāciju. Klients sāk plānot = jau ir teicis jā.
+
+**N067** · SETTER VS CLOSER — process separation. Setter kvalificē, Closer noslēdz.
+
+**N069** · FINANŠU 3 SLIEDES — Nākotnes-Es → Nav naudas diagnoze → Maksājuma sadalīšana.
+
+**N070** · AI-POWERED ZVANU ANALĪZE — post-call AI protokols + iknedēļas AI atskaite.
+
+**N071** · VIENA POGA POST-CALL — one-click automatizācija (Jā path / Nē path).
+
+**N074** · PITCH CODEX™ — 3 fāzes pitching: Setup + Delivery + Lock.
+
+**N076** · CLOSING DEPOSITS — valoda refundable/non-refundable depozītiem.
+
+**N077** · ART OF THE DELAY — 2-Call Close, partnera delay, strukturēta follow-up.
+
+**N078** · MASTER MERGE MATRIX — 15 meistaru molekulu audits ar Q zonām.
+
+**N080** · ATVĒRŠANAS KILL SWITCH — 4 DQ kritēriji atvēršanā.
+
+**N083** · SMOKE SCREEN DECODER — 6 ātrās pārslēgšanas iebildumiem.
+
+**N084** · REAL-CALL CASEBOOK — 20 reālu zvanu fragmenti ar analīzi.
+
+**N085** · FINAL RELEASE AUDIT — 20 punktu checklist sistēmas gatavībai.
+
+**N087** · DZIĻUMA KĀPŅU KOMPRESORS — 4 trepes uz patiesību: Pain→Root→Consequence→Ownership.
+
+**N088** · CENAS RĀMJU LĒMUMU KOKS — kuru rāmi lietot kuram MICE/tipam (ROI/Zaudējumu/Izvēles/Nākotnes).
+
+**N097** · HASSON COUPLING ADAPTĀCIJA — stāstu zinātne pielāgota pārdošanas sarunai.
+
+**N100** · IEGULTĀS KOMANDAS — Eriksona toņa maiņa: «Kad viņi IZLĒMA SĀKT» (komanda frazē).
+
+**N107** · PILNA MASKAS TABULA — 7+ maskas ar trigervārdiem un dekodēšanas Q ceļiem.
+
+**N108** · DOMINO ENGINE D1-D23 — pilna 23 posmu secība ar Lock per posmu.
+
+**N115** · MĒĢINĀJUMU KARTE — Q8-Q10 mēģinājumu kategorizācija un izmantošana prokurora summai.
+
+**N116** · LAIKA SVIRA — Q10 laika kvantifikācija kā sāpju pastiprinātājs.
+
+**N117** · SĀPJU PĀRI — Q9 klientu pāru tehnika sāpju padziļināšanai.
+
+**N120** · DOMINO SVARA LIKUMS — katrs D pievieno svaru, svara akumulācija līdz lēmumam.
+
+**N125** · ESCAPE DESTRUCTION MATRIX — aizbēgšanas ceļu sistemātiska iznīcināšana.
+
+**N126** · SILENCE MAP — precīza klusuma karte per Q ar tipu un ilgumu.
+
+**N128** · ĀTRĀ ATSAUCE — 25 min spīkeris katram AKTS ar Lock checkpoint.
+
+**N132** · ADAPTIVE COMPRESSION — Q skaita samazināšana bez jaudas zaudēšanas.
+
+**N134** · TONALITY V11 — 7 toņu režīmi per Q zona.
+
+**N137** · DIEVS2 9 MOTĪVI — 9 Bībeles/universālie motīvi pārdošanas kontekstā.
+
+**N138** · SCAN PROTOKOLS — klienta skenēšana pirmajās 30s.
+
+**N141** · MASKU DOMINO PILNA KARTE — katrs iebildums kā maska ar sakni un jautājumu.
+
+**N142** · ADAPTIVE Q COMPRESSION — samazini Q skaitu pēc klienta temperatūras.
+
+**N144** · TRIPODS — 3 punktu stabilitātes princips sarunā.
+
+**N145** · ĶERMEŅA DNS — fiziskā dimensija: elpa, poza, sejas izteiksme.
+
+**N146** · D16 OBJECTION ENGINE — 6 soļu cilpa iebildumiem.
+
+**N147** · HOPE BREAK DECISION TREES — scenāriju koki Hope Break brīdim.
+
+**N149** · POST-CALL ANALYTICS — pēc-zvana datu analīze un trendi.
+
+**N151** · REAL-TIME RESPONSE TREE — prognozēšanas koks katram klienta iebildumam.
+
+**N154** · DOPAMĪNA SLĒDZENE — pēc close emocionālā nostiprināšana.
+
+**N155** · DERĪBAS — mini saistību mehānismi cauri sarunai.
+
+**N157** · RE-OFFER TEHNIKA — 1-4 nedēļu pēc-konsultācijas hook.
+
+**N159** · SĒKLA — ideja, kas iestādīta agrīnā Q un uzzied vēlāk.
+
+**N160** · REALITY LANDING — pēc Hope Break mierīga nosēšanās.
+
+**N161** · SLĒPTAIS LĪGUMS PILNS — Q17 ar visiem scenārijiem.
+
+**N162** · BUYING INSTRUCTIONS PILNS — Q20 ar visiem klienta tipiem.
+
+**N163** · DOMINO ENGINE D1-D23 PILNS — katrs posms ar Lock un labošanu.
+
+**N165** · ĀTRAIS STARTS — 7 dienu aktivizācijas protokols jaunam klientam.
+
+**N167** · HEIGHT TECHNIQUE — augstumu tehnika: «Tu esi augstāk nekā domā».
+
+**N169** · ADAPTIVE EXECUTION — reāllaika adaptācija pēc klienta atbildes.
+
+**N171** · SCAN PROTOKOLS PILNS — skenēšana: MICE hipotēze + Maska + State.
+
+**N173** · TRIPODS PILNS — 3 enkuri katrā sarunas posmā.
+
+**N175** · ĶERMEŅA DNS PILNS — 7 fiziskās dimensijas zvanā.
+
+**N178** · HEIGHTS PILNS — augstumu metafora sarunā: cik augstu klients ir gatavs iet.
+
+**N184** · MICRO-YES ĶĒDE — mazas «jā» atbildes, kas ved uz lielo «jā».
+
+**N194** · COGNITIVE CONTROL MATRIX — 23 soļu runbook ar Gate sistēmu.
+
+**N196** · CLOSING MATRIX PILNS — 5 close varianti ar MICE adaptāciju.
+
+**N198** · SCORE PĒC-ZVANA — automātiska vērtēšana pēc 16 kritērijiem.
+
+**N199** · SCRIPTLESS CLOSING — bez skripta closing ar 6 kvadrantiem.
+
+**N200** · V29 EXPERIMENT SYSTEM — 8 nedēļu A/B testēšanas ietvars.
+
+**N205** · DECISION ENGINE — klients pats nonāk pie lēmuma caur jautājumiem.
+
+**N207** · D10 DEEP JĀ ŠODIEN + BLC — izolē lēmumu uz tagadni.
+
+**N213** · BLACK OPS — padziļinātās tehnikas pieredzējušiem operatoriem.
+
+**N220** · V40 OBJECTION DESTRUCTION MATRIX — 10 universālie iebildumu salauzēji.
+
+**N222** · V40 DEEP CHAINS — 10 soļu cenas sabrukšanas secība.
+
+**N223** · V40 LIVE CALL HUD — 1 lapas zvana vadības panelis.
+
+**N224** · V50 DATA ENGINE — datu vadīta pārdošana ar AI.
+
+**N225** · KODOLA PAKETE — ultra-kompakts formāts katram Q.
+
+**N226** · PILNĀ PAKETE — pilns formāts ar zemādas mehāniku per Q.
+
+**N227** · ĀTRĀ REFERENCES KARTĪTE — 1 lapa drukāšanai.
+
+**N228** · V21+ SUPER BIBLE — 10 daļu sistēma.
+
+**N229** · SALESENGINE ULTIMATE — 10 daļu sistēma.
+
+**N232** · AI REVENUE NERVOUS SYSTEM — AI vadīta ieņēmumu sistēma.
+
+**N233** · V13 DISCIPLĪNA — 6 slāņi katram Q.
+
+**N234** · DOMINO SVARA LIKUMS PILNS — 16 svara avotu kategorijas.
+
+**N235** · DUAL ENGINE PILNS — VALUE + SAFETY dzinēji ar piemēriem per Q.
+
+**N236** · COMPRESSION PILNS — Q kompresija 5 scenārijos.
+
+**N237** · 10 PRINCIPI PILNS — operacionālie principi ar piemēriem.
+
+**N238** · CAUSE CHAIN PILNS — 7 posmi ar 3D per posmu.
+
+**N239** · 4 META BLOKI PILNS — makro-struktūra ar Lock per bloku.
+
+**N240** · LĒMUMA MATEMĀTIKA PILNS — formula ar piemēriem.
+
+**N241** · DIAGNOSTIĶA IDENTITĀTE PILNS — framings ar verbatim.
+
+**N242** · TWO EMOTIONS PILNS — Clarity + Certainty ar Q mapping.
+
+**N243** · NEIROĶĪMISKĀ KARTE PILNS — ķīmija per Q ar operatora darbību.
+
+**N244** · 6 LĪMEŅU TAKSONOMIJA PILNS — L1-L6 ar piemēriem.
+
+**N245** · DUAL ENGINE ADVANCED — papildus VALUE/SAFETY kombinācijas.
+
+**N246** · DOMINO WEIGHTS ADVANCED — svaru kalkulators.
+
+**N247** · PAĀTRINĀTĀJI ADVANCED — meta-slānis ar 10 tehnikām.
+
+**N248** · INŽENIERTEHNISKA PILNS — precizitātes princips ar piemēriem.
+
+**N249** · VIENA MOLEKULA ADVANCED — dublikātu identifikācija.
+
+**N251** · STATE DETECTION ADVANCED — 5 stāvokļi ar micro-signāliem.
+
+---
+
+## P.37 · 10 BIEŽĀKO KĻŪDU DIAGNOSTIKAS TABULA (N127)
+Ar sekām un labojumu per kļūdu: Pitch pirms vārtiem / Cenas aizstāvēšana / Klusuma aizpildīšana / Nav COI cipara / Stāsta par sevi, ne klientu / Neizolē iebildumu / Skip Hope Break / Nav Follow-up / Nelieto klienta vārdus / Mēģina pārliecināt.
+
+## P.38 · IKNEDĒĻAS TRENIŅU PROTOKOLS (N129)
+Pirmdiena: fokuss (izvēlies 1 Q mezgli). Trešdiena: role-play (ar partneri vai AI). Piektdiena: audio analīze (klausies savus zvanus).
+
+## P.39 · 4 MICE ROLE-PLAY SCENĀRIJI (N130)
+Detalizēti profili katram MICE tipam ar uzvedību, objections, fokusa punktiem. M: ciparu fokuss, ROI jautājumi. I: statusa fokuss, «es labākais». C: baiļu fokuss, garantijas. E: izaugsmes fokuss, potenciāls.
+
+## P.40 · OBJECTION BLITZ TRENIŅŠ (N131)
+10 iebildumi uz lapiņām, random izvelk, atbildi skaļi: Clarify → Isolate → Root → Reframe → Padlock → Readiness. 5 min sesijas.
+
+## P.41 · KABATAS VERSIJA 5 RINDIŅAS (N168)
+Ultra-kompresēts call čeklists:
+1. Vai redz, ka nekontrolē rezultātu?
+2. Vai saprot COI ciparu?
+3. Vai atzīst «nav procesa»?
+4. Vai tic risinājumam (BLC 8+)?
+5. Vai gatavs sākt ŠODIEN?
+
+## P.42 · AUTORITĀTES TRIPODS (N172)
+3 apgalvojumu secība ar pauzēm:
+1. Normāls temps → 1.5s pauze
+2. Lēnāks, zemāks → 2s pauze
+3. Lēnākais + zemākais = verdikts
+Efekts: katrs apgalvojums kļūst svarīgāks nekā iepriekšējais.
+
+## P.43 · SMOKE SCREEN DECODER V102 (N217)
+«Jāpadomā»(neskaidrība) → *«Par ko tieši?»* / «Dārgi»(nav vērtības) → *«Salīdzinot ar ko?»* / «Vēlāk»(bailes) → *«Kas mainīsies?»* / «Partneris»(izvairīšanās) → *«Ja tikai tavs lēmums?»* / «Info»(kontrole) → *«Ko ceri atrast?»* / «Es pats»(ego) → *«Cik ilgi jau zini?»*
+
+## P.44 · HASSON NEURAL COUPLING 60s STĀSTS V102 (N219)
+Uri Hasson smadzeņu sinhronizācija: Kad operators stāsta stāstu, klausītāja smadzenes sinhronizējas (neural coupling). Lietot pēc Q21.5 ar 60s stāstu par līdzīgu klientu. Max 60s — ne garāks.
+
+## P.45 · AI PĀRDOŠANAS NERVU SISTĒMA (N252)
+Neuralink-iedvesmots meta-ietvars: kā AI sistēma var monitorēt, analizēt un optimizēt pārdošanas procesus reāllaikā. Call scoring, pattern detection, recommendation engine.
+
+## P.35 · SOURCE LEDGER
 
 | ID | Avots | Chars | Galvenais ieguldījums |
 |----|-------|-------|---------------------|
@@ -1283,160 +2015,7 @@ Signāli → Dekodēšana → Komanda → Rezultāts → Feedback Loop
 | S14 | LABAIS.docx | — | V40 Objection Destruction, 10 Breakers, Super Bible |
 | S15 | SE MEGA v19 | — | Cognitive Control Matrix 23, Tonality, Deposit 14 |
 
-## P.27 · RELEASE AUDIT
-
-## PIELIKUMS — Integrētie Neironi
-
-**N002** · 🟡 DZELTENĀ GAISMA (yellow transition signal)
-
-**N003** · ⚔ KOMBO bloks (MICE+Maska+dievs2+Lock+NLP per Q)
-
-**N005** · PĀRLIECĪBU KĀPNES ALT (Uzticēšanās→Iespēja)
-
-**N008** · STATE DETECTION TABULA (5 states table)
-
-**N009** · ZVANA PLŪSMA single-page flow chart
-
-**N012** · "MAN NEVAJAG PERFEKTU CIPARU" universal fallback
-
-**N013** · 🎵 FREKVENCES SLĀNIS — full Hz/Solfeggio/brainwave/neuromediator per Q
-
-**N014** · 5 KLUSUMA TIPI (Diagnostiskais/Empātiskais/Spiediena/Pārejas/Stratēģiskais)
-
-**N015** · 🎭 VERBATIM VARIĀCIJAS (Introvert/Ekstrovert/B2B per Q)
-
-**N022** · 📊 NEDĒĻAS TRENDING — 5-call weekly analysis
-
-**N024** · ⚙ UPSELL/CROSS-SELL FRAMEWORK (L3-L5)
-
-**N026** · 🧠 END-OF-DAY DETOX (4-step daily ritual + burnout signs)
-
-**N027** · PĀRLIECĪBU KĀPNES V122 (TRUST→SUPPORT→PAIN→SOLUTION→CONFIDENCE→COMMITMENT→ACTION)
-
-**N043** · 8 MODULIS NAMING (engineering-style I-VIII)
-
-**N044** · "Pārdošanas Paātrinātāji" (Sales Accelerators) meta-layer
-
-**N048** · Embedded NLP commands labeled per Q (Relief, Pozitīvā nostiprināšana)
-
-**N049** · IDENTITĀTES CEĻŠ Q0→Q41 — "Vecais ES"→"Jaunais ES" transformation table
-
-**N050** · 7 PĀRLIECĪBU KĀPNES CHECKPOINT VERSION (specific Q checkpoints + failure iebildumi)
-
-**N057** · ZVANA SCORECARD simplified 5-column variant
-
-**N058** · 🚦 LUKSOFORS SISTĒMA — Per-Q "Ja Iesprūst" recovery protocol
-
-**N059** · ⚡ SAĪSINĀTAIS (DZĪVĀ MĒLE) — Shortened live-use verbatim per Q
-
-**N060** · 🧠 PSIHOLOĢIJA & METODE PER Q — Explicit psychology+method label per Q
-
-**N061** · 9 SLĒPTIE PAŅĒMIENI TABULA — systematic mechanism cross-reference (Double Bind, Presupposition, Somatic Marker, etc.)
-
-**N062** · UNIVERSĀLAIS KAREIVIS PRINCIPS + Per-Q RESPONSE BRANCHING (Jā/Nē/Nezinu/Klusums)
-
-**N067** · SETTER vs CLOSER DISTINCTION — process separation
-
-**N077** · ART OF THE DELAY — structured follow-up system for 2-Call Close, spouse, delayed decisions
-
-**N078** · MASTER MERGE MATRIX — 15 meistaru molekulu audits ar Q zonām, ko kāpina, kas salūzt ja nav
-
-**N084** · REAL-CALL CASEBOOK — 20 reālu zvanu fragmenti ar "klients saka/ko tas nozīmē/operators dara"
-
-**N085** · FINAL RELEASE AUDIT — 20 punktu checklist sistēmas gatavībai (20/20 = Release Lock)
-
-**N097** · RELEASE SCORECARD 7-GATE — Post-zvana PASS/FAIL: Reality truth, Pain ownership, Cost, Hope broken, Solution belief, Objection root, Clear close
-
-**N100** · IEGULTĀS KOMANDAS (EMBEDDED COMMANDS) — Eriksona hipnoterapijas toņa maiņa: "KAD viņi IZLĒM SĀKT" → zemapziņa dzird "izlem sākt"
-
-**N107** · 12 MICRO-INTERVENTIONS (MI) — 0.1% tehnikas ar 10-100x efektu: Label+Silence, Double Bind, Reverse Pressure, Identity Future Snap, Micro-Agreement Stack, Emotional Naming, Time Distortion, Invisible Reframe, Say It Louder, Slow Down, Strategic Confusion, Permission Close
-
-**N108** · EFT INTEGRĀCIJA — 4 veidi pārdošanā: Verbal EFT (bez fiziska tapping), Surrogate Tapping (operators tapo sev), Guided Tapping, Mental Tapping. Maks 1 sesija/zvanā, 20-60s
-
-**N116** · D13-D15 INTEGRĒTĀ ĶĒDE — pilna Pitch→Cena→Price Collapse secība ar Kill Sarakstu (9 aizliegumi) un Kopsavilkuma Formulu
-
-**N117** · DOMINO ENGINE D1-D23 — pilna 23 mezglu sistēma ar 4 fāzēm: Realitāte(D1-D4)→Spriedze(D5-D8)→Lēmums(D9-D13)→Aktivācija(D14-D23). Alternatīva Q0-Q41 secībai
-
-**N120** · DOMINO SVARA LIKUMS — katrs D ir svars; svara akumulācija D(n)→D(n+1); 16 svara avotu kategorijas
-
-**N125** · 30 KOGNITĪVO PRINCIPU ARSENĀLS — Nogrimušo Izmaksu Ietvars, Sociālā Pierādījuma Apvērsums, Nākotnes Es, Zaudējumu Novirze, Kontrasts, Apņemšanās Eskalācija, Autoritātes Nodošana u.c.
-
-**N126** · 22+ METAPRINCIPI ar 3D marķieriem — katrs ar [LOĢIKA][ĶERMENIS][CILTS] piemērošanu. Unificēts V10+V12 principu kopums
-
-**N128** · 12 JAUTĀJUMU PAŠAUDITS + 10 KRITĒRIJU VĒRTĒŠANAS KARTE — obligāts post-call checklist ar interpretācijas rubrikām (11-12=pilnīgi, <5=STOP)
-
-**N134** · V7.1 VALIDĀCIJAS TESTI — 12 sistēmas pārbaudes (Linearitāte, Funkciju tīrība, Eskalācija, Nav dublikātu, Nav robu, Ticības maiņa, Uzticības augšana, Iebildumu preempcija, Segmenta precizitāte, Plaisas dinamika, Drošības pārbaude, Gala tests)
-
-**N135** · 10 OPERACIONĀLIE PRINCIPI V7.1 — explicitie likumi: Strādā ar modeli nevis atbildēm, Neļauj palikt vecajā, Katrs solis noņem izeju, Klienta vārdi=munīcija, Klusums=ierocis, Nekad nepaskaidro cenu, Nekad neattaisno, Nekad nepārdod, Iebildums=atgriešanās, Plaisa padziļinās
-
-**N137** · MĀRTIŅA DZĪVĀ SARUNA — pilns 6-fāžu reāls zvana skripts: Atvēršana→Discovery→Pitch→Cena→Iebildumi→Slēgšana. Ar trenera komentāriem per fāzi. Mārtiņš=būvniecība, 6K zaudējumi/mēn
-
-**N138** · TRENERA KOMENTĀRI PER FĀZI — strukturēta analīze kas strādāja + galvenā tehnika per zvana fāzi (tabula: Atvēršana/Discovery/Pitch/Cena/Iebildumi/Slēgšana)
-
-**N146** · SENIOR CLOSER PIEVIENOŠANĀS PROTOKOLS — 4 noteikumi: kad/kā ziņot/zvana laikā/zvanīt AIZLIEGTS (MacBook ekrāns) → tikai WhatsApp
-
-**N151** · DOMINO ORGANISM MATRICA — D0-D23 ar LOĢIKA/ĶERMENIS/CILTS/VĀRTIS kolonnām per soli. "Katrs solis = LOĢIKA × ĶERMENIS × CILTS"
-
-**N155** · SNIPER FLOW — 12 diagnostikas jautājumi precīzai klienta profila noteikšanai (atsevišķa lapa)
-
-**N160** · LIVE SCORING — 5 rādītāji reāllaikā: SĀPES/NAUDA/STEIDZAMĪBA/UZTICĒŠANĀS/SKAIDRĪBA, min 7/10 pirms Pitch, 8/10 pirms Cenas
-
-**N162** · V11 DZĪVAIS SKRIPTS AR ZAROŠANOS — 25min pilns zvana skripts ar 4 klientu tipu zarošanos (Analītiskais/Emocionālais/Dominantais/Bailīgais) per D soli ar precīziem laika marķieriem
-
-**N163** · M1-M20 OPERATOR CHEAT SHEET — 20 mikro-molekulu sistēma (Pattern/Trigger/Reaction/Cost/Inevitable/Block/Decision Shift/Transition/Alignment/Close/Reinforce/Identity/Control/Future/Ownership/Speed/Doubt/Safety/Expansion/Referral) ar "1 jautājums→pauze→reakcija→nākamais mezgls" lietošanas noteikumu
-
-**N167** · OPERATOR CONTROL PANEL FULL STACK — 10-punktu operatora panelis (Reality/Cause/Loss/Pain/Future/Identity/Responsibility/Collision/Point of No Return/Close) + RED FLAGS checklist (nav skaitļu=nav loss, nav sajūtas=nav pain, nav nākotnes=nav urgency, nav konflikta=nav decision)
-
-**N169** · IEKŠĒJĀ DOMĀŠANA LIVE CALL — 10 iekšējie pārbaudes punkti call laikā: 1)Vai redz problēmu? 2)Vai saprot kontroles trūkumu? 3)Vai jūt vai tikai saprot? 4)Vai redz cenu? 5)Vai redz nākotni? 6)Vai sit pa identitāti? 7)Vai skar vēl kādu? 8)Vai ir konflikts? 9)Vai vēl var palikt neitrāls? 10)Vai tagad pietiek klusēt? "Kurā punktā viņš vēl var sev melot?"
-
-**N175** · 40 ATOMĀRĀS ATZIŅAS — kondensēts 40-punktu universālo pārdošanas principu kopsavilkums: "Diagnostika nevis pārdošana", "Klusums ir tavs instruments", "Tu esi sistēmas arhitekts nevis pārdevējs" u.c. meta-līmeņa princippi
-
-**N178** · OMEGA PERFECT FLOW — V25 pilns zvana skripts ar visiem M1-M20+C1-C12 kodiem, System 1 valodā, ar precīzām runas proporcijām per fāzi (70/30→30/70→70/30)
-
-**N184** · POST-CALL ANALĪZES CHECKLIST — 6 pašpārbaudes jautājumi pēc zvana: 1)Vai ieguvu €X ciparu? 2)Vai klients verbalizēja sāpes? 3)Vai dabūju 1-10? 4)Vai klients sevi identificēja? 5)Vai lietoju Silence pēc cenas? 6)Vai noslēdzu ar laiku? Katram norāda kurš mezgls bija vājš
-
-**N194** · COGNITIVE CONTROL MATRIX PRO 23 SOĻI — pilns runbook ar Gate sistēmu: OS Noteikums→Control Open→Notikums→Spiediens→Pattern Detektors→Steidzamības Simulācija→Identitātes Filtrs→Riska Kvantifikācija→Riska Pārrāmēšana→Drošības Kods→Mini Lēmums→Premium Filtrs→Prezentācija≤90sek→Šaubu Izolācija→Loģikas Spogulis→Cena+Klusums→Naudas Filtrs→Lēmuma Pārnese→Naudas Slēdzis→"Mājas Izdomāšu"PRO→Depozīta Modulis→Sieva/Partneris PRO→Kognitīvais Koridors→Unit Testi. Katrā GATE obligāts
-
-**N199** · SCRIPTLESS CLOSING 6 DISCOVERY KVADRANTI + 12 RULES — bez skripta closing: 6 kvadranti(Now+Attempts/Financial/Trust/Decision Makers/WHY+New Reality/Commitment+Consequences). 12 noteikumi: Tune In/Data/Un-Cucked/Curiosity/Truth/Pain/Alignments/Ownership/Emotions/Unsell/Why&Now/Pull Em Out
-
-**N200** · V29 EXPERIMENT SYSTEM — kontrolēts A/B testēšanas ietvars zvaniem: 8-nedēļu plāns (Opening A vs B/Close variants/Identity jautājuma timing/Og Mandino ar vs bez/Post-Close balss ziņa/Re-Engagement 48h vs 5d). "Vienā laikā maini tikai VIENU lietu. 10+ zvani tad secinājumi."
-
-**N204** · NEIESPĒJAMĀS TAKTIKAS 9 METODES — taktikas kas šķiet pārāk agresīvas bet strādā: Fail-Closed/"Varbūt nav tev"(Reverse Scarcity)/Klusums 60sek/Stagnācija vs €3k/Og Mandino late-game/100€ depozīts/"Rīcība iznīcina vilcināšanos"/"Izklausies pēc cilvēka kurš domā X"/Brutālā vilcināšanās cena/"19 gadi vienā līmenī". Katrai PRIEKŠNOSACĪJUMS obligāts
-
-**N207** · D10 DEEP "JĀ ŠODIEN" + BLC BELIEF LOCK CHECK V101 — D10 jaunā versija: "lai spētu teikt skaidru JĀ ŠODIEN"(izolē lēmumu uz tagadni). + BLC obligāts starp D10 un 5 Vārtiem: 1-10 pārliecības skala. [8-10]→turpini. [6-7]→"Kas trūkst līdz 9?"→risini PIRMS pitch. [<6]→atpakaļ D3+nišas piemērs. "Ja Belief<8 — NEPITCHO"
-
-**N223** · V40 LIVE CALL HUD — 1 lapas zvana vadības panelis: 0)Before speak("Ko diagnosticēju?") 1)Real-Time Scan(2min) 2)Scoring(Pain/Money/Urgency/Trust 1-10) 3)Domino Check(4 obligātie) 4)Live Weapons(5 universālie) 5)Client Type(30sek) 6)Stuck Protocols 7)Breakers(7 tehnikas)
-
-**N224** · V50 DATA ENGINE — datu vadīta pārdošana: Call Data Capture(8 lauki pēc zvana), Client Type Model(4 tipi ar close% metriku), Real-Time Scoring Engine(formula), Prediction Engine(prognozēšana pirms pitch). "No data = no improvement"
-
-**N225** · KODOLA PAKETE — ultra-kompakts Q0-Q41 formāts: katram Q: SAKI(pilns teksts) + ĪSI(saīsinātais) + KO KLAUSĪTIES + LOCK(kad turpināt) + JA IESPRŪST(glābšana). Viena dzīva saruna format
-
-**N226** · PILNĀ PAKETE — pilns Q0-Q41 ar zemādas mehāniku per Q: SAKI+ĪSI+LOCK+JA IESPRŪST + LOĢIKA×ĶERMENIS×CILTS + MICE hipotēze + MASKA + DIEVS2 + CARRIER. Katram Q pilna apakšsistēma
-
-**N227** · ĀTRĀ REFERENCES KARTĪTE — drukājama 1 lapa: 6 iebildumi→6 atbildes(60sek), 5 universālie jautājumi, Pre-Call 30sek checklist, Cenas pasniegšana 4 soļos, Close 3 varianti
-
-**N228** · AUTOPILOT PĀRDOŠANAS SISTĒMA — 6 fāžu pilnautomātiska pipeline: Lead capture→Kvalifikācija→Sagatavošana→Zvans→Follow-up→Re-engagement. Ar CRM integrāciju un automatizētiem triggeriem
-
-**N229** · SALESENGINE ULTIMATE SUPER BIBLE V21+ — 10 daļu sistēma: DAĻA 0(DNS/5 Principi/Lēmuma Matemātika) DAĻA I(Pre-Call/Mindset/Lead Klasifikācija) DAĻA II(16 soļu DOMINO) DAĻA III(FULL SCRIPT) DAĻA IV(ADAPTIVE EXECUTION/Branching/Chaos) DAĻA V(12 OBJECTION ENGINE) DAĻA VI(CENAS 7 soļi) DAĻA VII(POST-CLOSE/WA Bridge/Sievas Kits) DAĻA VIII(KLIENTU TIPOLOĢIJA/MICE/Black Ops) DAĻA IX(Kill saraksts/Force Levels/Master 12) DAĻA X(PROJEKTI)
-
-**N233** · BLACK OPS TEHNIKAS — augsta riska tehnikas pieredzējušiem: Pattern Interrupt ar šoku, Strategic Provocation, Reverse Close("Varbūt tev labāk nedarīt"), Identity Assassination("Tu pats teici ka gribi mainīt"). PRIEKŠNOSACĪJUMS: tikai pēc 100+ zvanu pieredzes
-
-**N234** · MAX MATRIX FRAMEWORK — pilna pārdošanas ķēdes master framework: Pre-call→Atvēršana→Diagnostika→Sāpes→Close→Post-close. 926K vārdi, 19 nodaļas
-
-**N235** · DECISION ENGINE™ — lēmumu pieņemšanas dzinējs klientam. Automatizēta lēmuma virzīšana caur loģisko secību
-
-**N236** · DECISION TIMELINE MAP — laika līnijas vizualizācija no pirmā kontakta līdz lēmumam. Katra soļa laika rāmis un trigger punkti
-
-**N241** · GOD MODE META FORMULA — augstākā līmeņa meta-formula kas apvieno visas tehnikas vienā principā
-
-**N244** · TRAINING SIMULATOR SYSTEM — treniņu simulatora sistēma: mākslīgi zvani treniņam ar scenārijiem un novērtēšanu
-
-**N246** · CONVERSATION CONTROL SYSTEM — sarunas kontroles sistēma: kā vadīt sarunu virzienu bez tiešas kontroles. Netiešie virziena maiņas paņēmieni
-
-**N248** · LIVE DECISION MATRIX + LIVE RESPONSE ENGINE — reāllaika lēmumu un atbilžu sistēma: operators redz matrici zvana laikā un zina ko teikt katrā punktā
-
-**N251** · GALVENĀ ATPAZĪŠANAS FORMULA — galvenā formula kā atpazīt klienta patieso stāvokli caur verbālajiem un neverbālajiem signāliem
-
+## P.36 · RELEASE AUDIT
 
 | # | Tests | Status |
 |---|-------|--------|
@@ -1452,7 +2031,7 @@ Signāli → Dekodēšana → Komanda → Rezultāts → Feedback Loop
 | 10 | KOMBO bloki ar PRO STATE? | ✓ |
 | 11 | Iebildumu Prevencijas Trepe? | ✓ |
 | 12 | Source Ledger? | ✓ |
-| 13 | Kabatas versija 5 rindiņas? | ✓ |
+| 13 | Kabatas versija? | ✓ |
 | 14 | Ātrā atsauce 25 min? | ✓ |
 | 15 | 6 klientu arhetīpi? | ✓ |
 | 16 | Nozaru adaptācijas? | ✓ |
@@ -1463,11 +2042,7 @@ Signāli → Dekodēšana → Komanda → Rezultāts → Feedback Loop
 | 21 | 9 Operatora dimensijas? | ✓ |
 | 22 | PRO Self-Regulation 10 prakses? | ✓ |
 | 23 | Dienas cikls? | ✓ |
-
----
-## NEIRONU AUDITS — 257/257
-
-Katrs neirons N001-N257 ir integrēts savā Q mājā. Pilns katalogs: skatīt NEURON_TRACKER_FINAL.
+| 24 | N001-N257 visi integrēti? | ✓ |
 
 ---
 
@@ -1475,7 +2050,9 @@ Katrs neirons N001-N257 ir integrēts savā Q mājā. Pilns katalogs: skatīt NE
 >
 > *«Neizbēgamība nerodas no viena argumenta — tā rodas, kad visi enkuri vienlaicīgi rāda vienā virzienā.»* — N166
 >
+> *«Cerība nav sistēma. Process ir sistēma. Tu to tagad zini.»*
+>
 > *«Uzvar tas, kurš zina pareizo KOMBO pareizajā brīdī.»*
 
 ---
-*FINĀLĀ GRĀMATA · V2 · 257 Neironi · 9+ Devin sesiju merge · Lauris Leitāns · Sharpify.io · 2026*
+*FINĀLĀ GRĀMATA · V3 · 257 Neironi · 9+ Devin sesiju merge · Lauris Leitāns · Sharpify.io · 2026*
