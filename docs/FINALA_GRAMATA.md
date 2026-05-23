@@ -1,7 +1,7 @@
 # SALESENGINE — FINĀLĀ GRĀMATA
 
 ## Viens organisms · Viena līnija · Viens Flow
-### 257 Neironi · 22 KOMBO · 8 Akti · Q0–Q41+
+### 257 Neironi · 27 FINISHING MOVES · 26 KILLS · 8 Akti · Q0–Q41+
 
 > *«Cerība nav sistēma.»*
 > *«Es nestrādāju ar visiem.»*
@@ -383,6 +383,85 @@ Q33(Iebildumu cilpa) → Q34-Q38(Engine) → Q39(Close) → Q40(Kolumbo) →
 Q41+(Post-close)
 ```
 
+## TEKKEN COMBO KILL MAP — Pilna Zvana Progresija
+
+> *Katrs Q ir KOMBO — 5 instrumenti sit VIENLAICĪGI. Katrs Q «nogalina» savu mezglu. Zvans beidzas, kad VISI mezgli ir nogalināti.*
+
+| Q | KOMBO Nosaukums | 5 Instrumentu Sitiens | Lock | Kill Confirm |
+|---|----------------|----------------------|------|-------------|
+| Q1 | DROŠĪBAS NOKAUTS | MICE(skenē) + Maska(atpazīsti) + dievs2(Uzticēšanās) + Lock(«ok klausos») + NLP(Pattern Interrupt) | Drošības Lock | «Ok, klausos» |
+| Q2 | FRAME NOKAUTS | MICE(apstiprina) + Maska(kontrole→partneris) + dievs2(Godīgums) + Lock(Frame) + NLP(Micro-Yes) | Frame Lock | «Jā, skan godīgi» |
+| Q3 | LĒMĒJA NOKAUTS | MICE(Ego) + Maska(padotais→vadītājs) + dievs2(Atbildība) + Lock(Lēmējs) + NLP(Identitāte) | Lēmēja Lock (**VĀRTI #1**) | «Jā, es lemju» |
+| Q4 | SAKNES NOKAUTS | MICE(motors identificēts) + Maska(Miers→Patiesība) + dievs2(Patiesība) + Lock(Diagnoze) + NLP(Spogulis) | Diagnozes Lock | Klients nosaucis konkrētu problēmu |
+| Q5 | IDEĀLA NOKAUTS | MICE(Mērķis) + Maska(atlaižas) + dievs2(Sapnis) + Lock(Ideāls) + NLP(Future pace) | Ideāla Lock | Klients aprakstījis sapni |
+| Q6 | URGENCY NOKAUTS | MICE(Steidzamība) + Maska(«vienmēr»→«TAGAD») + dievs2(Laiks) + Lock(Urgency) + NLP(Temporal) | Urgency Lock (**VĀRTI #2**) | Nosaucis triggeri |
+| Q7 | CIPARU NOKAUTS | MICE(Money MAX) + Maska(Naudas) + dievs2(Mērs) + Lock(Cipars) + NLP(Anchor) | Ciparu Lock | PATS nosaucis ciparu |
+| Q8 | MĒĢINĀJUMU NOKAUTS | MICE(Frustācija) + Maska(«Kontrolēju»→krīt) + dievs2(Mācība) + Lock(Saraksts) + NLP(Stack) | Mēģinājumu Lock | 2+ nestrādājoši mēģinājumi |
+| Q9 | SĀPJU NOKAUTS | MICE(Emocionālais) + Maska(Spēka→krīt) + dievs2(Ciešanas) + Lock(Sāpes) + NLP(Somatic) | Sāpju Lock | Verbalizēta emocionālā cena |
+| Q10 | LAIKA NOKAUTS | MICE(Laiks) + Maska(«Drīz»→krīt) + dievs2(Laiks) + Lock(Laiks) + NLP(Sunk Cost) | Laika Lock | «Jau X gadus un nekas nav mainījies» |
+| Q11 | COI NOKAUTS | MICE(Money MAXIMUM) + Maska(Naudas pilnībā krīt) + dievs2(Cena) + Lock(COI) + NLP(Future pace) | COI Lock (**VĀRTI #3**) | PATS nosaucis COI ciparu |
+| Q12-Q16 | DZIĻUMA NOKAUTS | MICE(visi dziļināti) + Maska(pa slāņiem) + dievs2(Patiesība) + Lock(4 līmeņi) + NLP(Dziļināšana) | Dziļuma Lock | «Jā, tā ir pilna aina» |
+| Q17 | SLĒPTĀ LĪGUMA NOKAUTS | MICE(Slēptais motors) + Maska(Komforts→krīt) + dievs2(Zelta būris) + Lock(Slēptais) + NLP(Paradokss) | Slēptā Līguma Lock | Verbalizēts slēptais ieguvums |
+| Q20 | BUYING INSTRUCTION NOKAUTS | MICE(PATS definē) + Maska(Pilnībā krīt) + dievs2(Kontrole) + Lock(Buying Instruction) + NLP(VAK) | Buying Lock | 2-3 konkrēti kritēriji |
+| Q21 | DOUBLE REALITY NOKAUTS | MICE(Plaisa) + Maska(Optimists→krīt) + dievs2(Plaisa) + Lock(Double Reality) + NLP(Dihotomija) | Double Reality Lock | «Jā, milzīga plaisa» |
+| Q21.5 | **HOPE BREAK NOKAUTS** | MICE(**VISI 4**) + Maska(**VISAS SABRŪK**) + dievs2(Patiesības brīdis) + Lock(Hope Break) + NLP(Šoks) | Hope Break Lock (**VĀRTI #4**) | **«Nav procesa»** |
+| Q22-Q23 | ATĻAUJAS NOKAUTS | MICE(Frame maiņa) + Maska(Pretestība→apieta) + dievs2(Suverēnā izvēle) + Lock(Atļauja) + NLP(«jā») | Atļaujas Lock | «Jā, stāsti» |
+| Q24 | BELIEF NOKAUTS | MICE(Targeted) + Maska(Skeptiķis→krīt) + dievs2(Piepildīšanās) + Lock(Belief prelūdija) + NLP(Echo) | Belief Lock prelūdija | «Jā, es redzu kā tas varētu strādāt» |
+| Q25 | ANTI-PĪLĀRA NOKAUTS | MICE(Ego inversais) + Maska(Skeptiķis→pircējs) + dievs2(Ekskluzivitāte) + Lock(Scarcity) + NLP(Reverse) | Scarcity Lock | Klients pats apstiprina piemērotību |
+| Q26 | STĀSTA NOKAUTS | MICE(Spogulis) + Maska(«Es īpašs»→krīt) + dievs2(Transformācija) + Lock(Social Proof) + NLP(Neural Coupling) | Social Proof Lock | Klients redz sevi varoņa vietā |
+| Q27 | VĪZIJAS NOKAUTS | MICE(I-motors MAX) + Maska(«Nav laiks»→krīt) + dievs2(Izvēle) + Lock(Vīzija) + NLP(Loop breaker) | Vīzijas Lock | Izvēlas vīziju pār apstākļiem |
+| Q28 | BELIEF LOCK NOKAUTS | MICE(LOCKED) + Maska(**NAV MASKU**) + dievs2(Ticība) + Lock(Belief Lock) + NLP(Skala 1-10) | Belief Lock (**VĀRTI #5**) | BLC 8-10 |
+| Q29-Q31 | GATAVĪBAS NOKAUTS | MICE(Pārbaudīti) + Maska(Pēdējās atklātas) + dievs2(Gatavība) + Lock(TRIPLE) + NLP(3 testi) | Gatavības Triple Lock | 3× «jā» |
+| Q32 | **CENAS NOKAUTS** | MICE(D16 Engine VISS) + Maska(**NAV KO MASKĒT**) + dievs2(CENA) + Lock(Cena) + NLP(6 embed) | Cenas Lock | Klients runā par implementāciju |
+| Q33-Q40 | **IEBILDUMU NOKAUTS** | MICE(Sakne) + Maska(Smoke Screen→Īstais) + dievs2(Izvēle) + Lock(Padlock+CONFIRM) + NLP(Klienta vārdi) | Iebildumu Lock | «Jā, sākam» |
+| Q41+ | POST-CLOSE NOKAUTS | MICE(Nostiprināts) + Maska(Pircējs→Partneris) + dievs2(Jauns sākums) + Lock(Implementācija) + NLP(Nostiprināšana) | Implementācijas Lock | Datums + Homework + 48h bridge |
+
+### TEKKEN COMBO CHAIN — Pilna Zvana Ķēde
+
+```
+Q1 → DROŠĪBAS NOKAUTS        ─┐
+Q2 → FRAME NOKAUTS             ├─ AKTS I: ATVĒRŠANA (3 KILLS)
+Q3 → LĒMĒJA NOKAUTS  [VĀRTI #1] ─┘
+     │
+Q4 → SAKNES NOKAUTS           ─┐
+Q5 → IDEĀLA NOKAUTS            │
+Q6 → URGENCY NOKAUTS [VĀRTI #2] ├─ AKTS II: DIAGNOZE (4 KILLS)
+Q7 → CIPARU NOKAUTS           ─┘
+     │
+Q8  → MĒĢINĀJUMU NOKAUTS      ─┐
+Q9  → SĀPJU NOKAUTS            │
+Q10 → LAIKA NOKAUTS             │
+Q11 → COI NOKAUTS    [VĀRTI #3] ├─ AKTS III: KARTE & PLAISA (7 KILLS)
+Q12-Q16 → DZIĻUMA NOKAUTS      │
+Q17 → SLĒPTĀ LĪGUMA NOKAUTS    │
+Q20 → BUYING INSTRUCTION NOKAUTS ─┘
+     │
+Q21   → DOUBLE REALITY NOKAUTS  ─┐
+Q21.5 → HOPE BREAK NOKAUTS      ├─ AKTS IV: PATIESĪBAS MOMENTS (2 KILLS)
+         [VĀRTI #4 — ZVANA KLIMAKSS] ─┘
+     │
+Q22-Q23 → ATĻAUJAS NOKAUTS    ─┐
+Q24 → BELIEF NOKAUTS            │
+Q25 → ANTI-PĪLĀRA NOKAUTS      ├─ AKTS V: PĪLĀRI (6 KILLS)
+Q26 → STĀSTA NOKAUTS            │
+Q27 → VĪZIJAS NOKAUTS           │
+Q28 → BELIEF LOCK NOKAUTS [VĀRTI #5] ─┘
+     │
+Q29-Q31 → GATAVĪBAS NOKAUTS   ─┐
+Q32 → CENAS NOKAUTS             ├─ AKTS VI: CENA (2 KILLS)
+         [NĀVĒJOŠAIS SITIENS #2] ─┘
+     │
+Q33-Q40 → IEBILDUMU NOKAUTS   ── AKTS VII: IEBILDUMI (1 KILL — bet var būt 3 cilpas)
+     │
+Q41+ → POST-CLOSE NOKAUTS     ── AKTS VIII: POST-CLOSE (1 KILL)
+```
+
+**KOPĀ: 26 KILLS = 1 CLOSE.**
+
+> *Katrs KILL ir kā TEKKEN finishing move — 5 instrumenti sit vienlaicīgi. Ja kāds instruments netrāpīja — KILL nav notikuši un Q nav nogalināts. Atgriezies un trāpi vēlreiz.*
+>
+> *Operators, kas «nogalina» visus 26 Q mezglus secīgi — noslēdz darījumu. Operators, kas izlaiž kaut vienu — zaudē kontroli un klients «atdzīvojas».*
+
 ---
 
 ⚔ **TUKŠĀS KRŪZES KOMBO** (V122) · PRIORITĀTE #1
@@ -425,6 +504,21 @@ Zema balss. Slow pace. Nav steigas pārdot. Empātija, ne manipulācija.
 **SLĒPTĀ MEH.:**
 Maska: pārdevējs → diagnostiķis. Vecais altāris: vajadzība pierādīt → atlaist.
 
+
+🎯 **Q1 FINISHING MOVE — DROŠĪBAS NOKAUTS:**
+| Instruments | Ko sit | Kā sit |
+|-------------|--------|--------|
+| 🎯 MICE | Skenē pirmo motora signālu | Klausies: vai piemina naudu (M), statusu (E), stresu (C), mērķi (I) |
+| 🎭 Maska | Atpazīsti pirmo aizsardzību | Miera maska = «es tikai skatos». Eksperta maska = «es jau zinu» |
+| 📖 dievs2 | Universālais motīvs #1: UZTICĒŠANĀS | «Cilvēks uzticas tam, kurš PIRMAIS parāda ievainojamību» |
+| 🔒 Lock | Drošības Lock | Klients teica «ok, klausos» VAI nonverbāli atvērās |
+| 💬 NLP | Pattern Interrupt + iegultā komanda | *«Kad tu SAPRATĪSI, ka šeit nav spiediena...»* — komanda «SAPRATĪSI» |
+
+⚔ **COMBO SECĪBA (1-2-3-4-5 vienlaicīgi):**
+*Tu saki frāzi (NLP embed) → klients jūt drošību (dievs2 uzticēšanās motīvs) → tu skenē viņa reakciju (MICE signāls + Maska identifikācija) → ja «ok klausos» = Lock aizslēdzas → Q1 ir NOGALINĀTS. Pāriet Q2.*
+
+❌ **Ja Q1 NAV nogalināts:** Klients joprojām ir aizsargāties. Atkārto ar citu variāciju. Max 2 mēģinājumi → ja joprojām nav Lock → pārbaudi vai nav DQ (N080).
+
 🧠 *Neirālā mehānika:* Pattern Interrupt — klients gaida pitch, dabū godīgumu. Smadzenes «aizķeras» — cerēts modelis neatbilst. Uzticēšanās sāk augt (N061).
 
 ⚛ *Zinātne:* Amigdala novērtē apdraudējumu pirmo 7 sekunžu laikā. Ja operators pusē viss ir «lēns, zems, drošs» — fight-or-flight neaktivējas.
@@ -460,6 +554,21 @@ Pārliecināts. Skaidrs rāmis. Es vadu sarunu, bet klients jūtas brīvs.
 **SLĒPTĀ MEH.:**
 Maska: kontrolētājs → līdzvērtīgs partneris. Motors: loģika + cieņa.
 
+
+🎯 **Q2 FINISHING MOVE — FRAME NOKAUTS:**
+| Instruments | Ko sit | Kā sit |
+|-------------|--------|--------|
+| 🎯 MICE | Apstiprina Q1 hipotēzi | Ja M → «noskaidrosim ciparus». Ja I → «sapratīsim vai fit» |
+| 🎭 Maska | Kontroles maska → partnera maska | Klients pieņem TAVU sarunu struktūru |
+| 📖 dievs2 | Universālais motīvs #2: GODĪGUMS | «Godīgs cilvēks saka patiesību pat ja tā nav izdevīga» |
+| 🔒 Lock | Frame Lock | Klients pieņēma «ja nē — atvadīsimies kā draugi» |
+| 💬 NLP | Micro-Yes ķēde (N184) | «Skan godīgi?» = pirmais «jā» → ķēde sākas |
+
+⚔ **COMBO SECĪBA:**
+*«Skan godīgi?» (NLP Micro-Yes) → klients saka «jā» (Lock sāk veidoties) → viņš pieņem tevi kā godīgu partneri (dievs2) → viņa kontroles maska krīt (Maska shift) → tu zini viņa MICE hipotēzi (MICE confirm) → Q2 NOGALINĀTS.*
+
+❌ **Ja Q2 NAV nogalināts:** Klients grib kontrolēt sarunu. → *«Es saprotu ka tavs laiks ir vērtīgs. Tieši tāpēc — 10 min un sapratīsim.»* Ja 2× nav → atpakaļ Q1.
+
 ## Q3 · Lēmējs
 *Laiks: 1:00-2:00*
 
@@ -485,6 +594,21 @@ Neitrāls. Nedraudīgs jautājums. Nav spiediena. Nav apvainojuma, ja nav lēmē
 
 **SLĒPTĀ MEH.:**
 Motors: ego — klients grib sevi redzēt kā lēmēju. Maska: padotais → vadītājs.
+
+
+🎯 **Q3 FINISHING MOVE — LĒMĒJA NOKAUTS:**
+| Instruments | Ko sit | Kā sit |
+|-------------|--------|--------|
+| 🎯 MICE | Ego motors aktivēts | Klients GRIB būt lēmējs — ego to prasa |
+| 🎭 Maska | Padotā maska → Vadītāja maska | Jautājums liek klientam sevi redzēt kā lēmēju |
+| 📖 dievs2 | Universālais motīvs #3: ATBILDĪBA | «Lēmējs = atbildīgais. Atbildība = cieņa» |
+| 🔒 Lock | Lēmēja Lock (VĀRTI #1) | «Es lemju» VAI otrs cilvēks pieslēgts |
+| 💬 NLP | Identitātes embed | *«Vai TU esi tas cilvēks...»* — liek identificēties kā lēmēju |
+
+⚔ **COMBO SECĪBA:**
+*«Vai TU esi tas cilvēks, kurš var pieņemt šo lēmumu?» (NLP identitātes embed) → klients jūt ego aktivēšanu (MICE Ego) → viņš grib būt vadītājs, ne padotais (Maska shift) → viņš pieņem atbildību (dievs2 atbildības motīvs) → «Jā, es lemju» (Lock aizslēdzas) → VĀRTI #1 ATVĒRTI. Q3 NOGALINĀTS.*
+
+❌ **Ja Q3 NAV nogalināts:** «Jārunā ar partneri» → Champion Building (N017) → pieslēdz vai padari par čempionu. Max 3× → ja nav = DQ.
 
 ⚙ *CHAMPION BUILDING (N017):* 3 soļu iekšējā čempiona tehnika — ja klients nav lēmējs:
 1. «Kas vēl iesaistās?»
@@ -532,6 +656,19 @@ Klausīšanās. Klusums. Ziņkārība. Nav vērtēšanas, nav piedāvāšanas.
 **SLĒPTĀ MEH.:**
 MICE atklāsme sākas. Maska: eksperts → klausītājs. Vecais altāris: ātrā diagnoze → pacietīga izpēte.
 
+
+🎯 **Q4-Q5 FINISHING MOVE — DIAGNOZES NOKAUTS:**
+| Instruments | Ko sit | Kā sit |
+|-------------|--------|--------|
+| 🎯 MICE | Motors identificēts | Money = ciparu fokuss. Ego = statusa fokuss. Compromise = baiļu fokuss |
+| 🎭 Maska | Miera maska atklāta | «Viss ok» = virsma. Zem tās — MICE motors |
+| 📖 dievs2 | Universālais motīvs #4: PATIESĪBA | «Patiesība atbrīvo. Bet vispirms tā sāp» |
+| 🔒 Lock | Diagnozes Lock | Klients nosaucis konkrētu problēmu + ideālo ainu + kāpēc tagad |
+| 💬 NLP | Spogulis + iegultā komanda | *«Tātad tu saki, ka [X]. KAD tu to ATRISINI...»* — «ATRISINI» = komanda |
+
+⚔ **COMBO SECĪBA:**
+*Tu jautā «kāda situācija?» → klients sāk stāstīt (NLP spogulis velk laukā) → tu skenē MICE signālus (MICE identifikācija) → «ok nozīmē ko?» lauž miera masku (Maska destruction) → klients verbalizē patiesību (dievs2 motīvs) → tu zini problēmu + ideālu + kāpēc tagad (Lock) → Q4-Q5 NOGALINĀTS.*
+
 ⚛ *Zinātne (Uri Hasson, Princeton):* Kad klients stāsta savu stāstu, smadzenes sinhronizējas (neural coupling). Tas paaugstina uzticēšanos. Tāpēc — ĻAUJ viņam runāt.
 
 ⚙ *PEEL BACK tehnika (N019):* Izlobīt īsto problēmu zem virsmas:
@@ -573,6 +710,18 @@ Mērķis: Nonākt līdz nopietnībai 10/10. Pie 10 saruna iet pavisam citādi ne
 **PRO STATE:** Ziņkārīgs. Klients rada savu vīziju — tu to NEKORIĢĒ.
 **SLĒPTĀ MEH.:** Pozitīvais GAP sāk veidoties: kur es ESMU vs kur es GRIBU BŪT.
 
+🎯 **Q5 FINISHING MOVE — IDEĀLA NOKAUTS:**
+| Instruments | Ko sit | Kā sit |
+|-------------|--------|--------|
+| 🎯 MICE | Mērķa motors ATKLĀTS | I: vīzija. M: cipars. E: statuss. C: drošība |
+| 🎭 Maska | Miera maska MĪKSTINĀS | Klients sāk sapņot — maska atlaižas |
+| 📖 dievs2 | Universālais motīvs: SAPNIS | «Sapnis, ko var aprakstīt — jau ir pusceļā uz plānu» |
+| 🔒 Lock | Ideāla Lock | Klients nosaucis KO grib — šo lieto Q24+Q26 |
+| 💬 NLP | Future pacing | *«Ja varētu ar burvju nūjiņu — kā tas IZSKATĪTOS?»* — «IZSKATĪTOS» aktivē vizuālo kanālu |
+
+⚔ **COMBO SECĪBA:**
+*«Kā tas izskatītos ideāli?» (NLP future pace — vizuālais kanāls) → klients sāk aprakstīt sapni (MICE mērķa motors) → viņš sapņo un maska atlaižas (Maska mīkstinās) → sapnis kļūst reāls viņa galvā (dievs2 sapņa motīvs) → tu pieraksti PRECĪZI ko viņš teica (Lock — Ideāla Lock) → Q5 NOGALINĀTS.*
+
 ## Q6 · Kāpēc Tagad
 *Laiks: 4:00-5:00*
 
@@ -583,6 +732,18 @@ Mērķis: Nonākt līdz nopietnībai 10/10. Pie 10 saruna iet pavisam citādi ne
 **JA BLOĶĒ:** «Nu, vienmēr ir bijis svarīgi.» → *«Tad kāpēc tieši tagad tu esi šajā zvanā, nevis pirms gada?»*
 **TRĀPĪJA, JA:** Klients nosauc konkrētu momentu vai notikumu.
 **AIZVĒRTS, KAD:** Zini emocionālo iemeslu PLUS loģisko iemeslu.
+
+🎯 **Q6 FINISHING MOVE — URGENCY NOKAUTS:**
+| Instruments | Ko sit | Kā sit |
+|-------------|--------|--------|
+| 🎯 MICE | Steidzamības motors AKTIVĒTS | Notikums/frustācija/deadline = degviela |
+| 🎭 Maska | «Vienmēr bijis svarīgi» maska SABRŪK | «Tad kāpēc TAGAD?» — atsedz emocionālo triggeri |
+| 📖 dievs2 | Universālais motīvs: LAIKS | «Pareizais laiks nekad nepienāk — to rada» |
+| 🔒 Lock | Urgency Lock | Klients verbalizēja KĀPĒC TAGAD — ne «kāpēc vispār» |
+| 💬 NLP | Temporal anchor | *«Kas MAINĪJĀS?»* — piespiež identificēt konkrētu momentu |
+
+⚔ **COMBO SECĪBA:**
+*«Kāpēc TAGAD?» (NLP temporal anchor) → klients nosauc triggeri (MICE steidzamības motors) → «vienmēr bijis svarīgi» maska sabrūk (Maska) → laika spiediens kļūst reāls (dievs2) → tu zini emocionālo + loģisko iemeslu (Lock) → Q6 NOGALINĀTS.*
 
 ## Q7 · Cipari
 *Laiks: 5:00-7:00*
@@ -661,6 +822,18 @@ Efekts: Klients pirmajās 7 min atklāj: 1) virsmas iemeslu, 2) ideālo stāvokl
 **PRO STATE:** Mierīgs. Nekomentē. Nepiedāvā. Tikai «Un tad?»
 **SLĒPTĀ MEH.:** Katrs mēģinājums = pierādījums prokurora lietai (Q21.5). Klients pats būvē argumentu PRET sevi.
 
+🎯 **Q8 FINISHING MOVE — MĒĢINĀJUMU NOKAUTS:**
+| Instruments | Ko sit | Kā sit |
+|-------------|--------|--------|
+| 🎯 MICE | Frustācijas motors AKTIVĒTS | Katrs neveiksmīgs mēģinājums = degviela Hope Break |
+| 🎭 Maska | «Es kontrolēju situāciju» maska SABRŪK | Saraksts ar nestrādājušiem mēģinājumiem pierāda pretējo |
+| 📖 dievs2 | Universālais motīvs: MĀCĪBA | «Neveiksme nav kļūda — tā ir dati» |
+| 🔒 Lock | Mēģinājumu Lock | Tu zini ko klients JĀAU ir darījis — un kas nav strādājis |
+| 💬 NLP | Stack framing | *«Un TAD?»* — katrs «un tad» pievieno vēl vienu neveiksmīgu slāni |
+
+⚔ **COMBO SECĪBA:**
+*«Ko esi mēģinājis?» → klients sāk uzskaitīt (MICE frustācija) → «Un tad?» (NLP stack — katrs slānis pievieno pierādījumu) → «Es kontrolēju» maska krīt (Maska) → «Tātad esi mēģinājis [1], [2], [3] — un nekas nav strādājis?» (dievs2 mācību motīvs) → saraksts ir tavā rokā (Lock — prokurora lietas materiāls Q21.5) → Q8 NOGALINĀTS.*
+
 ## Q9 · Sāpju Svira
 *Laiks: 9:00-12:00*
 
@@ -715,6 +888,18 @@ Kad klients nosauc sāpi — meklē OTRO sāpi, kas ir saistīta:
 
 🔒 **Lock:** Sāpju Lock — klients ir verbalizējis emocionālo cenu, ne tikai finansiālo.
 
+🎯 **Q9 FINISHING MOVE — SĀPJU NOKAUTS:**
+| Instruments | Ko sit | Kā sit |
+|-------------|--------|--------|
+| 🎯 MICE | Emocionālais motors ACTIVATED | Klients pāriet no racionāla uz emocionālu — viņa MICE motors ir pilnā jaudā |
+| 🎭 Maska | Spēka/Miera maska SABRŪK | Klients vairs nevar uzturēt «man viss ok» — sāpes ir pārāk reālas |
+| 📖 dievs2 | Universālais motīvs #6: CIEŠANAS | «Ciešanas, ko tu izvēlies turpināt, ir lielākas nekā tās, no kurām baidies» |
+| 🔒 Lock | Sāpju Lock | Klients verbalizējis EMOCIONĀLO cenu, ne tikai finansiālo |
+| 💬 NLP | Somatic Marker activation | *«Kā TU JŪTIES par to katru dienu?»* — «JŪTIES» pārslēdz no domāšanas uz jušanu |
+
+⚔ **COMBO SECĪBA:**
+*«Kā tas ietekmē TEVI personīgi?» (NLP somatic trigger) → klients sāk JUST sāpi, ne tikai par to runāt (Somatic Marker N061) → Miera/Spēka maska sabrūk (Maska destruction) → kortizols ceļas, klients pāriet emocionālajā slānī (MICE emocionālais motors) → viņš pats saka ko sāpe maksā emocionāli (dievs2 ciešanu motīvs) → tu KLUSĒ 5-8s (empātiskais klusums) → klients ir verbalizējis emocionālo cenu (Lock) → Q9 NOGALINĀTS.*
+
 ## Q10 · Laika Svira
 *Laiks: 12:00-13:00*
 
@@ -727,6 +912,18 @@ Kad klients nosauc sāpi — meklē OTRO sāpi, kas ir saistīta:
 **AIZVĒRTS, KAD:** Laiks ir nosaukts un klients saprot, ka laiks pats problēmu neatrisina.
 
 **SLĒPTĀ MEH.:** Sunk Cost aktivēšana — jo ilgāk gaidīts, jo smagāk nedarīt neko.
+
+🎯 **Q10 FINISHING MOVE — LAIKA NOKAUTS:**
+| Instruments | Ko sit | Kā sit |
+|-------------|--------|--------|
+| 🎯 MICE | Laika motors AKTIVĒTS | Katrs mēnesis = zaudēts laiks × COI |
+| 🎭 Maska | «Drīz sakārtošu» maska SABRŪK | X gadi ir pierādījums ka «drīz» nav strādājis |
+| 📖 dievs2 | Universālais motīvs: LAIKS | «Laiks, ko tērē gaidot — ir dārgāks par naudu» |
+| 🔒 Lock | Laika Lock | Klients atzīst ka laiks pats problēmu nerisina |
+| 💬 NLP | Sunk Cost anchor | *«Un šajā laikā — kas MAINĪJĀS?»* — atbilde vienmēr ir «nekas» |
+
+⚔ **COMBO SECĪBA:**
+*«Cik ilgi turpinās?» → klients nosauc laiku (MICE laika motors) → «Un šajā laikā — kas mainījās?» (NLP — atbilde = «nekas») → «drīz sakārtošu» maska sabrūk (Maska) → laiks × COI = milzīgs cipars (dievs2) → klients saprot ka gaidīšana IR lēmums (Lock) → Q10 NOGALINĀTS.*
 
 ## Q11 · COI — Cost of Inaction
 *Laiks: 13:00-15:00*
@@ -745,6 +942,20 @@ Kad klients nosauc sāpi — meklē OTRO sāpi, kas ir saistīta:
 
 **PRO STATE:** Kalkulators. Nav emocionāls. Skaitļi runā paši.
 **SLĒPTĀ MEH.:** Loss aversion — cilvēki reaģē uz zaudējumiem 2× spēcīgāk nekā uz ieguvumiem. COI = zaudējums.
+
+🎯 **Q11 FINISHING MOVE — COI NOKAUTS:**
+| Instruments | Ko sit | Kā sit |
+|-------------|--------|--------|
+| 🎯 MICE | Money motors MAXIMUM | COI cipars = lielākais skaitlis sarunā. Loss aversion 2× spēcīgāks par gain |
+| 🎭 Maska | Naudas maska PILNĪBĀ krīt | Klients pats nosaucis cik zaudē — viņš to vairs nevar ignorēt |
+| 📖 dievs2 | Universālais motīvs #7: CENA | «Katram lēmumam ir cena. Arī NELĒMUMAM ir cena. Un tā ir lielāka» |
+| 🔒 Lock | COI Lock (VĀRTI #3) | Cipars ir uz galda. Klients PATS to nosaucis. Šo ciparu lietosi Q32 |
+| 💬 NLP | Future pacing + anchoring | *«Tātad €[X] gadā. Un tu to MAKSĀ jau [Y gadus].»* — «MAKSĀ» = iegultā komanda |
+
+⚔ **COMBO SECĪBA:**
+*«Cik TAS tev izmaksā 12 mēnešos?» (NLP future pace) → klients rēķina un izsaka ciparu (MICE Money MAX) → viņš pirmo reizi dzird ciparu SKAĻI un saprot smagumu (Maska krīt) → tu atkārto «Tātad €X gadā. Un tu to jau MAKSĀ Y gadus» (NLP anchor + dievs2 CENA motīvs) → cipars ir uz galda, klients to nevar atsaukt (Lock) → VĀRTI #3 ATVĒRTI. Q11 NOGALINĀTS.*
+
+❌ **Ja klients nevar nosaukt ciparu:** *«Nav jābūt precīzam — tuvāk €5K vai €50K?»* Amplitūda VIENMĒR strādā.
 
 ## N036 · COI 5 DIMENSIJU TABULA
 
@@ -810,6 +1021,21 @@ Mērķis: aktivēt identitātes konfliktu — «es esmu labāks nekā mana pašr
 **SAKI:** *«Tātad, ja savelku kopā — [problēma + mēģinājumi + laiks + nauda + personālā ietekme] — vai ŠĪ ir pilna aina?»*
 🔒 Lock: Klients apstiprina pilno ainu.
 
+
+🎯 **Q12-Q16 FINISHING MOVE — DZIĻUMA NOKAUTS:**
+| Instruments | Ko sit | Kā sit |
+|-------------|--------|--------|
+| 🎯 MICE | VISI motori DZIĻINĀTI | Katrs līmenis atklāj jaunu MICE slāni: M(Q12) → C(Q13) → E(Q14) → I(Q15) → VISS(Q16) |
+| 🎭 Maska | Maska pa SLĀŅIEM | Q12: virsmas maska krīt. Q14: personālā maska krīt. Q15: identitātes maska krīt |
+| 📖 dievs2 | Universālais motīvs: PATIESĪBA | «Patiesība ir kā sīpols — katrs slānis sāp» |
+| 🔒 Lock | Dziļuma Lock | Klients ir atzinis problēmu VISOS 4 līmeņos: PAIN→ROOT→CONSEQUENCE→OWNERSHIP |
+| 💬 NLP | Dziļināšanas ķēde | *«Pastāsti VAIRĀK»* → *«KĀPĒC tā?»* → *«Kā VĒL?»* → *«Un kāda TĀ sajūta?»* |
+
+⚔ **COMBO SECĪBA (4-SLĀŅU DZIĻINĀŠANA):**
+*Q12: «Kāpēc tā ir? Kur ir SAKNE?» (NLP — no simptoma uz cēloni) → Q13: «Kā vēl tas ietekmē?» (MICE C-motors — sekas izplatās) → Q14: «Kā TU personīgi to jūti?» (Maska krīt — personālā sāpe) → Q15: «Vai šī situācija atspoguļo to, kas tu ESI?» (dievs2 — identitātes spriedze) → Q16: «Tātad ja savelku kopā — [VISS] — vai ŠĪ ir pilna aina?» (Lock — klients atzīst VISU) → DZIĻUMS NOGALINĀTS.*
+
+💀 **KILL CONFIRM:** Q16 Lock: Klients saka *«Jā, tā ir pilna aina.»* Tagad tev ir VISS materiāls Hope Break (Q21.5).
+
 ## N056 · FONA JAUTĀJUMI B2B CHECKLIST
 5 obligāti konteksta jautājumi B2B sarunā:
 1. «Cik cilvēku tavā komandā?»
@@ -833,6 +1059,19 @@ Mērķis: aktivēt identitātes konfliktu — «es esmu labāks nekā mana pašr
 
 **PRO STATE:** Dziļa klausīšanās. Tu esi spogulis, ne tiesnesis. Nav steigas uz pitch.
 **SLĒPTĀ MEH.:** Maska: klients kā upuris → klients kā atbildīgs. Sēkla: nākotnes ES sāk veidoties.
+
+🎯 **Q17 FINISHING MOVE — SLĒPTĀ LĪGUMA NOKAUTS:**
+| Instruments | Ko sit | Kā sit |
+|-------------|--------|--------|
+| 🎯 MICE | Atklāj SLĒPTO ieguvumu no vecā modeļa | C: drošība, pierastais. E: «vismaz kaut ko daru». I: attaisnojums |
+| 🎭 Maska | Komforta maska SABRŪK | Klients pirmo reizi redz ka vecais modelis nav tikai «nestrādā» — tam ir IEGUVUMS |
+| 📖 dievs2 | Universālais motīvs #6: ZELTA BŪRIS | «Komforts, kas tevi tur iesprostotu, ir dārgākais cietums» |
+| 🔒 Lock | Slēptā Līguma Lock | Klients verbalizē ko vecais veids viņam DOD — un saprot ka TĀ ir ķēde |
+| 💬 NLP | Paradoksa jautājums | *«Ko vecais veids tev vēl DOD?»* — «DOD» liek meklēt pozitīvo slēpto ieguvumu |
+
+⚔ **COMBO SECĪBA:**
+*«Ko vecais veids tev vēl DOD?» (NLP paradoksa jautājums) → klients pirmo reizi meklē IEGUVUMU no problēmas (MICE slēptais motors) → «Nu, tas man dod sajūtu ka vismaz kaut ko daru» (Maska krīt — pirmo reizi redz savu «zelta būri» — dievs2) → «Un vai šis ieguvums ir tā vērts?» (Lock process) → klients saprot ka comfort zone IS the cage → Q17 NOGALINĀTS.*
+
 ## N089 · SLĒPTAIS LĪGUMS
 
 **SAKI:**
@@ -867,6 +1106,21 @@ Mērķis: klients PATS definē kritērijus, ko tu Q24-Q26 izpildi.
 **AIZVĒRTS, KAD:** Tu zini PRECĪZI ko klientam vajag dzirdēt Q24-Q26.
 
 **SLĒPTĀ MEH.:** Klients ir iedevis tev «atslēgu». Q24-Q26 tu vienkārši izpildi viņa paša instrukciju.
+
+
+🎯 **Q20 FINISHING MOVE — BUYING INSTRUCTION NOKAUTS:**
+| Instruments | Ko sit | Kā sit |
+|-------------|--------|--------|
+| 🎯 MICE | Klients PATS definē ko vajag | Viņa MICE motors diktē drošības kodu: M=ciparus, I=vīziju, C=garantiju, E=statusu |
+| 🎭 Maska | Pēdējā maska PILNĪBĀ krīt | Klients ir bijis godīgs par to, kas viņam REĀLI vajadzīgs — nav vietas maskām |
+| 📖 dievs2 | Universālais motīvs #4: KONTROLE | «Kad cilvēks pats definē noteikumus — viņš jūtas kontrolē» |
+| 🔒 Lock | Buying Instruction Lock | Tu zini PRECĪZI ko klientam vajag redzēt/dzirdēt Q24-Q26 |
+| 💬 NLP | Atslēgas jautājums | *«Kas tev ir JĀREDZ, JĀDZIRD vai JĀSAJŪT, lai tu varētu DROŠI pieņemt šo lēmumu?»* — 3 VAK kanāli |
+
+⚔ **COMBO SECĪBA:**
+*«Kas tev ir JĀREDZ, JĀDZIRD vai JĀSAJŪT?» (NLP — 3 VAK kanāli: vizuālais, audiālais, kinestētiskais) → klients pats pasaka drošības kodu (MICE motors atklāts pilnībā) → viņš ir definējis SAVUS kritērijus (dievs2 kontroles motīvs — klients jūtas kontrolē) → tu pieraksti PRECĪZI ko viņš teica (Lock — Buying Instruction ir tavā rokā) → Q24-Q26 tu vienkārši IZPILDI viņa paša instrukciju → Q20 NOGALINĀTS.*
+
+💀 **KILL CONFIRM:** Klients nosauc 2-3 konkrētus kritērijus. Tu tos pieraksti VERBATIM. Šie kļūst par tavu Q24 pīlāru pamatu.
 
 ## N046 · COI 5 DIMENSIJAS KOPĀ
 Q11-Q20 kopā veido pilnu COI karti:
@@ -928,6 +1182,18 @@ Anticipatory Regret + Riska kalkulācija. *«Kur dzīvo bailes — galvā vai ka
 **AIZVĒRTS, KAD:** Klients atzīst plaisu.
 
 **SLĒPTĀ MEH.:** Kognitīvā disonanse — smadzenes nevar turēt abus stāvokļus vienlaicīgi bez spriedzes. Tā spriedze = degviela lēmumam.
+
+🎯 **Q21 FINISHING MOVE — DOUBLE REALITY NOKAUTS:**
+| Instruments | Ko sit | Kā sit |
+|-------------|--------|--------|
+| 🎯 MICE | PLAISA starp mērķi un realitāti | M: «Gribu €X, dabūju €Y». I: «Gribu būt tur, esmu šeit» |
+| 🎭 Maska | Optimista maska SABRŪK | «Es strādāju pie tā» ≠ «es risinu to» — klients pirmo reizi redz starpību |
+| 📖 dievs2 | Universālais motīvs: PLAISA | «Starp sapni un realitāti ir tukšums. To tukšumu sauc par lēmumu» |
+| 🔒 Lock | Double Reality Lock | Klients atzīst plaisu — abas realitātes ir uz galda |
+| 💬 NLP | Dihotomija | *«Vai starp šīm divām lietām — ir PLAISA?»* — piespiež redzēt abus stāvokļus blakus |
+
+⚔ **COMBO SECĪBA:**
+*«Tu gribi [mērķis]. Tu dari [tagadne]. Vai starp šīm divām lietām — ir plaisa?» (NLP dihotomija) → klients REDZ abus stāvokļus blakus (MICE plaisa) → «es strādāju pie tā» optimista maska sabrūk (Maska) → kognitīvā disonanse = degviela (dievs2 plaisa) → klients atzīst «jā, milzīga plaisa» (Lock) → Q21 NOGALINĀTS. GATAVS HOPE BREAK.*
 
 ## Q21.5 · HOPE BREAK
 *Laiks: 28:00-33:00*
@@ -1020,6 +1286,21 @@ Klients: *«Tu man mēģini pierādīt ka es esmu stulbs»* vai *«Tu manipulē�
 → Operators: *«Es tev nemēģinu neko pierādīt. Es tikai mēģinu saprast, vai tev ir process, vai vairāk vēlme. Tās ir divas dažādas lietas. Vai tu esi atvērts tam, ka mēs to izpētam?»*
 Ja atzīst → A. Ja turpina uzbrukt → DQ vai Failsafe Exit (N179).
 
+
+🎯 **Q21.5 FINISHING MOVE — HOPE BREAK NOKAUTS (ZVANA KLIMAKSS):**
+| Instruments | Ko sit | Kā sit |
+|-------------|--------|--------|
+| 🎯 MICE | VISI 4 motori vienlaicīgi | Pain Stack aktivizē M+I+C+E — visa zvana info saspiesta vienā brīdī |
+| 🎭 Maska | VISAS maskas SABRŪK | «Vai tev ir process vai cerība?» — neviena maska nevar atbildēt uz šo |
+| 📖 dievs2 | Universālais motīvs #8: PATIESĪBAS BRĪDIS | «Brīdī, kad cerība mirst — process var dzīvot» |
+| 🔒 Lock | Hope Break Lock (VĀRTI #4) | Klients atzīst «nav procesa» — vecā cerība ir mirusi |
+| 💬 NLP | 20 min TETA → pēkšņs VAI = smadzeņu šoks | *«Vai tev ir PROCESS... vai vairāk CERĪBA?»* — dihotomija liek izvēlēties |
+
+⚔ **COMBO SECĪBA (NĀVĒJOŠAIS SITIENS):**
+*Tu noskaiti visu prokurora lietu viena teikumā (MICE visi motori) → «Vai tev ir process vai cerība?» (NLP dihotomijas jautājums) → klients nevar atbildēt «jā» vai «nē» — viņš ir iesprostots starp divām realitātēm (dievs2 patiesības motīvs) → VISAS maskas krīt, jo neviena nevar aizsargāt pret šo jautājumu (Maska total destruction) → 8-15s KLUSUMS (tu NEKO nesaki — pirmais, kas runā, zaudē) → klients atzīst «nē, nav procesa» (Lock) → VĀRTI #4 ATVĒRTI. Q21.5 NOGALINĀTS.*
+
+💀 **KILL CONFIRM:** Aizslēdz ar: *«Tātad te nav īstas kontroles. Te vairāk ir cerība nekā sistēma.»* Klients māj. Vecā pasaule ir beigusies. Jaunā var sākties.
+
 ## N102 · KORTIZOLA LOGS
 5-8 min pēc Hope Break smadzenes ir bioloģiski atvērtas. Pitch JĀNĀK šajā logā. Ja kavējas — logs aizveras.
 Tāpēc: pēc Q21.5 atzīšanas — NEKAVĒ. Pāriet uz Q22 mierīgā, pārliecinātā balsī. 5-8 min mierīgas prezentācijas pirms cenas.
@@ -1052,6 +1333,18 @@ Combo: Sunk Cost + COI = dubults spiediens.
 
 **PRO STATE:** Mierīga pāreja. Nav steigas. Nav enerģijas lēciena — tas signalizētu pārdošanu.
 **SLĒPTĀ MEH.:** Frame shift: pārdevējs → investors/partneris. Klients jūtas kā projekts, ne mērķis.
+
+🎯 **Q22-Q23 FINISHING MOVE — ATĻAUJAS NOKAUTS:**
+| Instruments | Ko sit | Kā sit |
+|-------------|--------|--------|
+| 🎯 MICE | Frame maiņa: pirkšana → investēšana | Klients nav «pircējs» — viņš ir «investors savā nākotnē» |
+| 🎭 Maska | Pirkšanas pretestības maska APIETA | Atļaujas jautājums = psiholoģisks kontrakts — klients PATS izvēlas klausīties |
+| 📖 dievs2 | Universālais motīvs: SUVERĒNĀ IZVĒLE | «Izvēle klausīties ≠ pienākums pirkt. Brīvība rada uzticību» |
+| 🔒 Lock | Atļaujas Lock | Klients teica «jā, stāsti» — viņš ir IESAISTĪTS, ne pasīvs |
+| 💬 NLP | Iesakņots «jā» | *«Vai DRĪKSTU pastāstīt?»* — «drīkstu» = tu atdod kontroli klientam → viņš jūtas drošībā |
+
+⚔ **COMBO SECĪBA:**
+*«Ļauj man pastāstīt — ne kā pārdevējs, bet kā partneris» (MICE frame shift) → «Vai drīkstu pastāstīt, kā mēs strādājam?» (NLP — iesakņots «jā») → klients saka «jā» — viņš PATS izvēlējās klausīties (dievs2 suverēnā izvēle) → pretestības maska ir apieta (Maska) → klients ir iesaistīts un atvērts (Lock) → Q22-Q23 NOGALINĀTS. GATAVS PĪLĀRIEM.*
 
 ## Q23 · Atļaujas Jautājums
 **SAKI:** *«Vai drīkstu pastāstīt, kā mēs strādājam?»*
@@ -1118,6 +1411,19 @@ Kāpēc: Atļauja = psiholoģisks kontrakts. Klients, kas saka «jā», ir IESAI
 
 🔒 **Lock:** Belief Lock prelūdija — katrs pīlārs pievieno ticību. Pēc Q24 → Q28 BLC tests.
 
+
+🎯 **Q24 FINISHING MOVE — BELIEF NOKAUTS:**
+| Instruments | Ko sit | Kā sit |
+|-------------|--------|--------|
+| 🎯 MICE | Klienta dominantais motors adresēts | Pīlārs #1 = M (cipari). #2 = sāpe (C/E). #3 = drošības kods (I/C) |
+| 🎭 Maska | Skeptiķa maska SABRŪK | «Tas ir tieši tas» — klients PATS atpazīst savus vārdus |
+| 📖 dievs2 | Universālais motīvs #9: PIEPILDĪŠANĀS | «Risinājums nav jauns — tas ir tas, ko tu jau zini, bet vēl neesi izdarījis» |
+| 🔒 Lock | Belief Lock prelūdija | Katrs pīlārs pievieno ticību. Pēc Q24 → Q28 BLC tests |
+| 💬 NLP | Klienta paša vārdu atkārtošana | *«Tu TEICI, ka tev vajag [Q20 citāts]. Mēs tieši to DODAM.»* |
+
+⚔ **COMBO SECĪBA:**
+*Tu prezentē 3 pīlārus lietojot klienta PAŠA vārdus (NLP echo) → katrs pīlārs adresē viņa MICE motoru (MICE targeted) → klients atpazīst savas vajadzības izpildītas (Maska krīt — «kāpēc es šaubījos?») → risinājums jūtas kā viņa PAŠA ideja (dievs2 + IKEA efekts N034) → pēc katra pīlāra: «Vai tas rezonē?» + 3s klusums → Lock veidojas → Q24 NOGALINĀTS.*
+
 ## N074 · PITCH CODEX™ SYSTEM
 3 fāzes pitching:
 1. **Setup:** Atsauces uz klienta paša vārdiem (Q4-Q20 citāti)
@@ -1131,6 +1437,18 @@ Tāpēc Q18-Q20 klients pats definē kritērijus → Q24-Q26 tu tos izpildi → 
 ## Q25 · Anti-pīlāri
 **SAKI:** *«Un godīgi — šī sistēma NAV priekš visiem. Ja tu meklē [anti-pīlārs 1] vai [anti-pīlārs 2] — mēs neesam īstie.»*
 **SLĒPTĀ MEH.:** Reverse Scarcity — pateikt «nav priekš visiem» palielina vērtību. Klients sāk sevi pārliecināt, ka viņš IR īstais.
+
+🎯 **Q25 FINISHING MOVE — ANTI-PĪLĀRA NOKAUTS:**
+| Instruments | Ko sit | Kā sit |
+|-------------|--------|--------|
+| 🎯 MICE | Ego motors INVERSĀ režīmā | «Nav priekš visiem» = klients GRIB pierādīt ka viņš IR īstais |
+| 🎭 Maska | Skeptiķa maska PĀRVĒRŠAS par pircēja masku | Reverse psychology — klients sāk sevi pārliecināt |
+| 📖 dievs2 | Universālais motīvs: EKSKLUZIVITĀTE | «Cilvēki vēlas to, ko nevar iegūt visi» |
+| 🔒 Lock | Scarcity Lock | Klients pats apstiprina ka viņš IR piemērots kandidāts |
+| 💬 NLP | Reverse Scarcity | *«Šī sistēma NAV priekš visiem»* — aizliegums aktivē vēlmi |
+
+⚔ **COMBO SECĪBA:**
+*«Nav priekš visiem» (NLP Reverse Scarcity) → klients jūt ekskluzivitāti (dievs2) → Ego motors griežas otrādi — viņš GRIB pierādīt ka piemērojās (MICE inversais) → skeptiķa maska kļūst par pircēja masku (Maska inversā) → «BET ja tu esi cilvēks, kas [pozitīvs apraksts] — tad šī ir tieši tev» (Lock) → Q25 NOGALINĀTS.*
 
 ## Q26 · 60 Sekunžu Stāsts
 *Laiks: 38:00-40:00*
@@ -1161,6 +1479,19 @@ Tāpēc Q18-Q20 klients pats definē kritērijus → Q24-Q26 tu tos izpildi → 
 | Nav struktūras | 5 soļu struktūra: Varonis → Problēma → Šaubas → Rīcība → Rezultāts |
 | Stāsta par produktu | Stāsta par cilvēku un viņa transformāciju |
 
+
+🎯 **Q26 FINISHING MOVE — STĀSTA NOKAUTS:**
+| Instruments | Ko sit | Kā sit |
+|-------------|--------|--------|
+| 🎯 MICE | Klienta motors SPOGUĻOTS caur varoņu | Varonis = līdzīgs klientam. Viņa MICE = klienta MICE |
+| 🎭 Maska | «Es esmu īpašs gadījums» maska SABRŪK | Cits cilvēks tādā pašā situācijā = klients nav unikāls (un tas ir labi) |
+| 📖 dievs2 | Universālais motīvs: TRANSFORMĀCIJA | «Stāsts par citu IR stāsts par tevi — tikai ar citiem vārdiem» |
+| 🔒 Lock | Social Proof Lock | Klients redz SEVI varoņa vietā — un rezultātu kā iespējamu |
+| 💬 NLP | Neural Coupling | 60s stāsts sinhronizē smadzenes — klients JŪTAS kā varonis (Hasson N219) |
+
+⚔ **COMBO SECĪBA:**
+*«Ļauj pastāstīt par [Vārds] — viņš bija TIEŠI tavā situācijā» (NLP Neural Coupling sākas) → klients dzird savs stāstu caur citu cilvēku (MICE spogulis) → «Viņš šaubījās — tāpat kā tu tagad» (Maska — «es esmu īpašs» krīt) → «Pēc [laika] viņš redzēja [rezultāts]» (dievs2 transformācija) → klients redz sevi varoņa vietā (Lock — Social Proof) → Q26 NOGALINĀTS.*
+
 ⚙ **60s STĀSTA TEMPLATE:**
 1. *«Pirms es dodu jebkādu ciparu — ļauj man pastāstīt par [Vārds].»* (2s)
 2. *«Viņš bija tieši tavā situācijā — [līdzīga problēma].»* (10s)
@@ -1184,6 +1515,18 @@ Tāpēc Q18-Q20 klients pats definē kritērijus → Q24-Q26 tu tos izpildi → 
 
 **SLĒPTĀ MEH.:** Ja tā pati problēma, kuras dēļ klients zvanīja, ir tā, kas liedz sākt risināt — self-perpetuating loop.
 
+🎯 **Q27 FINISHING MOVE — VĪZIJAS NOKAUTS:**
+| Instruments | Ko sit | Kā sit |
+|-------------|--------|--------|
+| 🎯 MICE | I-motors MAKSIMĀLAJĀ JAUDĀ | Vīzija > apstākļi. Klients redz SEVI nākotnē |
+| 🎭 Maska | «Nav pareizais laiks» maska IZNĪCINĀTA | «Pareizais laiks nekad nepienāk — to RADA» |
+| 📖 dievs2 | Universālais motīvs: IZVĒLE | «Apstākļi nekad nebūs perfekti. Lēmums nav par apstākļiem — tas ir par vīziju» |
+| 🔒 Lock | Vīzijas Lock | Klients izvēlas vīziju pār apstākļiem |
+| 💬 NLP | Self-perpetuating loop breaker | *«Tā PATI problēma, kas tevi šeit atveda — ir tā, kas LIEDZ sākt»* — paradoksa apzināšanās |
+
+⚔ **COMBO SECĪBA:**
+*«Kad tu pārstāsi pieņemt lēmumus balstoties uz apstākļiem?» (NLP loop breaker) → klients saprot self-perpetuating loop (dievs2 izvēles motīvs) → «nav pareizais laiks» maska pazūd (Maska) → vīzija kļūst spēcīgāka par bailēm (MICE I-motors MAX) → klients izvēlas rīkoties (Lock) → Q27 NOGALINĀTS.*
+
 ## Q28 · Belief Lock Check
 
 ## N207 · BLC — BELIEF LOCK CHECK
@@ -1198,6 +1541,20 @@ Tāpēc Q18-Q20 klients pats definē kritērijus → Q24-Q26 tu tos izpildi → 
 | 1-5 | Atgriezies Q24 vai Q21.5. Kaut kas nav nostiprinājies. |
 
 > 🥇 **VĀRTI #5: Q28** — Belief Lock JĀBŪT 8+ pirms cenas. Ja nav — atgriezies.
+
+🎯 **Q28 FINISHING MOVE — BELIEF LOCK NOKAUTS:**
+| Instruments | Ko sit | Kā sit |
+|-------------|--------|--------|
+| 🎯 MICE | Pārliecība LOCKED | Klients tic risinājumam — MICE motors ir pilnībā apmierināts |
+| 🎭 Maska | NAV MASKU | Pēc Q1-Q28 visas maskas ir noņemtas. Klients ir AUTENTISKS |
+| 📖 dievs2 | Universālais motīvs #5: TICĪBA | «Ticība nav akla — tā ir balstīta uz pierādījumiem, ko tu pats nosauci» |
+| 🔒 Lock | Belief Lock (VĀRTI #5) | BLC 8-10 = locked. Vienīgais jautājums tagad = cena |
+| 💬 NLP | Skala jautājums | *«No 1 līdz 10 — cik PĀRLIECINĀTS tu esi?»* — cipars piespiež apzināties ticības līmeni |
+
+⚔ **COMBO SECĪBA:**
+*«No 1 līdz 10?» (NLP skala — piespiež kvantificēt ticību) → klients nosauc ciparu (ja 8+ → MICE ir locked, maskas ir noņemtas, ticība ir balstīta — dievs2) → «Labi. Tad ejam tālāk.» (Lock — VĀRTI #5 atvērti) → Q28 NOGALINĀTS. GATAVS CENAI.*
+
+❌ **Ja <8:** *«Kas trūkst līdz 9?»* → Risini PIRMS cenas. NEKAD nedod cenu ar BLC <8.
 
 ## N082 · CARRIER DOCTRINE
 Kad lietot vizuālo nesēju (tāfeli, slaidi):
@@ -1233,6 +1590,21 @@ Kognitīvā konfrontācija: *«Tu šobrīd «pērc» savu mieru par €[X] mēne
 # AKTS VI — CENA (Q29–Q32)
 
 > *Nekad neaizstāvi cenu. Cena ir fakts. Gravitācija nav jāaizstāv.* — N183
+
+
+🎯 **Q29-Q31 FINISHING MOVE — GATAVĪBAS NOKAUTS:**
+| Instruments | Ko sit | Kā sit |
+|-------------|--------|--------|
+| 🎯 MICE | VISI motori PĀRBAUDĪTI | 3 testi = 3 pēdējie filtri pirms cenas |
+| 🎭 Maska | Pēdējās aizsardzības ATKLĀTAS | Ja klients nav 8+ — kaut kāda maska vēl ir. Atrodi un noņem |
+| 📖 dievs2 | Universālais motīvs: GATAVĪBA | «Gatavība nav sajūta — tā ir lēmums» |
+| 🔒 Lock | Gatavības Lock (TRIPLE) | 3× «jā» = tripla apstiprināšana pirms cenas |
+| 💬 NLP | Skala + Commitment + Iztīrīšana | Q29: *«No 1-10?»* Q30: *«Gatavs ŠODIEN?»* Q31: *«Vēl kaut kas?»* |
+
+⚔ **COMBO SECĪBA (3-SOĻU GATAVĪBAS TESTS):**
+*Q29: «No 1 līdz 10 — cik gatavs?» (NLP skala) → ja 8+ turpini → Q30: «Ja cena der — sākam šodien?» (NLP commitment test — MICE visi motori) → ja «jā» → Q31: «Vai ir vēl kaut kas?» (NLP iztīrīšana — pēdējo masku pārbaude) → ja «nē» → TRIPLE LOCK = GATAVS CENAI. Q29-Q31 NOGALINĀTS.*
+
+❌ **Ja jebkurā testā <8 vai «nē»:** NEEJ uz cenu. Atgriezies un risini. Cena ar negatavu testu = garantēts iebildums.
 
 ## N038 · 3 TEMPERATŪRAS TESTI (Q29-Q31)
 
@@ -1325,6 +1697,21 @@ Investīcija, lai šo sakārto, ir €X.»*
 
 🔒 **Lock:** Cenas Lock — klients ir apstrādājis ciparu. Klusums izturēts. Nav «dārgi» = locked. Ja «dārgi» = D7 LOOP.
 
+
+🎯 **Q32 FINISHING MOVE — CENAS NOKAUTS:**
+| Instruments | Ko sit | Kā sit |
+|-------------|--------|--------|
+| 🎯 MICE | D16 Engine sasaista VISU | *«Tu teici [sāpe M]. Izmaksā [COI M]. Mēģināji [mēģinājumi]. Gribi [mērķis I/E]. Cerēt nav sistēma [C].»* |
+| 🎭 Maska | Nav ko maskēt | D16 noņem VISAS maskas — klients dzird savu PAŠU stāstu |
+| 📖 dievs2 | Universālais motīvs #7: CENA | «Katram lēmumam ir cena. Arī NELĒMUMAM. Un tā ir €[COI]» |
+| 🔒 Lock | Cenas Lock | Klusums izturēts. Klients sāk runāt par implementāciju, ne cenu |
+| 💬 NLP | Visas iegultās komandas vienā teikumā | D16 formula = 6 iegultās komandas secīgi: «TEICI/IZMAKSĀ/MĒĢINĀJI/GRIBI/ZINI/INVESTĪCIJA» |
+
+⚔ **COMBO SECĪBA (NĀVĒJOŠAIS SITIENS #2):**
+*D16 Engine formula (NLP — 6 embed komandas vienā teikumā) → klients dzird SAVU stāstu atskaņotu atpakaļ (MICE visi motori) → viņš nevar pretoties saviem PAŠA vārdiem (Maska total destruction) → «Investīcija ir €X.» (dievs2 CENA motīvs — cena = fakts, ne vērtējums) → KLUSUMS 7-15s. Tu NEKO nesaki. Skaiti iekšēji. (Lock process) → Pirmais, kas runā — zaudē. Klients sāk runāt par implementāciju = Q32 NOGALINĀTS.*
+
+💀 **KILL CONFIRM:** Klients saka *«kā sākam?»* vai *«kad ir pirmā sesija?»* = pirkšanas signāls. NETURPINI PĀRDOT. Pāriet uz Close.
+
 ## N088 · CENAS RĀMJU LĒMUMU KOKS
 
 | MICE motors | Cenas rāmis | Verbatim |
@@ -1390,6 +1777,23 @@ Investīcija, lai šo sakārto, ir €X.»*
 **AIZVĒRTS, KAD:** Iebildums ir izolēts, apstrādāts, APSTIPRINĀTS. Klients ir teicis «jā» pēc apstrādes. Gatavs Final Close vai Failsafe Exit.
 **PRO STATE:** Pacietīgs chirurgs. Iebildums nav uzbrukums — tā ir informācija. Tu to «operē» ar precizitāti. Nav emociju — ir metode. Max 3 cilpas — tad ar cieņu atvadies.
 **SLĒPTĀ MEH.:** Smoke Screen Decoder (virsma ≠ sakne). Objection Prediction Engine (zini iepriekš). CONFIRM + Padlock pēc katras cilpas. Kolumbo Q40 kā pēdējais mēģinājums.
+
+
+🎯 **Q33-Q40 FINISHING MOVE — IEBILDUMU NOKAUTS:**
+| Instruments | Ko sit | Kā sit |
+|-------------|--------|--------|
+| 🎯 MICE | Iebilduma MICE sakne | «Dārgi» = M nav locked. «Bail» = C nav locked. «Es pats» = E nav locked |
+| 🎭 Maska | Smoke Screen → Īstais iebildums | Virsma ≠ sakne. «Jāpadomā» = bieži «es baidos». «Dārgi» = bieži «neredzu vērtību» |
+| 📖 dievs2 | Universālais motīvs #8: IZVĒLE | «Tu vienmēr vari izvēlēties. Arī neizvēlēties ir izvēle — un tai ir cena» |
+| 🔒 Lock | Padlock + CONFIRM | *«Tātad, ja šo sakārtojam — tu esi gatavs?»* + *«Pareizi?»* |
+| 💬 NLP | Klienta paša vārdi kā ierocis | *«TU teici [citāts no Q9/Q21.5]. Vai tas vēl ir tā?»* — viņš nevar noliegt savus vārdus |
+
+⚔ **COMBO SECĪBA (FINISHING MOVE ar 6-SOĻU ENGINE):**
+*CLARIFY: «Ko tieši domā?» (Smoke Screen Decoder — atrodi ĪSTO iebildumu aiz maskas) → ISOLATE: «Ja šo atrisinām — vai ir vēl kaut kas?» (izolē uz vienu) → ROOT: «Kas aiz tā stāv — cena, uzticība, vai bailes?» (MICE sakne) → REFRAME: «Tu TEICI [klienta vārdi]» (NLP — viņa paša vārdi kā ierocis) → PADLOCK: «Tātad ja [nosacījums] — tu esi gatavs?» (Lock process) → READINESS: «No 1 līdz 10?» (ja 8+ = NOGALINĀTS. Ja <7 = jauna cilpa).*
+
+💀 **KILL CONFIRM:** Klients saka *«jā, sākam»* vai *«ok, kā turpinām?»*. CONFIRM obligāts: *«Tātad mēs esam vienojušies par [X]. Pareizi?»* Ja «pareizi» = IEBILDUMS NOGALINĀTS. Pāriet uz Close.
+
+❌ **Max 3 cilpas** — pēc tam Failsafe Exit (N179): *«Saprotu. Tu izvēlies turpināt zaudēt €[COI]. Katrs mēnesis, ko gaidi, maksā €[X].»* VIENMĒR noslēdz ar laiku un ciparu.
 
 ## N136 · 5 SAKŅU KATEGORIJU IEBILDUMU SISTĒMA
 
@@ -1556,6 +1960,26 @@ FE3: PAUZE. GAIDI.
 FE4: *«Katrs mēnesis, ko gaidi, maksā €X.»*
 VIENMĒR noslēdz ar laiku.
 
+
+🎯 **Q39-Q40 FINISHING MOVE — CLOSE NOKAUTS (FINĀLAIS SITIENS):**
+| Instruments | Ko sit | Kā sit |
+|-------------|--------|--------|
+| 🎯 MICE | Dominantais motors NOSTIPRINĀTS | M: «Investīcija atmaksāsies [laiks]». E: «Tu tikko pieņēmi lēmumu, ko 90% nespēj». I: «Šī ir sistēma, ne cerība». C: «Garantija ir [X]» |
+| 🎭 Maska | NAV MASKU — AUTENTISKS BRĪDIS | Pēc Q1-Q38 visas maskas ir noņemtas. Klients ir pats ar sevi |
+| 📖 dievs2 | Universālais motīvs: LĒMUMS | «Lēmums nav beigas — tas ir sākums» |
+| 🔒 Lock | Close Lock (FINĀLAIS) | Klients teica «jā» + datums fiksēts + pirmā darbība zvanā |
+| 💬 NLP | Pirmās darbības embed | *«Kas ir TĀ viena lieta, ko tu vari izdarīt ŠODIEN?»* — tūlītēja implementācija |
+
+⚔ **COMBO SECĪBA (FINĀLAIS NOKAUTS):**
+*«Labi — sākam?» (NLP tieša komanda) → klients saka «jā» (Lock sākas) → «Pirmā sesija — [datums]. Pirms tam — kas ir TĀ viena lieta?» (NLP pirmā darbība) → klients nosauc darbību (MICE motors nostiprināts) → dopamīna reward = klients jūtas kā uzvarētājs (dievs2 lēmuma motīvs) → SARUNA PABEIGTA. KLIENTS IR NOGALINĀTS (= CLOSE).*
+
+⚙ **KOLUMBO tehnika (N041):** Pēdējais jautājums PIE DURVĪM: *«Vēl viena lieta — ja būtu tā, ka tavs [draugs/kolēģis] ir līdzīgā situācijā — ko tu viņam ieteiktu?»* Klients atbild = reinforcement. Viņš kļūst par REFERRAL avotu.
+
+💀 **KILL CONFIRM:** 3 OBLIGĀTI elementi pirms beigām:
+1. DATUMS: «Mūsu pirmā sesija — [konkrēts datums un laiks]»
+2. DARBĪBA: «Pirms tam — izdarī [viena lieta]»
+3. CONFIRM: «Mēs esam vienojušies par [X]. Pareizi?» — klients saka «Pareizi».
+
 ## Q40 · Kolumbo Tehnika (N041)
 Pēc atvadīšanās — atgriezies ar vienu pēdējo jautājumu:
 *«Ak, vēl viena lieta — kas PATIESĪBĀ tevi aptur?»*
@@ -1653,6 +2077,19 @@ Katrs «vēlāk/padomāšu/atsūti» = izvairīšanās. Neakceptē. Izolē sakni
 
 ---
 # AKTS VIII — POST-CLOSE (Q41+)
+
+
+🎯 **Q41+ FINISHING MOVE — POST-CLOSE NOKAUTS:**
+| Instruments | Ko sit | Kā sit |
+|-------------|--------|--------|
+| 🎯 MICE | Apstiprini klienta motoru | M: *«Investīcija atmaksāsies X dienās.»* E: *«Tu tikko pieņēmi lēmumu, ko 90% nespēj.»* |
+| 🎭 Maska | Pircēja maska → Partnera maska | Klients vairs nav «pircējs» — viņš ir «partneris» un «investīcija» |
+| 📖 dievs2 | Universālais motīvs #9: JAUNS SĀKUMS | «Katrs lēmums ir nāve vecajam un piedzimšana jaunajam» |
+| 🔒 Lock | Implementācijas Lock | Datums fiksēts. Homework dots. 48h bridge nosūtīts. |
+| 💬 NLP | Nostiprināšanas embed | *«Tu PIEŅĒMI pareizu lēmumu. Šī sistēma ir BŪVĒTA tieši tādiem kā tu.»* |
+
+⚔ **COMBO SECĪBA:**
+*Dopamīna slēdzene (N092) — pirmā uzvara TAGAD: «Kas ir TĀ viena lieta, ko tu vari izdarīt 24h?» (NLP action trigger) → klients jūtas kā uzvarētājs (MICE motors nostiprināts) → «Tu tikko pieņēmi lēmumu, ko 90% nespēj» (Maska: pircējs → līderis) → «Mūsu pirmā sesija — [datums]» (Lock: datums fiksēts) → 2h teksts ar nākamajiem soļiem (dievs2: jaunais sākums ir reāls) → Q41+ NOGALINĀTS. SARUNA PABEIGTA. KLIENTS IR PARTNERA STATUSĀ.*
 
 ## N113 · POST-CLOSE — 5 Min Protokols
 Pēc «Jā» — 5 min kritiskas:
@@ -2385,4 +2822,4 @@ Neuralink-iedvesmots meta-ietvars: kā AI sistēma var monitorēt, analizēt un 
 > *«Uzvar tas, kurš zina pareizo KOMBO pareizajā brīdī.»*
 
 ---
-*FINĀLĀ GRĀMATA · V3 · 257 Neironi · 9+ Devin sesiju merge · Lauris Leitāns · Sharpify.io · 2026*
+*FINĀLĀ GRĀMATA · V3.2 · 257 Neironi · 27 FINISHING MOVES · 26 KILLS · 9+ Devin sesiju merge · Lauris Leitāns · Sharpify.io · 2026*
