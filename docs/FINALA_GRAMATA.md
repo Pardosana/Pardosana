@@ -8349,6 +8349,95 @@ Neuralink-iedvesmots meta-ietvars pārdošanai: signāli(leads/zvani/čati/CRM) 
 
 ---
 
+
+
+## GATAVĪBAS SKALA — Readiness Scale (Q36)
+
+> *Pirms close — pārbaudi gatavību. Nav jēgas slēgt, ja klients nav gatavs.*
+
+| Skala | Klients saka | Ko dari |
+|-------|-------------|--------|
+| **1-3** | «Nē, nav gatavs» | Atgriezies Q11 COI vai Q21.5 Hope Break |
+| **4-6** | «Varbūt, bet...» | Izolē iebildumu — «Kas tieši kavē?» |
+| **7-8** | «Gandrīz, bet vēl jautājums» | Atbildi un slēdz — klients ir gatavs |
+| **9-10** | «Jā, sākam» | SLĒDZ. Nerunā vairāk. Neprasi atkārtotu apstiprinājumu. |
+
+> *«Temperatūra 1-10?» — šis viens jautājums pasaka visu. Ja zem 7 — tu vēl neesi beidzis diagnostiku.»*
+
+## HORMOZI FRAMEWORK — Vērtības Vienādojums
+
+> *Alex Hormozi: Value = (Dream Outcome × Perceived Likelihood) ÷ (Time Delay × Effort & Sacrifice)*
+
+| Elements | Ko nozīmē | Kā lietot zvanā |
+|---------|----------|----------------|
+| **Dream Outcome** | Ko klients PATIESI grib | Q4.5 Nākotnes Identitāte — «Kā izskatās ideālais rezultāts?» |
+| **Perceived Likelihood** | Vai klients TIC ka tas strādās | Q26 Pīlāri + Social Proof — «Cilvēks līdzīgā situācijā...» |
+| **Time Delay** | Cik ĀTRI rezultāts | «Pirmie rezultāti [X] dienās» — mazini gaidīšanu |
+| **Effort & Sacrifice** | Cik GRŪTI | «Mēs darām [X] par tevi» — mazini piepūli |
+
+> *Hormozi Grand Slam Offer: Tik laba piedāvājuma, ka cilvēks jūtas muļķīgi ATSAKOTIES.*
+> *Stack: Kodols + Bonusi + Garantija + Steidzamība + Ierobežojums = Neatvairāms Piedāvājums.*
+
+## BRUNSON FRAMEWORK — Āķis · Stāsts · Piedāvājums
+
+> *Russell Brunson: Katrs zvans, katrs pitch, katra saruna = 3 daļas.*
+
+| Daļa | Ko dari | Q vieta |
+|------|--------|--------|
+| **Āķis (Hook)** | Paķer uzmanību pirmajos 7 sekundēs | Q1 — «Godīgi — es vēl nezinu vai tev vajag...» |
+| **Stāsts (Story)** | Izveido emocionālu savienojumu | Q18-Q20 Og Mandino stāsti + klienta stāsts |
+| **Piedāvājums (Offer)** | Neatvairāms piedāvājums | Q22-Q28 Pīlāri → Q32 Cena |
+
+> *Brunson Secret Formula: 1)Kas ir tavs sapņu klients? 2)Kur viņš pulcējas? 3)Kādu āķi tu vari mest? 4)Kādu rezultātu tu vari dot?*
+
+## BRAUN — Tonalitātes un Persuāzijas Principi
+
+> *Braun tonalitātes princips: Balss nav tikai SKAĻUMS — tā ir NOZĪME.*
+
+| Tonalitāte | Kad lieto | Efekts |
+|-----------|---------|-------|
+| **Apgalvojums (Statement)** | Fakti, cenas, cipari | Klients pieņem kā patiesību |
+| **Jautājums uz augšu** | Atvērtie jautājumi | Klients domā un atver |
+| **Jautājums uz leju** | Tie-downs, slēgšana | Klients apstiprina |
+| **Bažas (Concern)** | Sāpju jautājumi Q8-Q20 | Klients jūt empātiju |
+| **Ziņkāre (Curious)** | Discovery Q4-Q7 | Klients stāsta vairāk |
+| **Izaicinājums (Challenge)** | Hope Break Q21.5 | Klients konfrontē sevi |
+
+## LAUKA DOKUMENTĀCIJA — Matemātika + 5 Slepkavas + 5 Stiprinātāji
+
+> *Lauka kvalitāte = mērāma. Katrs zvans ir datu punkts.*
+
+### 5 SLEPKAVAS (kas nogalina zvanu):
+
+| # | Slepkava | Kā atpazīt | Kā izvairīties |
+|---|---------|-----------|---------------|
+| 1 | **Steidzīgums** | Tu runā pārāk ātri, gribi ātrāk beigt | Palēnini. Elpo. Q nav sacensība |
+| 2 | **Nepacietība ar klusumu** | Tu aizpildi klusumu ar vārdiem | Skaiti līdz 10. Klusums = tavs spēcīgākais ierocis |
+| 3 | **Piedāvāšana pirms diagnozes** | Tu sāc pitch pirms Hope Break | NEKAD nepitch pirms Q21.5 |
+| 4 | **Ego** | Tu gribi pierādīt ka tu zini | Klients nav tavs students — viņš ir tavs spogulis |
+| 5 | **Bail no «nē»** | Tu izvairies no grūtajiem jautājumiem | «Nē» ir informācija, ne noraidījums |
+
+### 5 STIPRINĀTĀJI (kas padara zvanu neizbēgamu):
+
+| # | Stiprinātājs | Kā izskatās | Q vieta |
+|---|------------|------------|--------|
+| 1 | **Klusums** | Pēc katra jautājuma — 3-8s klusums | Visur |
+| 2 | **Klienta vārdi** | Atkārto VIŅA vārdus, ne savus | Q11 COI, Q21.5, Q32 |
+| 3 | **Cialdini reciprocitāte** | Dod PIRMS prasi | Q1-Q3 drošības rāmis |
+| 4 | **Empātiskā konfrontācija** | Nav tiesnesis — ir spogulis | Q21.5 Hope Break |
+| 5 | **Specifiskums** | Cipari, datumi, vārdi — ne «varbūt»/«aptuveni» | Q8-Q11 COI |
+
+### LAUKA MATEMĀTIKA:
+
+| Metrika | Formula | Mērķis |
+|---------|---------|--------|
+| **Close Rate** | Slēgtie / Kvalificētie zvani × 100 | ≥30% |
+| **Show Rate** | Ieradās / Norunātie × 100 | ≥80% |
+| **COI/Cena Attiecība** | Klienta COI ÷ Cena | ≥3× |
+| **Zvanu skaits/diena** | Kopējie zvani ÷ Dienas | ≥5 kvalificēti |
+| **Pipeline vērtība** | Σ(Potenciālā darījuma vērtība × Varbūtība) | 3× mēneša mērķis |
+
+
 # V15 PREMIUM BOOK + MASTER CORPUS — Papildu Integrācija
 
 > *Avots: SalesEngine V15 Premium Book, Master Corpus V26, Meistara Arsenāls V14.1. Unikālais saturs kas nav citur grāmatā.*
