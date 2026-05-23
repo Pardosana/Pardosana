@@ -5386,6 +5386,2965 @@ Post-Close 5min protokols.
 Neuralink-iedvesmots meta-ietvars pārdošanai: signāli(leads/zvani/čati/CRM) → AI dekodēšana(kurš karsts/kurš pazūd/kur lūzt) → komanda(zvani tagad/sūti SMS/nav price objection bet trust) → rezultāts → feedbac
 
 
+
+
+---
+
+# 7 FIGURE SALES ACADEMY — PILNA INTEGRĀCIJA
+
+> *Avots: 7 Figure Sales Academy curriculum (51 unikāls PDF). Visi principi, frāzes un framework integrēti kā operators drillas un atsauces.*
+
+---
+
+## INNER GAME OF SALES — Operatora Iekšējā Spēle
+
+> *«Pārdošana sākas PIRMS zvana. Ja tavs iekšējais stāvoklis nav kārtībā — klients to dzird balsī.»*
+
+- How To Develop The Mindset Of An Elite-Level
+- Two Emotions You MUST Transfer To Your Prospect.
+- How To Get Into “Flow State”
+- You must be high energy / high pressure / extraverted
+- Has nothing to do with gender. All to do with energy.
+- Supported By Your Identity, Beliefs, &
+
+## SALES FIRST PRINCIPLES — Pārdošanas Pirmie Principi
+
+> *«Pirms tehnikas — principi. Tehnikas mainās. Principi paliek.»*
+
+- 1.​ Paint Hell / Heaven Island Clearly
+- 2.​ Destroy other optional options
+- 4.​ Clearly show your bridge is the safest, strongest, and fastest
+
+## BELIEF LADDER — Pārliecību Kāpnes (7FSA Framework)
+
+> *«Klients nevar nopirkt, ja netic. Ticība tiek BŪVĒTA pa soļiem — nevis uzliekta.»*
+
+- The Belief Ladder
+- 7 Beliefs Your Prospect Must Have To Buy...
+- What We’re Going To Cover:
+- ●​ Mental models & why I believe this belief ladder is the most effective
+- ●​ The 7 Beliefs your prospects needs to have to buy
+- ●​ What socratic dialogue is and how we use it to build the 7 beliefs
+- ●​ Consistency bias and why socratic dialogue works so powerful
+- ●​ How we actually do this on a sales call
+- Mental Models - Quick Primer:
+- ●​ Last training we covered some SUPER simple mental models on sales
+- ●​ A mental model is simply just an explanation of someone’s thought process of how
+- something works in the world and it’s relationship to other things in the world.
+- ●​ There is NO such thing as a completely accurate / completely true mental mode l. Just
+- some that are more accurate than others.
+- ●​ Last training we covered some fairly basic ones… but we’re going to build on that with a
+- mental model in this training called the belief ladder
+- ●​ I learned this by accident when I first started selling and it shifted how I’ve thought about
+- selling ever since. It’s the mental model I use on every single call and I believe it’s the
+- simplest and most powerful.
+- ●​ It allows you to:
+- ○​ Understand if/how you can help someone
+- ○​ Clearly define and separate current & desired situation
+- ○​ Eliminate all objections before the close
+- The Belief Ladder:
+- ●​ There are 7 beliefs your prospect needs to have to buy…
+- ●​ This also means there is 7 reasons your prospect does NOT buy…
+- ○​ In other words, every objection can be traced back to 7 different reasons/beliefs
+- ●​ Our goal is to build these 7 beliefs using skilled questions before we transition into our
+- pitch so instead of having to convince the prospect to buy our product/service, the
+- prospect closes themselves.
+- ○​ Building the 7 beliefs also means you could be breaking down 7 limiting beliefs,
+- ●​ Any script will work if it covers the 7 beliefs…
+- ○​ So understanding them gives us EXTREME amount of flexibility on calls
+- ○​ It will also allows us to navigate the call and not get lost.
+- ●​ The prospect must believe they have a problem that is keeping them from getting what
+- ●​ If there is no problem, there is no sale
+- ○​ Business is about solving problems.
+- ○​ This is why we always start off the call trying to find the problem
+- ■​ We find the problem, mark “X”, put our shovel in the ground and start
+- ■​ The entire conversation is about the PROBLEM
+- ●​ The pain can also be thought of as the “gap” between current and desired situation
+- ○​ This is especially helpful to understand because sometimes the prospect is
+- unaware that they even have a problem. So we want to establish:
+- ■​ 1) What they want
+- ■​ 2) What’s keeping them from getting it
+- ○​ This is goals first syntax (we’ll cover later)
+- ●​ If the problem is not elicited, they will not
+- ○​ See the value/need for the investment because they won’t understand how you
+- ■​ You can’t explain how you can help someone if you don’t know the
+- ○​ See you as a trusted authority who can LEAD THEM to fix the problem
+- ●​ The prospect must believe that they cannot fix this problem on their own OR that
+- attempting to do so would waste unnecessary resources (time & money) given the other
+- avenues available to them (aka, your offer).
+- ●​ The “buying pocket”
+- ●​ Doubt eliminate the DIY/ego objection
+- ●​ Sometimes doubt is already there… sometimes you have to build it
+- ○​ Don’t make the mistake in trying to create doubt when it’s already there.
+- ●​ The prospect must believe that doing nothing is far more painful than the investment in
+- time & money to fix this problem
+- ●​ Eliminates time objections and creates urgency
+- ●​ The current & future pain of doing nothing has to be FAR GREATER than the pain of
+- time & money into your offer/investment for the prospect to take action.
+- ●​ The prospect must believe solving the problem/gap would yield a better future situation
+- ●​ Typically we want to know:
+- ○​ What they want
+- ○​ Why they want what they want
+- ○​ A number assigned to what they want
+- ○​ How getting what they want would impact another area of their life (widening the
+- ●​ The belief that the prospect has the resources and willingness to solve the problem
+- ●​ If they don’t have the resources, that’s a condition not an objection
+- ○​ “Open wallet”
+- ●​ If they don’t have the willingness, that goes back to there not being enough cost.
+- ●​ *** Barring extreme situations, it’s often best to leave this belief to the end.
+- ○​ More often than not, if I get the other 6 beliefs and leave this to the end I will
+- close if they actually have the money.
+- ●​ The belief that people around them (spouse/partner) will support them in fixing the
+- ●​ This prevents spouse/partner objections
+- ●​ Do they see your solution as clearly different, unique, superior than similar methods
+- they’ve tried in the past?
+- ○​ This eliminates the “I’ve been burned before” objection and helps them logically
+- tell themselves why this is going to be different.
+- ●​ Are they bought into your method of what success looks like?
+- ■​ Sale on the method of success
+- ■​ Sale on the product
+- ■​ Ex: Clickfunnels
+- ●​ The key to online business success is creating profitable &
+- scalable funnels, and the only way to do that is through
+- ■​ The buy in on the method is your pitch. And we’ll cover that in the pitching
+- How We Build The Beliefs (Socratic Dialogue)
+- ●​ Think of these beliefs like a checklist… if we check the boxes of all of these before we
+- transition into the close chances they're going to buy.
+- ○​ We’ll talk more about this during the how to take notes section and discovery.
+- ●​ How do we build these beliefs? We do it through what’s called socratic dialogue
+- ○​ For our purposes, we’ll define socratic dialogue as the process of asking skilled
+- questions to help the prospect come to the conclusion you want them to but as if
+- it was they’re own idea.
+- ●​ Consistency Bias
+- ○​ Consistency bias is what makes socratic dialogue so powerful…
+- ○​ When you get the prospects expressing that they hold the above 7 beliefs, not
+- only are they telling you those things, but more importantly they’re telling
+- ○​ This is important because our highest driver of human behavior is to be and/or
+- appear consistent (Read Influence By Robert Cialdini for more on this)
+- ■​ So when you use socratic dialogue in conjunction with the belief ladder,
+- it’ll simply feel incongruent for the prospect not to move forward at the
+- end. This is how you create an objection-less close.
+- ■​ It’s important to understand that if you look at most great closers… while
+- they certainly CAN handle objections most of their closes are either
+- objection-less OR a matter of merely handling logistics (i.e finding the
+- right payment plan that works, timing, etc)
+- ■​ The reason for this is because they’re doing everything before the close
+- Finally: How Do We Actually Do This On A Sales Call?
+- ●​ Now, we’re going to get into how to actually execute this from a tactical standpoint…
+- ○​ First we’re going to cover the sales process at a high level with slight adjustments
+- ■​ Lifestyle offers (ex: fitness / dating)
+- ■​ Coaching/consulting offers
+- ■​ Professional services offers (ex: agency)
+- ○​ Executing the belief ladder/socratic dialogue is all used during the discovery
+- portion of the call.
+- ■​ Now, it’s important to understand that for the most part you can cover the
+- 7 beliefs in any order and you’ll be fine as long as you cover them all in
+- ■​ However, I’ve found that there’s two primary syntaxes that allow you to do
+- it quickly with very high effectiveness. There are:
+- ●​ Problems-First Syntax
+- ●​ Goals-First Syntax
+- ■​ I’m going to teach you both and then based on the offer that you’re on (or
+- prospect that you’re talking to)...  you’ll know how to use both.
+- Next Up: Overview Of The Sales Process
+
+## ZVANA SINTAKSE — 2 Pieejas
+
+### A: Problem First (Problēma Vispirms)
+> *«Sāc ar sāpi. Klients nāk pie tevis ar problēmu — sāc tur.»*
+
+- ●​ Questions/Scripting Breakdown
+- ■​ Solution Questions
+- ○​ Eliminate objections before the close
+- And you can frame it in a way where when you’re asking the more serious
+- questions (Cost questions for example) you have more context to ask them from
+- ■​ Permission → Context → Question
+- 2.​ Background Questions
+- e.​ Doubt Questions (What’s Been Keeping Them From Figuring This Out?)
+- Solution Questions (What Have They Tried In The Past To Fix Problem?)
+- g.​ Why Now / Cost Questions
+- h.​ Support Questions (Spouse / Partner)
+- Questions // Scripting Breakdown:
+- Isolate The Problem(s):
+- (We want to stay here until we know what the problem is. Once we find it, we put our shovel in
+- the ground and start digging). You can also ask - asides from that, is there any other challenge
+- Background Questions:
+- This part is very simple. You just ask whatever basic questions you need to know to understand
+- For example, if you’re selling b2b, you’ll probably ask:
+- For example, if you’re selling to real estate agents, you’ll probably ask:
+- 1)​ Get full context on their business before diving into the problem
+- ●​ Probing (Referencing The Isolated Problem)
+- problem, if anything.
+- ●​ Can I ask you a personal question? Does this impact
+- ●​ Can I ask you an honest question? Does that impact things
+- ○​ Can I ask you an honest question? What’d you think has been keeping you from
+- ●​ Solution Questions
+- ■​ How long has this been a problem for you?
+- ●​ Can I ask you a personal question? So… you’ve been wanting to
+- ●​ That makes sense. Can I ask you another question? And, I really
+- hate to ask this, but what’s your plan if nothing changes? If you’re
+- ●​ Wow, ok… Can I ask you a personal question? After all of that…
+- ●​ (Support Questions)
+- ■​ What does ____ think of (the problem)?
+- ■​ What’d you wife think about this transition/change?
+- ○​ Probing questions (Tell me more, why is that important, etc)
+- ○​ You seemed like you’ve thought of that number before… can I ask, why that
+- ○​ Is that ultimately the goal? To transition out of that?
+- ○​ Probing questions (again)
+- ●​ Now, can I ask a personal question? And the reason why I’m asking is because my goal
+- Here you’re going to use the basic transition or pre-pitch, etc…
+- Right before you go into your core pitch, you have ANOTHER opportunity to temperature check
+- ○​ Can reschedule at that point (see support questions training)
+- Tons and Tons of more ninja questions here
+
+### B: Goals First (Mērķi Vispirms)
+> *«Sāc ar sapni. «Kur tu gribi nokļūt?» — tad parādi plaisu.»*
+
+- Call Syntax #2 - Goals First
+- ●​ Remember, you have two goals on the call:
+- ○​ They don’t know how to diagnose their problem
+- They give you the wrong problem (“finishing my website”)
+- I.e - you ask about problems, and they start telling you about how they
+- 1.​ Isolate Challenge (Uncover reason why we switch to goals)
+- (They respond with one of our above criteria that indicate we should switch to goals)
+- ultimately, what’s the goal?
+- ●​ And what’s your monetary goal?
+- ○​ Is that ultimately the goal? To transition out of that?
+- ●​ And overall, what’s your long-term vision for ____?
+- ●​ Now, can I ask a personal question? And the reason why I’m asking is because my goal
+- about - what that is for you… what comes up? What are the non-monetary goals - the
+- personal goals - that you want your business to allow you to achieve?
+- Is there anything else you feel like we didn’t cover (regarding your biz, goals, etc) that we
+
+## CALL INTRODUCTION — Zvana Ievads (7FSA)
+
+> *«Pirmās 60 sekundes nosaka VISU zvanu. Rāmis. Kontrole. Cieņa.»*
+
+- What We’re Going To Cover:
+- ●​ Rapport Myths & Best Practices
+- ●​ The Opposing Agenda Of You & The Prospect
+- ●​ Rapport Specific Scripting
+- ●​ Frame Specific Scripting
+- Rapport Myths & Best Practices:
+- “Rapport” is the part of the call from where the prospect answers until you set the
+- What are our outcomes during rapport?
+- Demonstrate your a normal human being
+- Make sure the prospect is in a good time/place
+- Get in rhythm with the prospect and smoothly transition into setting the agenda.
+- Not a time to talk about your favorite baseball teams
+- Not a time to talk about your/the prospects life story
+- Not a time to talk about how nice the neighborhood or school system is
+- Rapport short be very brief & short.
+- Imagine what a doctor would do if you had a broken arm…?
+- How do we get in rhythm with the prospect?
+- Initial mirror and match
+- Visual / Audio / Kinesthetic
+- Caveat: don’t mirror apathy / guilt / shame
+- The Opposing Agenda Of You & The Prospect
+- ●​ You and the prospect are on the call for different reasons
+- ○​ Prospect: To gather information
+- ○​ You: To facilitate a transformation.
+- ●​ The more information you disclose, the less leverage/leadership you have in the
+- ○​ Payment plans (follow-ups)
+- ●​ Because of the opposing agendas we must create an agreement at the beginning of the
+- call on how the call will go.
+- ○​ We want to frame this agreement in moral authority (see inner game of sales)
+- ●​ “Framing the call” allows you to take leadership of the call.
+- ○​ If you are not leading the call, you will NOT make the sale.
+- Hey - It’s Cole - What’s up?
+- Awesome - I was actually just ____
+- Been having a good week so far?
+- Great well - I know we got a limited amount of time here so you ready to jump in? Got a clean
+- sheet of paper, something to takes notes with?
+- (if skeptical - is Now still a good time to connect?)
+- Gotcha - so what I’ve found to work best on these calls is first diving deeper into the specific of
+- your business and sales process, how that’s working right now, and ultimately what you feel are
+- the specific challenges keeping you from moving forward.
+- Now once we get some clarity there - if we can help then I’m more than happy to walk you
+- through that or wherever you wanna go and if not we can figure out whatever else is best - I
+- might refer you out to someone we know, give you some homework to work on in the meantime,
+- That being said… probably our best place to start is tell me what the biggest challenge
+- with your sales is right now… what’s not working?
+- Frame #2 (More Sophisticated Buyers)
+- I’m definitely prepared to share a little bit more about what we have going on over here.
+- Now, everything we do is all customized. So opposed to going through a long laundry list of
+- every little different thing we could do for a potential client and be on here for hours… what’s
+- probably going to be more appropriate is to first help me get some context on your business and
+- what you’re trying to do, then based on that I can share with you only the aspects of what we do
+- which would be relevant and useful to you specifically. Does that make sense?
+- So with that said...what would you say, right now, is your biggest challenge? Or at least what’s
+- not working at the level you truly feel like it could be or it should?
+- Frame #3 (Slight Adjustment To Frame #2)
+- You can start the convo off by saying:
+- “So what stuck out to you about that ad/post/etc that made you reach out?”
+- Gotcha, makes sense. I’m definitely down to share with you more about that. Now, everything
+- we do is all customized (proceed with Frame #2)
+- ^^^^ This framework helps the prospect feel like they’re more in control.
+- Which should you use?
+- ●​ Don’t overthink it… use frame #1.
+- ●​ If your market is very sophisticated and/or skeptical (real estate agents, etc) use frame
+- #2 or #3 (whatever you feel more comfortable with)
+- ●​ ALWAYS end with the “challenge” question. So so so so so important.
+
+## SKILLED QUESTIONS — Prasmīgi Jautājumi (Advanced)
+
+> *«Jautājums nav jautājums. Tas ir instruments. Labs jautājums = klients pats atrod atbildi.»*
+
+- Asking Skilled Questions (Advanced)
+- The Next Step After Mastering The Syntax’s
+- What We’re Going To Cover:
+- ●​ Quick Review Of Goals First / Problems First Syntax & Why We Use Them
+- ●​ How to Improve your ability to ask skilled questions within those syntaxes
+- ●​ Broadening the amount of questions you have at your disposal.
+- ●​ Creating Behavioral Flexibility In Your Script
+- ●​ More Training On Becoming A Master Of Skilled Questions
+- ●​ Recap: We’ve already learned the 7 beliefs:
+- ○​ Trust (Method)
+- ■​ Solution Questions
+- ●​ Remember, you have two goals on the call:
+- ○​ Find out if/how you can help them
+- ○​ Eliminate objections before the close
+- ■​ If you check the boxes of these 7 beliefs, you do that by default.
+- ●​ While you can cover these 7 beliefs in ANY ORDER (free flow - socratic dialogue) there
+- is a preferred syntax I use.
+- ○​ Why? Because if you go in a certain order, things will tend to build on each other.
+- And you can frame it in a way where when you’re asking the more serious
+- questions (Cost questions for example) you have more context to ask them from
+- ■​ Permission → Context → Question
+- ●​ Now again, the purpose of this training is to:
+- ○​ Help you broaden the amount of questions you can use to establish the 7 beliefs
+- ○​ Help you depends less on the syntax and be able to free flow through the
+- conversation more (because you have better questions at your disposal).
+- ■​ “Questions are the arrows in your quiver you can use depending on what
+- the prospect bring to the surface”
+- ■​ When you’re advanced, you can really do the 7 beliefs in any order. I
+- Would try to STILL always use a syntax. But sometimes prospects just go
+- off the rails… and it’s important to be flexible.
+- ●​ So for each of 7 beliefs, I have a list of questions beyond just the ones listed in the
+- syntax. They are in a separate week of training (week 8) which I will show you now.
+
+## INFORMATION GATHERING — Informācijas Vākšanas Jautājumi
+
+> *«Jo vairāk tu zini par klientu — jo mazāk tev jāpārdod. Diagnoze PĀRDOD.»*
+
+- ●​ When do we use?
+- ●​ What are we looking for?
+- ○​ What’s your biggest challenge right now?
+- ○​ What’s not working in your business right now?
+- ○​ Where are you stuck right now?
+- ○​ Where do you need help specifically right now?
+- ○​ Great… so what exactly are you trying to accomplish in business/life right now?
+- ■​ What’d you need to get there ASAP?
+- ■​ What’s the biggest reason you’re not already there?
+- ●​ (if time) - so what’s keeping you from getting there faster?
+- ○​ What’s your goal, ultimately?
+- ■​ How are you generating leads right now? (background question)
+- ■​ Great, so that is working well for you?
+- curious, but, what would you change about that, if you could?
+- ●​ Why would you change that though?
+- ○​ But why is that important to you now though?
+- ●​ Is there anything else you would change?
+- ●​ When do we use?
+- ●​ What are we looking for?
+- ○​ What do you mean?
+- ○​ So ___ is the biggest challenge… why do you say that?
+- ○​ Why is that important now though?
+- ○​ What’s bothering you most about this?
+- ○​ Has that put you in a tough position?
+- get new clients coming in at will?
+- certainty you’ll be able to lose weight?
+- ○​ How long has this been going on for?
+- ○​ What’d you think has been keeping you from figuring this out on your own?
+- ○​ What are you currently/using doing? (background question)
+- ■​ How are you currently generating leads?
+- ■​ How are you currently getting dates with girls?
+- you have with new potential clients?
+- ■​ Month before? (go back 2-4 weeks or 2-3 months depending on context)
+- ■​ What % of leads were quality?
+- ■​ How many did you close?
+- ■​ What’d you weight now?
+- ■​ How many dates did you go on last week?
+- ●​ How many dates actually turned into something steady or serious?
+- ■​ Month before?
+- ■​ When’s the last time you had a girlfriend?
+- ■​ How many girlfriends have you had?
+- ○​ How is that impacting other areas of your business?
+- with working out and maintaining your health?
+- years… has that put you in a tough position with your family?
+- impact the growth for the company and your vision for it overall?
+- ○​ How has this impacted other areas of your life?
+- ○​ What’s the worst part about ____?
+- potential/legacy?
+- ■​ Why do you say that though?
+- ○​ Ultimately, if you were able to X, what would that open you up to do?
+- predictably… what would that do/change for the business?
+- ■​ When you say ___, what do you mean by that specifically?
+- ■​ How would that make you feel?
+- an impact on you? In what way, though?
+- week… what impact would that have on the business?
+- ○​ What would that do for you personally?
+- ○​ And (beyond business) would have an impact on you personally as well? In what
+- ●​ When do we use?
+- ●​ What’s the purpose of these questions // what are we looking for?
+- ○​ What are you selling?
+
+> *Kopā: 60+ informācijas vākšanas jautājumi no 7FSA curriculum*
+
+## ADVANCED TONALITY & SUBCOMMUNICATION — Tonalitāte un Zemapziņas Komunikācija
+
+> *«93% komunikācijas ir NEVERBĀLA. Tava balss, temps, pauzes — TAS pārdod. Ne vārdi.»*
+
+- How To Increase Your Perceived Status Through Tonality
+- ●​ 3 Certainty Distinctions
+- ●​ 3 Tells Of Dominance (& Influential) Vocal Tonality
+- ●​ 3 Levels Of Rapport In Tonality
+- ●​ Personal Examples & Client Examples Of Good/Bad Tonality
+- (with the least amount of energy possible) which ideas to accept as true.
+- ○​ The certainty of the person communicating the ideas
+- #1 - The Certainty Of The Person Communicating The Ideas
+- ●​ Here’s three good distinctions for you to understand CERTAINTY when it comes to
+- ○​ “Pumped Up Certainty” vs. “Resolve”
+- ■​ Pumped Up Certainty:
+- right? It’s better than being in a durp state. But it’s certainly not the
+- ●​ Resolve is the certainty as if it may as well already be done.
+- certain, and mean business.
+- ○​ The first scenario is “pumped up certainty” the second
+- ●​ Resolve is this place where you’re so certain that it allows you to
+- ■​ When someone talks, there is a certain “weight” you can sense from it.
+- Vocal Tonality: 3 Tells Of Dominance
+- (For our purposes, think of dominance as synonymous with certainty)
+- ○​ One of the ways dominance is shown is through taking up space throw our voice
+- ○​ You don’t want to have monotone pacing.
+- ○​ What holds attention, is pauses and shifts in cadence.
+- ○​ Sometimes shifts in cadence will emphasize certain words of importance.
+- 3 Levels Of Rapport // 3 Different Tonalities
+- 1.​ Seeking Rapport - Upward Inflecting Tonality
+- 2.​ Neutral Rapport - Equal Inflecting Tonality
+- 3.​ Breaking Rapport - Downward Inflecting Tonality
+- ○​ The downward inflecting tonality “running down hill with how I speak”
+- ^^^ BOTH of these calls watch how I correct upward inflecting tonality.
+
+## PITCH CODEX — Pilna Pitch Sistēma (7FSA)
+
+> *«Pitch nav monologs. Tas ir STĀSTS ar struktūru: Problēma→Risinājums→Pierādījums→Darbība.»*
+
+### Pitch Codex Intro
+- Introduction To The New Way Of Selling High Ticket...
+- What We’re Going To Cover:
+- The Traditional Way Of “Pitching” You’re Being Taught (And Why That’s Losing You
+- The “New” Way Of Pitching Your Services & Programs.
+- Common Pitfalls Of The “New Way”
+- High Level Overview Of The “Pitch Codex™”
+- Traditional Way Of Pitching
+- What’s being taught now
+- “2 minute *vague* over overview of what you do
+- Feature → Benefit → Advantage
+- Ex: One 1o1 call once weekly which will give you accountability so that
+- ultimately you can stay on your diet consistently and therefore lose the
+- weight you want and be more attractive to the opposite sex.
+- 2 reasons why this is not longer *ideal*
+- “High-Ticket Coaching/Consulting” Is SATURATED & COMPETITIVE
+- A lot of sales training (in the high ticket world) was created in a time
+- where getting on a call to buy consulting was rare (for the info world).
+- Now, info-marketers need to step their game up when it comes to their
+- Information is abundant
+- This gives buyers more and more options and more control over the
+- This means buyers (and money) will shift more towards those who have
+- the best OFFERS not those who are the best salespeople.
+- 75% of the success/failure of the sale comes down to the offer
+- The “New” Way Of Pitching - The Pitch Codex™
+- ●​ The Pitch Codex™ is a way to pitch your product and services over the phone inspired
+- by old school direct response.
+- ●​ Why is this superior?
+- ○​ Now, we’ll not only be the best salespeople our prospects have spoken with but
+- we will have a very clear “no-brainer” offer perfectly tailored to the prospects'
+- Element of The Pitch Codex™
+- This is our “proprietary method”
+- “You’ll discover my “Pitch Codex™” framework for creating sales pitches
+- that sell” VS. I will teach you how to craft your pitch…
+- Separates ourselves from the competition // can’t google/research
+- This is NOT a fancy name. This is a 3-5 step process (or thesis) that
+- explains the path to success for your market.
+- This acts as the simultaneous explanation of why everything they tried in
+- the past has failed, why the majority of the market is failing, and why
+- you’re approach is different, unique, superior.
+- Why Use A Unique Mechanism?
+- “New opportunity” that separates us for anything similar they’ve tried in the past
+- and failed (or even better - justifies WHY what they tried didn’t work)
+- Ex 1 - In my training we’re going to have group coaching sessions where I
+- train you how to ask the right questions on your sales calls and handle
+- Ex 2 - I’m going to teach you how to create the “objection-less close” by
+- learning the 7 beliefs your prospect must have to buy (and how you can
+- easily “install” them on your calls by using my “reverse-selling system” so
+- that you can close 50% or more of your prospects without having to
+- memorize a bunch of canned rebuttals
+- Bold And Specific Promises
+- Hard offers are more TANGIBLE with makes prospects more CERTAIN
+- Soft: Promising what we’re going to do.
+- Ex: we’re going to work together for 8 weeks, have one 1o1 call a week
+- Hard: Promising the RESULT in specific timeframe (and what we’re going to do)
+- This is a 4 step process to not only get you closing at least 30% of your
+- calls in 8 weeks but also turn your sales process into a high-converting
+- asset that ANY sales rep can step into and close.
+- Adjust your promises based on what is realistic and you can
+- actually do for each specific prospect (aka - don’t lie)
+- Creates A Logical Bridge From Current → Desired Situation
+- The 3-5 steps you create (aka your “pillars” or your thesis) will act as the step by
+- step process of how to get from A → B.
+- Should make it ABUNDANTLY clear
+- You know you have this right when the prospect has an “aha” and says
+- something like “This makes absolute total sense”
+- Ex: Offer Creation // Organic Lead Attraction // Paid Advertising // Team
+- Common Pitfalls With The Pitch Codex™
+- ●​ Thinking that the tactics will matter more than the fundamental principles.
+- ○​ It’s NOT about the fancy names, benefits, uniqueness, how you anchor cost,
+- future pace...etc etc
+- ○​ It’s about giving a prospect complete clarity on what they need to get from point A
+- to point B while at the same time explaining why they’re stuck (and/or why things
+- they’ve tried in the past haven’t worked and therefore, how this will be different).
+- ○​ If you read this word for word from a script, it’s not going to work.
+- ○​ We want to script it, but it should be 100% natural (think of an actor)
+- ■​ Drill it til’ it’s burned into your brain.
+- ●​ Overcomplicating it
+- ○​ Confused prospects don’t buy
+- ■​ Don’t overcomplicate it
+- ■​ Don’t make it clunky / scripted
+- ○​ Remember: Simplicity is the ultimate form of sophistication.
+- ○​ When in doubt: KISS
+- Pitching Phase Overview
+- This reminds the prospect it’s not about the process it’s about the
+- It’s about giving a prospect complete clarity on what they need to get from
+- point A to point B while at the same time explaining why they’re stuck
+- (and/or why things they’ve tried in the past haven’t worked and therefore,
+- how this will be different).
+- This explains how it’s delivered and why it’s delivered that way (ties to
+- benefits and eliminates objections)
+- Committing Phase Overview:
+- This ties our prospect down on the process and allows us to eliminate uncertainty
+- based objections before the close
+- CRITICALLY IMPORTANT!!!
+- This allows us to paint a clear picture of what’s going to happen AFTER the
+- prospect makes the investment, before actually telling them what the investment
+- This raises the prospects level of certainty
+- Extremely simple explanation of the price
+- (Optional) Price anchoring.
+
+### How To Pitch
+- ●​ How To Construct Each Part For Your Specific Offer
+- ●​ The high level promise is 1-2 sentences that states the “end promised result” your offer
+- ○​ Gets clients associated with the RESULT (not the process)
+- ○​ This is going to be [# of pillars] to get you from [current situation] to [desired
+- ○​ “This is going to be 4 steps to get you from having zero control on your sales
+- ●​ Your bridge are the 3-5 pillars that logically take your prospect from current situation to
+- ■​ Builds a logical step by step process that gets your prospect saying “that
+- ■​ Can include fancy names and “unique mechanisms” but if that is forced
+- ●​ If the four pillars hit all the key elements above and are explained
+- ●​ The process altogether IS the mechanism.
+- ○​ For STA, here’s our four pillars: :
+- Whole IS the mechanism. Now, if I had 50 competitors, I may
+- Explaining Your Pillars:
+- ●​ After you state each pillar and have the prospect right it down, you are going to briefly
+- ○​ We do this because the pillars by themselves mean nothing to the prospect.
+- ○​ Tie down and open up for questions on each pillar
+- ○​ (optional) Communicate the consequence of not having each pillar (cost
+- ●​ Three formulas for explaining your pillars.
+- ●​ So final step we’ll take is to start hiring you sales reps so that you
+- ■​ Well, once we get the first three pillars down, the last thing we’ll do is start
+- your business. For instance - it’ll take about 30 calls to see what a closers
+- true closing percentage is, and if your offer is say - 5k - that’s literally
+- on a foundation of sand with a very “me-too” offer…
+- way forward is to go 5 steps backward and start the process again…
+- your offer codex your offer codex…
+- After we tie down all the pillars, we’ll give a brief explanation of how those pillars are
+- Also - if you offer onboarding calls and/or 1o1 support I recommend using the
+- training and make sure it’s applied to your specific situation, offer, and roleplay it
+
+### Example Pitch Script
+- Basic Transition:
+- “Look so I feel like we’ve covered a lot of ground here… Is there anything else that you feel like
+- we haven’t covered that I need to know?”
+- [prospect response]
+- Well John - based on what you told me previously what I think what I have going on over here
+- may be a good fit for you…
+- ....because you know how earlier on the call you told me that you're only closing about 1 out of
+- every 10-15 consults that you have and it's making you feel a little bit like you're in that feast or
+- famine thing you mentioned?
+- [prospect response]
+- Well, my area of expertise is helping solopreneurs who don’t have control over their sales
+- process start closing 30% of their calls consistently without having to use a lot of sales pressure.
+- [prospect response]
+- Cool - so at this point, where do you wanna go from here? I can walk you through process of
+- exactly how I make that happen A-Z if you would like? But you tell me where you wanna go.
+- [prospect response]
+- High Level Promise:
+- Gotcha - so do you still have that pen & pad?
+- Great, on your pen and paper - write out 1—>4 with a good bit of space in between them to take
+- notes on each. 1, 2, 3, 4
+- [wait for them to acknowledge they’ve done this]
+- Ok - let me preface this by saying that everything I do is all customized on what’s best for the
+- client. For you, specifically, it’s gonna be 4 things. 4 steps for you to go from zero control on
+- your sales calls to closing at least 30% or more of the people you speak with in about 8 weeks.
+- Ok… so when you come in, the very first thing we’re going to do is build out what I call your…
+- So the first thing we’re going to do is get clear on your offer and how it’s explained over the
+- And we’re going to do it in a way in which it’ll feel in a way that’s compelling, that’s new, and
+- very different to what the prospect has heard before.
+- Which will not only allow you to separate yourself from the competition, but also because of the
+- positioning likely increase your pricing which means less work to get to your goal and more time
+- in the evenings with your family.
+- Does that make sense?
+- Awesome - any other questions or are you ready to move on to #2?
+- Cool, so once you’re pitch is dialed in, the next thing we’ll focus on is
+- Sales Process Redesign
+- So you know how earlier on the call you mentioned that you’re dealing with a bunch of
+- objections at the end of the calls and it’s making you feel like you have to be super
+- “high-pressure” to close prospects who are otherwise your perfect client?
+- So in this stage what we do is redesign your sales process by implementing what I call the
+- “reverse selling system”.
+- The reason I call it “reverse selling” is because it’s a 7 step process that allows you to eliminate
+- objections before the close so it’s kinda like “reverse engineering the sale”. You know what I
+- And also - given how long you said your calls were, you’ll probably be able to cut that in half
+- once you really get this down. So instead of spending that time exhausted on calls you can have
+- more time to actually build your brand and work on your business. Make sense?
+- Questions? Thoughts? Or you ready to move on?
+- Cool, so the next step is
+- Pipeline & Follow-Up Systems
+- So the first two alone can get you to at least a 30% closing ratio. But even if you’re doing 30%,
+- that means 70% of the people you speak with - for one reason or another - don’t buy, right?
+- So this is where you’ll learn how to use a combination of messenger outreach, content
+- marketing, and what I call “re-offers” to be able to get people who didn’t buy originally back on
+- the phone to re-sell them.
+- Does that make sense?
+- And the reason this is so important, is that when I was selling full time for instance, i would
+- average about 350k/m for the company and 50% of that was through pipeline and follow up.
+- Literally half of my sales. So over a year that’s well over 2 million just from just follow up alone,
+- which doesn’t cost any additional ad spend, by the way.
+- So this is something I’d like to see you doing sooner rather than later because otherwise we’re
+- just leaving easy money on the table.
+- Know what I mean?
+- Anything else on that or you wanna move on?
+- Sales Team & Scaling
+- So this is where we’ll begin to think about hiring sales reps so that you don;t have to take all the
+- calls yourself anymore and you can start working on your business, not in the business.
+- ...and once you get to this point, you’re really going to be able to get back your time so and
+- reinvest in things like building your brand, speaking on stage, publishing that book, and so on.
+- Any questions on that?
+- In terms of how this is all fulfilled, the in-depth training platform will be something you will have
+- lifetime access to so that you can use it to train all your current sales reps as well as all the ones
+- you hire in the future.
+- We will also meet twice a week for a “sales clinic” where we’ll take what’s in the training and
+- make sure it’s applied to your specific situation, offer, and roleplay it to really “cement it in”.
+- And on top of that you’ll have 1o1 access to me M-F 9-5 through voxer, so that I can coach you
+- on the spot on the day you have calls.
+- Plus, that way if you go into a slump… I can break you out of it within a day opposed to you
+- having to wait 4-7 days til our next clinic.
+- Questions… thoughts
+- Committing Phase
+- Temperature Check
+- Just curious but in terms of the process specifically… how do you feel?
+- (Certain answer + certain tonality = move on)
+- (Uncertain answer and/or uncertainty tonality = alignment bit)
+- I hear ya and just to be totally clear… what’s really important to me is ALIGNMENT - when you
+- come in and work with us, we’re rolling up the sleeves and getting in the trenches with you on
+- this thing. I mean our team is ALL IN - so it’s really important to us that you feel GOOD about
+- the process, know what I mean?
+- So just to be 100% clear.. On like a scale of 1-10, 1 being ___ and 10 being ___, where do you
+- feel like you fall exactly?
+- (if 9-10 + certain language/tonality = move on)
+- (if 8 or below = ask the following: “Gotcha man, and I appreciate you being honest about that…
+- just curious, what exactly do you think is keeping you from say being a 8, 9, or 10?
+- (Then handle objection /// ask clarifying questions // re-temp “are you sure”)
+- Transition Language
+- (if necessary) Gotcha so you feel good, no questions… so what’s next? Where do you feel like
+- you wanna go from here?
+- So you’ll process the investment with me… once we take care of that, what we do is set
+- So i’ll give you some homework right away to see where we can get our quickest wins, as well
+- as have you send in your current sales script and pitch as well as a call for me to review for
+- feedback. Most people find that they end up closing at least an additional deal or two a week
+- just from the first call review breakdown.
+- Then from there we’re ready to rock and roll.
+- Does that sound good?
+- ...and then investment to get you to (high-level outcome) is just XXX
+- (...and the investment to get you to 20k/m, 240k a year is just 6800).
+- Objections & Enrolling.
+
+## FINANCIAL OBJECTIONS — Finanšu Iebildumi (7FSA Dziļā Apstrāde)
+
+> *«'Par dārgu' NEKAD nav par naudu. Tas vienmēr ir par VĒRTĪBU vai BAILĒM.'»*
+
+- ○​ Our method for handling any sort of objection/concern pertaining to money.
+- ○​ To take responsibility of ironing out logistics so the prospect can do it.
+- ○​ To uncover the real objection (finances were a smokescreen).
+- ■​ This process will help you uncover the smokescreen financial objections
+- BEFORE we give away our power.
+- ○​ Follow this process and do not give out payment plans willy nilly
+- ○​ If they don’t tell you COH and Credit… then there’s a trust issue (barring you’re
+- dealing with a big corporate company or something… which in that case, it’s
+- probably not a financial objection).
+- Step 1: Isolating & Uncovering Resources:
+- Scenario 1 (You paced first objection and isolated finances):
+- (this part you may have done before, but regardless… make sure you tie down TWICE before
+- getting into the objection handling)
+- So finances and everything aside, there isn’t anything else that’s keeping you from being less
+- than 100% that this is what you wanna do?
+- So in other words… you’re not in a “SHOULD” I do this place to where you’re going back and
+- forth on if this is the best next step for your business, it’s more of a “HOW” can I do this place to
+- where it’s your GOAL to do this… it’s just a matter of making it work financially?
+- Ok then. Well look - MOST of my clients do take care of the investment upfront.
+- ...but for certain clients, I don’t feel like that’s the best thing for them to do based on their
+- situation financially so we allow them to break it up. That being said, since it’s your goal to do
+- this… do you want to explore ways we could potentially break it up to make this work for you?
+- Great - so we don’t actually have any set payment plans… it really is all customized depending
+- on what’s best for the client.
+- So based on where you’re at financially, it might be possible for us to make something work now
+- OR at the very worst we can create a game plan for you to work  towards in the future so you
+- can do it sometime down the road.
+- That said - are you comfortable with having an open and honest conversation about exactly
+- where you’re at financially right now? And based on that we can figure out what’s the best next
+- Cool - so what’s your cash on hand exactly right now?
+- Gotcha - and cash flow is ultimately the lifeblood of your business. So in a lot of cases, it’s
+- important we protect that. That said - do you have access to credit to fund your business?
+- What’s available on each line?
+- How much is used vs what’s available?
+- Scenario 2: They Ask YOU About Payment Plans:
+- It depends… most clients pay it upfront, but for some clients I don’t feel like it’s best for them to
+- do that based on where they’re at financially - so we break it up.
+- But, I guess the most important question is… how do you feel about the process? Money aside
+- do you feel like this is what you need to get to (OUTCOME)?
+- So in other words… you’re not in a “SHOULD” I do this place to where you’re going back and
+- forth on if this is the best next step for your business, it’s more of a “HOW” can I do this place to
+- where it’s your GOAL to do this… it’s just a matter of making it work financially?
+- Gotcha, so I’m more than willing to talk about breaking it up. Now, we don’t actually have any
+- set payment plans… it really is all customized depending on what’s best for the client.
+- So based on where you’re at financially, it might be possible for us to make something work now
+- OR at the very worst we can create a game plan for you to work  towards in the future so you
+- can do it sometime down the road.
+- That said - are you comfortable with having an open and honest conversation about where
+- you’re at financially right now? And based on that we can figure out what’s the best next step
+- Cool - so what’s your cash on hand exactly right now?
+- Gotcha - and cash flow is ultimately the lifeblood of your business. So in a lot of cases, it’s
+- important we protect that. That said - do you have access to credit to fund your business?
+- What’s available on each line?
+- How much is used vs what’s available?
+- Outcomes (both scenarios):
+- 1)​ They conditionally can’t do anything
+- 2)​ You uncover their resources and they can PIF (see below)
+- 3)​ You uncover their resources and pitch them a payment plan (see below)
+- 4)​ They’re not open about where they’re at financially (see below)
+- Step 2 (If They’re Not Open About Resources):
+- Can I be honest with you for a second?
+- You just got done telling me that finances aside you were 100% certain this process is what you
+- needed to get to (OUTCOME) and that you KNEW you needed to do this…
+- ...and that ULTIMATELY, it’s your GOAL to make this work.
+- ...but now, it seems like you’re not willing to be open and honest with me about where you’re at
+- financially so we can TOGETHER figure out a way we can possibly make this work for you.
+- So look...how do you expect me to be able to support you in ways we can make this work so
+- that you can (OUTCOME) if you’re not willing to be open with me about what resources you
+- 1)​ They’re tell you their resources (they were prob embarrassed)
+- 2)​ They’re going to tell you the real objection (they got caught red handed)
+- a)​ Now we have to handle that and circle back to the finances.
+- Step 2.5 (If They Have Resources And Can PIF)
+- Can I tell you what I would do if I was you?
+- ...and you’re sure this is what you want to do, correct?
+- Then I would do it upfront (SHUT UP).
+- Let me tell you why that is…
+- 1)​ The people who commit 100% to going ALL IN on their dream are the same ones who
+- show up powerfully and get amazing results in the first week, first 30 days and so on ALL
+- BECAUSE they decided to burn the boats and metaphorically draw a line in the sand
+- and go ALL IN on committing to their vision AND
+- 2)​ When you’re able to go all in on yourself, you’re clients are going to be empowered to go
+- all in with you the same exact way. And instead of a bunch of shitty payment plans, you’ll
+- get clients who won’t blink an eye at a PIF. All because YOU’RE the client you want to
+- Ready to get started on some homework?
+- What’s your billing address?
+- Step 2.5 (If They Have Resources But Need A Payment Plan)
+- Gotcha… ok, and you still feel good about the process, right?
+- Great, because look… the real beauty for you is that making successful decision in business is
+- all about maximizing your upside while minimizing your downside.
+- (Optional) And this isn’t coming from me, but look at Warren Buffet, Ray Dalio, Carl Icon… the
+- most successful investors in the world - they all focus on maximizing upside while minimizing
+- So take your upside - you come in and you do exactly what we tell you to do and scale your
+- business to 50k/m and (insert outcome)
+- You’re downside, is that at the end of the day… it’s what? 1-2 clients to break even? That’s it…
+- ...and because of that what I’d be willing to do for you, is let you in for half… so 3400 to start.
+- ...and that way you can come in, build out your offer, utilize the resources you already have to
+- land a few clients and then we can take care of the rest (3400) 30 days down the road once you
+- already have momentum and clients coming in (future pace the initial parts of your program).
+- So if that’s something I’m willing to do for you, is that something you’re willing to move forward
+- with right now? (OR “How does that sound”)
+- Ready to get started on some homework?
+- What’s your billing address?
+- (Note: if they say, “let’s do it” I’m going to go right for billing address. But sometimes they need
+
+## SUPPORT OBJECTIONS — Atbalsta Iebildumi
+
+> *«'Man jārunā ar sievu/partneri' = 'Es baidos lemt viens.' Apstrāde = dod drošību LEMT.»*
+
+- Support Objections (Partner/Spouse)
+- ○​ How we navigate partner / spouse objections.
+- ○​ We use this AFTER we’ve isolated it.
+- ○​ Tie down certainty on the process (Create a 2v1)
+- ○​ Gather intel about the spouse/partner
+- ○​ Use that intel to find the best way to navigate.
+- ○​ You really want to eliminate this on the front end.
+- ○​ This is more for spouse. For partner… I highly recommend you get them all on
+- the same call (Exception being you already vetted and the partner can make the
+- ○​ When you’re narrowing down the “two spouse objections” if you get an unclear
+- answer assume it’s “permission”
+- ○​ Feminine energy or people who aren’t head of household, you’ll probably want to
+- “delay” and set follow-up (as long as you know they’ll get on the follow up)
+- Step 1: Isolate & Tie Down
+- (this part you may have done before, but regardless… make sure you tie down TWICE before
+- getting into the objection handling)
+- So aside from letting your spouse know… there isn’t anything else keeping you from being less
+- than 100% certain that this is what you want to do?
+- Awesome… so just hypothetically, if you’re spouse was on this call and said “Bob, I believe in
+- you and you do whatever is best for us and your business” you’d be 100% in?
+- Step 2: Two Spouse Objections:
+- Awesome I totally get that and agree with you. No problem at all (also bring up you’re married to
+- Now just for clarity's sake:
+- #1) Is this a “respect” thing to where no matter what you’re going to do this regardless, you just
+- want to let her know beforehand out of respect?
+- Or #2) Do you need her permission to move forward? Meaning it’s not ultimately your sole
+- Step 3: Information-Gathering
+- ●​ What’d you think she’ll think about this?
+- ●​ What’d you think she’ll say when she hears the investment?
+- ●​ Is she supportive of you trying to fix ____?
+- ○​ Are you guys on the same page that this is a problem?
+- ●​ Is she involved in the business? What’s she do?
+- ●​ Do they know about us (the company)?
+- ●​ Do they know you’re on this call?
+- ○​ What would they think if they knew?
+- ●​ Can you talk to your spouse right now?
+- ●​ When do you think you can talk to your spouse?
+- Step 4: Clarify & Contrast
+- Gotcha so I appreciate you being open and honest with me about that.
+- (Optional - don’t do if redundant) Now just to clarify what you said, based on where you guys
+- are at financially right now really any big decision is something that you guys will need to sit
+- down and talk about, correct? (clarifying what they said).
+- Great so look… I definitely want you to go talk to your spouse about this but I want to remind
+- you that there’s two ways you can bring this up to your spouse:
+- 1)​ It can be a conversation in which you go up to your partner and say: Hey honey you
+- know that business of mine that I’ve spent a ton of money on only for it to give us
+- constant ups and downs and stress? Well, I hopped on a call with this guy I met on the
+- internet who might be able to help us, it’s 7k and uh, what’d you think? Here’s the
+- 2)​ Or it can be a conversation where you sit down and tell her confidently “Hey babe I know
+- I’ve let you down with this business and I know that despite all of that you’ve supported
+- me every step of the way to this point. And I want to let you know that I’ve DECIDED and
+- I’ve COMMITTED to growing this to where it SHOULD be already and I’ve found
+- someone to help us get there, but before I move forward… I want to get your emotional
+- support and buy in so I know we’re in this together.
+- Now, let me ask you… which one of those two guys do you think is going to convince his wife?
+- You’re right - because if YOU’RE not certain about this… then she’s not going to be either. Nor
+- should she be. Because with scenario #1 you’re weak and uncertain in your direction as a
+- So look the real question is… when you go to talk to your spouse, which one of those two guys
+- are you going to be? The first or the second?
+- Are you sure? Because if there’s anything else that’s keeping you from being less than 100%
+- certain that this is what you want to do - let me know and we can talk about that.
+- 1)​ You end up getting an uncertainty objection (the real objection)
+- 2)​ It’s just a “respect” thing and you can deposit close
+- 3)​ It’s a “permission” thing and you CC close or follow-up close.
+- Step 5: Deposit / Follow Up Close
+- Scenario #1 (Use If “Respect”): 1k Deposit Close
+- Great, so what we’ll do from here is put down a refundable deposit to hold your spot AND so
+- you can draw the line in the sand about that commitment to making this change.
+- Then if, by chance, your wife is going to divorce you over this and everything goes south… no
+- worries at all we’ll go ahead and refund the deposit. We’re not in the business of ending
+- So we’ll go ahead and do that deposit now, and then set a follow-up call to re-review things that
+- your spouse is more then welcome to join if she wants. And then we can figure out what’s the
+- best next step from there. Does that make sense?
+- Great - the deposit is just 1k.
+- What’s your billing address…?
+- 1)​ You get deposit and set follow up (still use follow up language to remove risk)
+- 2)​ You don’t get deposit (dig into why, and possibly transition to CC close or Follow-Up)
+- Scenario #2 (Use If You Don’t Think The 1k Deposit Will Fly): CC Close
+- Great… so what we’ll do from here is - I’ll take you credit card number down and even though
+- we aren’t going to run anything to you give it the go, this just acts as a commitment that this is
+- something you’re serious about so that we’re both on the same page. Sound good?
+- Then when do you think you’ll be able to talk to your spouse?
+- Cool so we’ll take that down now, and then set up a call on Tuesday to go over any questions
+- and see what the best next step is from there. Sound good?
+- Great - what’s your billing address?
+- Scenario #3 (Use If You Don’t Think Anything Will Fly, Or They Refute #1/#2): Follow-Up Close.
+- Great - so when do you think you’ll be able to talk to you spouse?
+- (FYI - if this is anything other than TONIGHT or TOMORROW… then you want to call it out)
+- Awesome… so go talk to her, and then let’s set up another call on Tuesday to go over any
+- questions you might have and figure out what our best next step is from here. Sound good?
+- And look - if you still feel good, we can talk about getting going sooner rather than latter.
+- And if you start to feel like now isn’t the right time, no worries at all. Let’s still keep our call and
+- at the very worst I’ll give you some homework to work on until you’re ready and we’ll keep the
+- communication and relationship open until the time is right.
+- Does that sound good?
+
+## UNCERTAINTY BASED OBJECTIONS — Nenoteiktības Iebildumi (7FSA Pilnā Sistēma)
+
+> *«Nenoteiktība = bailes no nezināmā. Klients nav pret TEVI — viņš ir pret RISKU.»*
+
+- Uncertainty-Based Objections
+- ○​ Language patterns & reframes we use for any objection having to do with THIS
+- being the right thing or NOW being the right time.
+- ○​ Only after we’ve paced through the first objection and we’ve isolated down to
+- something specific that’s keeping the prospect from being certain.
+- ○​ Instead of “rebuttals” we’re going to HEAR the prospect and LEAD the prospect.
+- ○​ Get the objection boiled down to where they acknowledge that it’s simply FEAR
+- OF RISK (because that’s where we can challenge them to step up).
+- ○​ Most (if not all) of these we still want to Pace it first before we move onto the
+- ○​ Most fall into three different frameworks.
+- ○​ Authenticity (same with “pitch codex”, if it doesn’t sound authentic / natural / and
+- from a place of alignment, it’s not going to work)
+- ■​ That said - practice these!
+- Review Of “Pacing The First Objection”
+- Once you’ve paced the first objection… use these below (or variations of)
+- “I just want to think about it”
+- #1. “Pacing The First Objection” ← Literally why I created this.
+- #2. (If they’re just keep repeating themselves)
+- I hear you, so is that just the way you always make decisions?
+- <Then proceed to “the way I make decisions”>
+- “It’s just a lot of money…”
+- I hear you… can I ask you an honest question about that?
+- You said it’s a lot of money… a lot of money, compared to what?
+- Is it a lot of money to make bare minimum 20k/m… 240k per YEAR - for the rest of your career?
+- “It’s just a lot of money…” (PART 2 - Non-ROI Offers)
+- So when you say it’s too much, what’d you mean?
+- Gotcha well I hear you and appreciate you bringing that up. Thank you.
+- And I also want to reassure you that a lot of my clients felt that way before they put it in proper
+- Now, that said, can I be honest with you?
+- Earlier on this call you told me that your worst fear was your health getting even worse and then
+- 10-15 years from now having to go through the same health struggles your father did, right? The
+- ones that cost 10 or even 15k in medical bills to cover, no?
+- ...and beyond that, it’s not just about avoiding that, but you also want to have a body that when
+- you look into the mirror you don’t feel shame. And instead you can actually feel good in your
+- own skin for the first time since your 20s.
+- So I want to realign you with that for a moment. And put this all into proper context…
+- ...because while I get that 5k right now might seem a little scary, this is an investment to get your
+- HEALTH back. Your SELF-ESTEEM back. Not just now, but for the rest of your LIFE!
+- ...and to get that outcome, I guarantee if you put in the work you’ll be there in less than a year.
+- So just to put the investment in context here…
+- 5k spread across 365 days in a year is just over 10 dollars a day. Across 5 years is 2 dollars a
+- Is that too much to invest in getting your health back for a lifetime?
+- So if I can show you how to reclaim your health and finally get the body of your dreams over the
+- next couple months, is it worth 10 dollars a day to do this?
+- Are you sure? Feel good?
+- Ready to get started on some homework?
+- What’s your billing address…?
+- “But what if it doesn’t work…”
+- I hear you, and I can appreciate that.
+- So just to stay organized on my end here…
+- ...what you’re saying that despite the 300 case studies we have and 95% client success rate,
+- you’re worried you’re going to be the one unlucky one this doesn’t work for? (haha)
+- Look - no worries. I get that…
+- Now, can I ask you an honest question?
+- If you come in and do this… would you 100% put in the work?
+- And when you run into a problem, or a challenge throughout the program… would you raise
+- your hand and reach out for help? Or are you going to bury your head in the sand and
+- If we have a 95% success rate…
+- And you’re 100% going to put in the work…
+- And you PROMISE ME you’ll raise your hand when you need help…
+- Then tell me, why exactly wouldn’t this work for you?
+- 1)​ I don’t know  (proceed below)
+- 2)​ They give you real objection
+- I hear ya… do you think it’s just a little bit of nerves?
+- <Then proceed to nerves / fear>
+- “It’s not the way I make decisions” (I need to sleep on it, pray on it… etc)
+- <Pace the first objection>
+- I hear you... and just to clarify, what I’m hearing you say is that you have a way of making
+- decisions in business that’s worked for you up into this point, correct?
+- Gotcha, well I appreciate you bringing that up and I want to reassure you that everyone has a
+- pattern of decision making their accustomed to.
+- That said, I also want to realign you with the fact that - the way in which you make decisions -
+- creates everything else for you in life and business.
+- For instance, there’s plenty of self-made millionaires in the United States who are your exact
+- age who started off in a WORSE position than you are now…
+- ...and the reason they are where YOU want to be is simply because they’ve made decisions
+- differently and gotten different results.
+- So while I understand you have a pattern of decision making that makes you
+- ...I also want to realign you with the fact that GROWTH will never happen inside of your comfort
+- And that you can’t rely on the same pattern of decision making that got you here, to get you
+
+## CLOSING PATTERNS & RISK MITIGATORS — Slēgšanas Paterņi un Risku Mazinātāji
+
+> *«Close nav viens brīdis. Close ir ĶĒDE — katrs solis mazina risku klienta galvā.»*
+
+- Closing Patterns & Risk Mitigators
+- ○​ Language we use to take the prospect from questions/objections → enrollment.
+- ○​ When the prospect is “in” but hasn’t verbally said it and needs a nudge
+- ■​ Ex) You’ve just overcome uncertainty / financial obj and they “agree” but
+- don’t give any explicit language like “let’s do it”
+- ○​ To take the lead and give prospects an extra nudge to begin enrollment
+- ○​ Do so without being weird, salesy, or pushy.
+- ○​ Eliminate the prospect taking the lead (which leads to follow-ups, etc)
+- ○​ If they say “let’s do it” you can just go onto “what’s your billing address “
+- ○​ Don’t be discouraged if you do this and they don’t move forward. Circle back with
+- the objection handling process.
+- “Sharp Angle” Trial Close:
+- “So if you come in and we show you exactly how to get to (OUTCOME), is it worth it for you to
+- Ready to get started on some homework?
+- What’s your billing address.
+- So if you come in and we show you exactly how to get back to 125lbs and reclaim your health
+- within 90 days, are you 100% going to show up and do the work?
+- ...and when you get stuck, do you promise me you’ll reach out for help?
+- Good… ready to get started on some homework?
+- What’s your billing address.
+- “Feel Good” Trial Close
+- How do you feel? Feel good? (Or even to clarify, “feel like this is the right fit?”)
+- Ready to get started on some homework?
+- What’s your billing address.
+- “Let’s Keep It In Context” Trial Close (Chunk Up & Chunk Down)
+- Example #1) See - “It’s just a lot of money…” (PART 2 - Non-ROI Offers) in “Uncertainty
+- Objections” training.
+- Example #2) See - "Financial Objections Step 2.5 (If They Have Resources But Need A
+- ○​ Offers we can make to lower the risk taken on by the prospect.
+- ○​ Don’t “rely” on these… but they’re good back-ups if needed.
+- ○​ Don’t use to overcome “uncertainty-based” objections.
+- ○​ You’re going to use these more to do with logistics (finances/timing) or maybe if
+- someone is paralyzed by fear/risk but really wants to do it.
+- ○​ Lowers risk threshold so the prospect is able to do what’s best for them.
+- ○​ Again… don’t get used to relying on this.
+- ○​ You may not want to do some of these, and that’s completely fine! This is just
+- stuff that I’ve used sparingly in the past for the right people and they DO work.
+- I “buy” your second month:
+- This is where you “buy” the second payment and give them 60 days to max the second payment
+- For example, if it’s a 6 month term… 5k/m… you can “buy” the second payment so they don’t
+- have to make the next 5k until 60 days (which does extend it 7mo).
+- I “buy” you a month of time:
+- You add on an extra week, 2wks, or month to the program to overcome logistics dealing with
+- For example… say the prospect wants to start in a month after an event that they’re putting on
+- from their clients. So they want to make sure that when they’re “in” they’re fully committed.
+- You can “buy” them a month…
+- Gotcha so other than having that event coming up and that packing your schedule, there’s
+- nothing else that’s keeping you from knowing this is what you want to do?
+- So in other words, if we were talking the DAY AFTER your event, you’d be 100% in?
+- Awesome. Well first of all, I agree with you AND…
+- ...while I don’t think the best thing for you is to hop in if you’re not 100% ready…
+- ...I also don’t think the best thing for you is to do nothing about ____ (the problem)
+- So what I’d be willing to do for you, given you’re 100% in, is buy you a month of time.
+- So instead of 8 weeks, we’ll make it 12 weeks and the extra four are on me.
+- So that way, you don’t have to worry about not getting the most out of your investment by
+- ...but at the same time, even if it’s just a little bit of time here and there, we can start to get the
+- ball rolling on things so that right after the event - instead of starting from ground zero we can
+- REALLY hit the ground running.
+- Does that make sense?
+- So if that’s something I’m willing to do… is that something willing to move forward with right
+- (NOTE: I HIGHLY HIGHLY HIGHLY recommend having this as an option if your program is
+- “productized” (i.e you have material / content and 100% of the fulfillment is not YOU). If you are
+- a pure “1o1” coach or DFY service, this would mean more of your time. But you could still get
+- If I have someone SUPER close, but they’re wanting to sleep on it or gut check, but I know I
+- have them… I’ll tell them to do it and if they wake up the next day and feel like they screwed
+- up… i’ll refund em’. The way you frame this is important because you don’t want to sound like a
+- slimy salesperson lol.
+- So just doing a little gut check aside, you feel good about this? You feel like it’s 100% what you
+- While the best thing for you definitely isn’t hopping in if this isn’t the right thing and NOW isn’t
+- ...the best thing for you is also not to do nothing.
+- So look, here’s what I would do if I was you...
+- ...I would metaphorically draw the line in the sand and say “I’m committed to no longer having
+- ____ and to start having ____” and step across that line and do this…
+- ...and look - if you wake up tomorrow morning and at the bottom of your bones you know this
+- was NOT the right thing and you made a shit decision, we can refund you and circle back
+- another time. No worries.
+- (Note: Making the decision about “metaphorically drawing the line in the sand” is SUPER
+- powerful. You can do it for the deposit too).
+- Same thing as above… you just give them 7 days. Might be better if you have someone who’s
+- super skeptical “this is just going to be like this other program I tried”.
+- Again, better if it’s a productized offer which has a good client culture opposed to 1o1. And
+- also… I wouldn’t do this if it’s going to take a ton of your time 1o1.
+- You can guarantee someone you’ll work with them til’ they ROI.
+- Probably smart to add in some conditions… (you have to go through all of the content, attend all
+- the calls, and if you still haven’t ROI’d I will work with you until you do).
+- Also - not always ideal if you’re a 1o1 coach or possibly professional service.
+- Similar to ROI guarantee, but you’ll refund.
+- The key here is you must make this conditional (they’ve gone through the content, attended the
+- calls, reached out for help, and after all of that we determine that we CAN NOT fix your
+- problem we’ll refund you).
+- This could build upon the ROI-Guarantee as well.
+- Make sure this is clear so you don’t get to the end of your program with people asking for
+- refunds who didn’t put in the work, etc…
+
+## CLOSING DEPOSITS — Depozītu Slēgšana
+
+> *«Depozīts nav pārdošana. Tas ir APŅEMŠANĀS — pirmais solis, ne pēdējais.»*
+
+- ○​ Language we use to close the prospect into a refundable or non-refundable
+- ○​ When the prospect is 100% tied down on the PROCESS (multiple times) it’s just
+- timing / finances standing in the way (or sometimes, a “let my spouse/partner
+- ○​ To get them financially committed to some form of action.
+- ○​ Helps lock in further follow-up calls.
+- ○​ Your conversion on follow-ups will be way higher.
+- ○​ If they decide not to do it, you have a chance to recoup.
+- ○​ If you do this without everything I’ve taught in week 4 beforehand, it’s not going to
+- work. They MUST be tied down to the process it’s simply just logistics.
+- ■​ This isn’t how you overcome “think about it” or anything
+- So just to be sure, having moving money around aside, there’s nothing else that’s keeping you
+- from being less than 100% certain this is what you wanna do?
+- So that aside, you’re 100% in?
+- Awesome man well I’m happy to hear you’re committed to getting onboard! This stuff happens
+- all the time, so totally normal.
+- What we do in cases where someone is 100% in, it’s just a matter of moving money around is
+- take a refundable deposit.
+- It’s completely refundable so it’s not committing you to the program, but it allows us to know that
+- you’re in so that we can everything set up on the back-end and get you some homework so that
+- once the funds come in we’re 100% ready to hit the ground running.
+- ...and then if for any reason you have a life crisis or something and can’t do it, no worries we
+- can send it back to you too.
+- The deposit is just 1k… so what’s your billing address?
+- Overcoming Resistance On A Deposit
+- Scenario 1: They said “no” BEFORE you told them the deposit amount.
+- Ok - well, how do you mean?
+- Ok - well I can appreciate that.
+- Now can I be honest with you for a second?
+- You just got done telling me you were 100% in… and now your having trouble with a 100%
+- refundable deposit in which, you don’t even know the amount! I could of said it’s $50 haha
+- ...so what’s really going on?
+- Scenario 2: They said “no” AFTER you told them the deposit amount.
+- Ok well I can appreciate that…
+- Now just to clarify here for a second... when you say you can’t do the deposit, do you mean that
+- 1) you don’t feel like the deposit is an appropriate next step at this moment?
+- Or that 2) finances are so tight right now that 1k would jeopardize your ability to keep the lights
+- on, pay the bills, and all the essentials?
+- 1.​ If it’s not appropriate, proceed to “scenario 2 part 2:”
+- 2.​ If it’s finances, get cash on hand // credit and do a more appropriate amount. Make sure
+- there is no shame involved in this. (Side note: you probably should already know their
+- Ok - well I appreciate that.
+- Now, can you help me understand something for a second?
+- You just got done telling me you were 100% in, but now you’re saying that you’re uncomfortable
+- putting down a fully refundable, no-risk deposit on something you just said you’re 100% in on 2
+- seconds ago… so what’s really going on here?
+- < They say something that doesn’t make sense - proceed below >
+- Let’s take a step back for a second. WHY did you come on this call?
+- To fix your business and lead generation, right? To be able to scale up to 50k/m, am I wrong?
+- So look, not only have we figured that problem out ourselves and are WAY past 50k/m…
+- ...we have hundreds of clients past that mark too. Which means we have a proven process to
+- GET that outcome - which is exactly what you came on the call to get, right?
+- So look… this refundable deposit IS the first step in that proven process.
+- ...and if the very first step in the process I tell you to do you have a problem with, then how do
+- you expect me to LEAD YOU to the result that you want?
+
+## THE ART OF THE DELAY — Aizkavēšanās Māksla
+
+> *«Ja klients saka 'vēlāk' — tā nav atteikums. Tā ir IESPĒJA. Bet tikai ja tu to apstrādā TAGAD.»*
+
+- Setting & Closing Follow-Ups.
+- How To Set The Follow-Up:
+- 1.​ 2-Call Close (professional services, lack of trust, ran out of time, partner)
+- 2.​ Spouse “Permission” (see “support objections” sheet)
+- 3.​ Delayed to maintain leadership at the end (they either aren’t going to close OR been
+- burned, etc - see below)
+- Let me pause you for a second here…
+- I gotta head off here in a few and I actually don’t want you to make a decision on this right now -
+- I want you to think about it and make sure it’s the right thing for you before making any decision.
+- So let’s set up a call to iron out the rest of the small details tomorrow and then we can figure out
+- what’s going to be the best thing for you from there - sound good?
+- Gotcha so I have 2pm and 4pm CST open tomorrow… which one of those work?
+- 100% sure 4pm works? Great let’s do 4pm CST… I’ll send you a calendar invite.
+- Did you get it? Great…
+- And short from getting hit by the bus (haha) will you let me know if anything comes up prior to
+- that call to where you can’t make it or have to reschedule?
+- Great so write down the rest of your questions you have and we can knock those out on the call.
+- And then look - if you still feel good, we can talk about getting going if that’s the best thing for
+- you. Or depending on what we talk about we might want to hold off a bit until the time is right
+- and then in the meantime we can just keep communication open til’ your ready. Sound good?
+- And last thing… I got a bit of homework for you to go through - probably take 5 min - that I think
+- would be helpful for you based on what you shared with me earlier on the call. Will you be able
+- to take 5 min to go through that before tomorrow?
+- Awesome. Anything else before we hop off?
+- See ya tomorrow 4pm CST
+- Homework & Texts To Send Pre Follow Up
+- Scenario: We book a 24 hour follow up.
+- 2 hours after: “How’re you feelin about our call earlier?”
+- 1.​ Positive response (I’m feeling good, excited, etc)
+- 2.​ Neutral → negative response (I’m nervous, I’m not sure if this is the right thing… etc)
+- Scenario 1: Positive Response
+- If positive response, ignore until day of. And then send “Awesome - Still on for our call at xxpm
+- (if you happen to get a no response here, do a “?” and hour or two before)
+- Scenario 2: Neutral → Negative Response
+- Scenario: What’s the best way to respond to someone who DMs you post-call with, “That’s a
+- hell of a lot of money and a lot to think about””?
+- Text Back… (break all these up into separate “sends”)
+- Haha I can appreciate that... ​
+- Nerves and a little bit of overwhelm are a normal feeling to have when you’re on the edge of
+- making a shift away from the 9-5 world. ​
+- Sleep on it and let’s not make any decisions for now... ​
+- We can talk about if this is the right thing (and if so, when is the right time) when we check in
+- No worries either way 💪
+- 1.​ “I can appreciate that” (pace pace lead)
+- 2.​ Create duality then reassure how’re they feeling is NORMAL for people yet to make the
+- 3.​ Remove the “come to the call with the decision” vibe
+- 4.​ Be their trusted adviser
+- 5.​ “No worries either way” eliminate risk of high-pressure close.
+- Scenario 3: No Response
+- Morning of hit them up with a ​
+- Running The Follow-Up:
+- (Start off with tiny bit of rapport - same principles apply as call #1. Make sure to take the lead)
+- So if it’s alright with you, I’d like to recap our last call so that we’re talking about the same thing,
+- So last time we talked about the fact that your main sticking point is the lack of volume you’re
+- having with your lead flow and not having any sort of reliable system to generate business at
+- ...and because your lead generation is off, not only is the business on an up and down
+- rollercoaster to where you can’t plan but it’s keeping you from putting money away in retirement
+- and moving towards actually building this into a BUSINESS that can provide a legacy - not a
+- And we also talked about if you get that figured out, the real goal is to not just build this into a
+- well-oiled machine, but a platform that you can use to eventually land more speaking gigs, book
+- deals, and so on so that ultimately you can make an impact in the lives of your people and leave
+- something substantial behind.
+- Now did I miss anything or do you still think we’re on the same page?
+- Awesome… so how’re you feel?
+- [Proceed into objection handlers, clarifying questions, if necessary]
+- 1.​ Surface Level Pain // Financial Level Pain
+- 2.​ Emotional Level Pain
+- 3.​ Surface Level Desire // Financial Level Desire
+- 4.​ Emotional Level Desire
+- 6.​ Whatever you do… DO NOT READ ALL YOUR NOTES WORD FOR WORD
+- 7.​ Should be 2-3 key points
+- 8.​ Should be super relevant to what they told you on the first call, not come off salesy.
+- **** If Someone Refunds / Cancels The Follow-Up
+- https://video.bunnycdn.com/play/89788/1aa0e4c2-33ef-4f53-86b6-230cfb71891b
+
+## PRE-CLOSE REFRAMES — Pirmslēgšanas Pārrāmēšana
+
+> *«PIRMS cenas — sagatavo smadzenes. Pārrāmē vērtību. Tad cena ir loģiska.»*
+
+- ○​ Reframes / language patterns we may use when we get different forms of
+- resistance PRIOR to the close.
+- ○​ Create compliance with the process while maintaining rapport
+- ○​ TONALITY - must be diffusing. Neutral. NOT approval-seeking and NOT
+- condescending or angry.
+- ○​ For program/price reframes (1st one below) if you are demonstrating
+- incompetence in your information-gathering phase it will be hard to reframe.
+- “Just tell me what you do // the price // your offer // etc”
+- Totally understand you want to get down to brass tax and hear about everything we do, the
+- I the highest level - what I do is help entrepreneurs, sales reps and sales team’s close more
+- deals and ultimately make more money per every sales call they make.
+- Now the HOW behind that is all customized. It’s different for everyone. So instead of getting into
+- a boring laundry list of the 1000s of different possible things we can do for clients...
+- ...what’s probably going to more appropriate is to first get an idea of where you are, where you
+- wanna be, and what’s stopping you from getting there to see if we can help and if so HOW
+- exactly that’s going to work…
+- Is that fair with you?
+- “Just tell me what you do // the price // your offer // etc” (Part 2 - They push
+- Totally get you want to get into all the details and the brass-tax. I’m the same way.
+- Everything we do is all customized, and all predicated on what’s best for the client. It’s not a
+- COURSE where we just give you and tell you “good luck”. We’re actually getting in the trenches
+- with you to do whatever it takes to get you to the finish line.
+- That said - there’s no way I can tell you EXACTLY how everything is going to work if we’re not
+- able to have an open and honest conversation about exactly where you’re at and you want to
+- So while I’d love to answer those questions… I simply don’t know how if you’re unwilling to have
+- an authentic conversion.
+- So we could definitely have that type of conversation if you want? You let me know how you
+- Let me pause you for a second…
+- (if necessary) What’s great about what you said was ____, but what I’m really curious about is
+- (insert your next question)
+- (if they still continue to go on and on and on…)
+- Can I butt in really quick?
+- I love all the detail and background we’re going through right now and I totally appreciate you
+- being super honest and clear with me…
+- One thing I want you to keep in mind, is that we only have about 45min-1hr for these calls, and I
+- want to make sure I serve you at the highest level possible…
+- ...and in order to do that, we definitely still have to get some clarity on (insert areas of the call
+- you haven’t covered yet).
+- So are you open to rapid fire through some key areas here so we can see what exactly you
+- “They’re Disengaged (Your Sensing A Disconnect)”
+- Hey can I be honest with you for a second?
+- I’m not feeling as if we’re as “in sync” as we were when we started the call…
+- What’s coming up for you?
+- “They’re Disengaged (Your Sensing A Disconnect)”  Part 2
+- Can I tell you what’s coming up for me right now?
+- Maybe I’m misreading this… but when you got on this call it seemed like you really wanted to fix
+- ...and - I’m trying to have a conversation with you about it - but you don’t seem very engaged.
+- Is there something else that’s going on?
+- “They’re Disengaged (Your Sensing A Disconnect)”  Part 3
+- Can I be honest with you for a second?
+- I appreciate you for getting on this call and opening up about what’s going on in your life and
+- business so far, but here’s what I’m at:
+- Everything we do for clients is all customized. So for me to be able to determine IF we can help
+- you and - if so - HOW exactly that’s going to work I really need to get a full understanding of
+- what’s going on not just in your life, but in your business.
+- ...and it’s really hard for me to do that with half-hearted, one or two words answers.
+- So if we continue on like this, I’m not sure if I will be able to figure out how to help you.
+- Now I could be misreading this? Or maybe something else is going on? Either way, let me know
+- how you would like to proceed…
+
+## RE-OFFER TECHNIQUE — Atkārtotā Piedāvājuma Tehnika
+
+> *«Ja klients teica 'nē' — tas nav beigas. Tas ir sākums OTRAJAM piedāvājumam.»*
+
+- ●​ What is a “re-offer”?
+- ○​ It’s an offer we make 1-4 weeks after the initial consult that acts as a
+- “hook” to get them back on the phone.
+- ○​ Pricing one work best (unless they’re experienced / money isn’t an issue).
+- This is why you don’t wanna give payment plans.
+- ○​ By default, all of your evergreen launch offers are “re-offers” you can use.
+- ■​ “I.e” when you attach a bonus to your evergreen offer.
+- ■​ The more you’re prolific with these, the better your follow-up game
+- will be (gives you a reason to reach out)
+- ●​ How do “re-offers” work?
+- ○​ Re-offer to overcome whatever was their original objection. For example:
+- ■​ Not enough time to implement → bolt on 30 days to your offer
+- ■​ Not enough cash flow → price re-offer (can be a 2 or 3 pay)
+- ■​ Trouble with lead gen → (Private 3 day workshop on lead gen
+- ■​ Trouble with sales → (“Sales Intensive” where you review their call
+- and do an analysis breakdown)
+- ■​ Trouble getting started → (Revealing the exact strategy (influencer)
+- used to get his first 3 clients)
+- ○​ “Want me to send you some info” (gets a higher response rate //
+- ○​ You can use this through outbound facebook messenger
+- ○​ It can be an “offer post” in your facebook group / email list / manychat
+- ■​ “If you’ve been on the fence” post.
+- Hey (first name) - we're testing something new out this week that'll help you (overcome
+- I know you were saying that ____ was keeping you from being able to move forward, so
+- when (influencer) brought this up in the meeting i thought of you. You want me to send
+- No worries either way SEND
+- “We’re testing something new that’ll allow you to come in for less down and be able to
+- “We’re testing something new that’ll help give you a longer time frame to implement”
+- Literally just make it overcome whatever objection they had, and then make the deal
+
+## FOLLOW-UP & PIPELINE MANAGEMENT — Sekošana un Pipeline Vadība
+
+> *«80% pārdošanu notiek pēc 5. kontakta. Lielākā daļa operatoru apstājas pēc 1. Pipeline = sistēma, ne atmiņa.»*
+
+- Follow-Up & Pipeline Mgt
+- ○​ You will be capped if you only 1-call and never do follow up
+- ○​ If you’re not doing it, this is basically free money
+- ■​ Higher DPL // more efficient
+- ○​ Follow-up/pipeline gives your reps CONTROL
+- ●​ Many of the follow-up strategies you’ll learn in this training, like the “re-offer”, are
+- ●​ However, I know from experience that when reps first learn these, they use it as a cop
+- out to not maintain their leadership at the end of sales calls.
+- ○​ They start letting people off the hook - because now they have an option.
+- ●​ The KEY is to still be aggressive and do whatever it takes to get the deal done TODAY.
+- Still focus on MAXIMIZING 1-call closes. Then use these strategies AFTER you’ve
+- already laid everything on the line.
+- Not Burning The Bridge
+- ●​ The issue with what I said above (maintaining aggression, leaving everything on the line)
+- is that often times the sales rep burns the bridge with the prospect
+- ○​ Ex: The prospect has a bad experience with the rep, loses all trust, and never
+- wants to talk to them again because it was too high-pressure. They “burned the
+- ●​ So… how do you maintain aggression WHILE leaving the door open to follow-up? How
+- do you get the best of both worlds?
+- ○​ #1 - Make sure you’re handling objections in the right way. Go through my
+- objections training if you don’t know how to do this (7FSA - Objections)
+- ■​ If you’re being super lame, super high pressure… and your pressure is
+- NOT coming from a place of preeminence and moral authority, then
+- you’re doing it wrong
+- ○​ #2 - Re-build rapport for 2-3 minutes AFTER the door is finally closed.
+- ■​ Usually when you’re handling objections, you’re able to tell when the door
+- is finally closed. The moment where you’ve done everything you can do,
+- left it all out there, and it’s simply not going to happen
+- ●​ When you get to this place, many salespeople end the convo as
+- ○​ This BURNS the bridge of follow-up. You’re basically
+- communicating: if you’re not gonna buy, you’re worthless
+- ■​ The antidote to this; stay on for 2-3 minutes have a bit of small talk, give
+- them some homework, and set your follow up
+- ●​ ALWAYS SET A FOLLOW UP (unless they’re 2-3+ months out).
+- ○​ Always add to “general list” or “hot list” unless they are an
+- ○​ Add the “nurturing” part of your pipeline stage.
+- ●​ Also add to FB friends, add to facebook group, send homework
+- Another Misconception About Follow-Up
+- ●​ Most people think that they key to follow up is PROCESSES and SYSTEMS
+- ●​ While those do matter, what’s far more important is cultivating an environment & team
+- culture that creates the intrinsic motivation for salespeople to WANT to do massive
+- ○​ Intrinsic motivation is key. Most people try to REQUIRE their salespeople to do a
+- certain amount of touches, follow-ups, etc. That’s the wrong way to think about it.
+- That’s EXTRINSIC motivation and you’ll never get as good as results. The key is
+- ●​ How to cultivate intrinsic motivation:
+- ○​ Create a high-performance culture where NOT hitting projections is unacceptable
+- ○​ Then create projections that are impossible to hit WITHOUT doing
+- ■​ The projections should be high enough, to where even if the salesperson
+- executes the week perfectly they will have a 60-70% chance of hitting it.
+- ■​ I learned this tactic from the COO of IBM. This pressure will stretch them
+- to levels of high-performance they never knew they were capable.
+- ■​ The key though - is making sure the pressure to hit projections is intrinsic
+- (for their own reasons) not extrinsic (for YOUR reasons). If not, this will
+- Basic Pipeline Set Up
+- Importance Of General List & Hot List
+- ●​ This was mentioned in the previous training, however one of my KEYS to follow-up is the
+- general list vs. hot list
+- ●​ Back when I sold full-time, I had a reputation of NEVER letting anyone slip through the
+- cracks. Once you came into my ecosystem, my follow-up was relentless. This was also
+- why I was always the top sales rep.
+- ○​ I did this by creating a general list & hot list
+- ●​ General-List: Worth following up, but not-time sensitive
+- ○​ Generally longer term (30+ days)
+- ○​ Use basic hubspot tasks
+- ●​ Hot-List: Essential that you follow up on a certain day and DO NOT forget
+- ○​ Can be short or long-term, many times it’s just short
+- ○​ Use top bar of gcal
+- ●​ Why do I do it this way?
+- ○​ Anyone who has a chance of buying in the future you want to add to your
+- ○​ When you do this, what’s going to happen is your list is going to get massive.
+- Hundreds if not thousands of people.
+- ○​ It’ll get to the point where you have too many people in one list to clear the list of
+- follow-ups you’re supposed to do in one day
+- ■​ Ex: I used to JUST use hubspot tasks, but I’d have 50-100 hubspot tasks
+- due at any one time, I could never catch up.
+- ●​ This was frustrating because MOST people in that pipeline were
+- NOT time sensitive. Whereas some were super valuable people I
+- ○​ So what I did was I split my pipeline into two parts.
+- ○​ This allowed me to NEVER forget my high-value, time-sensitive follow ups… yet
+- still always be able to keep tabs on everyone.
+- ■​ I’d always clear my hot list DAILY
+- ■​ Then my general list I’d usually clear 1x week on saturdays in about 2hrs
+- (literally hundreds of follow ups).
+- Re-Offer Misconceptions:
+- ●​ Don’t use this as a cop out
+- ○​ I know I said you don’t want to give payment plans. And you don’t if they’re not
+- tied down that THIS is the right thing and NOW is the right time.
+- ○​ For reference go through financial objections training in “objections”
+- ○​ However, you should still do everything in your power to close the person on the
+- first call - so if that means payment plans DO IT
+- ○​ This is also (as we mentioned earleir) not an excuse for not having leadership at
+- ●​ Easiest thing is to just use the pricing angle. But don’t overthink this. Just take massive
+- action, send 100s of these out. Send them out to every person that doesn’t buy. The only
+- point is to get BACK on the phone.
+- ●​ You should add the prospect to your hot list with a specific date to re-offer EVERY TIME
+- they don’t buy (but don’t bank on the re-offer and use it as a cop out).
+- Leadership-Based Follow Up Strategies
+- Follow-Up: Bringing It All Together
+- 1.​ Maximize 1-call closes - DO NOT let anyone off the hook
+- 2.​ Once the door is closed, don’t burn the bridge. Leave communication channel open
+- 3.​ Add to hot list, then plan a re-offer within the next 90 days (likely within 2-4 weeks)
+- 4.​ After the re-offer, add to general list then use leadership based follow up UNTIL
+- a.​ Frequency: Depends… but every 2-4 weeks is good depending on context.
+- b.​ You can make MORE re-offers! 2-3x per person.
+- Bonus: Rebooking No Apps & No Shows
+
+## REFRAMING STRUCTURES & PATTERNS — Pārrāmēšanas Struktūras un Paterņi
+
+> *«Reframe nav triks. Tas ir veids kā palīdzēt klientam REDZĒT to pašu lietu no cita skatu punkta.»*
+
+- ●​ Tell them what’s on your heart. What’s really going on. The truth.
+- ●​ Clarify & Understand
+- ●​ Isolate objections (1-2x) - Optional depending on if you’ve already done it.
+- ●​ Appreciation & Reassure
+- ●​ Accountability (Bring back up what they said earlier on the call)
+- ●​ Transform The Meaning (Reframe)
+- ○​ Use any listed below
+- ●​ Time To Decide (Contrast two choices)
+- The “Nice-Guy Negotiation”
+- ●​ Clarify & Understand
+- ●​ Appreciation & Acknowledge
+- ●​ State Your Position
+- ●​ Ask them how they would like to proceed
+- Can I be honest with you for a second…?
+- You just got done telling me _____….
+- And now you’re saying that (or it seems like) ____….
+- ...what’s really going on here?
+- “It’s A Simple Decision”
+- Look I get your concerned about ___ …
+- ...but the decision is really simple:
+- Do you want to stop (pain / cost / urgency) and (have outcome / desire) or not?
+- The real decision isn’t if you’re going to work with me or anyone else out there…
+- ...the real decision is are you ready to have your ACTIONS align with your WORDS.
+- The real decision is, are you ready to stop (pain / cost / urgency) and start (outcome / desire) or
+- Doesn’t matter to me… but that’s really what’s at stake for you here.
+- “Confusing The Problem With The Solution” (Circumstance vs Vision)
+- A totally hear you and can appreciate that you don’t feel like you can do this because of
+- because you don’t have enough time (or insert whatever problem)
+- ...but I also want to remind you, that not having enough time is exactly what you got on this call
+- So if the very problem that you got on this call to solve, is exactly what is going to keep you from
+- getting started on fixing the problem… then you’re in a self-perpetuating loop  -and you’re stuck.
+- So the real question is NOT when is going to be the right time...
+- It’ll never feel like the right time.
+- The real question is, when are you going to stop making decisions based on current
+- circumstances and instead based on your vision?
+- ...because if you keep making decisions based on current circumstances, you’re only going to
+- generate what? More of the same.
+- ...but when you start making decisions on your future vision, well you open yourself to a whole
+- world of possibility.
+- So which one of those ways do you wanna go?
+- Do you want to be the person who is constantly reactive, making decisions based on their
+- current circumstances and constantly going in circles?
+- Or the person who is able to get uncomfortable because that MEANS getting in alignment with
+- The “That’s Exactly The Reason Why”
+- In this one, you reframe the objection as exactly why the need to get started. See ex below:
+- You would use this as the “reframe” in CIAPATT
+- ●​ I had a client who also ____ (ideal client) and he was also ____ (experiencing the same
+- ●​ ...but he realized ____ (the reframe, “that was exactly the reason why”)
+- ●​ And therefore ___ (he experienced the same result)
+- Now can I be honest with you for a second…?
+- I had a client named Bob who was also a struggle health coach (same type of client)
+- ...and he was in a position where his business was failing and the only way he could possibly do
+- it was using credit, but he just felt like it wasn’t responsible financially based on where he was at
+- ...but then he realized, that was exactly the reason he needed to do it. He was in a place where
+- he didn’t even have 5k to his name. And to him, that wasn’t acceptable.
+- So he bit the bullet and got uncomfortable because he KNEW a decision like that was truly the
+- shift he needed to make to become a real entrepreneur…
+- ...and because he did, now he’s doing about 50k/m on a consistent basis.
+- So the real question is… (the go into contrast)
+- How Would You Feel If…?
+- Can I be honest with you…?
+- How would you feel if you missed out on your only change to ____ (change your situation)
+- How would you feel if you because you didn’t do this, you’re in the same exact spot this time
+- next year? Still struggling with ___ and ultimately making no progress (their pain)
+- How would you feel if 6 months from now, your situation gets even worse and then you can’t
+- even do this if you wanted?
+- Can I be honest with you…?
+- Earlier on the call you told me ____ (the consequence of what’s going to happen if they don’t
+- ...so what’re you going to do if you don’t do this?
+- Earlier on the call you told me that you’re wife told you that if you don’t figure it out by the new
+- year that means going back to your 9-5 and you said you’d rather jump out your office window
+- then have to do that…
+- ...so let me ask you, what’re you going to do if you don’t do this?
+- “Chunking Down To The Ridiculous”
+- (Works great with pricing objections for non-ROI offers)
+- So when you say it’s too much, what’d you mean?
+- Gotcha well I hear you and appreciate you bringing that up. Thank you.
+- And I also want to reassure you that a lot of my clients felt that way before they put it in proper
+- Now, that said, can I be honest with you?
+- Earlier on this call you told me that your worst fear was your health getting even worse and then
+- 10-15 years from now having to go through the same health struggles your father did, right? The
+- ones that cost 10 or even 15k in medical bills to cover, no?
+- ...and beyond that, it’s not just about avoiding that, but you also want to have a body that when
+- you look into the mirror you don’t feel shame. And instead you can actually feel good in your
+- own skin for the first time since your 20s.
+- So I want to realign you with that for a moment. And put this all into proper context…
+- ...because while I get that 5k right now might seem a little scary, this is an investment to get your
+- HEALTH back. Your SELF-ESTEEM back. Not just now, but for the rest of your LIFE!
+- ...and to get that outcome, I guarantee if you put in the work you’ll be there in less than a year.
+- So just to put the investment in context here…
+- 5k spread across 365 days in a year is just over 10 dollars a day. Across 5 years is 2 dollars a
+- Is that too much to invest in getting your health back for a lifetime?
+- “The Definition Of Self Sabotage”
+
+## PACING FIRST OBJECTION — Pirmā Iebilduma Pace (Tempa Saskaņošana)
+
+> *«Pirmais iebildums vienmēr ir TESTA iebildums. Klients testē — vai tu esi drošs? Pace = saskaņojies, tad vadi.»*
+
+- ...and then investment to get you to (high-level outcome) is just XXX
+- (...and the investment to get you to 20k/m, 240k a year is just 6800).
+- Pacing The First Objection
+- ○​ Language pattern framework we almost always use after we get the first
+- ○​ To tie down the prospects certainty on the process BEFORE moving into finances
+- / partner objections (you can’t handle those until the prospect is certain on the
+- ○​ To discover the REAL objection
+- ○​ To maintain leadership (we’re not going to give away any of our potential re-offer
+- ammo until they’re certain (aka payment plans))
+- ○​ This is not an antidote for a bad Intro / info-gathering / transition / pitch
+- ○​ A lot of what’s taught here can be used if you get a bad temp check in the
+- “committing phase” as well.
+- Step 1: Pace & Tie Down #1
+- For a second, let’s just pretend that money is out of the equation. How do you feel about the
+- process specifically? Do you feel like ultimately, it’s what you need to get to (OUTCOME)?
+- 1)​ The prospect agrees
+- 2)​ The prospect does not agree or is uncertain (scale of 1-10 OR reference)
+- a)​ Listen to their tonality
+- Step 2 (Prospect Agrees): Tie Down #2
+- Option 1 (if they haven’t mentioned money / partner): How vs. Should.
+- So just to be clear… you’re not in a “SHOULD” I do this place to where you’re going back and
+- forth on if this is the best next step for your business, it sounds like your more in a “HOW” can I
+- do this place to where you’re 100% certain this is the shortest and most effective route to
+- (OUTCOME), it’s just a matter of making it work financially
+- Option 2 (if they’ve already mentioned money / partner obj): Isolation
+- So just to be clear, (OBJECTION) aside, there nothing that’s keeping you from being less than
+- 100% certain that this is what you need to get to (OUTCOME)?
+- 1)​ We get the double tie down on the process and have isolated either money or spouse
+- 2)​ They bring up that there’s a level of uncertainty
+- Step 2.5 (If Uncertain, OR they give you a surface level/ambiguous response to step 1):
+- No worries, and I’d like to acknowledge you for being honest with me about that. That’s
+- something I can appreciate.
+- Option 1 (if you’ve scale 1-10 temp check’d earlier and they passed):
+- Now can I be honest with you for a second?
+- You just got telling me that you’re a 9 out of 10 on the process because ____ (insert reason why
+- they told you they were a 10) and now it seems like you’re nowhere near that certain about the
+- process…. So, can you be honest with me? What’s really going on?
+- 1)​ They tell you why they’re uncertain (real objection)
+- 2)​ They revert back to money/partner
+- Option 2 (If you didn’t scale 1-10 temp check):
+- So just for clarity here… what’s important to us is ALIGNMENT
+- ...because this isn’t like a course or something where we just give you a bunch of videos and
+- modules and tell you “good luck”
+- If you come in and do this, we’re rolling up the sleeves and getting in the trenches WITH YOU.
+- We’re fighting this fight with you.
+- So if we’re going to put our reputation on the line and dedicate not only our resources but our
+- teams time to your success, I want to make sure that money and logistics aside you are
+- BOUGHT IN to the process and you feel like it’s the most effective route to (OUTCOME)
+- So on a scale of 1-10… 1 being this sounds horrible, I hate this guy, and want to get off the
+- phone and 10 being; this sounds like exactly what I need - where do you feel like you fall in
+- terms of just the process?
+- 1)​ They give you a 10
+- a)​ So is it just the money then?
+- 2)​ They give you a 8 or a 9
+- a)​ So that’s pretty high… when you say “8” what does that mean to you exactly?
+- b)​ What else, if anything, is keeping you from being less than 100% that this is what
+- You get the real objection
+- You get ambiguous response (Can you be honest with me for a second?
+- Is it just nerves? Is it just risk?)
+- 3)​ They give you 7 or below
+- a)​ So what exactly do you feel is keeping you from being a 8, 9 or 10?
+- You get real objection
+- You get ambiguous response (Can you be honest with me for a second?
+- Is it just nerves? Is it just the risk?)
+- Option 3: Three Choices.
+- No worries man. Can I ask you an honest question/
+- Anytimes people feel less than 100% certain that this is the right thing and now’s it’s typically 1
+- 1.​ You aren’t 100% sure the process will work for them
+- 2.​ You don’t trust me or the company
+- 3.​ You KNOW this will work and trust me - it’s just a matter of making it work financially.
+- Which do you feel like you’re at?
+
+## PITCH CREATION WORKSHEET — Pitch Izveides Darba Lapa
+
+> *«Pitch nav improvizācija. Tas ir KONSTRUĒTS — kā māja ar fundamentu, sienām un jumtu.»*
+
+- Pitch Creation Worksheet
+- This worksheet is designed to help you develop the “pitching phase” of your Pitch
+- This is the MOST important part. This phase (and worksheet) can also be used to
+- create (or refine) your offer.
+- Do not forget - your offer/pitch is the MOST IMPORTANT PART of the entire call.
+- Especially with how competition is today.
+- Take your time with this, and let me know if you have questions / need feedback.
+- Step 1: Get Clear On The Transformation
+- What is your clients current situation vs desired situation? List that below.
+- Step 2: List All The Steps
+- Think of all of the clients you’ve worked with in the past (or possibly even your own
+- transformation) what are the steps you had to take to go from current → desired
+- List ALL of them in chronological order below:
+- (Tip: Consider foundational roadblocks, tactical roadblocks, mindset issues, biggest
+- fears, where your clients got stuck/needed most support in the past, etc)
+- Step 3: Get Clear On Which Steps Are Most Essential
+- Answer the following questions to help you get more clarity on your steps:
+- ●​ Are there any steps that will give your clients a quick win?
+- ●​ Are there any steps that will give your clients an immediate sense of clarity?
+- ●​ What are the 20% of the steps that drive 80% of the results?
+- ●​ What are the 20% of the steps most desired by 80% of the market?
+- ●​ What steps are unnecessary (and should be automated, delegated, or
+- ●​ What steps give clients the most success in the shortest amount of time?
+- ●​ Where do clients get stuck, need support, or fall off? (How can you create a step
+- ●​ Are there any steps that eliminate the “fear of success”? (The next problem the
+- prospect will have after they solve their core problem).
+- Step 4: Narrow Down Steps Into “Pillars”
+- Based on the questions above, narrow down to 3-4 steps (now called “pillars”).
+- Here’s some general guidelines/best practices of how I like to do it:
+- ●​ Include elements to give the client a quick win/result
+- ○​ Ex: asset utilization
+- ○​ **You can also use this element with your onboarding (i.e call reviews)
+- ●​ Include “foundational” elements that NOT having would make everything else
+- irrelevant or ineffective
+- ○​ Ex: Your offer, if you sell facebook ads.
+- ●​ The first element explains why what they tried previously didn’t work (similar to
+- ○​ Ex: your offer, if you sell paid ads
+- ○​ Ex: your energy, if you do sales training.
+- ●​ Should flow in logical order from the first pillar
+- ●​ Don’t make all “IP”
+- ●​ Often will solve the “core issue”
+- ○​ Ex: I help you FIRST with your pitch (foundational) then with your sales
+- ●​ Should eliminate “fear of success” (solve the next logical problem the clients
+- have AFTER they solve the core problem)
+- ○​ Ex: After you have consistent lead flow and are closing consistently, then
+- next you’ll hire a sales rep.
+- List your steps below (don’t worry about fancy names for now):
+- Step 5: Develop Your Proprietary Method
+- Take 1-2 of the pillars and create your own “IP”
+- Sales Pitch → Pitch Codex™
+- Sales Coaching → Reverse Selling System™
+- Then leave the other ones “common sense” (yet obviously desirable)
+- Pipeline & Follow-Up Systems
+- Pro Tip: Typically your want to “IP” the beginning elements that solve the core issue
+- (and also where you have the most competition).
+- Warning: Do NOT overcomplicate this!!!
+- Step 6: Develop Your “High Level Promise”
+- This is going to be [# of pillars] to get you from [current situation] to [desired situation] in
+- [approximate time frame]
+- “This is going to be 4 steps to get you from having zero control on your sales calls to a
+- consistent 30% closing ratio in about 8 weeks time”
+- Step 7: Create A Short Explanation For Your Pillars
+- Get an idea of how you’re going to explain each pillars using the two formulas given in
+- Good if you don’t have the prospects language to use
+- Feature —> Logical Benefit —> Emotional Benefit —> (Optional:
+- The final step we’ll take is to start hiring you sales reps so that you
+- don’t have to take all the calls yourself anymore and you can start
+- working on the business, not in the business, which will ultimately
+- allow you to have that sense of freedom in which you can go on a
+- week long vacation without a laptop attached to your side.
+- Does that make sense?
+- Any questions or thoughts on that or are you ready to move onto
+- Same as formula #1 but the lead in is different when you have the
+- prospects language about their logical/emotional pain.
+- You know how you told me… [logical pain]
+- And it’s making you feel…[emotional pain]
+- Well what we do here is [deliverable/how it works]
+- So that you can have [logical benefit]
+- Which will allow you to [emotional benefit]
+- Tie Down “Make sense?”
+- (Optional: And the reason why this is so important is that
+- [consequence of not having pillar]
+- So you know how earlier on the call you mentioned you were stuck
+- in the day to day sales and it was making you feel like you had a
+- job instead of a business?
+- Well, once we get the first three pillars down, the last thing we’ll do
+- is start to put the right systems in place to bring on your first few
+- sales reps so that you don’t have to take all the calls yourself
+- anymore and you can start working on the business, not in the
+- business, which will ultimately allow you to have that sense of
+- freedom in which you can go on a week long vacation without a
+- laptop attached to your side.
+- (Conseqeuence) And the most important part about this - is finding
+- the right sales reps to begin with. Sales reps are the most
+- expensive hire in your business. For instance - it’ll take about 30
+- calls to see what a closers true closing percentage is, and if your
+- offer is say - 5k - that’s literally staking 150k worth of business on
+- someone you don’t even know is going to pan out. So the real key
+- to this is actually being able to vet the reps on the front end and
+- only hire the ones that have the highest probability to succeed -
+- does that make sense?
+- Step 8: Narrow Down Which Deliverables You’ll Present
+- List out all the ways you support your clients in getting from current → desired situation
+- (i.e training, 1o1, group, call reviews, voxer, events, etc…)
+- Once listed, narrow down the most important 2-3 (you want them to be the most
+- compelling but also give the prospect certainty that you’ll deliver).
+- Step 9: Make Your Deliverables Benefit-Rich
+- List out the benefits and “benefits of the benefits” of each deliverable.
+- Also - list out the consequence of NOT having the deliverable
+- And on top of that you’ll have 1o1 access to me M-F 9-5 through voxer, so that I can
+- coach you on the spot on the day you have calls.
+- Plus, that way if you go into a slump… I can break you out of it within a day opposed to
+- you having to wait 4-7 days til our next clinic.
+- Step 10: Create Your Pitch Structure And Memorize
+- Now we have all the parts, so take each part and put it in order.
+- Pillars & Explanation
+- Once you have this laid out, you want to practice it OUT LOUD dozens of times and
+- rewrite it to be in your own dialect.
+- When you’re on the calls, you SHOULD NOT have to read this word for word. You
+- should be able to just look at the first few words and know the rest - and then be able to
+- “on the fly” tailor it to the prospect situation.
+
+## CLOSER CRASH COURSE — Slēdzēja Ātrais Kurss
+
+> *«Closer nav tas, kurš «spiež». Closer ir tas, kurš DIAGNOSTICĒ un palīdz klientam LEMT.»*
+
+- Sales Training 101 - Closer Crash
+- What We’re Going To Cover:
+- ●​ Overview of where we’re at in the sales process
+- ●​ Overview of our sales call script
+- ●​ Breakdown of each part
+- ○​ Information Gathering
+- ●​ FYI - This is the only video in the course that goes through the entire sales call flow in
+- ONE video. So it will be good to revisit this to understand how everything fits together.
+- Sales Process - Overview
+- Overview Of Sales Process
+- Overview Of Call Script/Flow
+- Sales Process w/ Syntax Adjustment
+- Hey - It’s Cole - What’s up?
+- Awesome - I was actually just ____
+- Been having a good week so far?
+- Great well - I know we got a limited amount of time here so you ready to jump in? Got a clean
+- sheet of paper, something to takes notes with?
+- (if skeptical - is Now still a good time to connect?)
+- Gotcha - so what I’ve found to work best on these calls is first diving deeper into the specific of
+- your business and sales process, how that’s working right now, and ultimately what you feel are
+- the specific challenges keeping you from moving forward.
+- Now once we get some clarity there - if we can help then I’m more than happy to walk you
+- through that or wherever you wanna go and if not we can figure out whatever else is best - I
+- might refer you out to someone we know, give you some homework to work on in the meantime,
+- That being said… probably our best place to start is tell me what the biggest challenge
+- with your sales is right now… what’s not working at the level it truly could be or that it
+- (Background Questions If Necessary)
+- 1.​ Isolate Challenge
+- 2.​ Desired Situation
+- Financial qualifier (if pertinent)
+- 3.​ Current Situation
+- a.​ Uncover Reason For Change
+- c.​ Solution Questions
+- d.​ Cost / Why Now Questions
+- e.​ Support Questions
+- Questions // Scripting Breakdown:
+- Isolate the challenge:
+- What’s the biggest challenge right now? Or what’s not working at the level it truly could be or
+- <<probe: “tell me more” “when you say ____, what do you mean, exactly?” >>
+- ●​ Gotcha, well what might make more sense is to begin with the end in mind here… so
+- ultimately, what’s the goal?
+- ○​ Probing questions (Tell me more, why is that important, etc)
+- ●​ And what’s your monetary goal?
+- ○​ You seemed like you’ve thought of that number before… can I ask, why that
+- ●​ (Financial Qualifier) And how much money would you have to have just to REPLACE
+- the amount of income that you’re making full time?
+- ○​ Is that ultimately the goal? To transition out of that?
+- ○​ Is replacing enough to allow you to leave? Or how much would you have to be
+- bringing in to be able to walk in the door in put in those 2wks?
+- ■​ (COVID-19) - Has that been impacted by COVID? In what way?
+- ●​ Given the drop in income.. Has that put you in a tough position
+- financially? In what way?
+- ●​ And overall, what’s your long-term vision for ____?
+- ○​ Probing questions (again)
+- ●​ Now, can I ask a personal question? And the reason why I’m asking is because my goal
+- isn’t only to build you a business that’s building you wealth - but also one that’s
+- empowering you to live whatever lifestyle that you want to live. So when you - think
+- about - what that is for you… what comes up? What are the non-monetary goals - the
+- personal goals - that you want your business to allow you to achieve?
+- ●​ Now, what’d you do now for work full time?
+- ○​ Do you like it? (This presents us two options)
+- ■​ They don’t like it (and then you use probing questions to dig into the pain
+- ●​ “what’s the worst part about that?” “Take me back to the day
+- where you said… “enough is enough” what happened?”)
+- ●​ How long have you been doing it? And how long have you been
+- thinking about starting this business?
+- ○​ Can I ask you a personal question? After all that time…
+- what was the final straw? Like what made you draw the
+- line in the sand and say - you know what - this has got to
+- become a priority now, though?
+- ■​ They do like it… and then you say:
+- ●​ What’d you like about it?
+- ●​ And how long have you been doing that for? And how long have
+- you thought about starting this?
+- ●​ Wow… well can I ask you a personal question? After doing that for
+- 5 years… and it all going fairly well for you… I mean… why all the
+- sudden do you want to stop doing that and start this business?
+- Like… what happened.. To make this a priority for you now,
+- ○​ (Doubt) What’d you think has been the biggest thing in getting this started by
+- yourself? What’s in the way?
+- ○​ (Solution Questions)
+- ■​ Have you reached out to anyone else to get help with this in the past?
+- ■​ Are you working with anyone now?
+- ■​ Have you been out there considering other coaches to possibly work
+- ■​ Have you done coaching before?
+- ○​ (Support Questions) Are you married?
+- ■​ What’d you wife think about this transition? Is she supportive?
+- ■​ Does she know you are on this call?
+- ■​ What would she think if she did?
+- Review of where we’re at in the sales process
+- “Look I don’t feel like I have anymore questions… Is there anything else that you feel like we
+- haven’t covered that I need to know?”
+- Well John - based on what you told me previously, we can DEFINITELY help...
+- << Insert thoughts (optional) >>
+- That said, Where do you think we should go from here? I can walk you through the entire
+- process A-Z of how we would help you get to [OUTCOME] if you would like? But you tell me
+- ●​ A case study story
+- ●​ Some basic, valuable insight on the “what” not the “how”
+- Gotcha - so do you still have that pen & pad?
+- Great, on your pen and paper - write out 1—>4 with a good bit of space in between them to take
+- notes on each. 1, 2, 3, 4
+- [wait for them to acknowledge they’ve done this]
+- Ok - let me preface this by saying that everything I do is all customized on what’s best for the
+- client. For you, specifically, it’s gonna be 4 things. 4 steps for you to go from zero control on
+- your sales calls to closing at least 30% or more of the people you speak with in about 8 weeks.
+- Ok… so when you come in, the very first thing we’re going to do is build out what I call your…
+- So the first thing we’re going to do is get clear on your offer and how it’s explained over the
+- And we’re going to do it in a way in which it’ll feel in a way that’s compelling, that’s new, and
+- very different to what the prospect has heard before.
+- Which will not only allow you to separate yourself from the competition, but also because of the
+- positioning likely increase your pricing which means less work to get to your goal and more time
+- in the evenings with your family.
+- Does that make sense?
+- Awesome - what questions do you have on that?
+- Cool, so once you’re pitch is dialed in, the next thing we’ll focus on is
+- Sales Process Redesign
+- So you know how earlier on the call you mentioned that you’re dealing with a bunch of
+- objections at the end of the calls and it’s making you feel like you have to be super
+- “high-pressure” to close prospects who are otherwise your perfect client?
+- So in this stage what we do is redesign your sales process by implementing what I call the
+- “reverse selling system”.
+- The reason I call it “reverse selling” is because it’s a 7 step process that allows you to eliminate
+- objections before the close so it’s kinda like “reverse engineering the sale”. You know what I
+- And also - given how long you said your calls were, you’ll probably be able to cut that in half
+- once you really get this down. So instead of spending that time exhausted on calls you can have
+- more time to actually build your brand and work on your business. Make sense?
+- Questions? Thoughts? Or you ready to move on?
+- Cool, so the next step is
+- Pipeline & Follow-Up Systems
+- So the first two alone can get you to at least a 30% closing ratio. But even if you’re doing 30%,
+- that means 70% of the people you speak with - for one reason or another - don’t buy, right?
+- So this is where you’ll learn how to use a combination of messenger outreach, content
+- marketing, and what I call “re-offers” to be able to get people who didn’t buy originally back on
+- the phone to re-sell them.
+- Does that make sense?
+- And the reason this is so important, is that when I was selling full time for instance, i would
+- average about 350k/m for the company and 50% of that was through pipeline and follow up.
+- Literally half of my sales. So over a year that’s well over 2 million just from just follow up alone,
+- which doesn’t cost any additional ad spend, by the way.
+- So this is something I’d like to see you doing sooner rather than later because otherwise we’re
+- just leaving easy money on the table.
+- Anything else on that or you wanna move on?
+- So this is where we’ll begin to think about hiring sales reps so that you don;t have to take all the
+- calls yourself anymore and you can start working on your business, not in the business.
+- ...and once you get to this point, you’re really going to be able to get back your time so and
+- reinvest in things like building your brand, speaking on stage, publishing that book, and so on.
+- In terms of how this is all fulfilled, the in-depth training platform will be something you will have
+- lifetime access to so that you can use it to train all your current sales reps as well as all the ones
+- you hire in the future.
+- We will also meet twice a week for a “sales clinic” where we’ll take what’s in the training and
+- make sure it’s applied to your specific situation, offer, and roleplay it to really “cement it in”.
+- And on top of that you’ll have 1o1 access to me M-F 9-5 through voxer, so that I can coach you
+- on the spot on the day you have calls.
+- Plus, that way if you go into a slump… I can break you out of it within a day opposed to you
+- having to wait 4-7 days til our next clinic.
+- What questions do you have on that? Or what questions do you have about the entire process,
+- Just curious but in terms of the process specifically… how do you feel?
+- (Certain answer + certain tonality = move on)
+- (Uncertain answer and/or uncertainty tonality = alignment bit)
+- I hear ya and just to be totally clear… what’s really important to me is ALIGNMENT - when you
+- come in and work with us, we’re rolling up the sleeves and getting in the trenches with you on
+- this thing. I mean our team is ALL IN - so it’s really important to us that you feel GOOD about
+- the process, know what I mean?
+- So just to be 100% clear.. On like a scale of 1-10, 1 being ___ and 10 being ___, where do you
+- feel like you fall exactly?
+- (if 9-10 + certain language/tonality = move on)
+- (if 8 or below = ask the following: “Gotcha man, and I appreciate you being honest about that…
+- just curious, what exactly do you think is keeping you from say being a 8, 9, or 10?
+- (Then handle objection /// ask clarifying questions // re-temp “are you sure”)
+- (if necessary) Gotcha so you feel good, no questions… so what’s next? Where do you feel like
+- you wanna go from here?
+- So you’ll process the investment with me… once we take care of that, what we do is set
+- So i’ll give you some homework right away to see where we can get our quickest wins, as well
+- as have you send in your current sales script and pitch as well as a call for me to review for
+- feedback. Most people find that they end up closing at least an additional deal or two a week
+- just from the first call review breakdown.
+- Then from there we’re ready to rock and roll.
+- Does that sound good?
+- ...and then investment to get you to (high-level outcome) is just XXX
+- (...and the investment to get you to 20k/m, 240k a year is just 6800).
+- Objections - Pacing The First Objection
+- Step 1: Pace & Tie Down #1
+- For a second, let’s just pretend that money is out of the equation. How do you feel about the
+- process specifically? Do you feel like ultimately, it’s what you need to get to (OUTCOME)?
+- 1)​ Prospect is bought into the process → Step 2
+- 2)​ The prospect is not bought into process and is uncertain → Step 2.5
+- a)​ Listen to their tonality
+- Step 2 (Prospect Bought In): Tie Down #2
+- Option 1 (if they haven’t mentioned money / partner): How vs. Should.
+- So just to be clear… you’re not in a “SHOULD” I do this place to where you’re going back and
+- forth on if this is the best next step for your business, it sounds like your more in a “HOW” can I
+- do this place to where you’re 100% certain this is the shortest and most effective route to
+- (OUTCOME), it’s just a matter of making it work financially
+- Option 2 (if they’ve already mentioned money / partner obj): Isolation
+- So just to be clear, (OBJECTION) aside, there nothing that’s keeping you from being less than
+- 100% certain that this is what you need to get to (OUTCOME)?
+- 1)​ We get the double tie down on the process and have isolated either money or spouse
+- 2)​ They bring up that there’s a level of uncertainty
+- Step 2.5 (Prospect Not Bought In): Scale 1-10
+- No worries, and I’d like to acknowledge you for being honest with me about that. That’s
+- something I can appreciate.
+- Now can I be honest with you for a second?
+- You just got telling me that you’re a 9 out of 10 on the process because ____ (insert reason why
+- they told you they were a 10) and now it seems like you’re nowhere near that certain about the
+- process…. So, can you be honest with me? What’s really going on?
+- …..this will help you get to the REAL conversation
+
+## SETTER CRASH COURSE — Settera Ātrais Kurss
+
+> *«Setter = pirmais iespaids. Ja setter nav labs — closer nekad nesaņem labu lead.»*
+
+- Sales Training 101 - Setter Crash
+- What We’re Going To Cover:
+- ●​ Overview of where we’re at in the sales process
+- ●​ Overview of triage script
+- ●​ Overview of outbound script
+- Overview Of Where We’re At:
+- ●​ Overview Of Sales Process
+- ○​ Different Context Of Triage Calls
+- ■​ You might have SET a triage from
+- ●​ Messenger (needed further selling/qualifying before booking w/
+- ●​ Outbound call (they didn’t have time during the initial dial)
+- ●​ Inbound Lead (they’re application was iffy and they need further
+- ○​ The key emphasis is the triage call - if you master a triage call everything else
+- ■​ So if you’re new to high-ticket sales… or you’re looking to get a position…
+- focus 100% of your time on the triage training (this training) and then
+- roleplaying, breaking down your own calls, having partners and/or our
+- coaches break down the calls.
+- ■​ This is also how you’re assessed in the interview process so if you nail
+- this, it’s easy to get a position :)
+- The Triage Process: High Level
+- 1.​ Rapport/Frame (if a set triage)
+- a.​ Full understand problem (Current Situation)
+- Need pay-off questions
+- b.​ Understand goal (Desired Situation)
+- a.​ Sell the consult FIRST
+- a.​ “Can you help me out” inferior frame
+- Hey - It’s Cole - What’s up?
+- Awesome - I was actually just ____
+- Been having a good week so far?
+- Awesome so let me set up this call for you really quick...
+- I’d really like to get you as much help as I possibly can in the short amount of time we have set
+- And in order to do so, what I’ve really found to work best is just getting a quick idea of where
+- you’re at, your goals, and where you need the most help right now.
+- Shouldn’t take long… and based on that I can hook you up with an actionable piece of content
+- that will be relevant and useful to whatever you’re struggling with in business right now. Sound
+- We use four types of questions here:
+- ...This is the exact same (almost) as the “understanding the problem section” of week 2:
+- Problems-First Syntax
+- a.​ Gotcha so what’d you think your biggest challenge is? Based on that I can pair
+- you up with something that will be helpful for ya
+- 2.​ Background Questions:
+- a.​ Ok, now just so I can get some context…
+- What are you selling? What’s the offer?
+- What’s the price point?
+- Who’s your ideal client? Like what’s the top 1% of people you want as
+- What’s the sales process? Like walk me through how someone goes from
+- a stranger to a paying client
+- 3.​ Probing Questions (Understand The Problem & Why The Problem Is A Problem)
+- a.​ Tell me more. What do you mean when you say ___
+- b.​ Why do you say that’s the biggest challenge?
+- How has that impacted the business specifically?
+- 1.​ How else has it impacted the business?
+- How are you currently generating leads right now?
+- 1.​ Organic, referrals.
+- a.​ Last month… how many new appointments did you have
+- with new potential clients?
+- b.​ Got it. Now, what about the month before?
+- c.​ Ok… so about 3 in the last 2 months…
+- How many of those are that perfect client,
+- And out of those, how many did you enroll into a
+- And at what price point was that?
+- And is that what you want to be charging? Or what
+- do you really want to be charging?
+- 2.​ Ok… so is 6k your total revenue for the past 2 months? Or what’s
+- a.​ 5k last month. Now, is that gross or is that net?
+- a.​ So ultimately, if you’re able to get lead gen figured out… what’s the goal for your
+- b.​ Probe (see above)
+- We don't move on here until...
+- 1.​ We understand the full context of the situation and problem
+- 2.​ Why that problem is a problem (impact and implications) and
+- 3.​ We've assigned specific numbers to the problem (ex: revenue, weight, # of dates)
+- 4.​ We have their goals
+- At that point, you move on and book the consult. The above first part should take 5-10 minutes
+- Awesome so look I have a training for you that’ll definitely help with what we talked about
+- And while it’s definitely good, it’s not going to be the magic bullet that’s going to get you to
+- So look - we have clients in the REI coaching industry doing numbers WAY bigger than that.
+- Independent if you’re interested in becoming a private client or not, I can pair you up with
+- Mitchell - he’s Cole’s right hand guy and works closely with the clients, and he can show you
+- some of the frameworks and methods our guy are using to hit 500k/m+ in our the real estate
+- info industry is that something you’d be open to?
+- Great...  and then of course, if you want to know what it’s like to work deeper with us, he can tell
+- you about that to. So I have his calendar open now… when works ____ or ____ to book in a
+- time to speak with him?
+- [Lock in consult… get them to accept calendar invite]
+- Oh and by the way… Mitchell has me fill out a short form for anyone I put on his calendar. I can
+- do most of it myself but would you be able to take an extra minute or two here and help me fill
+- this out so that he can get brought up to speed on what we talked about and you guys can really
+- hit the ground running?
+- ●​ How long have you been following (INFLUENCER)?
+- ●​ And you said the biggest problem you need help with is ___, right?
+- ●​ And your goal is ____ ?
+- ●​ How does the leadership structure in your company work?
+- ●​ On a scale of 1-10… 1 being things are really really tight right now… and 10 being “I
+- have the resources to do whatever I want” where do you feel like you’re at financially?
+- ○​ What’s a X mean to you?
+- ●​ In terms of bandwidth… some of the frameworks you guys will talk about require about
+- 4-5 hours a week to implement. Is that something you have the bandwidth implement
+- For in-depth sales training… see the “closer crash course” followed by the FULL training in
+- Before We Get Into The Script, Make Sure You Always Double Dial
+- The cadence would look something like this:
+- You call, they don’t answer. You set the phone down, and immediately call again. If they don’t
+- answer on the second call, THEN you leave voicemail, text, email.
+- The script is as follows…
+- Outbound Call - Buyers:
+- “Hey is this *name*“?
+- Hey this is Cole here - I was calling about the $47 Outbound Mastery course? That you
+- purchased from Cole Gordon?
+- I just wanted to check in with you and see if you were able to get log ins... I know it’s easy to
+- lose things in the inbox these days… were you able to access that ok?
+- Ok and I’m not sure if you read this one the sales page but included in your purchase was
+- actually a training from one of Cole’s paid masterminds - has anyone reached out to you about
+- The reason you didn’t get it immediately is just cause we have tons of stuff and we wanted to
+- make sure you got something that was actually relevant and useful to what you need help with
+- in business right now.
+- Is that something I can get you?
+- Gotcha so what’d you think your biggest challenge is? Based on that I can pair you up with
+- something that will be helpful for ya
+- Outbound Calls - Free Opt Ins
+- “Hey is this *name*“?
+- Hey this is Jake here - I was calling about the ultimate guide to hiring a-player sales reps? That
+- you downloaded from Cole Gordon?
+- Just wanted to make sure you were able to access it ok - I know with those free things you
+- sometimes lose them in the inbox… email is crazy these days...
+- Ok and I’m not sure if you read this one the landing page but you were also supposed to get a
+- training from one of Cole’s paid masterminds - has anyone reached out to you about this yet?
+- The reason you didn’t get it immediately is just cause we have tons of stuff and we wanted to
+- make sure you got something that was actually relevant and useful to what you need help with
+- in business right now.
+- Is that something I can get you?
+- Gotcha so what’d you think your biggest challenge is? Based on that I can pair you up with
+- something that will be helpful for ya
+- Hey NAME - this is Cole with ____
+- Do you remember the _____ (product) you purchased from us? Reason I was calling earlier is it
+- doesn’t look like you got one of the bonuses you purchased - it was a private client training from
+- one of ____(influencers) high-end masterminds. Can you confirm?
+- hey NAME - It's Cole from ____. Did you just purchase the PRODUCT? Lmk if you have 2
+- seconds, just wanna make sure you're taken care of"
+
+## OPERATORA DIENAS CIKLS — BOD / MOD / EOD
+
+> *«Profesionālis nav tikai labs ZVANĀ. Viņš ir labs PIRMS zvana, STARP zvaniem un PĒC zvana.»*
+
+### Beginning of Day (BOD) — Rīta Process
+- Beginning Of Day Process
+- What We’re Going To Cover:
+- ●​ High performance habits to start your day
+- ●​ Things to do BEFORE the meeting
+- ●​ How to show up to meetings
+- Step 1: Watch Keys To High Performance For Sales
+- ●​ Watch the video after this training to understand:
+- ○​ How to increase ENERGY and therefore your performance
+- ○​ Projections… what they are… how to set them.
+- <<Pause & Watch Video>>
+- Step 2: How To Prepare For Meetings Beforehand
+- ●​ Good morning routine, alert, high energy (above)
+- ○​ Alertness vs. Fake “I’m Pumped”
+- ●​ Knowing your numbers…
+- ○​ Where you’re at in the month AND week for both:
+- ○​ Where you’re projecting for the month AND week for both:
+- ○​ What you have in the pipeline set to come in this week:
+- ○​ If you’re on pace - what are you doing well?
+- ○​ If you’re not on pace… why are you not on pace?
+- Step 3: How To Handle Yourself On Meetings
+- ●​ If you’re owner requires it, bring 2 CLIENT WINS and 2 PERSONAL WINS and be ready
+- to share immediately at the meeting
+- ●​ Be ready to go over all of your projections in terms of
+- ○​ Where you’re at in the week vs projections
+- ■​ If you’re on pace / not on pace (and why)
+- ○​ If you’re holding projections
+- ○​ What you’re projecting today
+- ○​ Anything you have set to come in for the rest of the week
+- ○​ Be hungry and ASK QUESTIONS
+- ○​ Be ALERT and have a high amount of readiness
+- ○​ Don’t be afraid to coach and help other reps on the team
+- ○​ Have calls ready for your owner/trainer to review
+
+### Middle of Day (MOD) — Dienas Vidus
+- Middle Of Day Process
+- In Field Selling Overview
+- What We’re Going To Cover
+- ●​ Give you a brief overview of the 3 SOPs (again) to recap where we’re at
+- ●​ Only 2 things that matter as a sales rep
+- ●​ Only 2 ways you can improve your production/results
+- 3 Sales Rep SOPs (Overview)
+- ●​ Beginning Of Day
+- ○​ Meetings, projections, routines etc
+- ●​ Middle Of Day
+- ○​ Infield Selling
+- ■​ ONLY TWO THINGS MATTER (we’ll cover in just a second)
+- ●​ End Of Day Process
+- ○​ Buttoning up the day
+- ○​ Qualitative EOD report
+- Only Two Things That Matter As A Sales Rep
+- You should structure your day so that in between your BOD / EOD processes (when you’re in
+- the field, so to speak) you’re only focusing on TWO THINGS
+- 1.​ Doing consults
+- 2.​ Generating consults
+- You want to spend your sales day doing the MOST PROFITABLE activities for you (and
+- therefore the company) as possible.
+- The most profitable thing you can be doing is having a consult with a qualified prospect and
+- making offers to them.
+- The second most profitable thing you can be doing is trying to get more of #1 (in other words,
+- trying to GENERATE more consults with qualified prospects).
+- This is the beauty of being a sales rep. You’re literally only ever focused on two thing and two
+- This also means that during the day - when you’re will power is highest - you should NOT
+- be doing admin. Save til’ the end of day (the exact reason why we have EOD processes).
+- Spending Your Time Doing The Most Profitable Activities
+- Again, being on a consult with a qualified prospect is the MOST PROFITABLE THING YOU
+- The second most profitable activity is generating qualified consults.
+- Now, there is a wide range of activities you can do to do this. There’s:
+- ●​ Outbound Calls
+- So the question becomes, how can you spend your “off consult time” as most profitably as
+- In order to do this we need to do two things:
+- 1.​ Identify all the possible lead gen activities we could be doing to generate more consults
+- 2.​ Rank them in order of effectiveness.
+- This way, whenever you’re not on a consult you can simply go down the list.
+- To give you an example, my list was as follows:
+- 1.​ Triages/Consults
+- 2.​ Personal organic (mornings)
+- 3.​ Claiming new 2-step leads
+- 4.​ Hot List Follow Ups
+- 5.​ Clear Messenger Inbox
+- 6.​ New assigned LT buyer leads
+- 7.​ New assigned no apps
+- 8.​ General follow up list (messenger)
+- 9.​ Outbound previous prospects didn’t buy from other reps
+- 10.​Outbound webinar phone numbers
+- So if I wasn’t on a consult, I would always be going down this list.
+- Two Ways You Can Improve Results
+- 1.​ Volume (Productivity)
+- 2.​ Efficiency (Skillset)
+- The simplest way to improve results is to simply do more. Doing more:
+- ●​ Messenger outreaches
+- Now the problem with doing more is you’ll eventually run out of time in the day…
+- However, we can still do more if we optimize our productivity.
+- The biggest trick to optimizing your productivity with sales is doing the steps above and realizing
+- that there’s only two things that matter and having those prioritized.
+- Doing that (along with following what’s detailed in the keys to high performance training) will
+- give you everything you need to be as productive as possible.
+- But what happens when you can no longer be more productive?
+- You must be more efficient
+- Efficiency (Skillset)
+- In other words, the only way you can get more output from your activities when your volume is
+- maxed out is to increase your skillset and become more efficient.
+- So instead of doing 10 consults and making 2 sales… you become good enough to do 10
+- consults and make 5 sales.
+- This takes time, experience, and practice however. That’s why at first it’s always easier to
+- improve productivity, energy, and volume.
+- That’s why they say in sales:
+- Make up in volume what you lack in skill.
+- The rest of this course / program is dedicated to increasing your efficiency - making you a better
+- setter and closer per the same amounts of activity you’re putting in.
+
+### End of Day (EOD) — Vakara Process
+- End Of Day Process
+- What We’re Going To Cover
+- ●​ What an EOD process is
+- ●​ How to do EOD reports properly
+- What is an EOD process?
+- ●​ This is a process where you “button down the day”
+- ●​ Here you’ll batch admin activities so that you’re not doing it during your sales day
+- ○​ You want to do admin when will power is low and SALES when willpower is high
+- ●​ You’ll also take an overview of the day and create reminders for follow ups, hot list,
+- general list, etc
+- ○​ This way nothing slips through the cracks
+- ○​ Example from my old sales team
+- Why Is This Important To Do DAILY?
+- 1.​ Perfect admin is of low relative importance as a sales rep. BUT you have to do it or you
+- will get let go. And over the long term, proper noting / tracking / EOD reports does help
+- a.​ This allows you to batch it productively in a time where you have low will power
+- b.​ It’ll also create a system for you where you won’t forget
+- I was MASSIVELY productive AND perfect on admin
+- 2.​ It also assures nothing slips through the cracks which is essential for follow up game
+- How to structure your EOD process:
+- In order to structure your EOD, you’ll need to list out EVERY admin activity you do daily and put
+- it in a list in workflowy.
+- Below is an example of mine:
+- 1.​ End of day report (will cover how to do in a sec)
+- 2.​ Finishing out hot list follow ups
+- 3.​ Adding today’s interactions/consults to hot list / general follow-up
+- 4.​ Updating their personal projections sheet (included in keys to high performance)
+- 5.​ Updating the team tracking sheet
+- 6.​ Updating CRM
+- a.​ Update deal notes from today’s deals
+- b.​ Create any follow-up tasks from today’s deals
+- c.​ Update notes from any enrollments & make sure their passed off to client
+- success properly
+- 7.​ Store todays call recordings (if not automatic)
+- 8.​ Check tomorrow’s applications for red flags.
+- 9.​ Confirm tomorrow’s appointments (text)
+- 10.​Prepare for tomorrow’s morning meeting (knowing their numbers, getting wins, adjusting
+- How To Do EOD Report + Examples
+- ●​ Why do EOD reports?
+- ○​ It helps your offer owner understand what’s going on so they can give you
+- ○​ It dramatically improves your self awareness
+- ■​ This is a GREAT practice and allows you to self-correct
+- ■​ It becomes sort of a “end of day journaling” routine
+- ■​ Was one of my favorite things as a full time rep I did.
+
+## KEYS TO CONSISTENT HIGH PERFORMANCE — Konsekventas Augstveiktspējas Atslēgas
+
+> *«Top 1% operatori nedara vairāk. Viņi dara to pašu LABĀK un KONSEKVENTĀK.»*
+
+- Keys To High Performance
+- How To Sustain Consistent High Performance In
+- What We’re Going To Cover
+- Putting Yourself In A Position To “Win”
+- How to set yourself up to hit your sales targets
+- Two Reasons Your Miss Your Numbers
+- How To Avoid “Ruts” & Sustain High Performance
+- Energy Management & Regulation
+- Rituals For Sales Success
+- How To Break Your Sales “Rut” & Get Back To Baseline
+- Cred: Taylor Welch (Salesmentor)
+- Putting Yourself In A Position To Win: Setting Projections
+- Goals are your targets.
+- Projections are your bare minimum standards.
+- Projections are the numbers you are still able to hit, even when all sh*t goes south.
+- Why set projections (in addition to goals)?
+- Goals get us excited and usually let us down - without us being able to diagnose why.
+- Projections allow us to reverse engineer the path to our goals and hedge
+- Projections give us accuracy (so we understand what inputs determine what outputs)
+- This allows us to adjust behavior
+- Keeps everyone accountable.
+- When mastered, projections give us control (commitments, confidence)
+- How do we set projections?
+- How To Set Projections.
+- At the end (not beginning) of every week, we set projections & goals for the
+- Inputs (lead gen activities (paid/org), sets attempted, LT follow-ups done, calls booked,
+- Outputs (closes, deposits, revenues)
+- “Leading vs Lagging Indicators”
+- We will also adjust our monthly, quarterly, and yearly projections & goals as
+- Now What If You’re Not Hitting
+- Two Reasons You Miss Projections
+- Already talked about how to hedge.
+- This is ok as long as you adjust behavior (this is part of the reason we do this in the first
+- Client: I didn’t hit my projection of 3 this week!
+- Me: You only made 3 offers this week…
+- Most of the time, it’s a “hedging” with your volume.
+- How To Avoid Ruts & Sustain High Performance
+- Anything less that you performing at about 85-90% of capacity.
+- How do we know you’re in a rut?
+- Regression to the mean:
+- Dips in performance is natural in the MICRO (due to quality, market, volume, etc)
+- Dips in performance in the MACRO is YOU.
+- 10% drop in closing percentage (CALL-->CLOSE) across 30 days, you’re definitely in a rut.
+- Problem with quantitative measurement of ruts, is that it takes too long to diagnose.
+- How do we catch it sooner?
+- Qualitative measure measurement of ENERGY across four key areas.
+- Also through projections!
+- Energy Management - Four Areas Explained
+- Exercise. Diet. Sleep. Water. Meditation.
+- A sedentary, dehydrated, sleep deprived salesperson who has been running on junk food for a
+- week is not going to perform at his highest capability EVEN IF he has a “world-class mindset”
+- #1 way to produce energy.
+- How aligned you are with your vision (and the energy you’re getting from your vision)
+- Tony Robbins - Life supports that which supports life. When you’re entirely aligned with your
+- vision… you get energy.
+- Vision so big you don’t know how to get there (also why we set projections!)
+- Vision smaller than current situation.
+- “Performance High” when you see the light at the end of the tunnel.
+- Energy Management - Four Areas Explained (cont.)
+- These are the reasons why what you’re doing is so important. Your reasons give you energy.
+- Unselfish reasons (reasons out of SERVICE for others)
+- Your inspiration comes from your information intake - your “inputs”
+- Inputs dictate your outputs, because you can only influence someone in the external world
+- based on your internal philosophy and energy.
+- Bad: news, dealing w/ upset clients, intaking information completely unrelated to what you’re
+- doing… (REI vs Coaching)
+- Good: listening to past “wins”, sales courses/books, personal development, client testimonials,
+- biographies, motivational content.
+- Energy Management - Daily Regulation
+- Each night, we’re going to rate ourselves scale of 1-10 on our ENERGY.
+- 8+ and you’re “in pocket”
+- 7 or below and you’re “at risk” or “out of pocket”
+- Be ruthlessly honest - the one person you shouldn’t lie to is yourself.
+- How do you determine your number? Questions to ask:
+- Am I getting to sleep & waking up on time? Getting 7.5hrs+ sleep? (Biggest
+- Am I following a healthy diet? Drinking water?
+- Am I exercising / moving DAILY? (prior to calls)
+- Am I meditating daily? (prior to calls)
+- Did I review my vision today & write out goals? (identity document)
+- Is my vision inspiring? Is there a “gap”?
+- Do I have an idea on how to close the gap? Or is this “10x nation”?
+- Energy Management - Daily Regulation (cont.)
+- Can I easily think of the reason WHY (selfishly and unselfishly) this is so important to me?
+- Do they give me energy? Be honest.
+- Are you doing daily gratitude?
+- How many wins am I listening to weekly? (min. 3)
+- When’s the last time I listened/looked through to client testimonials (1/wk+)
+- What am I listening to in the morning (sales // personal dev.)
+- Is there anything in my environment (family / friends / relationships / etc) that’s affecting my
+- state negatively? (and therefore affecting my influence?)
+- Other questions to ask to identify ruts:
+- What’s your experience of me? (brad newman)
+- Are you hitting projections weekly? (downside, weekly… and you will miss sometimes)
+- Have you been letting people off the hook? Lack of leadership
+- Are you breaking promises to yourself?
+- Now We Know About How To Set
+- We Know The Two Reasons Why We
+- And We Know What Ruts Are And How
+- Now… The Question Is, How Do We Put
+- This Together “Practically” So That We
+- Can Sustain High Performance And
+- We Do This Through Implementing
+- “High-Performance Rituals”
+- High-Performance Rituals
+- Tony Robbins - “Show me your rituals, and I’ll know your standards. Show me
+- your standards, and I’ll know your results”
+- Morning & Night Rituals
+- Listen to identity doc (inspiration // clarity // necessity)
+- Exercise + Content/Call Review (physiology // inspiration)
+- Breathwork + Meditation (physiology)
+- Identity Doc / Write Out Goals / Gratitude / Set Intentions (I / C / N)
+- Do what fits you best… just know the fundamentals to include.
+- Doing Everything We’ve Talked About So
+- Far Will Minimize Ruts…
+- However, It Is Inevitable They Will Still
+- So When We Identify We’re In A Rut -
+- We Diagnose The “Source” Of The Rut,
+- And Re-Set To “Baseline”
+- Re-Setting To Baseline.
+- Step 1: Identify the “source” of the rut
+- Your biggest risk is falling into a rut, and not knowing you’re in a rut. Denial due to ego (me,
+- Diagnose the area: Physiology // Clarity // Necessity // Inspiration - What’s lacking? (Look at
+- Step 2: Find “baseline”
+- Go back to the end of day // end of week reviews where you were “in pocket” and re-read
+- through your journals.
+- Re-listen to call reviews
+- Ask yourself… what’s different? (Ex: Traveling // Tony Robbins Sales Training)
+- Step 3: Implement & Get Back To Baseline
+- Document the lessons so you avoid it happening again.
+- Sales First Principles
+- The Inner Game Of Sales
+- Keys To High Performance.
+- The Pitch Codex™ System
+
+## 2-CALL CLOSE — Divu Zvanu Slēgšana
+
+> *«Ja vienā zvanā neslēdzās — otrais zvans nav 'follow-up'. Tas ir OTRS MĒĢINĀJUMS ar jaunu pieeju.»*
+
+- How We Adjust Our Process For The 2-Call Close
+- ●​ Who Should Be Doing A 2-Call Close & When?
+- ○​ Agencies, DFY, SaaS, all should be 2-call close.
+- ○​ If you have a coaching // consulting offer, this is a great process to default to
+- when you realize you have multiple decision makers on the call
+- ○​ It can also be used when you feel like TRUST isn’t there and the prospect needs
+- warmed up (you would send assets in between the calls)
+- ●​ Drawbacks Of The 2-Call Close
+- ○​ Less emotion at the close
+- ■​ This is why if you’re a B2C coaching/consulting offer or low-end B2B I
+- recommend staying away from the 2-call
+- ○​ It throttles your calendar
+- ■​ If you have a full calendar, this will take up space on your calendar which
+- you could otherwise be having more calls.
+- ■​ The end result of this is less offers. And therefore you can net less
+- ○​ The philosophy in our sales process remains the same. We’re simply going to
+- adjust the format in the following areas.
+- Process Changes For When We 2-Call Close
+- Gotcha - so what I’ve found to work best on these calls is first diving deeper into the specificity
+- of your business, the mechanics of it, what’s working right now, what’s not working right now,
+- and ultimately what you feel are the specific challenges keeping you from moving forward.
+- Now, everything we do is all customized based on what the client needs. So, once we get some
+- clarity on what you need I’ll tell you if this is something in which we can help, and at that point I’ll
+- go back to my team, share what we discussed, and then we’ll book another call where I’ll go
+- over with you exactly the custom game plan we’ve came up with and how that’s going to work
+- for you specifically.
+- Now, does that make sense?
+- “Look so I feel like we’ve covered a lot of ground here… Is there anything else that you feel like
+- we haven’t covered that I need to know?”
+- Well John - based on what you told me previously we can DEFINITELY help…
+- In fact, we actually work with a similar brokerage in the AZ area now, brokerage XYZ, have you
+- Yeah they have over 100 agents and we provide leads for all of them… we’ve helped them add
+- an additional 3M in GCI in under 9 months and they’re also a sellers market similar to you.
+- Now, again… everything that we do is all customized. So what’s probably going to be most
+- appropriate it this point is I’ll take this all back to the team. We’ll talk about your situation. And
+- here in a few days we’ll book another call where I’ll break down exactly the custom gameplan
+- we’ve come up with and how that’ll work for you specifically…sound good?
+- So I have my calendar open now, does Thursday or Friday afternoon this week work better for
+- Gotcha and in the afternoon - is 2pm or 4pm PST work better for you?
+- Great. 4pm PST. Sent you a calendar invite. Can you see if you got it?
+- Awesome, now… short from getting hit by the bus (haha) will you let me know if anything comes
+- up prior to that call where you may not make it or have to reschedule?
+- Awesome… and one other thing: If I send you a little bit of homework to go through - will you be
+- able to read through that as well? Should only take you 10 minutes…
+- Great. Going through it will help you get a better understanding of what we’re going to talk about
+- at 4pm tomorrow so we’ll be able to hit the ground running.
+- Any questions for me before we hop off?
+- Hey John - how’s the week been?
+- Awesome… did you have a chance to look through the homework I sent you?
+- Great… well I’m definitely excited to share with you what the team and I came up with. But first,
+- I hope you wouldn’t be offended if I just recapped our last call to make sure everyone is on the
+- Last time we talked about…
+- ●​ Key point #1… right?
+- ●​ Key point #2… right?
+- ●​ And key point #3… right?
+- Now, is that rather spot on or do you feel like I missed anything?
+- Great so let’s get into our gameplan… do you have a pen & pad, something to take notes with?
+- Then you present the offer as normal. You could do this over the phone, just like you would
+- normally with your pillars. OR you could take the same framework for your pillars, add it to
+- google slides, and create a pitch deck / demo deck where you explain each in depth with an
+- example and/or analogy to prove each pillar/point to be true. Then end off with “questions”
+- (where you do your committing phase). You could have that be your last slide and then drop
+- investment entirely separate. Don’t overthink it, and I don’t think the slides need to be fancy.
+
+## HOW TO TAKE NOTES — Kā Pierakstīt Zvana Laikā
+
+> *«Pieraksti klienta VĀRDUS, ne savus. Viņa vārdi ir tavi ieroči pitch un close laikā.»*
+
+- How To Take Notes On Your Calls
+- Introducing... My Secret Weapon
+- What We’re Going To Cover:
+- ●​ My note taking system I developed entirely from trial & error across 3000+ sales calls
+- ●​ Why is proper note taking so critical?
+- ●​ Overview of how to do it and examples.
+- Why Is Note Taking Important? And Why This System?
+- ●​ Crucial for active listening
+- ○​ Many times, I just mindlessly write out (shorthand) whatever they say just so I
+- can stay completely present.
+- ●​ If you do it how I teach, it’ll allow you to easily follow the sales process without ever
+- ○​ It offers structure AND behavioral flexibility
+- ○​ Also ensures you don’t miss anything (which causes objections)
+- ○​ Keeps us from scrolling up and down a google doc… and off the computer.
+- ●​ We’re going to write down key phrases that we can use as “ammo” for any objections we
+- ○​ I’ll show you how to write down phrases/words the prospect says that you can
+- leverage if you get objections like:
+- ■​ “I want to think about”
+- ■​ “I want to delay til the new year”
+- ■​ “This isn’t our top priority right now”
+- ■​ Etc… the main ones I try to gather “ammo” for are always UNCERTAINTY
+- objections (spouse/financial are easier to handle)
+- ●​ We’re also going to write down notes that will help us customize the pitch so that it’s a
+- PERFECT fit for the prospect.
+- ○​ We want to take our pitch (you’ll learn in the pitch codex week) and use it as a
+- “baseline” and then take what the prospect says and customize it perfectly to
+- ○​ The best pitches are usually never “out of the box”. Rather we take the raw
+- material of what we scripted out in pitch codex, and tailor it to the prospect so it’s
+- the perfect 3-5 step process for them to go from current → desired situation and
+- ultimately solve their problems.
+- ○​ I personally believe that part of the reason I close so well (especially to higher
+- end, b2b buyers) is because I pitch extremely well in a way that very valuable
+- and solves the prospects problems.
+- ●​ “Sales Process” - how to set up
+- ○​ Blank sheet of paper
+- ○​ Make your own - one copy
+- ○​ Xerox 50 copies double sided.
+- Example: Problem’s First Syntax
+- Pain / BG / Chunk Down
+- Pain Point #1 / Pain Point #2
+- Financials / Leadership+Partner
+- How Long / Impact / Doubt / Solution
+- Transition / Partner / Timing
+
+## TRANSITION PHASE — Pārejas Fāze (Discovery → Pitch)
+
+> *«Pāreja no diagnozes uz pitch ir KRITISKS brīdis. Ja pāreja ir asa — klients jūt manipulāciju. Ja gludena — klients jūt dabīgu plūsmu.»*
+
+- How To Transition From Discovery → Pitch w/ Minimal Sales
+- What We’re Going To Cover:
+- ●​ Differences in transition scripting from 7FSA 1.0 to now
+- ●​ Common Pitfalls Salespeople Make When Transitioning Into Their “Pitch”.
+- ●​ The Key Elements Of A Good “Transition”
+- ●​ Plug & Play Frameworks & Specific Scripting.
+- ●​ Action Items To Implement Now.
+- Key Differences From 7FSA 1.0
+- ●​ In 7FSA 1.0, I taught the basic and pre-pitch transitions.
+- ●​ Now, these are GOOD transitions and myself and clients have used these extremely
+- successfully. So if you script these out and drill them to where they become natural, it will
+- work great. I still recommend most people learn all and see what works for them.
+- ●​ However, if you’re new to sales or just want a fail-safe effective way that you can’t screw
+- up, I recommend you using what’s called the “super-basic” (lol). Honestly, it’s what I use
+- now. It’s very easy. Works like a charm right out of the box.
+- Common Pitfalls Of The “Transition Phase”:
+- Take a step into the prospect’s shoes... at this point:
+- The prospect has told you everything about their situation
+- They’ve opened up about their surface level and emotional pain
+- They’ve become vulnerable with you.
+- They’re starting to really trust you.
+- Most “average” salespeople will barge right in with their solution as soon as they
+- Don’t do this - this the trust you built, raises resistance, and groups you in with all
+- the other sale hungry sales people - ultimately killing the sale.
+- “Look I don’t feel like I have anymore questions… Is there anything else that you feel like we
+- haven’t covered that I need to know?”
+- Well John - based on what you told me previously, we can DEFINITELY help...
+- << Insert thoughts (optional) >>
+- That said.  Where do you think we should go from here? I can walk you through the entire
+- process A-Z of how we would help you get to [OUTCOME] if you would like? But you tell me
+- ●​ A case study story
+- ●​ Some basic, valuable insight on the “what” not the “how”
+
+## UPGRADE CALLS — Uzlabošanas Zvani (Backend Offers)
+
+> *«Pirmā pārdošana atver durvis. Otrā pārdošana BŪVĒ attiecības.»*
+
+- How To Run Upgrade Calls For Back-End Offers
+- ○​ How to upgrade clients from your 8-12 week HT offer into your 6-12 month
+- ●​ Back-End Offer Possibilities
+- ○​ Continued access to what they already have
+- ○​ More access to you/coaches
+- ■​ 2 Group Coaching Calls / Week → Voxer Support and/or 1 private
+- ○​ Emphasis on solving new problems created by your front-end offer
+- ○​ Events // Retreats // Mastermind
+- ○​ ** Mixture of the above. The most powerful to drivers for back-end sales are
+- ■​ 1) Community // Culture // Environment
+- ■​ 2) Leadership in solving future anticipated problems
+- ○​ Start at an average of 1.5k-3k/m and then increase if you want…
+- ■​ From what I’ve seen… you’re going to be able to sell these types of offers
+- at higher monthly averages if you sell at events.
+- ○​ Up to you if you’d like to collect the majority upfront or spread it out monthly.
+- ○​ When in doubt, I would start high and go low. Start with 12 month, 4-5 pay
+- options and you can work down to lower time commitments and longer payment
+- plans. This is opposed to doing “6 months monthly” where you give away all of
+- I will usually schedule a “check up call” or “next steps call”
+- You could also transition into this sales process from a normal coaching call that you have.
+- Have them bring you up to speed on how the past 8-12 weeks have been…
+- “Overall how’s progress been the past 8-12 weeks?”
+- “I know when you started you were XYZ… how much progress have you made overall”
+- Then have them clarify the biggest wins…
+- “What’d you think the two - three biggest wins were?”
+- Transition Into Challenges
+- Now, where do you think you’re the most stuck right now? Where do you need the most help,
+- << Here - we want to dig into the pain and understand what’s going on like we would any other
+- sales call. Depending on where they’re at… we’re going to narrow down 1-3 core problems
+- they’re facing now >>
+- So if you were able to get [Core Challenge 1-3] fixed… ultimately where would that lead you
+- What would your next area of focus be?
+- <<< so here - we’re painting the picture of the other side and we’re also seeing what they think
+- the next challenges would be AFTER they fix the current challenge that they’re on>>>
+- So based on my experience… once we get you through [Core Problem #1] the next big issue is
+- going to be [Future Problem]... do you have a process or a system in place for that? Or is that
+- something you feel like you may need help with?
+- Example: So once we get your paid ads dialed in, opportunity volume is not going to be the
+- issue for you anymore. Based on my experience it’s almost ALWAYS fulfillment and client
+- capacity. Do you have fulfillment completely systematized and ready to scale? Or is that
+- something you feel like you might need additional insight on?
+- << So here… we’re doing a tiny bit of coaching by helping them outline what the next 2-3
+- problems are going to be AFTER they fix the current problems that they’re on and THEN
+- assessing if they have a process to fix those problems >>.
+- Solution Questions (Optional).
+- You may want to ask if they’ve invested or looked into investing in any other programs to fix the
+- challenges they just told you.
+- Quick check up to make sure their goals are still the same. Or if they have new goals.
+- Money & Support (Optional)
+- At this point… you’ve already sold this person so you should know if these are going to be red
+- flags or not. You should already be getting all decision makers on the phone (support). And then
+- in terms of money - if it’s an issue you usually can ask directly what their cash on hand is
+- because you have better rapport.
+- So based on what I’m seeing here… here’s what we need to focus on moving forward:
+- The very first thing we have to do is [focus on core problem #1]... and the way we’re going to do
+- that is [proposed solution].
+- Repeat for problems 1-3.
+- So the very first thing we’re going to have to do is get your app cost down so we can ramp up
+- your paid ads and max out your calendar. That alone will get you to 100k/m based on the rate
+- So what we’re going to do immediately from here is book an intensive with our in house media
+- buyer Jim, and he is going to help push you through this ASAP. Sound good?
+- Then the next thing we’re going to focus on is…
+- <<< So from here - you just want to outline the core problems they need help with, in the order /
+- sequence it makes sense to get help. This will be problems their currently facing now AND
+- future problems they’ve yet to face >>>
+- Transition Into Pitch
+- Make sense? Do you agree?
+- So that’s exactly what [Your high end mastermind] would be for you…
+- So what questions do you have for me? I can walk you through the rest of the details pretty
+- much A-Z if you would like? But you tell me where you wanna go…
+- Explain the rest of your pitch.
+- What this is NOT is a bunch more modules…
+- For this sales process, you’ve already given your “pillars” (those were the core problems we
+- outlined). So at this point you’re simply going to explain what’s different, the support they get,
+- Once you tie that down… move onto timeframe, and then investment.
+
+## WHEN GOALS ARE TOO LOW — Kad Mērķi ir Par Zemu
+
+> *«Ja klients grib par maz — viņš neredzēs vērtību. PACELIET mērķi pirms pitch.»*
+
+- What To Do When Your Prospects Goals Are Too Low
+- Inspiring Your Prospects To Dream Bigger
+- Why Is This important?
+- ●​ If you’re selling a high-ticket offer and the prospect you have on the phone has goals that
+- are too low, it jeopardizes their ability to justify the investment into your program.
+- ○​ If they want to make 2k/m in an agency, and your program is 10k… if your sales
+- promise is to get them to 2k/m… then it’s going to take them 5 months to ROI.
+- ■​ In cases like these you’ll RARELY make the sale (it is possible, though…)
+- ■​ This isn’t just for ROI offers. In general we want our prospects to have big
+- audacious goals that are also realistic, believable, and achievable.
+- ●​ Why do people set low goals?
+- ○​ Lack of vision / don’t know what’s possible
+- ○​ Inaccurate timelines
+- ○​ Maybe that’s really all they want (rare - but that’s cool)
+- What We’re Going To Cover:
+- ●​ How to properly elicit the “desired situation” of the prospect
+- ○​ If you do this right, often times you won’t run into this problem anyways…
+- ●​ 5 ways to bump up their goals (and the order in which I use them)
+- How To Properly Elicit The “Desired Situation” Of The Prospect
+- First, we ask a question that acts as a shot across the bow…
+- So ultimately, what’s goal?
+- Now, through the answer to that question and by using follow up questions, we want to elicit the
+- following information:
+- We’ll circle back to why doing this correctly is so important in just a second…
+- Strategy #0 - Clarify Gross vs. Net
+- Strategy #1 - Are They Trying To Be Realistic?
+- The first strategy we ALWAYS want to try is just to see if they’re trying to be realistic… so we
+- Gotcha, makes sense. Now, can I ask you a personal question?
+- Is that a goal you’re setting because you feel like it’s realistic? And if so, no problem. But I’m
+- curious… what’s your REAL goal? What do you really want, ultimately?
+- You can even try a variation of…
+- For instance, just suspend disbelief for a moment and let’s pretend you were already at (insert
+- their low goal). If you imagine yourself there… what would be next? What do you really want?
+- Strategy #2 - Do They Have Inaccurate Timelines?
+- I always use strategy #1 FIRST. And in most cases, it reveals that the prospect was either just
+- trying to be realistic OR (in a lot of cases) they had an inaccurate timeline.
+- For instance: They want to grow their agency to 5k/m in the next 6 months.
+- Here you’re going to use a little bit of moral authority along with case studies to bump them
+- back into the pocket.
+- Well, let me ask you a question…
+- If there was a way, if it were possible, to be able to collapse that timeframe from 6 months to 30
+- days - which I get you might not think is possible but just suspend disbelief for a moment -
+- would you be potentially open minded to trying to achieve that same goal sooner?
+- Likely they’re going to say yes. Now, if necessary continue with this…
+- Great… cause can I be honest with you for a second?
+- We have clients who get to 5k months in 7 days (pause). So.. I mean… is that all you really
+- want? Or were you thinking 6 months is simply realistic and you weren’t aware of the
+- possibilities? Because there is sooo much more out there for you… if you let yourself be open to
+- Strategy #4 - Pointing Out Monetary // Non-Monetary Goal Misalignment
+- You’re only going to use this if the first three strategies don’t work. Which is rare. But this is your
+- last resort (if you’re really trying to maximize the chance of closing this person)...
+- What you’re going to do is point out that in order to achieve the non-monetary goals, they have
+- to raise their personal goals (this is why it’s important to properly elicit desired state to begin
+- So per the above scenario… the prospect might respond: “yeah but 2k/m is all I really want and
+- I don’t care how long it takes to get there…”
+- Again… rare. But here’s what you do:
+- Can I challenge you for a second on that?
+- You just got done telling me you want to impact a million people, travel the world, retire your
+- husband, and maybe start a non-profit… and you also told me you only want to make 2k/m…
+- So I’m not coming down on you here I just want to inspire you on what’s really possible here…
+- because while all those things are achievable, they’re going to take a bit more than 2k/m…
+- So are you potentially open to kinda rethinking our monetary goals? I know that’s NOT the way
+- you’re driven… but that’s the way in which we’re going to make the impact that you want.
+- Strategy #5 - The Last Resort
+- If you even get here, you probably don’t even want to work with the person lol.
+- BUT if you wanted to give them one more chance here’s what you would do:
+- Gotcha well, maybe you could help me out for a second? Because I’m not sure what we should
+- You could prob get to 2k/m in the timeframe you want just by following our free content in the
+- facebook group. Our program might even be a little bit overkill…
+- So what’d you think we should do?
+- Interestingly - they will probably still ask you to tell them about your program here.
+- Gotcha so even with those goals and timelines you’re still potentially considering mentorship to
+- But … given what we talked about… why do you feel like you need that now, though?
+- Now, they will either disqualify themselves or fight their way back in…
+- And it’s your call rather you want to take them to the close and make the offer or not…
+- If you found this video helpful, we have 30+ hours of videos/training just like this one with
+- scripting to accompany each in the units tab of our Free 7-Figure Selling Secrets Facebook
+- https://www.facebook.com/groups/735269420245203
+- When you join the group, you’ll be asked to submit your email in the membership questions.
+- When you submit it, you’ll be automatically sent kajabi log ins to our Free Sales Course with 30+
+- hours of content on setting, closing, building sales teams, and more.
+- See you in the group!
+
+## PRE-PITCH TRAINING SCRIPT — Pirms-Pitch Treniņa Skripts
+
+> *«Pirms pitch ir TRENIŅŠ. Mēģini pitch pirms klienta — uz sevi, uz partneri, uz spogulis.»*
+
+- ●​ My name is Cole Gordon and for those of you who don’t know who I am - I am a sale
+- ●​ the guy entrepreneurs / coaches / consultants and sales reps go to when they want to
+- ●​ their income without increasing their lead flow but instead by closing more of the deals
+- ●​ already have - and if that’s something you need help with feel free to shoot me a DM on
+- ●​ we can chat if it’s a good fit for you.
+- A LITTLE BIT ABOUT ME - I’ve sold millions and millions of consulting services for some of the
+- biggest names in the high ticket coaching space and over the past 2.5years have taken nearly
+- 2500 sales calls closing as high as 60-70% at time - and I don’t tell you that to impress you but
+- to just let you know that everything I’ll teach you actually comes from DOING IT in the trenches
+- and what’s working NOW and not just some esoteric theory from a coaching program in which
+- the actual coach teaching it doesn’t even take calls anymore and in all honestly has no idea
+- what’s going on. ⁃
+- So any who… moving on.
+- WHAT WHERE GONNA COVER
+- What Is The pre pitch and why is it so powerful
+- The "Pre-Pitch" Language Pattern Framework And How To Apply It To Your Specific Offer
+- [Bonus] The #1 Reason You’re Probably Missing Easy “Lay-Down” Sales (And How To Fix It)
+- This particular part of the call is responsible for 75% of the success or failure of your call! - one
+- of the things one of my dearest mentors who was doing 8-figures taught me was the importance
+- of this and how to master it - it’s super crucial because there’s sooo many times you can nail
+- everything else on the call but if you miss this part you’re screwed.
+- Also the reason why your perfect prospect will agree with you that they need to change their
+- situation NOW - only to leave the call go work with someone else instead of you. There’s
+- nothing more frustrating than working through all the prospects BS and finally getting them
+- really committed only for them to shop around on you and then go with someone else.
+- WHAT IS THE PRE PITCH
+- The “pre-pitch” is a language pattern that you use as a “transition” between the discovery and
+- offer portions of the call.
+- Commonly called the “tempo-change” (when the prospect starts asking YOU questions.
+- Why do we use it?
+- BUILDS YOUR CREDIBILITY - PROOF STACKING
+- So the reason this is important guys - is that when you tell the prospect about what you do and
+- your offer, there’s innate levels of skepticism. They don’t fully believe you because there’s a lot
+- of people making promises out there and they’ve likely been burned in the past. So if you don’t
+- do this, you’ll get trust objections at the end because they don’t believe you. So here… were
+- FRONT LOADING proof so what we say will be more likely received to be true.
+- BUILDS YOUR AUTHORITY BY EDUCATION THE PROSPECT AND PROVIDING GENUINE
+- This is straight forward - but whenever you provide someone with genuine value - it’s going to
+- build you up as the trusted authority - which like we talked about above is important because it’s
+- building trust so your pitch will be received far better.
+- HELPS THE PROSPECT UNDER THE ROOT of their problem and why everything they’ve tried
+- in the past has failed (while setting YOU up to be different / unique / superior)
+- So one of the biggest issues people fall into is their ACTUAL pitch sounds the same as
+- everyone else’s and they don’t differentiate themselves at all - and as a result you get to the end
+- of the call and the prospect doesn’t believe it’ll work for them. So here what we’re doing is
+- EDUCATING the prospect on the ROOT cause of their symptom level problem. See - most
+- prospects will have symptom level issues - that’s why their stuck and need your help. So when
+- you can help them understand the root cause - you gain a ton of trust AND since NOW the
+- conversation is about solving a different problem you immediately differentiate yourself from all
+- of the other people their looking into cause everyone else is trying to fix the symptom level
+- problem. So it effectively eliminates your competition. This is SUPER powerful.
+- If you’ve been in sales a while you know that one of the most important aspects of the call is
+- getting the prospect associated to WHY the must change NOW and what’s going to happen if
+- they don’t change. So here - subtly anchor this in so it puts them in that frame before we got into
+- HELPS THEM SEE A CLEAR BRIDGE BETWEEN CURRENT AND DESIRED SITUATION
+- One of the biggest reasons a prospect won’t move forward is lack of confidence in either the
+- product or themselves - easiest way to fix that is by painting a very clear picture of how they can
+- get from point A to point B
+- GETS THE PROSPECT BACK INTO AN EMOTIONAL STATE BEFORE GOING INTO THE
+- So if you do your job right - you’ll get to the prospects pain and why they must change now right
+
+## 30-DAY RAMP UP — 30 Dienu Iestrāde
+
+> *«Pirmās 30 dienas nosaka nākamos 12 mēnešus. Iestrāde nav 'mācīšanās' — tā ir SISTĒMAS būve.»*
+
+- How To Successfully Go From Zero → KPI In Your Sales Role
+- What We’re Going To Cover:
+- ●​ How to get in KPI well within 50 calls
+- ○​ FYI - 50 SHOULD NOT be your goal.
+- ○​ You’re NOT guaranteed 50 calls (we’ll talk about why).
+- ●​ How to succeed in the following timelines
+- ○​ Statistical significance.
+- ●​ Are you guaranteed 50 calls?
+- ○​ As talked about earlier, that’s simply the quantitative assessment.
+- ○​ You’ll be assessed qualitatively too on things such as:
+- ■​ How you sound on the phones
+- ■​ Coachability & culture fit
+- ■​ Hunger… asking questions
+- ■​ How you show up to meetings, EOD reports…
+- ■​ Progress & implementation
+- ●​ ***at ANY point if you’re owner is NOT seeing this they may let
+- ○​ Drinking from the firehose and getting acquainted with your new position and the
+- SOPs (which we’ll cover)
+- ○​ If you have time, get in the field and prospect.... Show that you’re hungry and
+- make an impact week 1.
+- ○​ Go through all training materials the company gives you FIRST
+- ■​ When in doubt, follow THEIR process, not mine (unless you’ve already
+- ○​ Get acquainted with their tech (don’t spend too much time here, though)
+- ○​ Get access to product
+- ■​ (you’ll want to go through this, BUT it prob will have to wait for a couple
+- ○​ Get access to testimonials
+- ■​ (you WILL want to go through a few of these… but again might take a
+- ○​ Shadow current closers AS MUCH AS POSSIBLE
+- ○​ Go through 5-10 call recordings a day
+- ○​ Drilling / Scripting
+- ○​ Go through my training
+- ■​ You’ll wanna go through this multiple times.
+- ■​ The real value - believe it or not - is this training (on how to show up)
+- along with the trainings on mindset, tonality, certainty, standards, etc…
+- ●​ The sales training is great but if I can optimize you as a PERSON
+- it will naturally fall in place as a byproduct.
+- ●​ What you’re owner is looking for:
+- ○​ Coachable & implementing
+- ○​ Hungry, engaged… asking questions
+- ○​ Taking limited call volume
+- ○​ Set your own appointments
+- ○​ Getting a ton of feedback
+- ○​ Still going through the training, drilling, etc
+- ○​ Finish above list and go through AGAIN AND AGAIN
+- ○​ Set your own appointments (show you’re hungry)
+- ■​ The BEST reps do both. Always. Don’t be a fat lazy inbound closer.
+- ○​ Get your calls reviewed in the 7FSA group and from your owner
+- ○​ Ride / shadow calls in spare time
+- ●​ What You’re Owner Is Looking For:
+- ○​ Sound good on calls
+- ○​ Coachable & implementing
+- ○​ Hungry, engaged… asking questions
+- ○​ Still set your own appointments
+- ○​ Still getting a ton of feedback
+- ○​ Still going through training, etc (always)
+- ○​ Getting in KPI asap (way before 50 calls)
+- ○​ Still the same as the above… key will be getting into KPI and closing ASAP
+- ○​ Be aggressive. Make a lot of offers. Get units in the door and get within KPI
+- ●​ What You’re Owner Is Looking For:
+- ■​ Within the first 20 calls… a deal or two closed minimum
+- ■​ Within the first 30-40 calls… close to or AT KPI
+- ■​ Within the first 50 calls… at KPI
+
+## SALES SUCCESS TIPS & COMMON PITFALLS — Panākumu Padomi un Biežākās Kļūdas
+
+> *«Labākie operatori nedara neko maģisku. Viņi vienkārši IZVAIRĀS no kļūdām, ko citi atkārto.»*
+
+- Success Tips & Common Pitfalls
+- What We’re Going To Cover:
+- ●​ I was able to ramp EXTREMELY fast in all offers I sold. This will give a breakdown of
+- what I did to go from 0 → 30-40% closing ratio for the companies I sold for in under 30
+- ●​ Common pitfalls I’ve seen from training 100s of reps and some I’ve fallen into myself.
+- Tips To Sales Success & Ramping Quickly
+- ○​ Focused on NOT losing
+- ○​ Focused on WINNING ← be this one.
+- ●​ You should be in attack mode the entire time
+- ○​ Don’t get overwhelmed with details/tech and focus on production EARLY
+- ■​ Ask for outbound / setting opportunities if you’re a closer and set
+- ■​ Be aggressive at the close
+- ●​ Rather you be aggressive than not
+- ●​ Make a LOT of offers
+- ■​ Come out of the gate hot and stir the pot (while being respectful. Don’t be
+- ■​ Ask for forgiveness over permission
+- Sharpen The Saw Constantly
+- ●​ Review A LOT OF CALLS
+- ○​ Go over your offer owners 5x over…
+- ■​ Listen to them on repeat using Mxplayer at 1-1.5x speed during NET time
+- ■​ Sit down at regular speed and script them out…
+- ●​ Especially the pitch.
+- ■​ When you’re ramping… 5-10 calls per day
+- ■​ Optimizing - 1-2 calls PER DAY
+- ○​ Listen to my calls and script them out over and over and over…
+- ■​ Listen to them like background music.
+- ○​ Burn this into your brain
+- ●​ Go through my training AGAIN AND AGAIN AND AGAIN
+- ○​ Repetition is the mother of skill
+- ○​ Go through it during your morning routine (workout) and you’ll start to having
+- everything naturally sink in
+- ●​ Drill OVER AND OVER
+- ○​ Script out your pitch by hand over and over…
+- ■​ Say it outloud until it’s so natural you don’t even need to look at a script -
+- burn this into your brain
+- ●​ If you read it word for word you will NEVER make the sale...
+- ○​ Script out your questions and syntax over and over…
+- ■​ Practice the questions out loud
+- ○​ Script out objection covers OVER AND OVER again…
+- ■​ Practice outloud with flashcards. Especially how to pace the first objection
+- and do financial objections.
+- ■​ I always would drill so hard that it was literally impossible to fail.
+- ●​ Ask for a LOT of feedback
+- ○​ Sales is all about eliminating blindspots. That improves our awareness. Then our
+- awareness allows us to grow.
+- ○​ Ask a LOT of questions to your offer owner - don’t worry about being annoying.
+- Every biz owner WANTS questions and engagement.
+- ○​ Show up to AT LEAST 2x Q&A calls weekly.
+- ■​ GET YOUR CALLS REVIEWED - this is the best best best way to get
+- ■​ Bug your owner about it, too…
+- ○​ Reviewing your own calls allows you to self-correct as well.
+- ●​ Go through product & testimonials to build your certainty
+- ○​ The first week, you’ll want to go through your testimonials again and again and
+- ○​ You’ll also want to go through the product
+- ○​ This will build your certainty that anyone you talk is FAR BETTER doing it than
+- ■​ You want to be the crossroads for that person.
+- Changing everything all at once
+- A BIG part of your ability to influence is your level of CERTAINTY. We look at certainty through
+- ●​ Your alignment with the offer (how much certainty you have in what your selling)
+- ●​ Your alignment with the market (the degree in which you resonate with the market)
+- ●​ Your alignment with your process (the degree in which you feel comfortable in your sales
+- When we buy a new program and learn a bunch of new stuff, we have the tendency to want to
+- use all of it all at once. This is partially because of sunk cost bias.
+- I completely believe that - over time - if you switch to my process you will close much better
+- make significantly more money...
+- (Also keep in mind, that a big part of “my process” is teaching you the right philosophy and how
+- to manage your energy too)
+- That said, IF you try to change everything all at once, you’re going to create massive uncertainty
+- in your process (because you’re not used to it)....
+- And when you do that, you’re going to transfer that uncertainty to the prospect on the call. And
+- you’re close rate will go down.
+- So what I recommend, is go through my training and focus on 1-2 things to implement at a time.
+- Focus on those, get those aspects down, reinforce them, and then move onto the next.
+- DO NOT change EVERYTHING all at once. Please :-)
+- Neglecting energy, tonality, and philosophy
+- Eventually we will cover energy management, tonality and sales philosophy. ​
+- This (might) come off like the esoteric boring stuff…
+- BUT it’s the most important (and most impactful).
+- So not only make sure to go through it, but actually PRACTICE it.
+- Getting too in your head and not listening to what the prospect is saying…
+- Again, going through sales training is a double edged sword…
+- Will it make you better? Yes…
+- BUT if you’re constantly in your head trying to force the implementation of it, you’re going to
+- You need to go through this, understand it, drill it… but when it’s time for the call become
+- completely present and DO WHAT’S NATURAL TO YOU.
+- Especially if you’re an experienced closer… YOU HAVE to come off with the vibe of “I’ve done
+- this 1000 times, and I know exactly what the fuck I’m doing”...
+- The certainty & comfort you have with your process will always trump sales tactics.
+- That doesn’t mean you shouldn’t learn them, though.
+- Only going through my call analysis breakdowns (of my calls and your calls) one time.
+- Go through these again and again and again.
+- Repetition is key to getting the change to happen in yourself.
+
+## BELIEF BLUEPRINT — Pārliecību Plāns
+
+- Desire Questions
+- Support Questions
+- (Partner/Spouse)
+- Basic Transition
+- Option 1  (Preferred)
+- Main Outcomes (Intro):
+- 1) Demonstrate your a normal human
+- 2) Make sure the prospect is in a good
+- time/place for the call
+- 3) Set the agenda for the call
+- Main Outcomes (Information
+- 1) Check The Boxes Of These 8
+- 2) Establish trust
+- 3) Do so as quickly and efficiently as
+- *** You will learn 2 specific syntaxes in
+- terms of how to execute these.
+- 1) Problems-First Syntax
+- 2) Goals-First Syntax
+- Main Outcomes (Transition):
+- 1) Acknowledge the prospect that "you
+- hear them and understand them"
+- 2) Transition into pitch with zero sales
+- Main Outcomes (Pitch):
+- 1) Get the prospect clear on the end
+- 2) Give them a simple bridge that
+- explains how to get from A-->B
+- 3) Simply explain how it's delivered
+- Main Outcomes (Committing):
+- 1)  Tie the prospect down on the
+- 2) Give next steps so prospect knows
+- what happens after they invest
+- 3) State investment simply.
+- Main Outcomes (Objections):
+- 1)  Get rid of uncertainty objections
+- 2) Remove Spouse/Partner Objections (if
+- 3) Remove Financial Objections
+- 4) Button-Down (Close) The Sale.
+
+
 ## P.36 · RELEASE AUDIT
 
 | # | Tests | Status |
@@ -5426,4 +8385,4 @@ Neuralink-iedvesmots meta-ietvars pārdošanai: signāli(leads/zvani/čati/CRM) 
 > *«Uzvar tas, kurš zina pareizo KOMBO pareizajā brīdī.»*
 
 ---
-*FINĀLĀ GRĀMATA · V3.7 FINAL · 257 Neironi · 34 FINISHING MOVES · 30 KILLS · PILNA V122 INTEGRĀCIJA · 10 BLUEPRINTS · 23 PIELIKUMI · Lauris Leitāns · Sharpify.io · 2026*
+*FINĀLĀ GRĀMATA · V4.0 FINAL · 257 Neironi · 34 FINISHING MOVES · 30 KILLS · PILNA V122 INTEGRĀCIJA · 10 BLUEPRINTS · 23 PIELIKUMI · Lauris Leitāns · Sharpify.io · 2026*
