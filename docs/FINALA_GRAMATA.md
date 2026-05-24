@@ -1908,6 +1908,286 @@ REDZ → NOSAUC → PIERĀDA → SAJŪT → NEVAR IGNORĒT → IZVĒLAS
 | **Nassim Taleb** | Q21.5 | Worst Case + Skin in the Game |
 | **Dan Ariely** | Q11, Q32 | Decoy + Anchoring |
 
+## CORE SYSTEM 7 — Sistēmas Kodols (N135)
+
+> *7 pamatkomponenti kas kopā veido pilnu pārdošanas sistēmu. Ja kaut viens trūkst — sistēma nestrādā.*
+
+| # | Komponents | Ko ietver | Ja trūkst |
+|---|-----------|---------|-----------|
+| 1 | **Q Secība** | Q0-Q41 lineārā plūsma | Operators improvizē — zaudē kontroli |
+| 2 | **MICE Motors** | 4 klienta dzinēji (Money/Identity/Compromise/Ego) | Pitch ir vispārīgs, netrāpa |
+| 3 | **Maskas** | 7 virsmas iemesli aiz kuriem slēpjas patiesā bremze | Operators strīdas ar simptomiem |
+| 4 | **Vārti** | 5 kontrolpunkti (Lēmējs/Laiks/Nauda/Sāpe/Trust) | Ej tālāk ar nekvalificētu klientu |
+| 5 | **Lock** | Apstiprinājums pirms kustības | Klients saka «jā» bet domā «nē» |
+| 6 | **Hope Break** | Vecā modeļa nāve Q21.5 | Klients tic ka «varbūt» vecais vēl strādās |
+| 7 | **Carrier** | Vizuālais nesējs (stāsts/metafora/cipars) | Informācija aiziet garām — nav āķa smadzenēs |
+
+## 6 LĪMEŅU TEHNIKAS TAKSONOMIJA (N118)
+
+> *Operators sāk ar L1-L2. Meistars operē L4-L6.*
+
+| Līmenis | Nosaukums | Ko ietver | Piemērs |
+|---------|---------|---------|--------|
+| **L1** | Struktūra | Q secība, akti, laika rāmis | «Seko Q — neimprovizē» |
+| **L2** | Psiholoģija | MICE, maskas, motors | «Klients saka X — bet motors ir Y» |
+| **L3** | Valoda/NLP | Iegultās komandas, presupozīcijas | *«Kad tu sāksi — pamanīsi...»* |
+| **L4** | Emocijas | Sāpju aktivizēšana, empātija | Klusums pēc COI — ļauj sajust |
+| **L5** | Stāvoklis/V∞ | PRO STATE, klātbūtne, resolve | FM DJ balss — nav steigas |
+| **L6** | Mikro-intervences | 0.1% tehnikas, kalibrēšana | Pauze precīzi starp 2. un 3. vārdu |
+
+## REALITY LANDING — Iezemēšanās Pirms Pitch (N091)
+
+> *Q21 pirms pitch — pārbaudi vai klients ir gatavs. Ja nav — neej tālāk.*
+
+**SAKI:** *«Pirms es pastāstu par mūsu pieeju — kur tavā biznesā šis process varētu aizķerties?»*
+
+**Kāpēc:** Implementation fear check. Klients pats nosauc šķēršļus PIRMS tu pitcho. Tad tu vari tos adresēt pitch laikā.
+
+| Atbilde | Ko nozīmē | Ko dari |
+|---------|----------|--------|
+| *«Nezinu»* | Nav pārdomājis — nav gatavs | Atgriezies Q17 — padziļini sāpi |
+| *«Laiks/nauda/komanda»* | Konkrēts šķērslis | Iekļauj pitch kā risinājumu |
+| *«Neko — esmu gatavs»* | Zaļā gaisma | Turpini uz Q22 |
+
+## ULTRA CLOSE — 5 Slēgšanas Tehnikas (N200)
+
+> *Pēdējie ieroči kad klients ir «gandrīz» bet ne «jā». Lietot TIKAI pēc Q33-Q40 cilpas.*
+
+| # | Tehnika | Verbatim | Kad lietot |
+|---|--------|---------|-----------|
+| 1 | **Sharp Angle** | *«Ja es parādu tieši kā sasniegt [MĒRĶI] — tu sāc tagad?»* | Klients saka «ja tikai...» |
+| 2 | **Feel Good** | *«Kā tu jūties? Labi? Esi gatavs sākt mājasdarbu?»* | Klients ir pozitīvs bet nav teicis «jā» |
+| 3 | **Assumptive** | *«Kāda ir tava norēķinu adrese?»* | Klients jau ir «iekšā» |
+| 4 | **Ben Franklin** | *«Uzrakstīsim uz papīra — ko tu iegūsti un ko tu zaudē»* | Loģiskais/analītiskais klients |
+| 5 | **Puppy Dog** | *«Sāc — ja pēc 14 dienām nejūti rezultātu, es atdodu naudu»* | Bailīgais klients |
+
+## GATAVĪBAS SKALA 1-10 (N107)
+
+> *Q29 — termometrs pirms cenas. Ja zem 8 — NEEJ uz cenu.*
+
+**SAKI:** *«Skalā no 1 līdz 10, kur 1 ir "pilnīgi nav gatavs" un 10 ir "sāksim tagad" — kur tu esi?»*
+
+| Atbilde | Ko nozīmē | Ko dari |
+|---------|----------|--------|
+| **1-4** | Nav gatavs. Kaut kas trūkst. | *«Ko tev vajadzētu redzēt lai būtu 8?»* → atgriezies discovery |
+| **5-6** | Interesē, bet šaubās. | *«Kas tev trūkst lai pārietu no 6 uz 9?»* → adresē konkrēto šaubīšanos |
+| **7** | Gandrīz. Viens šķērslis. | *«Kas ir tas viens?»* → izolē un atrisini |
+| **8-9** | Gatavs. Tikai vajag pushīti. | *«Kas kavē neiet uz 10?»* → parasti loģistika |
+| **10** | Gatavs. | *«Perfekti. Sākam.»* → Q32 cena |
+
+> *Ja klients saka 10 — nepriecājies. Jautā: «Kāpēc 10?» Viņš tev pats pārdos.*
+
+## KILL SWITCH — 5 Diskvalifikācijas Vārti (N080, N211)
+
+> *Ja šie nosacījumi nav izpildīti — NEEJ TĀLĀK. Labāk zaudē šo zvanu nekā zaudē stundu dzīves.*
+
+| Fāze | Q zona | Kill Switch | Ja neizpildās |
+|------|--------|------------|--------------|
+| **Atvēršana** | Q1-Q3 | Rāmis pieņemts + Lēmējs + Naudas vārts | Atkārto drošību vai beidz zvanu |
+| **Diagnoze** | Q4-Q13 | MICE motors skaidrs pēc Q9 | *«Man šobrīd nepietiek info lai turpinātu»* |
+| **Hope Break** | Q14-Q21.5 | Klients atzīst «nekas nemainīsies» | Neej uz pitch — atgriezies Q14 |
+| **Pitch + Cena** | Q22-Q32 | Belief virs 8/10 | Neej uz cenu — atgriezies uz belief |
+| **Close** | Q33-Q41 | Pēc 2 cilpām vēl miglā | Named brake + datums |
+
+> *4 DQ signāli kas beidz zvanu UZREIZ: 1) Nav lēmēja un nevar pārcelt. 2) Nav godīgai sarunai. 3) «Atsūti info». 4) Agresīva necieņa.*
+
+## PITCH CODEX — 3 Daļu Struktūra (N082)
+
+> *Apjucis klients nepērk. Vienkāršība ir augstākā sofistikācijas forma. Viens teikums. Viens cipars. Viens termiņš.*
+
+| Daļa | Ilgums | Ko dari | Verbatim |
+|------|--------|--------|---------|
+| 1. **Unique Mechanism** | 60s | Kas padara TAVU sistēmu atšķirīgu? Ne «labāks» — ATŠĶIRĪGS | *«Atšķirībā no [vecā veida], mēs lietojam [X] kas nozīmē [rezultāts]»* |
+| 2. **3 Pīlāri** | 3×60s | Trīs galvenie soļi kā sistēma strādā | *«Pirmais solis — [X]. Otrais — [Y]. Trešais — [Z].»* |
+| 3. **Stāsts** | 60s | Klienta stāsts kas pierāda ka strādā | *«[Vārds] bija tieši tavā situācijā. Pēc 90 dienām — [rezultāts].»* |
+
+**Hard vs Soft Offers:**
+| Tips | Kad | Verbatim |
+|------|-----|---------|
+| **Hard** | Klients gatavs, belief 8+ | *«Investīcija ir €X. Sākam?»* |
+| **Soft** | Klients šaubās, belief 5-7 | *«Mēs sākam ar 90-dienu pilotprojektu. Ja nestrādā — tu zaudē neko.»* |
+
+## ZANDAS CLOSE — 6 Soļu Sekvence (N117)
+
+> *Pēc «jā» — neklusē. Nekavējies. Darbojies TAGAD.*
+
+| # | Solis | Verbatim |
+|---|-------|---------|
+| 1 | **Commitment** | *«Tātad — sākam?»* |
+| 2 | **Split Payment** | *«Ērtāk dalīt pa mēnešiem vai uzreiz?»* |
+| 3 | **WhatsApp ZVANA LAIKĀ** | Sūti linku/anketu TAGAD — ne pēc zvana |
+| 4 | **Anketa** | Nosūti tūlīt — kamēr klients ir «karstā» stāvoklī |
+| 5 | **Onboarding 1h** | Pirmā tikšanās tajā pašā dienā vai rīt |
+| 6 | **Noslēgums** | *«Priecājos. Tu izdarīji pareizi.»* |
+
+> *Kāpēc WhatsApp ZVANA LAIKĀ? Jo 73% klientu kas saka «jā» un noslēdz pēc zvana — atkrīt. Darbība = commitment.*
+
+## IEBILDUMU DZIMŠANAS KARTE (N196)
+
+> *Katrs neaizvērts Lock = nākotnes iebildums. Iebildumi nerodas no nekurienes — tie dzimst no izlaistiem soļiem.*
+
+| Izlaistais solis | Iebildums kas dzimst | Piemērs |
+|-----------------|---------------------|--------|
+| Nav Lock pēc Q4-Q7 | *«Es nezinu vai man vajag»* | MICE nebija skaidrs → klients nejūt vajadzību |
+| Nav COI Q11 | *«Pārāk dārgi»* | Bezdarbības cena nav uz galda → cena «peld gaisā» |
+| Nav Hope Break Q21.5 | *«Varbūt pamēģināšu pats»* | Vecā cerība nav nomirusi → klients tic ka var pats |
+| Nav Belief Lock Q28 | *«Man jāpadomā»* | Nav pārliecībā ka sistēma strādā → bail no kļūdas |
+| Nav Vārti atvērti | Jebkurš iebildums | Operator devās tālāk bez atļaujas |
+
+> *Labākais veids kā novērst iebildumus — ir tos neradīt. Seko Q secībai. Neizlaid Lockus.*
+
+## SIEVA/PARTNERIS APSTRĀDE (N196)
+
+> *«Mans partneris/sieva/vīrs nepiekritīs» — šis NAV loģisks iebildums. Šis ir baiļu maska.*
+
+**Soļi:**
+
+| # | Solis | Verbatim |
+|---|-------|---------|
+| 1 | **Normalizē** | *«Es to dzirdu bieži. Un tas nozīmē ka tu domā par ģimeni — tas ir laba zīme.»* |
+| 2 | **Izolē** | *«Ja tavs partneris teiktu "dari kā gribi" — tu sāktu?»* |
+| 3 | **Ja JĀ** | Problēma nav partneris. Problēma ir bail. → *«Kas TEV vēl nav skaidrs?»* |
+| 4 | **Ja NĒ** | Patiesi vajag partnera iesaisti. → *«Vai mēs varam iekļaut viņu sarunā? 10 min.»* |
+| 5 | **3-Way** | Piezvani kopā. Atkārto galveno: COI + 3 Pīlāri + Derība |
+
+> *NEKAD nesaki «pārliecini sievu». Saki: «Es saprotu — iedosim viņai/viņam iespēju dzirdēt.»*
+
+## RISK MITIGATORS — 5 Riska Mazinātāji (N196)
+
+> *Pēdējie ieroči kad klients ir «iekšā» bet bail. Nepaļaujies uz tiem — bet turi kā rezervi.*
+
+| # | Mitigators | Verbatim | Kad lietot |
+|---|-----------|---------|-----------|
+| 1 | **Garantija** | *«Ja pēc 30 dienām nejūti rezultātu — atdodam naudu. Bez jautājumiem.»* | Bailīgais klients |
+| 2 | **Trial/Pilots** | *«Sākam ar 30-dienu pilotprojektu. Mazs risks, liels potenciāls.»* | Analītiskais klients |
+| 3 | **Split Payment** | *«Dalām pa 3 mēnešiem — lai nav viss uzreiz.»* | Finanšu iebildums |
+| 4 | **Bonus/Vērtība** | *«Pirmajiem 48h pievienoju [X] bez papildu maksas.»* | Ja klients šaubās par vērtību |
+| 5 | **Social Proof** | *«[Vārds] bija tieši tavā situācijā. Tagad viņš [rezultāts].»* | Ja klients jūtas vientuļš lēmumā |
+
+## FINANCIAL RESOURCES UNCOVERING (N196)
+
+> *Kad klients saka «nav naudas» — izpēti PIRMS atteiksies.*
+
+**SAKI:** *«Es saprotu ka nauda ir svarīga tēma. Palūkosimies kopā — kādi resursi tev IR pieejami?»*
+
+| Resurss | Jautājums |
+|---------|----------|
+| Krājumi | *«Vai tev ir kādi uzkrājumi ko varētu investēt savā biznesā?»* |
+| Kredīts | *«Vai tev ir kredītkarte ar pieejamu limitu?»* |
+| Ģimene | *«Vai kāds no tuvajiem varētu palīdzēt ar sākuma investīciju?»* |
+| Pārdošana | *«Vai tev ir kaut kas ko varētu pārdot lai ieguldītu savā izaugsmē?»* |
+| Plāns B | *«Ja mēs varētu dalīt maksājumu — vai tas palīdzētu?»* |
+
+> *NEKAD neesi agresīvs ar naudu. Esi diagnostiķis — palīdzi viņam PAŠAM redzēt iespējas.*
+
+## BAIĻU SLĀNIS — Kas Slēpjas Aiz «Nē» (N196)
+
+> *Zem katra «nē» ir bail. Zem katras bailes ir identitāte kas jūtas apdraudēta.*
+
+| Virsma (ko saka) | Bail (ko jūt) | Identitāte (kas apdraudēta) | Ko dari |
+|------------------|--------------|---------------------------|--------|
+| *«Pārāk dārgi»* | Bail no kļūdas ar naudu | «Es esmu labs saimnieks» | COI — parādi ka NEdarīšana maksā vairāk |
+| *«Man jāpadomā»* | Bail no pārmaiņām | «Es esmu piesardzīgs» | *«Ko tieši gribi pārdomāt?»* → izolē |
+| *«Sieva nepiekritīs»* | Bail no konflikta | «Es esmu labs partneris» | Normalizē + iesaisti partneri |
+| *«Nav laika»* | Bail no papildu slodzes | «Es jau esmu pārslogots» | *«Tieši tāpēc — sistēma atbrīvo laiku»* |
+| *«Jau mēģināju»* | Bail no atkārtotas vilšanās | «Es neesmu lūzeris» | *«Kas bija citādi tajā reizē?»* → parādi atšķirību |
+
+## FOLLOW-UP SISTĒMA — Sēkla Aug Pati (N196)
+
+> *Follow-up nav atkārtošana. Follow-up ir ražas novākšana. «Iesēt ar asarām, pļaut ar prieku» — laiks ir sabiedrotais.*
+
+| Diena | Darbība | Verbatim |
+|-------|--------|---------|
+| **0** (pēc zvana) | WhatsApp/email ar kopsavilkumu | *«Paldies par sarunu. Lūk galvenie punkti ko apspriedām: [1,2,3]»* |
+| **1** | Vērtības sūtījums (ne pārdošana) | *«Šis raksts/video atgādina mūsu sarunu par [tēma].»* |
+| **3** | Check-in | *«Kā iet? Vai bija laiks pārdomāt?»* |
+| **7** | Social proof | *«[Vārds] tikko sāka un jau redz [rezultātu]. Domāju par tevi.»* |
+| **14** | Pēdējais zvans | *«Šī ir pēdējā reize kad rakstu. Ja šobrīd nav pareizais laiks — es to cienīju.»* |
+| **30** | Sēkla | *«Sveiks! Atceros mūsu sarunu. Ja kaut kas mainījies — esmu te.»* |
+
+> *NEKAD nezvani ar «Nu kā, esi izdomājis?» Vienmēr dod vērtību. Katrs kontakts = dāvana, ne pieprasījums.*
+
+## NOZARU ADAPTĀCIJAS — B2B / B2C / Pakalpojumi (N080)
+
+> *Viena sistēma — trīs valodas. Q paliek tie paši, mainās verbatim un temps.*
+
+| Q | B2C (fiziska persona) | B2B (uzņēmums) | Pakalpojumi |
+|---|---------------------|----------------|------------|
+| Q1 | *«Godīgi — varbūt nemaz nevaru palīdzēt»* | *«Mēs strādājam ar uzņēmumiem kas [kritērijs]. Paskatāmies vai jūs kvalificējaties»* | *«Es nestrādāju ar visiem — noskaidrosim vai der»* |
+| Q4 | *«Pastāsti par savu situāciju»* | *«Kāds ir jūsu KPI šobrīd?»* | *«Kā izskatās jūsu ikdiena tagad?»* |
+| Q11 | *«Cik tas tev maksā mēnesī?»* | *«Kāds ir jūsu cost of inaction gadā?»* | *«Cik stundu nedēļā tu zaudē šī dēļ?»* |
+| Q22 | *«Mēs darām 3 lietas»* | *«Sistēma ietver 3 komponentus»* | *«Process sastāv no 3 posmiem»* |
+| Q32 | *«Investīcija ir €X»* | *«Investīcija jūsu gadījumā ir €X/mēn»* | *«Mēneša maksa ir €X»* |
+| Temps | Lēnāk, emocionālāk | Ātrāk, ar datiem, profesionāli | Vidēji, ar piemēriem |
+
+**Introvertam:** Lēnāk, mazāk vārdu, vairāk klusuma, *«pastāsti vairāk»*
+**Ekstravertam:** Ātrāk, enerģiskāk, *«es to pilnīgi saprotu»*
+
+## OPERATORA ATTĪSTĪBAS CEĻŠ — 6 Līmeņi (N196)
+
+> *Operators aug no L1 (strukturāls sekotājs) līdz L6 (intuitīvs meistars). Katrs līmenis prasa ~100 zvanus.*
+
+| Līmenis | Nosaukums | Ko prot | Zvani | Riska zona |
+|---------|---------|--------|-------|-----------|
+| **L1** | Sekotājs | Lasa Q no lapas. Seko struktūrai. | 0-50 | Robotiski — klients jūt ka «lasa scenāriju» |
+| **L2** | Praktikants | Q ir galvā. Sāk adaptēt. | 50-150 | Pārāk ātri mēģina «improvizēt» |
+| **L3** | Operators | MICE adaptācija reāllaikā. Lock ir automātisks. | 150-300 | Pārliecīgs — izlaiž smalkumus |
+| **L4** | Vecākais | Diagnosticē maskas 30s laikā. Treniņa partneri. | 300-500 | Izdegšana ja nav enerģijas vadība |
+| **L5** | Meistars | Operē L4-L6 tehnikas. Klusums ir galvenais ierocis. | 500-1000 | «Pārāk labs» — klients jūt pārsvaru |
+| **L6** | Sensei | Intuitīvs. Kalibrē mikro-signālus. Māca citus. | 1000+ | Risks zaudēt empātiju — paliec cilvēks |
+
+**Ceļš A vs Ceļš B:**
+| | Ceļš A (bīstamais) | Ceļš B (pareizais) |
+|--|-------------------|-------------------|
+| Mērķis | Noslēgt darījumu | Diagnosticēt un palīdzēt |
+| Rezultāts | Daudz «jā» kas atkrīt 30% | Mazāk «jā» kas paliek 95% |
+| Izjūta | Stresa, izdegšana | Miera, piepildījuma |
+| Klients | Jūtas manipulēts | Jūtas saprasts |
+
+> *Ceļš B = pārdošana ir blakusefekts. Ja process ir pareizs — rezultāts atnāk.*
+
+## ZVANA EMOCIONĀLĀ LĪKNE (ASCII)
+
+```
+ENERĢIJA
+  ▲
+  │         ╱╲ Q9 Sāpes
+  │   Q1   ╱  ╲
+  │  ╱╲  ╱    ╲        ╱╲ Q26 Stāsts
+  │ ╱  ╲╱      ╲      ╱  ╲         ╱╲ Q37 Dopamīns
+  │╱ Q3         ╲    ╱    ╲       ╱  ╲
+  │              ╲  ╱      ╲     ╱    ╲
+  │               ╲╱        ╲   ╱      ╲╱ Q41 Miers
+  │           Q11 COI    Q22 ╲╱ Q32
+  │                    Q21.5 Hope Break
+  │                    ▼ ZEMĀKAIS PUNKTS
+  └──────────────────────────────────────▶ LAIKS
+   0:00    10:00    20:00    30:00    40:00
+```
+
+> *Q21.5 ir emocionāli zemākais punkts — un tas ir PAREIZI. Vecajam jāmirst lai jaunais varētu dzimt.*
+
+## 30 DIENU TRENIŅA PLĀNS — No Iesācēja Līdz Operatoram (N196)
+
+| Nedēļa | Diena | Drilla | Ilgums | Mērķis |
+|--------|-------|--------|--------|--------|
+| **1** | 1 | Drillē Q1 verbatim 50× | 30 min | Drošības frāze ir automātiska |
+| | 2 | Drillē Q4-Q7 discovery | 45 min | MICE jautājumi plūst |
+| | 3 | Drillē Q21.5 Hope Break ar kolēģi | 45 min | Klusums pēc Hope Break |
+| | 4 | Drillē Q32 cenu + klusumu (7s) | 30 min | Nekustēties pēc cenas |
+| | 5 | Pilns role-play Q1-Q41 | 60 min | Visa plūsma vienā gabalā |
+| **2** | 6 | Spogulis — klausies sevi ierakstītu | 30 min | Redzi kur steidzies/izlaid |
+| | 7 | Balss zonas — Curious/Resolve/Declarative | 30 min | 3 tonalitātes automātiski |
+| | 8 | Tempa surfers — 80/120/60 v/min | 30 min | Kontrolē ātrumu pēc Q zonas |
+| | 9 | Derība + Sēkla drilla | 30 min | Post-close automātisks |
+| | 10 | 3 live zvani ar Scorecard | 3h | Pirmie reālie zvani ar vērtēšanu |
+| **3** | 11-15 | 5 live zvani dienā + Scorecard | 5h/d | Uzlabo vājos punktus |
+| **4** | 16-20 | 5 live zvani + mentoring | 5h/d | Sāc mācīt citus — labākais veids mācīties |
+| | 21-25 | Specializācija — fokuss uz vienu Q zonu | 3h/d | Meistaro vienu posmu |
+| | 26-30 | Pilna autonomija — 5 zvani/dienā | 5h/d | Operators ir gatavs |
+
+> *30. dienā: Scorecard vidēji 35+. Tu esi operators. Tagad sākas patiesā mācīšanās — no katra zvana.*
+
 ---
 
 # PIELIKUMI
