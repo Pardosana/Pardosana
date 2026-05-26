@@ -1,6 +1,3 @@
-# EDL77X — Peak-Time Cybernetic Techno (polished v2)
-
-```text
 id="edl77x-v2"
 126 BPM • Dm • Mastered Peak-Time Cybernetic Techno • Epic Melody Immersive Festival Apex
 
@@ -247,26 +244,3 @@ emotionless preset-based sound design,
 predictable arrangement pacing,
 plastic cinematic SFX,
 clipping or distortion artifacts.
-```
-
----
-
-## Izmaiņu kopsavilkums (v1 → v2)
-
-| #  | Problēma v1 | Labojums v2 |
-|----|-------------|-------------|
-| 1  | "DnB-max urgency without breakbeats" — DnB = breakbeats, pretrunīgi | "DnB-level rhythmic intensity on strict 4/4 — no breakbeats" |
-| 2  | "5D IMMERSION" — 5D nav reāls audio termins | "IMMERSIVE SPATIAL DESIGN" ar konkrētām tehnikām |
-| 3  | "20–50Hz mono chest pressure" — 20 Hz ir subsoniski, krūškurvja rezonanse ir 50–80 Hz | Sadalīts: sub 20–40 Hz (grīda), low bass 50–80 Hz (krūškurvis) |
-| 4  | "vertical spatial height" stereo signālā nav iespējams bez Atmos | "Psychoacoustic height illusion via bright reverb placement and upper-harmonic shimmer" |
-| 5  | "MUSIC EDL PRECISION" — EDL ir video montāžas termins | "ARRANGEMENT PRECISION" — skaidrāk mūzikas kontekstā |
-| 6  | "WOW DROP" — neformāls | "MASSIVE DROP" — profesionālāk |
-| 7  | Vokālu sekcijā nav konkrētu frāžu | Pievienotas 4 latviešu mantra frāzes: "Es esmu šeit", "Atceries", "Mēs esam", "Gaisma" |
-| 8  | EMOTIONAL ARC un ARRANGEMENT TIMELINE ir atsevišķi — grūti saistīt | Pievienots EMOTIONAL ARC ar timeline mapping — abi savienoti |
-| 9  | Daudzkārtēja atkārtošanās: "no dead energy" + "no static loops" + "no filler" + negative prompt | Konsolidēts vienā rindā GROOVE sadaļā, negative prompt saglabāts bez dublikātiem |
-| 10 | STYLE DNA pārāk garš un pretrunīgs (Brutal Minimal + Emotional Pop) | Saīsināts uz 4 koherentiem elementiem ar × struktūru |
-| 11 | Nav mastering mērķu specifikācijas | Pievienots: "–6 LUFS integrated, –1 dBTP" |
-| 12 | "adaptive reverbs" bez konteksta | "Adaptive reverb tails (shorter in builds, longer in euphoric peaks)" |
-| 13 | "Addictive Emotional Electronic Pop" stilā neiederas peak-time techno | Noņemts — aizstāts ar "Festival-scale cathartic energy" |
-| 14 | Formatēšanas stils sajaukts (punkti, komati, periodi) | Konsekventā formatēšana visās sadaļās |
-| 15 | "Everything must blend smoothly while remaining individually defined" — garš | "Each element individually defined yet seamlessly blended" |
