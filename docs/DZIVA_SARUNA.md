@@ -6,12 +6,12 @@
 
 ---
 
-Šī grāmata ir divos gabalos:
-
 | Daļa | Kas tur ir | Kad lieto |
 |------|-----------|----------|
-| **1. SARUNA** | Tikai ko SAKI, ko KLAUSIES, kur KLUSĒ, kad STOP | **Zvana laikā** — turi acu priekšā |
-| **2. RĪKU KASTE** | MICE, iebildumi, Collision, Smoke Screen, Prokurora lieta, drillas, viss pārējais | **Mājās** — pirms un pēc zvana |
+| **1. SARUNA** | Tikai ko SAKI, ko KLAUSIES, kur KLUSĒ, kad STOP | **Zvana laikā** |
+| **2. RĪKU KASTE** | MICE, iebildumi, Collision, Smoke Screen, tilti, drillas | **Mājās** |
+
+*Visi SAKI verbatimi ņemti no Lauris/Kristaps Fathom zvanu transkriptiem un V15 Premium Book.*
 
 ---
 
@@ -21,8 +21,6 @@
 
 # 1. DAĻA — SARUNA
 
-*Šo tu turi acu priekšā zvana laikā. Nekas lieks. Tikai ko darīt katrā sekundē.*
-
 ---
 
 ## Q0 · Pirms Zvana
@@ -30,395 +28,489 @@
 1. Ieelpo 4s, turi 4s, izelpo 6s. 3×.
 2. Nostājies plati, rokas uz gurniem. 60s.
 3. Pasmaidi.
-4. *«Man nav vajadzīgs šis zvans. Es te esmu jo GRIBU, ne jo VAJAG.»*
+4. *«Man nav vajadzīgs šis zvans. Man jau ir 25-30 nākamie pieteikumi. Šis ir 1/30.»*
 
-**🔒** Esi mierā. Tikai tad zvani.
-
----
-
-# 🟢 DROŠĪBA · 0-2 min
+**🔒** V∞ stāvoklis — pārpilnība, miers, ziņkārība. Tikai tad zvani.
 
 ---
 
-## Q1 · Drošība
-**🔊** Zema, lēna, FM · **⏱** 80-100 v/min
+# FĀZE 1 · IEVADS & FRAME · 0-2 min
+
+---
+
+## Q1 · Sveiciens + Raports
 
 **SAKI:**
-> *«Klau, es tev godīgi pateikšu — es vēl pat nezinu, vai tev mūsu lieta vispār der. Izrunāsim. Ja neder — es pirmais to pateikšu. Labi?»*
+> *«Sveiks, [Vārds]! Kā iet, veiks? Super. Kā tava diena?»*
 
-**⏸** 3-5s. Gaidi viņa atbildi.
+*[30 sek small talk — cilvēcīgi, bez steigas]*
 
-**JA BLOĶĒ:** *«Es neko nesolu. Izrunāsim. 10 minūtes.»*
+> *«Forši, nu — es zinu ka mums ir ierobežots laiks, tā kā esi gatavs ielēkt? Ir tev papīrs, kur pierakstīt?»*
 
-**🔒** Klients saka «labi» vai atspirgst.
+**⏸** Gaidi atbildi.
+
+**🔒** Cilvēciska sasaiste. Ne-sales telpa.
 
 ---
 
-## Q2 · Rāmis
+## Q2 · Agenda (Frame) ⭐
 
 **SAKI:**
-> *«Es tev pajautāšu pāris lietas. Ja sapratīsim ka der — izstāstīšu kā strādājam. Ja nē — pašķirsimies normāli. Der?»*
+> *«Zini, kā pie mums notiek šāda tipa sarunas — lai labāk saprastu tavu situāciju, es uzdošu pāris jautājumus, iedziļināšos tajā visā. Pierakstīšu tavu esošo situāciju, vēlmo situāciju. Ja jūtu ka varam tev būt noderīgi — pastāstīšu konkrētu plānu. Ja jūtu ka nevaram — teikšu uzreiz, būs īsāka saruna. Skan labi?»*
 
-**JA BLOĶĒ:** *«Man nav laika.»* → *«Tieši tāpēc — ja 10 minūtēs sapratīsim ka neder — ietaupīsim tev laiku.»*
+**⏸** Gaidi «jā» / «skan labi» / «labi».
 
-**🔒** Viņš pieņēmis noteikumus.
+**JA BLOĶĒ:** *«Paga, es gribēju tikai uzzināt cenu.»* → *«Protams, es noteikti tev visu pastāstīšu. Bet lai es tev varētu pateikt precīzi — man jāsaprot tava situācija. Citādi es tev stāstīšu kaut ko, kas tev varbūt nemaz nav vajadzīgs. Der?»*
+
+**🔒** Pirmais micro-commitment ar procesu.
 
 ---
 
-## Q3 · Lēmējs
+## Q3 · Lēmumu Pieņēmējs
 
 **SAKI:**
-> *«Klau, ja mēs abi redzam ka ir lieta — tu pats vari nolemt, vai vēl kāds jāiesaista?»*
+> *«Vai šajā sarunā ir jābūt vēl kādam cilvēkam, kas iegūtu kaut ko no šīs sarunas — vai kas lemj par šādām lietām?»*
 
-**JA BLOĶĒ:** *«Man jārunā ar partneri.»* → *«Saprotu. Vai varam viņu pieslēgt nākamreiz? Jo citādi tu stāstīsi to ko es stāstīju, un tas nekad nestrādā tikpat labi.»*
+**⏸** Gaidi.
 
-**⛔ Ja nav lēmēja — pārceli vai beidz.**
+**JA BLOĶĒ:** *«Jāapspriežas ar sievu/partneri.»* → *«Ok, saprotams. Ņemot vērā ka šis ir svarīgs lēmums — varbūt labāk mēs pārplānojam uz citu laiku, kad jūs abi varat būt klāt? Lai vienā reizē izrunātu visu?»*
 
----
-
-# 🔵 DIAGNOZE · 2-12 min
+**⛔ Ja nav lēmēja — pārceli. Risks ka «jārunā ar partneri» aizkavēs close.**
 
 ---
 
-## Q4 · Kas Notiek
-**🔊** Ziņkāra, neitrāla · **⏱** 80-100 v/min
+# FĀZE 2 · GALVENĀ LIETA + MOTĪVI · 2-6 min
+
+---
+
+## Q4 · Galvenā Lieta ⭐⭐⭐
 
 **SAKI:**
-> *«Nu pastāsti — kas tev šobrīd notiek? Kā tu šobrīd dari un kā iet?»*
+> *«Varbūt arī tu pats zini, kas ir tā galvenā lieta, kas tevi atvedusi uz šo sarunu — kas ir tā galvenā lieta, ko gribētos atrisināt, ko gribētos sasniegt? Tas būs par pamatu visai mūsu sarunai.»*
 
-**JA BLOĶĒ:** *«Nu, normāli.»* → *«Normāli nozīmē ko? Kā izskatās «normāli» tavā dienā?»*
+**⏸** 30-90 sek. Ļauj klientam runāt. **Pieraksti VĀRDUS ko viņš lieto** — tos lietosi pitch un close fāzē.
 
-**⏸** 5-8s. Klients sāk runāt. TU KLUSĒ. Spoguļo: *«Tātad tu saki ka...»*
+**JA BLOĶĒ:** *«Nu, gribēju paskatīties kas jums ir.»* → *«Protams. Bet parasti cilvēki atnāk jo ir kaut kas ko gribētos uzlabot. Kas tev šobrīd nestrādā tā kā gribētos?»*
 
-**🔒** Nosaucis galveno problēmu.
+**🔒** Galvenā problēma nosaukta — viņa vārdiem.
 
 ---
 
-## Q5 · Sapnis
+## Q5 · Kas Lika Ierasties
 
 **SAKI:**
-> *«Bet kā tu gribētu lai ir? Ja viss būtu kā tu gribi — kā tas izskatītos?»*
+> *«Kas tev lika pieņemt lēmumu reāli ierasties uz šo sarunu šodien? Kas notika vakar, pagājušajā nedēļā, kas padarīja šo par prioritāti?»*
 
-**🔒** Sapnis nosaukts (viņa vārdiem).
+**⏸** Gaidi. Klausies MICE signālos:
+- *«Konkurents mūs aizsteidza priekšā...»* → **EGO**
+- *«Zaudēju 3 darījumus pēc kārtas...»* → **MONEY**
+- *«Gribēju kļūt par lielāko...»* → **IDEOLOGY**
+- *«Sieva saka ka jādara kaut kas...»* → **COMPROMISE**
+
+**🔒** Steidzamība uz galda + MICE motors piefiksēts.
 
 ---
 
-## Q6 · Kāpēc Tagad
+## Q6 · Dziļā Motivācija ⭐
 
 **SAKI:**
-> *«Bet klau, kāpēc tieši tagad? Kas noticis ka tu par šo domā?»*
+> *«Ko tev dos, ja tu pelnīsi vairāk?»*
 
-**JA BLOĶĒ:** *«Nu, jau sen domāju...»* → *«Bet kaut kas taču mainījās — kas?»*
+*[Klients: «Nu, kurš negrib vairāk naudas.»]*
 
-**⛔ Steidzamība uz galda.**
+> *«Protams, bet nauda vienmēr ir tāds cipars. Ir kaut kāds iemesls, kāpēc tieši tu tagad to gribi darīt. Kas tev nozīmē paplašināšanās?»*
+
+**⏸** GAIDI. TAS IR ZELTA ATBILDE. Piefiksē kā **emocionālo dzinēju** — lieto visā tālākajā sarunā.
 
 ---
 
-## Q7 · Cipari
+## Q7 · Īpašnieka Pozīcija
 
 **SAKI:**
-> *«Iedod man ciparus — cik tev tagad ir? Un cik tu gribētu?»*
+> *«Diena, sanāk tā, ka tas ir tavs uzņēmums, vai arī tu esi kā vadītājs tur?»*
 
-**🔒** Starpība starp «ir» un «grib» = cipars uz galda.
-
----
-
-# 🔵 SĀPES · 6-12 min
+*[Ja īpašnieks:]* → tālāk.
+*[Ja vadītājs:]* → fiksē kurš ir īpašnieks. Ja viņš nav zvanā — pārvērtē vai SS2 ar īpašnieku nav labāks.
 
 ---
 
-## Q8 · Ko Esi Probējis
+# FĀZE 3 · SITUĀCIJAS KARTE · 6-14 min
+
+---
+
+## Q8 · Klientu Tips
 
 **SAKI:**
-> *«Ko tu līdz šim esi probējis? Kas ir bijis?»*
+> *«Ok, bet par kādu tipu klientiem mēs šeit runājam un cik daudz?»*
 
-**🔒** Saraksts uz galda — un nekas nav strādājis.
+*[Ja klients mulst:]*
+> *«Klienta tipi ir — privāts patērētājs, vai uzņēmējs, vai tu gribi iet uz industriāliem, vai tu gribētu partnerus?»*
+
+**⏸** Gaidi.
 
 ---
 
-## Q9 · Kur Sāp
-**🔊** Klusa, empātiska · **⏱** 60-80 v/min
+## Q9 · Cik Grib (Mēnesī)
 
 **SAKI:**
-> *«Kur visvairāk sāp — pa kabatu, pa nerviem, vai kur citur?»*
+> *«Cik daudz tu šādus varētu uzņemt mēnesī? Nogrieznī?»*
 
-**⏸** 5-10s. Ja parādās emocija → STOP. Nedari neko. Ļauj.
-
-**🔒** Klients pats izteicis sāpi.
+**⏸** Gaidi ciparu.
 
 ---
 
-## Q10 · Cik Ilgi
+## Q10 · Cik Ir Šobrīd
 
 **SAKI:**
-> *«Cik ilgi tā jau velkas? Cik ilgi tu ar šo cīnies?»*
+> *«Šobrīd ir reāli tev kāds?»*
 
-**🔒** Laiks uz galda.
+**⏸** Gaidi.
 
 ---
 
-## Q11 · Bezdarbības Cena (COI)
+## Q11 · Gap (Pārfrāze) ⭐
 
 **SAKI:**
-> *«Nu paskaties — ja tā turpinās vēl gadu — cik tev tas kopā izmaksā?»*
+> *«Tātad tu šobrīd gribētu [X], bet šobrīd ir [Y]... Tad tev vēl vajadzētu tagad [Z] atrast?»*
 
-**⛔ COI cipars uz galda. Bez šī — neej tālāk.**
+*Tu nesaki «tev ir problēma». Tu saki viņa paša ciparus atpakaļ — viņš pats dzird caurumu.*
 
----
-
-# 🔵 DZIĻUMS · 12-18 min
+**🔒** Gap cipars uz galda.
 
 ---
 
-## Q12-Q16 · Dziļuma Kāpnes
-
-| Q | Jautājums |
-|---|----------|
-| **Q12** | *«Bet kas ir šīs problēmas sakne — no kurienes tā nāk?»* |
-| **Q13** | *«Kā tas atsaucas uz pārējo biznesu?»* |
-| **Q14** | *«Kā tas ietekmē TEVI pašu?»* |
-| **Q15** | *«Kas tu būtu — ja šī problēma vienkārši pazustu?»* |
-| **Q16** | *«Tātad, ja es pareizi saprotu — kopaina ir šāda: [rezumē Q4-Q15]. Pareizi?»* |
-
-**🔒** Klients apstiprina — *«Jā, tieši tā.»*
-
----
-
-## Q17 · Slēptā Bremze
+## Q12 · Vidējais Čeks ⭐
 
 **SAKI:**
-> *«Bet klau — kas tev pie vecā veida šķiet drošs? Kāpēc tu vēl dari tā, kā dari?»*
+> *«Cik vispār izdevīgs tev viens klients vērtīgs? No—līdz, vidējais čeks, cik sanāk?»*
 
-**🔒** Atzīst ka vecajā modelī kaut kas šķiet drošs — ŠEIT ir īstā bremze.
+**⏸** Gaidi € ciparu.
 
----
+**MATH UZREIZ:**
+> *«Okei, €[X]. Tas sanāk, ja tavs apgrozījums ir kaut kur €[Y] — tad mērķis būtu €[Z]. Tas ir pareizi?»*
 
-## Q18-Q19 · Pirkšanas Signāli
-
-**KLAUSIES:** Vai viņš pats jautā *«Un kā jūs to risinātu?»* vai *«Cik tas maksā?»*
-
-Ja **jā** → lec uz Q21.5.
-Ja **nē** → turpini.
+**🔒** € mērķa cipars uz galda. Šis ir Gap enkurs.
 
 ---
 
-## Q20 · Drošības Kods
+## Q13 · Apgrozījums Gadā
 
 **SAKI:**
-> *«Pirms kaut ko stāstu — ja es sapratīšu ka mēs NEESAM īstie — es to pateikšu. Godīgi. Labi?»*
+> *«Cik, tevprāt, ir tas potenciāls, tev sasniegt gadā? Ne tik cik šobrīd, bet cik gribētos iet pretī?»*
 
-**🔒** Uzticēšanās atjaunota.
+*[Klients: «250 tūkstoši.»]* → *«Ok, un šobrīd kur?»* → *«100 tūkstoši.»*
 
----
-
-# 🔴 HOPE BREAK · 18-22 min
-
-*Zvana klīmakss. Viss pirms tā bija sagatavošanās.*
+**Gap = €150K** — tavs zaudējuma cipars visā tālākajā sarunā.
 
 ---
 
-## Q21 · Dubultā Realitāte
+## Q14 · Uzsākšanas Gatavība
 
 **SAKI:**
-> *«Re kāda lieta — tu gribi [mērķi no Q5], bet pa šo laiku tu turpini darīt [veco no Q8]. Un vecais jau nestrādā. Ko tu pats domā — kas šeit ir?»*
+> *«Kā tu vari, teiksim, uzņemt? Ko tev nozīmē tagad? Rīt jau esi gatavs jaunu objektu vienu paņemt? Aprīlī?»*
 
-**🔒** Klients pats sāk meklēt jauno.
+**⏸** Gaidi datumu.
 
 ---
 
-## Q21.5 · HOPE BREAK ⚠
-**🔊** Ļoti zema, gandrīz čuksts · **⏱** 40-60 v/min
-
-**Prokurora summa** *(nolasi viņa paša vārdus):*
-> *«Tu pats teici ka [problēma Q4], probēji [mēģinājumus Q8], tā velkas jau [laiku Q10], un katru mēnesi tas tev maksā [COI no Q11]. Un tagad —»*
+## Q16 · Reālā Kapacitāte ⭐
 
 **SAKI:**
-> *«Es tev pajautāšu vienu lietu pilnīgi godīgi — vai tev šobrīd ir PLĀNS kā tur nokļūt, vai tu vienkārši CERI ka kaut kā sanāks?»*
+> *«Šobrīd sanāk tā, ka tu jau ar esošajiem darbiniekiem — tu vari vēl objektu uzņemt vai tu nevari?»*
 
-**⏸ 8-15s. NERUNĀ. NEPALĪDZI. NEGLĀB CERĪBU.**
+**⏸** Gaidi.
 
-| Viņš saka | Tu dari |
-|-----------|--------|
-| **Atzīst** «nē» | ✓ Cerība nomirusi. Turpini uz Q22. |
-| **Aizsargājas** «jā man ir plāns» | *«Kas tieši tajā plānā mainījies pēdējos 6 mēnešos?»* |
-| **Klusē** | Gaidi. Klusums strādā tev par labu. |
-| **Emocija** | *«Es dzirdu ka tas nav viegli. Un tā arī ir.»* [klusums] |
+*[Ja «nevaru»:]* Nav kvalificēts. *«Ok, tad mēs varam runāt par darbinieku piesaisti vispirms.»*
+*[Ja «varu»:]* → tālāk.
+
+---
+
+# FĀZE 4 · LAIKS UN LĒMUMS · 14-18 min
+
+---
+
+## Q17 · Cik Ilgi Šāda Situācija
+
+**SAKI:**
+> *«Cik ilgi tu esi šajā līmenī — vienkārši, lai saprastu?»*
+
+*[Klients: «Nu, gadu.»]*
+
+> *«Gads. Kāpēc ir šāda situācija?»*
+
+*[Klients: «Itin neesmu tam pievērsies.»]*
+
+> *«Kāpēc neesi pievērsies?»*
+
+*[Klients: «Nav laika.»]*
+
+⚡ **Pieraksti** — «nav laika» = nav prioritizēts. Atgriezīsies pie tā iebildumu apstrādē.
+
+---
+
+## Q18 · Ideja Galvā ⭐⭐
+
+**SAKI:**
+> *«Cik ilgi tev šī ideja sēž galvā — [kļūt par līderi / dabūt vairāk klientus / paplašināties]?»*
+
+*[Klients: «Kopš uzsāku — sešus gadus atpakaļ.»]*
+
+**⚡ CLOSE INSTRUMENTS:** Šo ciparu lietosi beigās:
+> *«Tu jau lēmumu esi pieņēmis pirms 6 gadiem, ka gribi kļūt par līderi. Šodien nav jāpieņem jauns lēmums — šodien ir vienkārši jārīkojas. Tas ir viss.»*
+
+---
+
+## Q19 · Vai Meklēts Risinājums Iepriekš
+
+**SAKI:**
+> *«Vai tu esi kādreiz kaut ko meklējis, lai atrisinātu šo problēmu?»*
+
+*[Ja «nē»:]* → *«Saprotu. Nu kā ir šobrīd — vai vēlies šo problēmu risināt?»*
+
+*[Ja «jā, mēģinājām Facebook reklāmas»:]* → CARE:
+- **Precizē:** *«Kad tu saki «nestrādāja» — vai nebija līdu, bija nekvalificēti, vai konversija zema?»*
+- **Atzīsti:** *«Tas ir ļoti bieži. Es saprotu kāpēc tev ir negatīva pieredze.»*
+- **Pārkadro:** *«Vairums kas pamēģināja, lietoja Boost pogu — kas piegādā klikšķus, ne līdus. Mēs būvējam SISTĒMU.»*
+
+---
+
+## Q20 · Personīgā Vēlme
+
+**SAKI:**
+> *«Kā tu domā, ja mēs tikko vienkārši noliekam sekundīti malā visu — kā tu pati/pats personīgi? Tu gribi to darīt?»*
+
+**⏸** Gaidi. Klausies TONI, ne tikai vārdus.
+
+**🔒** Viņš pats pateica «jā, gribu».
+
+---
+
+# FĀZE 5 · GAP UN HOPE BREAK · 18-22 min
+
+---
+
+## Q21 · Bezdarbības Cena (COI) ⭐
+
+**SAKI (ar ciparu no Q13):**
+> *«Tātad, ja mēs runājam godīgi — tu šobrīd esi pie €100k gadā, bet gribi €250k. Tas nozīmē ka katru mēnesi ko mēs neko nemainam, tu "izdod" tirgum €12,5k. Ja mēs šodien nestartējam un sākam pēc 3 mēnešiem — tas ir €37k. Pareizi?»*
+
+**⏸** Gaidi apstiprinājumu.
+
+**🔒** COI cipars uz galda.
+
+---
+
+## Q21.5 · HOPE BREAK ⭐⭐⭐ ⚠
+
+**SAKI (3 jautājumu kāpnes — gaidi katru atbildi):**
+
+**1.** *«Tas tev ir process vai cerība? Procesam ir konkrēti soļi un datums. Cerībai — nav.»*
+
+**2.** *«Tu to tukšumu vari apzināti aizpildīt — vai vairāk gaidi ka viņš pats aizpildīsies?»*
+
+**3.** *«Ja nākamās 2 nedēļas vajadzētu dabūt klāt 5 jaunus klientus — tu precīzi zini, kā?»*
+
+**⏸ 7+ sek klusums pēc 3. jautājuma. NEAIZPILDI.**
+
+**LOCK FRĀZE (kad atzīst ka nezina):**
+> *«Tātad — te nav īstas kontroles. Tu stāvi krastā un gaidi ka pati laiva atnāks.»*
+
+**KILL FRĀZE (ja turpina cerēt):**
+> *«Es tevi saprotu. Bet «gan jau» ir izvēle. Un katru nedēļu šī izvēle tev maksā €[COI/4]. Pareizi?»*
 
 **⛔ Hope Break izdarīts.**
 
----
-
-# ⬜ PIEDĀVĀJUMS + CENA · 22-35 min
-
-*Kortizola logs ir atvērts. Viņš meklē risinājumu. TAGAD tu rādi ceļu.*
-
-⚠ **Piedāvājums JĀSĀK max 5 min pēc Hope Break. Ja nokavē — logs aizveras.**
+**→ PĀREJA:** *«Tagad ielūkosimies tajā no malas — ja tu būtu investors...»*
 
 ---
 
-## Q22 · Atļauja
+# FĀZE 6 · PITCH — 3 PĪLĀRI · 22-30 min
+
+⚡ Pitch NEKAD nesākas ar *«mēs piedāvājam»*. Pitch sākas ar KLIENTA vārdiem.
+
+---
+
+## Q22 · Investora Rāmis ⭐
 
 **SAKI:**
-> *«Ļauj parādīšu kā mēs to darām — 5 minūtes. Ja redzēsi ka nav priekš tevis — es to pateikšu.»*
+> *«Iedomājies ka tu esi investors no malas — redzi uzņēmumu kas zaudē €12,5k mēnesī šīs problēmas dēļ. Kādi 3 jautājumi tev rastos? Ko tu ieteiktu šī uzņēmuma vadītājam darīt?»*
 
-**🔒** «Labi» = atļauja. Bez atļaujas — NEpiedāvā.
+**⏸** Gaidi. Klients pats izteic secinājumu.
 
 ---
 
-## Q24 · 3 Pīlāri
+## Q24 · Spogulis + Pāreja uz Pitch
 
 **SAKI:**
-> *«Re kā mēs to darām. Trīs lietas. Pirmā — [X]. Otrā — [Y]. Trešā — [Z].»*
+> *«Nu davai. Redz, tu man tikko pastāstīji ka esi [esošā situācija], gribi [mērķi], vidējais čeks [€X], un tava vīzija ir [Q6 vīzija]. Un šobrīd tavs modelis ir — [vecais veids]. Pareizi?»*
 
-Iesaisti viņu — lai jautā, komentē. Jo vairāk piedalās, jo stiprāk aizstāv.
-
-**🔒** Sapratis sistēmu.
+**🔒** Klients apstiprina: «Jā.»
 
 ---
 
-## Q25 · Anti-Pīlāri
+## Q25 · Lūzuma Punkts
 
 **SAKI:**
-> *«Un vēlreiz godīgi — šī lieta nav priekš visiem. Ja tu [negatīvs] — tad tiešām nē.»*
-
-**🔒** Viņš pats sevi iekļauj.
+> *«Problēma nav ka tev ir slikts produkts. Produkts ir super. Problēma ir plūsmas modelī — tu esi atkarīgs no [vecais veids]. Bez sistēmas tas paliks haoss — arī 12 mēnešus no šodienas tu būsi turpat.»*
 
 ---
 
-## Q26 · 60s Stāsts
-**🔊** Stāstnieka · **⏱** 150-170 v/min
+## Q26 · 3 Pīlāri (Jaunais Modelis) ⭐⭐⭐
 
 **SAKI:**
-> *«Klau, pirms turpinām — man bija klients ļoti līdzīgā situācijā...»*
+> *«Okei, tad ejam tālāk. Es tev ieskicēšu precīzi soli pa solim ko mēs darām kā uzņēmums. Ja ir kādi jautājumi — droši vaicā. Labi?»*
 
-| Sekundes | Ko saki |
-|---------|--------|
-| 0-10 | Konteksts: *«Biznesā [X] gadus, ļoti līdzīgi kā tev.»* |
-| 10-25 | Sāpes: *«Bija probējis visu — nekas nestrādāja.»* |
-| 25-40 | Lūzums: *«Mēs ielikām tieši šo sistēmu.»* |
-| 40-50 | Rezultāts: *«Trīs mēnešos — no €3K uz €11K.»* |
-| 50-60 | Saikne: *«Un viņa situācija bija ļoti līdzīga tavai.»* |
+**1. Pīlārs** → Piedāvājums / Vilka Metode
+**2. Pīlārs** → Sistematizācija / Automatizēta lead plūsma
+**3. Pīlārs** → CRM + Automatizācija
 
-⚠ Max 1 stāsts per zvanu. Viens = spēks. Divi = pārdevējs.
+*Pēc katra pīlāra:* *«Kā tev liekas — vai šis varētu palīdzēt?»*
 
-**🔒** Atpazīst sevi stāstā.
+**🔒** Mini-LOCK pēc katra pīlāra.
 
 ---
 
-## Q27 · Izvēle
+## Q27 · Gatavības Pārbaude
 
 **SAKI:**
-> *«Nu re — ir divi varianti. Tu vari palikt tur kur esi. Vai tu vari iet uz to, ko tu pats tikko aprakstīji. Kā tu to redzi?»*
+> *«Kā tu jūties? Vai esi pārliecināts ka šī lieta tev varētu palīdzēt?»*
 
-**🔒** Izvēlas sapni.
+*[Ja «izskatās labi, bet...»:]* → atrisini.
+*[Ja «jā»:]* → Q29.
 
 ---
 
-## Q28 · Ticības Lock
+# FĀZE 7 · 1-10 + CENA · 30-38 min
+
+---
+
+## Q29 · 1-10 Vērtējums ⭐⭐⭐
 
 **SAKI:**
-> *«No 1 līdz 10 — cik tu pats tici ka šī lieta var tev palīdzēt?»*
+> *«Ja tev būtu jānovērtē no 1 līdz 10 — 1 ir «neredzētu pat par velti», 10 ir «tas tieši tas kas man vajadzīgs lai [viņa mērķis]» — kā tu novērtētu?»*
 
-Ja zem 8: *«Kas trūkst līdz 10?»* → atrisini → jautā vēlreiz.
+**⏸** Gaidi ciparu.
 
-**⛔ Ticība ≥8. Ja zem 8 — NESAKI cenu. Atgriezies.**
-
----
-
-## Q29-Q31 · Gatavības Testi
-
-| Q | Jautājums |
-|---|----------|
-| **Q29** | *«No 1 līdz 10 — cik gatavs esi sākt?»* |
-| **Q30** | *«Ja cena der — sākam šodien?»* |
-| **Q31** | *«Kas vēl varētu kavēt?»* |
-
-**🔒** Gatavs dzirdēt cenu.
+*[Ja 9-10:]* → Q30
+*[Ja 7-8:]* → *«Sapratu, tas ir godīgi. Kas trūkst līdz 10? Ko es neesmu pamanījis? Jo es neiešu tālāk pie cenas kamēr neesam pārliecināti ka šis ir 10/10 risinājums tieši tev.»*
+*[Ja <7:]* → atpakaļ uz pīlāriem
 
 ---
 
-## Q32 · CENA
-**🔊** Kā ziņu diktors — bez emocijām · **⏱** 100 v/min
-
-**Rezumē:**
-> *«Tu pats teici ka [sāpe]. Tev tas maksā [COI]. Tu esi probējis [mēģinājumi]. Tu gribi [sapni]. Un cerēšana nav plāns.»*
+## Q30 · Gatavības Apstiprinājums
 
 **SAKI:**
-> *«Investīcija ir €X.»*
+> *«Pirms runājam par cenu — gribu pārliecināties: kad mēs to ieviešam, vai tu esi gatavs uzņemt klientus kas nāks, sazvanīt tos un virzīt uz darījumu?»*
 
-**⏸ 8-15s. Skaiti iekšēji. NERUNĀ PIRMAIS.**
-
-**🔒** Viņš sāk runāt par to KĀ sākt, ne par to CIK.
+**⏸** Gaidi «jā».
 
 ---
 
-# 🔷 IEBILDUMI + NOSLĒGŠANA · 35-45 min
-
----
-
-## Q33-Q39 · Iebildumu Cilpa (max 3×)
-
-| Viņš saka | Tu atbildi |
-|-----------|-----------|
-| **«Par dārgu»** | *«Salīdzinot ar ko?»* → *«Tu pats teici ka problēma maksā €[COI] mēnesī. Investīcija ir €X. Kā tu pats to redzi?»* |
-| **«Jāpadomā»** | *«Par ko tieši?»* → izolē īsto bažu |
-| **«Jārunā ar sievu»** | *«Ja TU pats varētu nolemt — tu sāktu?»* → Ja jā: *«Tad iesaistām viņu kopā.»* |
-
-Pēc 3 cilpām: *«Saprotu. Varbūt šobrīd nav pareizais brīdis. Kad būs — esi aicināts.»*
-
----
-
-## Q40 · Kolumbo
+## Q31 · Onboarding Ieskats
 
 **SAKI:**
-> *«Vēl viena lieta — kas tev vēl ir galvā par šo?»*
+> *«Forši. Pirms pateicu investīciju, ieskicēšu pievienošanās procesu, lai tev ir skaidrs un ērti.»*
 
-**⏸** 5-8s.
-
-**🔒** Viss uz galda. Nekas nav slēpts.
+*[WhatsApp grupa → anketa → Zoom ar projektu menedžeri → izstrāde 4-10 dienas → kampaņas palaišana]*
 
 ---
 
-## Q37.5 · Dopamīns
+## Q32 · CENA ⭐⭐⭐
 
 **SAKI:**
-> *«Iedomājies — pēc 90 dienām tu jau [rezultāts ar viņa cipariem no Q5/Q7]. Kā tas skan?»*
+> *«Pirmā investīcija ir reklāmas budžets — degviela. Ieteikums: €20/dienā. Pie mums €20/dienā = ~5 pieteikumi. Vai šitas skaidrs?»*
 
-**🔒** Acis iedegās.
+*[Klients: «Jā.»]*
+
+> *«Divi cenojumi, jo ir divi varianti. Mēs esam sapratuši ka ir jāstrādā divus līdz trīs mēnešus lai kampaņa strādā uz ūsiņu. Tāpēc investīcija ir šāda: ja divi mēneši — €2400. Ja trīs mēneši — €3000. Kurš no šiem abiem variantiem tavā situācijā būtu ērtāks?»*
+
+**⏸ 5-7 sek KLUSUMS. NERUNĀ.** Kurš pirmais ierunājas — zaudē.
+
+**🔒** Klients izvēlas variantu, ne saka «jā/nē».
 
 ---
 
-## Q38 · Datums
-
-**SAKI:**
-> *«Sākam pirmdien vai ceturtdien?»*
-
-*(Abi varianti = jā)*
+# FĀZE 8 · IEBILDUMI UN CLOSE · 38-50 min
 
 ---
 
-## Q38.5 · Derība
+## Q33 · Ko Pārdomāji?
 
-**SAKI:**
-> *«No manas puses — es apņemos [X]. No tavas — tu dari [Y]. Vienojamies?»*
+**SAKI (ja klients klusē pēc cenas):**
+> *«Ko tu tikko pārdomāji?»*
 
-**🔒** Abpusēja apņemšanās.
-
----
-
-## Q39 · Pirmais Solis
-
-**SAKI:**
-> *«Pirmais solis tūlīt — atsūti man [X] šodien. Tā mēs sākam.»*
-
-**🔒** Viņš izdarīja pirmo lietu. Nožēla novērsta.
+**⏸** Gaidi. Viņš atklās ko domā.
 
 ---
 
-## Q40.5 · Mājās
+## Q34 · «Vēl Jāpadomā»
 
 **SAKI:**
-> *«Tu tikko pieņēmi lēmumu ko lielākā daļa cilvēku atliek gadiem. Es to cienu. Tagad sākas īstais darbs — un es esmu blakus.»*
+> *«Protams, saprotams. Par ko tieši tev gribētos padomāt? Kas tev vēl nav skaidrs, lai mēs to tagad varētu izrunāt kopā?»*
+
+*[Ja «nezinu»:]*
+> *«Tu jau lēmumu esi pieņēmis pirms [X gadiem — no Q18], ka gribi [mērķi]. Šodien nav jāpieņem jauns lēmums — šodien ir vienkārši jārīkojas. Kas tevi tagad satur?»*
+
+---
+
+## Q35 · «Jārunā Ar Sievu/Partneri»
+
+**SAKI:**
+> *«Saprotams. Bet iedomājies — ja mēs tagad mainām datumu un tu aizej stāsti sievai no atmiņas, viņa nedzirdēs 5% no tā ko mēs tikko izrunājām. Cieņu sievai — bet kad jūs abi varat būt uz līnijas? Rīt, parīt? Cikos? Es nosūtu aicinājumu un īsu 10-min pārskatu lai viņa saprot tieši tāpat kā tu.»*
+
+**🔒** Fiksē datumu TŪLĪT.
+
+---
+
+## Q36 · «Nav Budžeta / Par Dārgu»
+
+**SAKI:**
+> *«Sapratu. Bet tikko tu minēji ka gribētu sasniegt €[mērķis]. Vai tu redzi ka neko nemainot tu tur nonāksi?»*
+
+**«Cenu Nolikt Malā» tests ⭐:**
+> *«Jā, skaties. Ja mēs cenu noliktu malā — tu to darītu? Sarunas laikā startētu mani?»*
+
+*[Ja «jā»:]* → tikai cena kavē → piedāvā sadalīt 3 maksājumos
+*[Ja «nē»:]* → *«Tad kas ir tas kas tevi vēl domāt liek?»*
+
+**Tilts:**
+> *«Palikt kur esi? Tev šobrīd ir €100k gadā. Vai nu šī investīcija €2400 lai tu sasniegtu iet pretī €250k — nu, kas ir riskantāk? Investēt vai neieguldīt?»*
+
+---
+
+## Q37 · «Nav Laika»
+
+**SAKI:**
+> *«Tu jau iepriekš teici ka nav laika. Tas ir prioritizācijas jautājums. Mēs izdarīsim visu mārketingā — tev tikai jānoslēdz darījumi. Tev tikai jāatsaucas uz zvaniem — 10 min dienā.»*
+
+---
+
+## Q39 · Finanšu Pielāgošana
+
+**SAKI:**
+> *«Skaties, ja mēs tev sadalām viņu trīs maksājumos, tad tas palīdzēs? Jo tu minēji ka esi gatavs darīt, investēt, vienkārši iet pēc mērķa.»*
+
+---
+
+## Q40 · Rēķins (Close) ⭐⭐⭐
+
+**SAKI:**
+> *«Lieliski. Kā sauc kompāniju, lai uztaisu rēķinu?»*
+
+*[Klients nosauc.]*
+
+> *«Tad uz tiem [divi/trīs] mēnešiem. Iedod man rekvizītus — es uzreiz uztaisu rēķinu, nosūtu anketu, un sākam strādāt. Nosūtīšu arī anketu un pievienošu WhatsApp grupā.»*
+
+**⚡ Rēķins nosūtīts ZVANA LAIKĀ. Ne rīt, ne pēcpusdienā — TAGAD.**
+
+---
+
+## Ja Nav Close — Nākamais Solis OBLIGĀTI
+
+**SAKI:**
+> *«Okei, es tevi pilnīgi saprotu. Varbūt mums vajadzētu saplānot nākamo tikšanos — kad jūs abi varat? Tad varētu visu detalizēti izrunāt kopā.»*
+
+**⚡ Katru mītingu noslēdz ar konkrētu nākamā mītinga laiku. Nav dīla — nav aizbraukšanas bez laika.**
 
 ---
 
@@ -433,8 +525,6 @@ Pēc 3 cilpām: *«Saprotu. Varbūt šobrīd nav pareizais brīdis. Kad būs —
 | **14** | Pēdējais | *«Ja šobrīd nav pareizais brīdis — es to cienu.»* |
 | **30** | Sēkla | *«Atceros mūsu sarunu. Ja kaut kas mainījies — esmu te.»* |
 
-> *NEKAD nezvani ar «Nu kā, esi izdomājis?» Katrs kontakts = dāvana, ne pieprasījums.*
-
 ---
 
 ---
@@ -443,116 +533,63 @@ Pēc 3 cilpām: *«Saprotu. Varbūt šobrīd nav pareizais brīdis. Kad būs —
 
 # 2. DAĻA — RĪKU KASTE
 
-*Šo tu lasi mājās — pirms un pēc zvana. Šeit ir visa teorija, tabulas, papildu rīki. Zvana laikā tev šis NAV vajadzīgs — tev ir 1. daļa.*
+---
+
+## MICE — 4 Motori
+
+| Motors | Ko grib | Kā runā | Cenas rāmis |
+|--------|--------|---------|------------|
+| **M** (Money) | Nopelnīt vairāk | *«Cik mēnesī...»*, ROI | *«Atmaksājas 28 dienās»* |
+| **I** (Ideology) | Būt līderim | *«Kvalitāte»*, *«savs zīmols»* | *«Beidzot paceļ līmeni»* |
+| **C** (Compromise) | Mieru | *«Sieva»*, *«vēl jādomā»* | *«Vairs nedomā par šo»* |
+| **E** (Ego) | Būt pirmajam | *«Kādreiz biju pirmais»* | *«Par tiem 10% kas dara»* |
 
 ---
 
-## MICE — 4 Iekšējie Motori
+## Tilta Frameworks (kad klients šaubās)
 
-*Katrs klients griežas ap vienu no 4 motoriem. Atpazīsti motoru — un tu zini kā ar viņu runāt.*
+| Tilts | Verbatim |
+|-------|---------|
+| **A → B** | *«Šeit esam mēs: €280k. Otrā pusē: €560k. Ja ļausimies bailēm — paliekam. Ja rīkosimies — tiekam. Kurš tu gribi būt?»* |
+| **Jau pieņemtais** | *«Tu jau pieņēmi lēmumu pirms [X gadiem]. Šodien nav jāpieņem jauns — šodien ir vienkārši jādara.»* |
+| **Divdabīgais** | *«Ir divi cilvēki: viens kas pelna €280k un gaida. Otrs kas jau pelna €560k — viņš rīkojas. Kurš tu gribi būt?»* |
+| **Cenu malā** | *«Ja mēs cenu noliktu malā — jūs to darītu?»* |
+| **Bezdarbība** | *«Tu neesi nullē — tu esi mīnusā, tikai lēni. Katrs mēnesis tev izmaksā €12,5k.»* |
 
-| Motors | Ko viņš grib | Kā viņš runā | Cenas rāmis |
-|--------|-------------|--------------|------------|
-| **M** (Nauda) | Nopelnīt vairāk | *«Gribu palielināt ieņēmumus»* | *«Atmaksājas 28 dienās»* |
-| **I** (Identitāte) | Lai ņem nopietni | *«Gribu lai mani ciena»* | *«Beidzot paceļ līmeni»* |
-| **C** (Komforts) | Mieru | *«Gribu normāli gulēt»* | *«Vairs nedomā par šo katru rītu»* |
-| **E** (Ego) | Būt pirmajam | *«Citi jau sen ir priekšā»* | *«Tas ir par tiem 10% kas tiešām dara»* |
+---
 
-**MICE lieto:** Q4 (atpazīsti), Q9 (sāpes pēc motora), Q11 (COI pēc motora), Q24 (pīlāru secība), Q32 (cenas rāmis)
+## CARE Ietvars (empātiskā iebildumu apstrāde)
+
+```
+C — PRECIZĒ    → «Kad tu saki [X], ko tieši tu domā?»
+A — ATZĪSTI    → «Es saprotu. Tas ir loģiski ka tev tā jūtas.»
+R — PĀRKADRO   → [Izmanto viņa datus lai mainītu nozīmi]
+E — IZPĒTI     → «Vai mēs varētu [mazāks solis] lai pierādītu?»
+```
+
+---
+
+## Hope Break — Aizliegumi
+
+| ✗ Nedari | Kāpēc |
+|---------|-------|
+| Neatgriežies pie sāpēm | Hope Break jau bija |
+| Neattaisnojies | Tu neesi apsūdzētais |
+| Nepildi klusumu | Pirmais kas runā — zaudē |
+| Nesaki «es saprotu» | Tu NESAPROTI. Tu redzi. |
+| Nesteidzies uz pitch | Gaidi. Ļauj apstrādāt. |
 
 ---
 
 ## Collision Ķēde C8-C12
-
-*Starp Q8-Q11 klients sāk redzēt konfliktu starp to kas viņš IR un to kas viņš GRIB BŪT:*
 
 | # | Posms | Verbatim |
 |---|-------|---------|
 | C8 | **IDENTITĀTE** | *«Tu esi tas kurš kontrolē — vai tas kurš cer?»* |
 | C9 | **ATBILDĪBA** | *«Kurš ir atbildīgs par šo situāciju?»* |
 | C10 | **SVARS** | *«Cik ilgi tu gribi vilkt šo svaru?»* |
-| C11 | **SADURSME** ⚡ | *«Tu saki ka gribi [X] — bet pa šo laiku dari [Y]. Abi kopā neiet.»* *(PAUZE 8s)* |
+| C11 | **SADURSME** ⚡ | *«Tu saki ka gribi [X] — bet dari [Y]. Abi kopā neiet.»* *(PAUZE 8s)* |
 | C12 | **LĒMUMS** | *«Ko tu ar šo dari?»* |
-
-> *Tu to neizdomā — tikai padari redzamu.*
-
----
-
-## Emocionālās Sviras
-
-*Max 2 per zvanu. Ja lieto visas 5 — klients sajūt manipulāciju.*
-
-| Svira | Ko aktivizē | Q zona |
-|-------|-----------|--------|
-| **Bailes** | Ko zaudēs | Q8-Q11 |
-| **Cerība** | Ko iegūs | Q22-Q28 |
-| **Kauns** | Ko citi redz tagad | Q14-Q17 |
-| **Lepnums** | Ko citi redzēs pēc | Q18-Q20 |
-| **Steidzamība** | Laiks beidzas | Q30, Q40 |
-
----
-
-## LAUVA — 5 Iekšējie Motori (pēc Hope Break)
-
-| Motors | Verbatim |
-|--------|---------|
-| **SĀPE** | *«Cik ilgi tu vēl gribi tā justies?»* |
-| **BAILES** | *«Tu taču negribi tur būt pēc 3 mēnešiem?»* |
-| **VĒLME** | *«Kā izskatās tā versija uz kuru tu gribi?»* |
-| **IDENTITĀTE** | *«Tu esi tas kurš kontrolē — vai gaidītājs?»* |
-| **STATUSS** | *«Ko tavi kolēģi un partneri par to domā?»* |
-
----
-
-## Prokurora Lieta — Ko Krāj No Q4 Līdz Q21
-
-| Posms | Q | Ko krāj | Kā lieto Q21.5 |
-|-------|---|--------|----------------|
-| Problēma | Q4-Q5 | Viņa vārdi | *«Tu pats teici ka [X]»* |
-| Mēģinājumi | Q8 | Kas nav strādājis | *«Tu probēji [Y] — nekas nesanāca»* |
-| Laiks | Q10 | Cik ilgi | *«Tā jau velkas [Z] mēnešus»* |
-| Cena | Q11 | COI cipars | *«Katru mēnesi tas maksā €[COI]»* |
-| Verdikts | Q21.5 | Viss kopā | *«Vai tev ir plāns — vai tu ceri?»* |
-
----
-
-## Aizliegumi Pēc Hope Break
-
-| ✗ Nedari | Kāpēc |
-|---------|-------|
-| Neatgriežies pie sāpēm | Hope Break jau bija. Atkārtot = manipulācija. |
-| Neattaisnojies | Tu neesi apsūdzētais. |
-| Nepildi klusumu | Pirmais kas runā — zaudē. |
-| Nesaki «es saprotu» | Tu NESAPROTI. Tu redzi. Bet neesi viņa vietā. |
-| Nesteidzies uz piedāvājumu | Gaidi. Ļauj viņam apstrādāt. |
-
----
-
-## CIA-PATT — 7 Soļu Iebildumu Protokols
-
-*Katrs iebildums iziet caur šo cilpu:*
-
-| # | Solis | Verbatim |
-|---|-------|---------|
-| 1 | **C**larify | *«Ko tieši tu ar to domā?»* |
-| 2 | **I**solate | *«Ja šo atrisinām — vai vēl kaut kas kavē?»* |
-| 3 | **A**ddress | [Pēc MICE motora] |
-| 4 | **P**ermission | *«Vai drīkstu pajautāt?»* |
-| 5 | **A**dvance | *«Nu re, paskatīsimies kā to atrisināt.»* |
-| 6 | **T**est | *«No 1 līdz 10 — cik skaidrs tagad?»* |
-| 7 | **T**ransition | *«Labi — tad turpinām.»* |
-
----
-
-## 5 Iebildumu Saknes
-
-| Sakne | Ko viņš īsti domā | Ko dari |
-|-------|-------------------|--------|
-| **Bail no riska** | *«Ja nu nestrādā?»* | Garantija + mazs pirmais solis |
-| **Neskaidrība** | *«Nesaprotu ko iegūšu»* | ROI + COI cipari |
-| **Neuzticas** | *«Nezinu vai tev varu ticēt»* | Stāsts + pierādījumi |
-| **Nav prioritāte** | *«Nav šobrīd pareizais laiks»* | Laika svira + COI/mēn |
-| **Bail zaudēt kontroli** | *«Negribu lai mani nospiež»* | *«Tu pats lemj katru soli»* |
 
 ---
 
@@ -566,231 +603,64 @@ Pēc 3 cilpām: *«Saprotu. Varbūt šobrīd nav pareizais brīdis. Kad būs —
 | 4 | *«Nav laika»* | *«Cik laika šī problēma tev apēd nedēļā?»* |
 | 5 | *«Atsūti info»* | *«Ko tu ceri tur atrast ko tagad neredzi?»* |
 | 6 | *«Varbūt pēc pāris mēnešiem»* | *«Kas būs citādi pēc 60 dienām?»* |
-| 7 | *«Es pats tikšu galā»* | *«Ko tu līdz šim esi probējis? Un kāds rezultāts?»* |
+| 7 | *«Es pats tikšu galā»* | *«Ko tu līdz šim esi probējis? Kāds rezultāts?»* |
 | 8 | *«Neuzticos»* | *«Kas tev būtu jāredz lai justos droši?»* |
 | 9 | *«Gribu salīdzināt»* | *«Ko tieši salīdzināsi — cenu, procesu vai rezultātu?»* |
 | 10 | *«Mans grāmatvedis»* | *«Vai grāmatvedis zina cik tev NErisināšana maksā?»* |
 | 11 | *«Man reiz jau nesanāca»* | *«Kas tieši notika? Un kas būtu citādi šoreiz?»* |
-| 12 | *«Jāpārbauda»* | *«Ko tieši gribi pārbaudīt? Palīdzēšu.»* |
+| 12 | *«Jāpārbauda»* | *«Ko tieši gribi pārbaudīt?»* |
 | 13 | Klusums (pazūd) | Follow-up D1→D3→D5 |
 
 ---
 
-## Sieva / Partneris — Pilns Protokols
+## Emocionālās Sviras (max 2 per zvanu)
 
-| # | Solis | Verbatim |
-|---|-------|---------|
-| 1 | **Normalizē** | *«Saprotu, to es dzirdu bieži. Tas nozīmē ka tu domā par ģimeni — tā ir laba zīme.»* |
-| 2 | **Izolē** | *«Bet ja tava sieva teiktu «dari kā gribi» — tu sāktu?»* |
-| 3 | **Ja JĀ** | Problēma nav partneris. → *«Kas TEV vēl nav skaidrs?»* |
-| 4 | **Ja NĒ** | Vajag iesaistīt. → *«Vai varam viņu pieslēgt sarunai? 10 minūtes.»* |
-| 5 | **Kopā** | Piezvani kopā. Atkārto: COI + 3 Pīlāri + Derība |
-
-> *NEKAD nesaki «pārliecini sievu». Saki: «Iedosim viņai iespēju pašai dzirdēt.»*
-
----
-
-## «Nav Naudas» — 3 Jautājumi
-
-| # | Jautājums |
-|---|----------|
-| 1 | *«Ja pēc 90 dienām tu nopelnītu €[2×COI] — vai tā būtu laba investīcija?»* |
-| 2 | *«Vai problēma ir ka nav naudas — vai ka bail šo naudu tērēt šim?»* |
-| 3 | *«Ja sadalām pa daļām — vai tas maina lietu?»* |
-
----
-
-## Baiļu Slānis
-
-| Ko saka | Ko īsti jūt | Ko dari |
-|---------|-------------|--------|
-| *«Par dārgu»* | Bail ka nauda pazudīs | COI — NEdarīšana maksā vairāk |
-| *«Jāpadomā»* | Bail no pārmaiņām | *«Par ko tieši?»* |
-| *«Sieva nepiekritīs»* | Bail no konflikta mājās | Normalizē + iesaisti |
-| *«Nav laika»* | Bail no papildu slodzes | *«Sistēma atbrīvo laiku»* |
-| *«Jau probēju»* | Bail ka atkal nestrādās | *«Kas bija citādi tajā reizē?»* |
-
----
-
-## Pārrāmēšana — 5 Paterņi
-
-| # | Paternis | Verbatim |
-|---|---------|---------|
-| 1 | **Apgriešana** | *«Tieši TĀPĒC ka nav naudas — tāpēc tev to vajag»* |
-| 2 | **Cits skats** | *«Ja paskaties no biznesa īpašnieka puses...»* |
-| 3 | **Laiks** | *«Kā tu jutīsies par šo pēc gada?»* |
-| 4 | **Identitāte** | *«Vai šis lēmums atbilst tam kas tu gribi būt?»* |
-| 5 | **COI spogulis** | *«€X ir investīcija. €[COI] ir cena ko tu TAGAD maksā.»* |
-
----
-
-## Vilcināšanās 4 Ieroči
-
-| # | Ierocis | Verbatim |
-|---|--------|---------|
-| 1 | **Tu jau maksā** | *«Tu jau šobrīd maksā €[COI] mēnesī par to ka nerisini.»* |
-| 2 | **Drošības ilūzija** | *«Gaidīšana šķiet droša. Bet «neko nedarīt» = turpināt zaudēt.»* |
-| 3 | **Pārrāmēšana** | *«Tā nav izmaksa. Tā ir investīcija.»* |
-| 4 | **Ja nebūtu naudas** | *«Ja nauda nebūtu jautājums — ko tu darītu tagad?»* |
-
----
-
-## Ultra Close — 5 Pēdējie Paņēmieni
-
-| # | Tehnika | Verbatim | Kad lietot |
-|---|--------|---------|-----------|
-| 1 | **Sharp Angle** | *«Ja es tev parādu kā sasniegt [MĒRĶI] — tu sāc tagad?»* | Saka «ja tikai...» |
-| 2 | **Feel Good** | *«Kā tu jūties? Esi gatavs sākt?»* | Pozitīvs bet nav «jā» |
-| 3 | **Pieņēmuma** | *«Kāda ir tava norēķinu adrese?»* | Jau ir «iekšā» |
-| 4 | **Plusi/Mīnusi** | *«Uzrakstīsim — ko iegūsti un ko zaudē»* | Analītiskais klients |
-| 5 | **Pamēģini** | *«Sāc — ja pēc 14 dienām nejūti rezultātu, atdodu naudu»* | Bailīgais klients |
-
----
-
-## Zandas Close — 6 Soļi Pēc «Jā»
-
-| # | Solis | Verbatim |
-|---|-------|---------|
-| 1 | **Apstiprinājums** | *«Tātad — sākam.»* |
-| 2 | **Maksājums** | *«Ērtāk pa daļām vai uzreiz?»* |
-| 3 | **WhatsApp TAGAD** | Sūti linku TAGAD — ne pēc zvana |
-| 4 | **Anketa** | Nosūti tūlīt |
-| 5 | **Pirmā tikšanās** | Tajā pašā dienā vai rīt |
-| 6 | **Noslēgums** | *«Priecājos. Tu izdarīji pareizi.»* |
-
-> *73% kas saka «jā» un noslēdz pēc zvana — atkrīt. Tāpēc WhatsApp ZVANA LAIKĀ.*
-
----
-
-## 5 Riska Mazinātāji
-
-| # | Mazinātājs | Verbatim |
-|---|----------|---------|
-| 1 | **Garantija** | *«Ja pēc 30 dienām neredzi virzību — atdodam naudu.»* |
-| 2 | **Mazs solis** | *«Sākam ar vienu soli — ne visu uzreiz.»* |
-| 3 | **Stāsts** | *«[Vārds] bija tieši tavā situācijā. Tagad viņš...»* |
-| 4 | **Kontrole** | *«Tu pats kontrolē katru soli.»* |
-| 5 | **Mazā pakete** | *«Sākam ar mazāko. Ja der — paplašinām.»* |
-
----
-
-## Re-Offer — Ja Teica «Nē»
-
-| Solis | Ko dari |
+| Svira | Q zona |
 |-------|--------|
-| 1 | Kontaktē ar JAUNU vērtību (ne to pašu) |
-| 2 | *«Kopš mūsu zvana mēs ieviesām [jaunu lietu]. Domāju par tevi.»* |
-| 3 | Piedāvā mazāku soli |
-| 4 | *«Vai 15 minūtes, lai parādītu ko jaunu?»* |
-
----
-
-## GOD MODE — Lēmuma Formula
-
-```
-  Sāpe × Cena × Neizbēgamība × Identitāte
-  ─────────────────────────────────────────── > 1  →  LĒMUMS NEIZBĒGAMS
-       Bailes × Komforts × Vilcināšanās
-```
-
-*Palielini augšu, samazini apakšu. Kad augša > apakša — klients saka «Jā».*
-
----
-
-## Sniper Flow — 12 Diagnostikas Jautājumi
-
-*Ja Q4-Q7 nedeva pietiekami:*
-
-| # | Jautājums |
-|---|----------|
-| 1 | *«Ko tu dari?»* |
-| 2 | *«Cik ilgi?»* |
-| 3 | *«Kas strādā?»* |
-| 4 | *«Kas nestrādā?»* |
-| 5 | *«Ko esi probējis?»* |
-| 6 | *«Un kāds rezultāts?»* |
-| 7 | *«Cik tas tev maksā?»* |
-| 8 | *«Kas vēl ir iesaistīts?»* |
-| 9 | *«Kā tu gribētu lai ir?»* |
-| 10 | *«Kas notiks ja nekas nemainās?»* |
-| 11 | *«No 1 līdz 10?»* |
-| 12 | *«Kas tev vēl kavē?»* |
-
----
-
-## Gatavības Skala
-
-| Atbilde | Ko nozīmē | Ko dari |
-|---------|----------|--------|
-| **1-4** | Nav gatavs | *«Ko tev vajadzētu redzēt lai būtu 8?»* |
-| **5-6** | Šaubās | *«Kas tev trūkst lai pārietu no 6 uz 9?»* |
-| **7** | Gandrīz | *«Kas ir tas viens?»* |
-| **8-9** | Gatavs | *«Kas kavē neiet uz 10?»* |
-| **10** | Gatavs | *«Labi. Sākam.»* |
+| **Bailes** | Q8-Q11 |
+| **Cerība** | Q22-Q28 |
+| **Kauns** | Q14-Q17 |
+| **Lepnums** | Q18-Q20 |
+| **Steidzamība** | Q30, Q40 |
 
 ---
 
 ## Klusuma Karte
 
-| Kur | Cik ilgi | Kāpēc |
-|-----|---------|-------|
-| Q1 (drošība) | 3-5s | Ļauj apstrādāt |
-| Q4 (diagnoze) | 5-8s | Klients sāk runāt |
-| Q9 (sāpes) | 5-10s | Emocija parādās |
-| Q21.5 (Hope Break) | **8-15s** | **Neaizpildi!** |
-| Q32 (cena) | **8-15s** | Skaiti iekšēji |
-| Q33 (iebildums) | 3-5s | Vai pieņēma? |
-| Q40 (Kolumbo) | 5-8s | Pēdējā pauze |
+| Kur | Cik ilgi |
+|-----|---------|
+| Q1 (raports) | 3-5s |
+| Q4 (galvenā lieta) | 30-90s! |
+| Q9 (sāpes) | 5-10s |
+| Q21.5 (Hope Break) | **7-15s** |
+| Q32 (cena) | **5-7s** |
+| Q33 (pēc cenas) | 3-5s |
 
 ---
 
-## Zvana Emocionālā Līkne
-
-```
-ENERĢIJA
-  ▲
-  │         ╱╲ Q9 Sāpes
-  │   Q1   ╱  ╲
-  │  ╱╲  ╱    ╲        ╱╲ Q26 Stāsts
-  │ ╱  ╲╱      ╲      ╱  ╲         ╱╲ Q37 Dopamīns
-  │╱ Q3         ╲    ╱    ╲       ╱  ╲
-  │              ╲  ╱      ╲     ╱    ╲
-  │               ╲╱        ╲   ╱      ╲╱ Q41 Miers
-  │           Q11 COI    Q22 ╲╱ Q32
-  │                    Q21.5 Hope Break
-  └──────────────────────────────────────────► LAIKS
-```
-
----
-
-## Kill Switch — 5 Diskvalifikācijas Vārti
+## Kill Switch
 
 | Fāze | Kill Switch | Ja nav |
 |------|------------|--------|
-| Q1-Q3 | Rāmis + Lēmējs | Beidz vai atkārto |
-| Q4-Q13 | MICE motors skaidrs | *«Man nepietiek info»* |
-| Q14-Q21.5 | Atzīst «nekas nemainīsies» | Neej uz piedāvājumu |
-| Q22-Q32 | Ticība ≥8/10 | Neej uz cenu |
-| Q33-Q41 | Pēc 2 cilpām vēl miglā | Nofiksē datumu |
+| Q1-Q3 | Frame + Lēmējs | Pārceli vai beidz |
+| Q4-Q16 | MICE motors skaidrs | Nav info |
+| Q17-Q21.5 | Atzīst ka «nekas nemainīsies» | Neej uz pitch |
+| Q22-Q29 | 1-10 vērtējums ≥9 | Neej uz cenu |
+| Q33-Q40 | Pēc 2 cilpām vēl miglā | Nofiksē datumu |
 
 ---
 
-## Universālā Formula
+## 9 Kodoni (esence uz 1 lapu)
 
-```
-DROŠĪBA → ATVĒRŠANĀS → SĀPE → NĀVE → TUKŠUMS → ATDZIMŠANA → DARBĪBA
-  Q1-Q3     Q4-Q7      Q8-Q16   Q21.5    Q22      Q24-Q28     Q32-Q41
-```
-
-| # | Posms | Ko klients piedzīvo |
-|---|-------|---------------------|
-| 1 | **DROŠĪBA** | *«Šeit droši var runāt»* |
-| 2 | **ATVĒRŠANĀS** | *«Viņš tiešām klausās»* |
-| 3 | **SĀPE** | *«Es to tā nebiju redzējis»* |
-| 4 | **NĀVE** | *«Ar cerēšanu vien nepietiek»* |
-| 5 | **TUKŠUMS** | *«Un ko tagad?»* |
-| 6 | **ATDZIMŠANA** | *«Redzu ceļu»* |
-| 7 | **DARBĪBA** | *«Sāku tagad»* |
+1. **Tu neesi pārdevējs.** Tu esi sistēmas arhitekts.
+2. **V∞ stāvoklis.** Tev NAV vajadzīga šī klienta nauda.
+3. **MICE.** Klausies signālos, ne vārdos.
+4. **Klusais slēgums.** Nosauc cenu. Nepalielinies. Gaidi.
+5. **COI.** *«Tev tas nav par mūsu cenu. Tev tas ir par to cik tev maksā to ka nedari.»*
+6. **Mikro-Jā cilpa.** Pēc katras atbildes: *«Pareizi?»* / *«Skan saprātīgi?»*
+7. **Hope Break.** Process vai cerība? Apzināti vai gaidi? Precīzi zini kā?
+8. **One Slide = One Domino.** Viena vizuāla metafora per zvanu.
+9. **Domino princips.** Klients nevar pārlēkt jautājumu.
 
 ---
 
@@ -798,4 +668,4 @@ DROŠĪBA → ATVĒRŠANĀS → SĀPE → NĀVE → TUKŠUMS → ATDZIMŠANA →
 
 ---
 
-*FINĀLĀ GRĀMATA · Dzīvā Saruna · V7.0 · © Lauris Leitāns · Sharpify.io · 2026*
+*FINĀLĀ GRĀMATA · Dzīvā Saruna · V8.0 · © Lauris Leitāns · Sharpify.io · 2026*
