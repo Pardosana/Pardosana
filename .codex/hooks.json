@@ -1,0 +1,19 @@
+{
+  "description": "PAVADONIS lifecycle hooks — Canon-first continuity and runtime governance.",
+  "hooks": {
+    "SessionStart": [
+      {
+        "matcher": "startup|resume|clear|compact",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/usr/bin/python3 \"$(git rev-parse --show-toplevel)/.codex/hooks/session_start.py\"",
+            "statusMessage": "PAVADONIS: loading current Canon state",
+            "additionalContextLimit": 12000,
+            "timeout": 30
+          }
+        ]
+      }
+    ]
+  }
+}
