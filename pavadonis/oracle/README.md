@@ -1,5 +1,7 @@
 # Oracle atmiņas stabilizācija (`stabilize_memory.sh`)
 
+SSH atjaunošanas secība un pārējie rīki: [`RUNBOOK_SSH_RECOVERY.md`](RUNBOOK_SSH_RECOVERY.md).
+
 Mazs skripts, kas **papildina** esošos PAVADONIS Oracle deploy/commission/audit skriptus
 (tie ir Office PC kodā) un neko no tiem neaizstāj.
 
