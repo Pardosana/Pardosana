@@ -46,7 +46,7 @@ PAVADONIS funkcijām. Adapteris nemin, kā tās izskatās.
 | B1 | `result_factory` | PAVADONIS `ExecutionResult` klase (`result, evidence, artifacts`) | kā to izveido `atomic_text_file_v1` |
 | B2 | `approval_verifier(digest, payload) -> bool` | funkcija, kas atgriež `True` tikai tad, ja approval gate apstiprinājums ir piesaistīts šim `digest` | `execute_claim()` approval gate |
 | B3 | `payload_from_spec(spec)` | kā no `spec` iegūt 6 laukus (noklusējums: pats `spec`) | ko `execute_claim()` padod `adapter.execute(spec)` |
-| B4 | `GoogleDriveClient(access_token_provider)` | funkcija, kas atgriež derīgu OAuth access token no esošās credential glabātuves | kur PAVADONIS/Interconnect glabā Google credentials |
+| B4 | `GoogleDriveClient(access_token_provider)` | funkcija, kas atgriež derīgu OAuth access token pa **dokumentētu** ceļu (esošais OAuth klients + refresh), ar rakstīšanas scope (`drive.file` vai `drive`) | vai `ProductionWorker` var saņemt tokenu pa dokumentētu ceļu. **Neizvelc** MCP servera iekšējos credential failus; ja dokumentēta ceļa nav, B4 nav atrisināts |
 | B5 | BLOCKED un verify | `ArtifactPublishBlocked` jāpārvērš par BLOCKED; `verify_task()` jāizsauc `adapter.verify(result)` un jāatzīmē VERIFIED tikai, ja `verified is True` | kā `execute_claim()`/`verify_task()` apstrādā esošo adapteru kļūdas un readback |
 
 Ja B2 nevar izpildīt, jo approval gate nepiesaista approval konkrētam payload,
