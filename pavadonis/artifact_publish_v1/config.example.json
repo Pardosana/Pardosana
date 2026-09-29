@@ -1,0 +1,12 @@
+{
+  "allow_roots": [
+    "C:\\Users\\User\\Downloads"
+  ],
+  "destinations": {
+    "google_drive": [
+      "REPLACE_WITH_DRIVE_FOLDER_ID"
+    ]
+  },
+  "max_bytes": 52428800,
+  "allowed_suffixes": [".png", ".jpg", ".jpeg", ".pdf", ".docx", ".xlsx", ".csv"]
+}
