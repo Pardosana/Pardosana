@@ -7,6 +7,7 @@ Neviens no tiem nav uzstādīts automātiski; statuss katrā README/INSTALL.
 |---|---|---|
 | `oracle/` | **P0: SSH atjaunošana** + atmiņas stabilizācija | [`oracle/RUNBOOK_SSH_RECOVERY.md`](oracle/RUNBOOK_SSH_RECOVERY.md) |
 | `resilience/` | Circuit breaker, kas izdzīvo restartu; kļūdu klasifikācija | `resilience/breaker.py` (testi: `python -m unittest discover -t . -s resilience/tests`) |
+| `truth/` | Fakti ar derīguma termiņu (FactStore) + 6 invarianti, kas paši atrod problēmas | [`truth/README.md`](truth/README.md) |
 | `artifact_publish_v1/` | ProductionWorker adapteris: publicēšana uz Google Drive ar readback | [`artifact_publish_v1/INSTALL.md`](artifact_publish_v1/INSTALL.md) |
 | `commander_browser/` | "Ielogojies vienreiz" Commander Chrome profils | [`commander_browser/INSTALL.md`](commander_browser/INSTALL.md) |
 
