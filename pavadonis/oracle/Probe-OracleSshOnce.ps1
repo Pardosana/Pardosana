@@ -1,4 +1,4 @@
-<#
+﻿<#
 .SYNOPSIS
   Tieši VIENS SSH mēģinājums uz Oracle ar diagnostiku failā un 15 min bloķēšanu atkārtojumam.
 

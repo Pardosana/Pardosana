@@ -1,2 +1,4 @@
 # Nepārvērst rindu beigas: FILES.md SHA256 jāsakrīt arī Windows klonā.
 * -text
+# PowerShell skripti: UTF-8 AR BOM (Windows PowerShell 5.1 citādi lasa kā ANSI un latviešu teksts salauž parseri).
+*.ps1 -text

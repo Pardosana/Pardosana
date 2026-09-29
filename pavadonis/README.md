@@ -10,5 +10,5 @@ Neviens no tiem nav uzstādīts automātiski; statuss katrā README/INSTALL.
 | `artifact_publish_v1/` | ProductionWorker adapteris: publicēšana uz Google Drive ar readback | [`artifact_publish_v1/INSTALL.md`](artifact_publish_v1/INSTALL.md) |
 | `commander_browser/` | "Ielogojies vienreiz" Commander Chrome profils | [`commander_browser/INSTALL.md`](commander_browser/INSTALL.md) |
 
-Testi (no šīs mapes): `python -m unittest discover -t . -s <mape>/tests`.
+Testi (no šīs mapes): `python -m unittest discover -t . -s <mape>/tests`; kopējie: `-s tests` (piem., visi `.ps1` ir UTF-8 ar BOM).
 Kanons un spēju moduļi ChatGPT Commanderim: Drive dokumenti "PAVADONIS — BŪVES KANONS …" un "PAVADONIS — SPĒJU MODUĻI …".

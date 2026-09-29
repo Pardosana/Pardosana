@@ -1,4 +1,4 @@
-<#
+﻿<#
 .SYNOPSIS
   Palaiž atsevišķu PAVADONIS Commander Chrome profilu ar vadības portu tikai uz 127.0.0.1.
 
